@@ -1,0 +1,694 @@
+{
+    "data": {
+        "command_executions": [
+            "\"%SAMPLEPATH%\\14e35c40a117f32b9b48783f6cbd8d4374f340ae.exe\" ",
+            "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\mscorsvw.exe",
+            "%WINDIR%\\system32\\sppsvc.exe",
+            "%WINDIR%\\system32\\wbem\\wmiprvse.exe -Embedding",
+            "%WINDIR%\\system32\\wbem\\wmiprvse.exe -secured -Embedding",
+            "taskhost.exe $(Arg0)",
+            "taskhost.exe SYSTEM"
+        ],
+        "processes_created": [
+            "%SAMPLEPATH%\\14e35c40a117f32b9b48783f6cbd8d4374f340ae.exe",
+            "bin\\is32bit.exe -f C:\\Users\\RA491~1.VUL\\AppData\\Local\\Temp\\3c59636ad3b759911277a56c5dee76fd.exe",
+            "bin\\gkpmnZYxG.exe --app C:\\Users\\RA491~1.VUL\\AppData\\Local\\Temp\\3c59636ad3b759911277a56c5dee76fd.exe --only-start --curdir C:\\Users\\RA491~1.VUL\\AppData\\Local\\Temp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\3c59636ad3b759911277a56c5dee76fd.exe ",
+            "bin\\is32bit.exe -p 3024",
+            "bin\\JppR.exe --resume-thread --pid 3024 --tid 3028 --apc --dll C:\\sflNNPoDD.dll --config c:\\users\\ra491~1.vul\\appdata\\local\\temp\\tmpxkdwz4",
+            "C:\\Windows\\system32\\wbem\\wmiprvse.exe -Embedding",
+            "\\??\\C:\\Windows\\system32\\conhost.exe -1691636669-1235614431-883705889-358429238-7206204-1622817347-167394440-748278047",
+            "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\mscorsvw.exe",
+            "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\mscorsvw.exe",
+            "C:\\Windows\\system32\\sppsvc.exe",
+            "bin\\CgSESqpZkGvxr.exe /Terminate"
+        ],
+        "crypto_algorithms_observed": [
+            "RSA"
+        ],
+        "tags": [
+            "DETECT_DEBUG_ENVIRONMENT",
+            "DIRECT_CPU_CLOCK_ACCESS",
+            "RUNTIME_MODULES",
+            "LONG_SLEEPS"
+        ],
+        "ip_traffic": [
+            {
+                "destination_ip": "a83f:8110:0:0:5f57:6f72:6b49:6400",
+                "destination_port": 53,
+                "transport_layer_protocol": "UDP"
+            }
+        ],
+        "mutexes_opened": [
+            "ShimCacheMutex"
+        ],
+        "text_highlighted": [
+            "checksum - File CheckSum Validator - Apache v2\r\n",
+            "checksum checks a file and returns a check sum for md5, sha1, sha256 and sha512.\r\nTo use checksum you would simply provide a file path and it will return the sum for the file.\r\n  Example: checksum -f=\"a\\relative\\path\"\r\n  Example: checksum -f=\"a\\relative\\path\"\r\n  Example: checksum \"a\\relative\\path\" -t=sha256\r\nYou can also check against an existing signature.\r\nTo validate against an existing signature (hash) you would simply provide\r\n the file and the expected signature. When checking a signature, if the \r\n signature is valid it exits with 0, otherwise it exits with a non-zero exit code.\r\n  Example: checksum -f=\"c:\\\\path\\to\\somefile.exe\" -c=\"thehash\"\r\n  Example: checksum \"c:\\\\path\\to\\somefile.exe\" -c=\"thehash\" -t=sha256\r\n\r\n == Synopsis == \r\n  checksum [-t=sha1|sha256|sha512|md5] [-c=signature] [-f=]filepath\r\n== Options ==\r\n",
+            "14e35c40a117f32b9b48783f6cbd8d4374f340ae.exe",
+            "C:\\Windows\\system32\\cmd.exe"
+        ],
+        "modules_loaded": [
+            "%SAMPLEPATH%\\14e35c40a117f32b9b48783f6cbd8d4374f340ae.exe",
+            "ADVAPI32.dll",
+            "C:\\WINDOWS\\Microsoft.NET\\Framework\\v4.0.30319\\mscoreei.dll",
+            "SHLWAPI.dll",
+            "C:\\WINDOWS\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+            "mscoree.dll",
+            "ntdll",
+            "rpcrt4.dll",
+            "C:\\WINDOWS\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\cece9d0256e18427b64587ba690605d4\\mscorlib.ni.dll",
+            "AdvApi32.dll",
+            "C:\\WINDOWS\\Microsoft.NET\\Framework\\v4.0.30319\\culture.dll",
+            "C:\\WINDOWS\\Microsoft.NET\\Framework\\v4.0.30319\\nlssorting.dll",
+            "kernel32.dll",
+            "ole32.dll",
+            "crypt32.dll",
+            "C:\\WINDOWS\\system32\\rsaenh.dll",
+            "C:\\WINDOWS\\Microsoft.NET\\Framework\\v4.0.30319\\clrjit.dll",
+            "C:\\WINDOWS\\assembly\\NativeImages_v4.0.30319_32\\System\\7169c473071af03077b1cd2a9c1dbcbe\\System.ni.dll",
+            "C:\\WINDOWS\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\4a9f25bff4bb74c9b6a21091923307d2\\System.Core.ni.dll",
+            "CRYPTBASE.dll",
+            "CRYPTSP.dll",
+            "KERNEL32.dll",
+            "MSCOREE.dll",
+            "OLEAUT32.dll",
+            "USER32.dll",
+            "VERSION.dll",
+            "clr.dll",
+            "clrjit.dll",
+            "mscoreei.dll",
+            "n.dll",
+            "nlssorting.dll",
+            "rsaenh.dll",
+            "api-ms-win-core-synch-l1-2-0",
+            "api-ms-win-core-fibers-l1-1-1",
+            "kernel32",
+            "api-ms-win-core-localization-l1-2-1",
+            "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\mscoreei.dll",
+            "api-ms-win-appmodel-runtime-l1-1-2.dll",
+            "api-ms-win-appmodel-runtime-l1-1-0.dll",
+            "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\clr.dll",
+            "api-ms-win-core-quirks-l1-1-0.dll",
+            "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\mscoree.dll",
+            "C:\\Windows\\system32\\combase.dll",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib\\fe2524177eb3088c77be666722039f52\\mscorlib.ni.dll",
+            "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\ole32.dll",
+            "C:\\Windows\\system32\\rsaenh.dll",
+            "api-ms-win-core-xstate-l2-1-0.dll",
+            "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\clrjit.dll",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System\\e43dd9c73ab5615e461bf5109c3facd6\\System.ni.dll",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Core\\0d59b0e237d7519417de10cd84bda4e7\\System.Core.ni.dll",
+            "ole32",
+            "System.Core.ni",
+            "SHLWAPI",
+            "mscoree",
+            "mscoreei",
+            "SspiCli",
+            "ADVAPI32",
+            "OLEAUT32",
+            "CRYPTSP",
+            "combase",
+            "CRYPTBASE",
+            "clr",
+            "nlssorting",
+            "System.ni",
+            "clrjit",
+            "mscorlib.ni",
+            "rsaenh",
+            "rpcrt4"
+        ],
+        "files_dropped": [
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERDDCD.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERDDCD.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERDDDD.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERDDDD.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERDF05.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERDF05.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERDF74.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERDF74.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERDFC3.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERDFC3.tmp.txt"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERDFC4.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERDFC4.tmp.txt"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Microsoft\\CLR_v4.0\\UsageLogs\\14e35c40a117f32b9b48783f6cbd8d4374f340ae.exe.log"
+            },
+            {
+                "path": "C:\\Windows\\System32\\spp\\store\\2.0\\data.dat.tmp"
+            },
+            {
+                "path": "C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat"
+            },
+            {
+                "path": "%WINDIR%\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+                "sha256": "4e7ae7d6f887d11c6983fc75224e860c7091cbbd13da1557ae1d86951ce7939b",
+                "type": "PE_EXE"
+            },
+            {
+                "path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\CLR_v4.0\\UsageLogs\\software.exe.log",
+                "sha256": "6780b397002a406b1298d9b07d06bb7a0a17c0636ed098cfe69883ac298bb9e1",
+                "type": "TEXT"
+            },
+            {
+                "path": "\\Device\\ConDrv",
+                "sha256": "2b5f47dd96d180c5aed66b2d6a3d54c29fa28c2f512b1edd1992ee49d9d703fc",
+                "type": "TEXT"
+            }
+        ],
+        "files_opened": [
+            "C:\\WINDOWS\\system32\\winime32.dll",
+            "C:\\WINDOWS\\system32\\ws2_32.dll",
+            "C:\\WINDOWS\\system32\\ws2help.dll",
+            "C:\\WINDOWS\\system32\\psapi.dll",
+            "C:\\WINDOWS\\system32\\mscoree.dll",
+            "C:\\WINDOWS\\system32\\imm32.dll",
+            "C:\\WINDOWS\\system32\\lpk.dll",
+            "C:\\WINDOWS\\system32\\usp10.dll",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe",
+            "C:\\WINDOWS\\Microsoft.NET\\Framework\\v4.0.30319\\mscoreei.dll",
+            "C:\\WINDOWS\\Microsoft.NET\\Framework\\v2.0.50727\\mscorwks.dll",
+            "C:\\WINDOWS\\Microsoft.NET\\Framework\\v4.0.30319\\clr.dll",
+            "C:\\WINDOWS\\system32\\MSVCR100_CLR0400.dll",
+            "C:\\WINDOWS\\Microsoft.NET\\Framework\\v4.0.30319\\Config\\machine.config",
+            "C:\\WINDOWS\\assembly\\NativeImages_v4.0.30319_32\\index18.dat",
+            "C:\\WINDOWS\\assembly\\NativeImages_v4.0.30319_32\\mscorlib\\cece9d0256e18427b64587ba690605d4\\mscorlib.ni.dll",
+            "C:\\WINDOWS\\Microsoft.NET\\Framework\\v4.0.30319\\Culture.dll",
+            "C:\\WINDOWS\\Microsoft.NET\\Framework\\v4.0.30319\\locale.nlp",
+            "C:\\WINDOWS\\Microsoft.NET\\Framework\\v4.0.30319\\nlssorting.dll",
+            "C:\\WINDOWS\\Microsoft.NET\\Framework\\v4.0.30319\\SortDefault.nlp",
+            "C:\\WINDOWS\\system32\\rpcss.dll",
+            "C:\\WINDOWS\\system32\\rsaenh.dll",
+            "C:\\WINDOWS\\system32\\crypt32.dll",
+            "C:\\WINDOWS\\Microsoft.NET\\Framework\\v4.0.30319\\clrjit.dll",
+            "C:\\WINDOWS\\assembly\\pubpol1.dat",
+            "C:\\WINDOWS\\assembly\\NativeImages_v4.0.30319_32\\System\\7169c473071af03077b1cd2a9c1dbcbe\\System.ni.dll",
+            "C:\\WINDOWS\\assembly\\NativeImages_v4.0.30319_32\\System.Core\\4a9f25bff4bb74c9b6a21091923307d2\\System.Core.ni.dll",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\e918cf8aba04eb5322beaa4b7935d4a2.exe",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\e918cf8aba04eb5322beaa4b7935d4a2.exe.config",
+            "C:\\Windows\\SYSTEM32\\MSCOREE.DLL.local",
+            "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\",
+            "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\mscoreei.dll",
+            "C:\\Windows\\Microsoft.NET\\Framework64\\",
+            "C:\\Windows\\Microsoft.NET\\Framework64\\v2.0.50727\\clr.dll",
+            "C:\\Windows\\Microsoft.NET\\Framework64\\v2.0.50727\\mscorwks.dll",
+            "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\clr.dll",
+            "C:\\Users\\<USER>\\Downloads\\14e35c40a117f32b9b48783f6cbd8d4374f340ae.exe.config",
+            "C:\\Users\\<USER>\\Downloads\\14e35c40a117f32b9b48783f6cbd8d4374f340ae.exe",
+            "C:\\Windows\\system32\\VERSION.dll",
+            "C:\\Windows\\system32\\VCRUNTIME140_CLR0400.dll",
+            "C:\\Windows\\system32\\ucrtbase_clr0400.dll",
+            "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\config\\machine.config",
+            "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\fusion.localgac",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib\\",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib\\fe2524177eb3088c77be666722039f52\\mscorlib.ni.dll",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib\\fe2524177eb3088c77be666722039f52\\mscorlib.ni.dll.aux",
+            "C:\\Users\\",
+            "C:\\Users\\<USER>\\",
+            "C:\\Users\\<USER>\\Downloads\\",
+            "C:\\Windows\\system32\\rpcss.dll",
+            "C:\\Windows\\system32\\CRYPTSP.dll",
+            "C:\\Windows\\system32\\rsaenh.dll",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\checksum\\",
+            "C:\\Users\\<USER>\\Downloads\\14e35c40a117f32b9b48783f6cbd8d4374f340ae.INI",
+            "C:\\Windows\\system32\\api-ms-win-core-xstate-l2-1-0.dll",
+            "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\clrjit.dll",
+            "C:\\Windows\\assembly\\pubpol24.dat",
+            "C:\\Windows\\assembly\\GAC\\PublisherPolicy.tme",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Core\\",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Core\\0d59b0e237d7519417de10cd84bda4e7\\System.Core.ni.dll",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Core\\0d59b0e237d7519417de10cd84bda4e7\\System.Core.ni.dll.aux",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System\\",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System\\e43dd9c73ab5615e461bf5109c3facd6\\System.ni.dll",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System\\e43dd9c73ab5615e461bf5109c3facd6\\System.ni.dll.aux",
+            "C:\\Windows\\System32\\MSCOREE.DLL.local",
+            "C:\\Windows\\Microsoft.NET\\Framework64\\*",
+            "C:\\Windows\\Microsoft.NET\\Framework64",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\3c59636ad3b759911277a56c5dee76fd.exe.config",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\3c59636ad3b759911277a56c5dee76fd.exe",
+            "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\Config\\machine.config",
+            "\\Sessions\\1\\BaseNamedObjects",
+            "C:\\Windows",
+            "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\ngen.log",
+            "C:\\Windows\\system32",
+            "C:\\Windows\\Globalization\\Sorting\\sortdefault.nls",
+            "C:\\Windows\\Microsoft.Net\\assembly\\GAC_64\\mscorlib\\v4.0_4.0.0.0__b77a5c561934e089\\mscorlib.dll",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib\\*",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib\\9da5bb33cd1c34b7851c088f0cf749cc\\mscorlib.ni.dll",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib\\9da5bb33cd1c34b7851c088f0cf749cc\\mscorlib.ni.dll.aux",
+            "C:\\",
+            "C:\\Users",
+            "C:\\Users\\user\\",
+            "C:\\Users\\user\\AppData",
+            "C:\\Users\\user\\AppData\\",
+            "C:\\Users\\user\\AppData\\Local",
+            "C:\\Users\\user\\AppData\\Local\\",
+            "C:\\Users\\user\\AppData\\Local\\Temp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\3c59636ad3b759911277a56c5dee76fd.INI",
+            "C:\\Windows\\assembly\\pubpol138.dat",
+            "C:\\Windows\\Microsoft.Net\\assembly\\GAC_64\\System.Core\\v4.0_4.0.0.0__b77a5c561934e089\\System.Core.dll",
+            "C:\\Windows\\Microsoft.Net\\assembly\\GAC_MSIL\\System.Core\\v4.0_4.0.0.0__b77a5c561934e089\\System.Core.dll",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Core\\*",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Core",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Core\\713a8c0e41e664d349efcc0cec7f5e86\\System.Core.ni.dll",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Core\\713a8c0e41e664d349efcc0cec7f5e86\\System.Core.ni.dll.aux",
+            "C:\\Windows\\Microsoft.Net\\assembly\\GAC_64\\System\\v4.0_4.0.0.0__b77a5c561934e089\\System.dll",
+            "C:\\Windows\\Microsoft.Net\\assembly\\GAC_MSIL\\System\\v4.0_4.0.0.0__b77a5c561934e089\\System.dll",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System\\*",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System\\e3305bdbd03ef919051aa7f2783ac32a\\System.ni.dll",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System\\e3305bdbd03ef919051aa7f2783ac32a\\System.ni.dll.aux",
+            "C:\\Windows\\Microsoft.Net\\assembly\\GAC_64\\System.Configuration\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Configuration.dll",
+            "C:\\Windows\\Microsoft.Net\\assembly\\GAC_MSIL\\System.Configuration\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Configuration.dll",
+            "C:\\Windows\\Microsoft.Net\\assembly\\GAC_64\\System.Xml\\v4.0_4.0.0.0__b77a5c561934e089\\System.Xml.dll",
+            "C:\\Windows\\Microsoft.Net\\assembly\\GAC_MSIL\\System.Xml\\v4.0_4.0.0.0__b77a5c561934e089\\System.Xml.dll",
+            "C:\\Windows\\Microsoft.Net\\assembly\\GAC_64\\System.Numerics\\v4.0_4.0.0.0__b77a5c561934e089\\System.Numerics.dll",
+            "C:\\Windows\\Microsoft.Net\\assembly\\GAC_MSIL\\System.Numerics\\v4.0_4.0.0.0__b77a5c561934e089\\System.Numerics.dll",
+            "C:\\Windows\\Microsoft.Net\\assembly\\GAC_64\\System.Security\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Security.dll",
+            "C:\\Windows\\Microsoft.Net\\assembly\\GAC_MSIL\\System.Security\\v4.0_4.0.0.0__b03f5f7f11d50a3a\\System.Security.dll",
+            "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\SortDefault.nlp",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\CLR_v4.0\\UsageLogs\\software.exe.log",
+            "C:\\Users\\user\\Desktop\\software.exe",
+            "C:\\Users\\user\\Desktop\\software.exe.config",
+            "C:\\Windows\\AppPatch\\sysmain.sdb",
+            "C:\\Windows\\SYSTEM32\\CRYPTBASE.dll",
+            "C:\\Windows\\SYSTEM32\\CRYPTSP.dll",
+            "C:\\Windows\\SYSTEM32\\MSCOREE.DLL",
+            "C:\\Windows\\SYSTEM32\\VCRUNTIME140_CLR0400.dll",
+            "C:\\Windows\\SYSTEM32\\VERSION.dll",
+            "C:\\Windows\\SYSTEM32\\apphelp.dll",
+            "C:\\Windows\\SYSTEM32\\bcrypt.dll",
+            "C:\\Windows\\SYSTEM32\\ntdll.dll",
+            "C:\\Windows\\SYSTEM32\\ntmarta.dll",
+            "C:\\Windows\\SYSTEM32\\ole32.dll",
+            "C:\\Windows\\SYSTEM32\\ucrtbase_clr0400.dll",
+            "C:\\Windows\\SYSTEM32\\wintypes.dll",
+            "C:\\Windows\\System32\\CoreMessaging.dll",
+            "C:\\Windows\\System32\\CoreUIComponents.dll",
+            "C:\\Windows\\System32\\KERNEL32.dll",
+            "C:\\Windows\\System32\\KERNELBASE.dll",
+            "C:\\Windows\\System32\\TextInputFramework.dll",
+            "C:\\Windows\\System32\\en-US\\user32.dll.mui",
+            "C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.1304_none_d3fbe61b7c93d9f0",
+            "C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.1304_none_d3fbe61b7c93d9f0\\comctl32.DLL",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Core\\89bc329e8c65a9e13067c9776d925d78\\System.Core.ni.dll",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System.Core\\89bc329e8c65a9e13067c9776d925d78\\System.Core.ni.dll.aux",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System\\37a1d51f35918dd36a0d4e34cc91732e\\System.ni.dll",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\System\\37a1d51f35918dd36a0d4e34cc91732e\\System.ni.dll.aux",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib\\3597805b7d7dce423abb491985dd28e8\\mscorlib.ni.dll",
+            "C:\\Windows\\assembly\\NativeImages_v4.0.30319_64\\mscorlib\\3597805b7d7dce423abb491985dd28e8\\mscorlib.ni.dll.aux",
+            "C:\\Windows\\assembly\\pubpol33.dat",
+            "C:\\Windows\\system32\\IMM32.DLL",
+            "C:\\Windows\\system32\\conhost.exe",
+            "C:\\Windows\\system32\\dwmapi.dll",
+            "C:\\Windows\\system32\\en-US\\conhost.exe.mui",
+            "C:\\Windows\\system32\\oleaut32.dll",
+            "C:\\Windows\\system32\\uxtheme.dll",
+            "C:\\Windows\\system32\\uxtheme.dll.Config",
+            "\\Device\\ConDrv\\Server",
+            "\\Device\\ConDrv\\\\Input",
+            "\\Device\\ConDrv\\\\Output",
+            "\\Device\\ConDrv\\\\Reference",
+            "\\Device\\KsecDD"
+        ],
+        "processes_tree": [
+            {
+                "process_id": "2924",
+                "name": "%WINDIR%\\explorer.exe",
+                "children": [
+                    {
+                        "process_id": "2604",
+                        "name": "%SAMPLEPATH%\\14e35c40a117f32b9b48783f6cbd8d4374f340ae.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "1488",
+                "name": "****.exe"
+            },
+            {
+                "process_id": "584",
+                "name": "svchost.exe"
+            },
+            {
+                "process_id": "460",
+                "name": "services.exe"
+            },
+            {
+                "process_id": "4020",
+                "name": "e918cf8aba04eb5322beaa4b7935d4a2.exe"
+            },
+            {
+                "process_id": "2136",
+                "name": "14e35c40a117f32b9b48783f6cbd8d4374f340ae.exe"
+            },
+            {
+                "process_id": "3024",
+                "name": "54da781e83beb36cd313ad3d9f027509.exe",
+                "time_offset": 8269
+            },
+            {
+                "process_id": "6032",
+                "name": "'C:\\Users\\user\\Desktop\\software.exe' ",
+                "children": [
+                    {
+                        "process_id": "7188",
+                        "name": "C:\\Windows\\System32\\conhost.exe C:\\Windows\\system32\\conhost.exe 0xffffffff -ForceV1"
+                    }
+                ]
+            }
+        ],
+        "verdicts": [
+            "CLEAN"
+        ],
+        "files_deleted": [
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERDDCD.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERDDDD.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERDF05.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERDF74.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERDFC4.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERDFC3.tmp.txt",
+            "C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat"
+        ],
+        "registry_keys_opened": [
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\996E.exe",
+            "\\Registry\\MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\TransparentEnabled",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\mscoreei.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ntdll.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\KERNEL32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\GDI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USER32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\Secur32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\RPCRT4.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ADVAPI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\msvcrt.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WS2HELP.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WS2_32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SHLWAPI.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\PSAPI.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ole32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\OLEAUT32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\winime32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\mscoree.dll",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\mscoree.dll\\CheckAppHelp",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\IMM32.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USP10.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\LPK.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\MSVCR100_CLR0400.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\clr.dll",
+            "\\REGISTRY\\MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\996E.exe\\RpcThreadPoolThrottle",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Rpc",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\culture.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\mscorlib.ni.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\nlssorting.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\rsaenh.dll",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Cryptography",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\clrjit.dll",
+            "HKLM\\Software\\Microsoft\\.NETFramework\\Policy",
+            "HKLM\\Software\\Microsoft\\.NETFramework\\Policy\\v4.0",
+            "HKLM\\Software\\Microsoft\\.NETFramework",
+            "HKLM\\Software\\Microsoft\\.NETFramework\\InstallRoot",
+            "HKLM\\Software\\Microsoft\\.NETFramework\\CLRLoadLogDir",
+            "HKLM\\Software\\Microsoft\\.NETFramework\\UseLegacyV2RuntimeActivationPolicyDefaultValue",
+            "HKLM\\Software\\Microsoft\\.NETFramework\\OnlyUseLatestCLR",
+            "HKCU\\Software\\Microsoft\\.NETFramework\\Policy\\Standards",
+            "HKLM\\Software\\Microsoft\\.NETFramework\\Policy\\Standards\\v4.0.30319",
+            "HKLM\\SOFTWARE\\Microsoft\\Fusion",
+            "HKLM\\SOFTWARE\\Microsoft\\Fusion\\NoClientChecks",
+            "HKLM\\Software\\Microsoft\\.NETFramework\\v4.0.30319\\SKUs",
+            "HKLM\\Software\\Microsoft\\.NETFramework\\v4.0.30319\\SKUs\\default",
+            "HKLM\\SOFTWARE\\Microsoft\\NET Framework Setup\\NDP\\v4\\Full",
+            "HKLM\\SOFTWARE\\Microsoft\\NET Framework Setup\\NDP\\v4\\Full\\Release",
+            "HKLM\\Software\\Microsoft\\.NETFramework\\DisableConfigCache",
+            "HKLM\\Software\\Microsoft\\Fusion",
+            "HKLM\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\14e35c40a117f32b9b48783f6cbd8d4374f340ae.exe",
+            "HKLM\\Software\\Microsoft\\Fusion\\CacheLocation",
+            "HKLM\\Software\\Microsoft\\Fusion\\DownloadCacheQuotaInKB",
+            "HKLM\\Software\\Microsoft\\Fusion\\EnableLog",
+            "HKLM\\Software\\Microsoft\\Fusion\\LoggingLevel",
+            "HKLM\\Software\\Microsoft\\Fusion\\ForceLog",
+            "HKLM\\Software\\Microsoft\\Fusion\\LogFailures",
+            "HKLM\\Software\\Microsoft\\Fusion\\LogResourceBinds",
+            "HKLM\\Software\\Microsoft\\Fusion\\FileInUseRetryAttempts",
+            "HKLM\\Software\\Microsoft\\Fusion\\FileInUseMillisecondsBetweenRetries",
+            "HKLM\\Software\\Microsoft\\Fusion\\UseLegacyIdentityFormat",
+            "HKLM\\Software\\Microsoft\\Fusion\\DisableMSIPeek",
+            "HKLM\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+            "HKLM\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DevOverrideEnable",
+            "HKLM\\Software\\Microsoft\\.NETFramework\\NGen\\Policy\\v4.0",
+            "HKLM\\Software\\Microsoft\\.NETFramework\\NGen\\Policy\\v4.0\\OptimizeUsedBinaries",
+            "HKLM\\SOFTWARE\\Microsoft\\.NETFramework\\Policy\\Servicing",
+            "HKLM\\Software\\Microsoft\\StrongName",
+            "HKLM\\Software\\Microsoft\\.NETFramework\\UseRyuJIT",
+            "HKLM\\Software\\Microsoft\\.NETFramework\\FeatureSIMD",
+            "HKLM\\Software\\Microsoft\\Fusion\\PublisherPolicy\\Default",
+            "HKLM\\Software\\Microsoft\\Fusion\\PublisherPolicy\\Default\\Latest",
+            "HKLM\\Software\\Microsoft\\Fusion\\PublisherPolicy\\Default\\index24",
+            "HKLM\\Software\\Microsoft\\Fusion\\PublisherPolicy\\Default\\LegacyPolicyTimeStamp",
+            "HKLM\\Software\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System.Core__b77a5c561934e089",
+            "HKLM\\Software\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System.Core__b77a5c561934e089",
+            "HKLM\\Software\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System__b77a5c561934e089",
+            "HKLM\\Software\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System__b77a5c561934e089",
+            "HKLM\\Software\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System.Configuration__b03f5f7f11d50a3a",
+            "HKLM\\Software\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System.Configuration__b03f5f7f11d50a3a",
+            "HKLM\\Software\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System.Xml__b77a5c561934e089",
+            "HKLM\\Software\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System.Xml__b77a5c561934e089",
+            "HKLM\\Software\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System.Numerics__b77a5c561934e089",
+            "HKLM\\Software\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System.Numerics__b77a5c561934e089",
+            "HKLM\\Software\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System.Security__b03f5f7f11d50a3a",
+            "HKLM\\Software\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System.Security__b03f5f7f11d50a3a",
+            "HKLM\\SOFTWARE\\Microsoft\\.NETFramework\\Policy\\APTCA",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\.NETFramework",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Fusion",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\UrlZones",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Hashes",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Paths",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\UrlZones",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Hashes",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Paths",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\UrlZones",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Hashes",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Paths",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\UrlZones",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Hashes",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Paths",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\UrlZones",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\.NETFramework\\Policy\\APTCA",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\.NETFramework\\Policy\\Servicing",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\.NETFramework\\Policy\\Standards",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\.NETFramework\\policy\\standards\\v4.0.30319",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\.NETFramework\\policy\\v4.0",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\.NETFramework\\v4.0.30319\\SKUs\\default",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\AppModel\\Lookaside\\Packages",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider Types\\Type 001",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Strong Cryptographic Provider",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System.Configuration__b03f5f7f11d50a3a",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System.Core__b77a5c561934e089",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System.Numerics__b77a5c561934e089",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System.Security__b03f5f7f11d50a3a",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System.Xml__b77a5c561934e089",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\policy.4.0.System__b77a5c561934e089",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System.Configuration__b03f5f7f11d50a3a",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System.Core__b77a5c561934e089",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System.Numerics__b77a5c561934e089",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System.Security__b03f5f7f11d50a3a",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System.Xml__b77a5c561934e089",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Fusion\\PublisherPolicy\\Default\\v4.0_policy.4.0.System__b77a5c561934e089",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\NET Framework Setup\\NDP\\v4\\Full",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLE",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\software.exe",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Segment Heap",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Policies\\Microsoft\\Cryptography\\Configuration",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\.NETFramework",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\.NETFramework\\NGen\\Policy\\v4.0",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\.NETFramework\\Policy\\",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\.NETFramework\\v4.0.30319\\SKUs\\",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography\\Offload",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Fusion",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Fusion\\PublisherPolicy\\Default",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\OLE\\Tracing",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole\\FeatureDevelopmentProperties",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Rpc",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\StrongName",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\software.exe",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Cryptography",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\MUI\\Settings",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Rpc",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Display",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\UrlZones",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Hashes",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Paths",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\UrlZones",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Hashes",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Paths",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\UrlZones",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Hashes",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Paths",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\UrlZones",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Hashes",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Paths",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\UrlZones",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\LevelObjects",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\ComputerName\\ActiveComputerName",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Error Message Instrument\\",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\FileSystem\\",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FipsAlgorithmPolicy",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\CustomLocale",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\ExtendedLocale",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Sorting\\Ids",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Sorting\\Versions",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Srp\\GP\\DLL",
+            "HKEY_LOCAL_MACHINE\\System\\Setup"
+        ],
+        "processes_terminated": [
+            "%SAMPLEPATH%\\14e35c40a117f32b9b48783f6cbd8d4374f340ae.exe",
+            "C:\\Windows\\System32\\conhost.exe",
+            "C:\\Windows\\System32\\wuapihost.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe",
+            "14e35c40a117f32b9b48783f6cbd8d4374f340ae.exe"
+        ],
+        "files_written": [
+            "\\Sessions\\1\\BaseNamedObjects",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\CLR_v4.0\\UsageLogs\\software.exe.log",
+            "\\Device\\ConDrv",
+            "\\Device\\ConDrv\\\\Connect"
+        ],
+        "mitre_attack_techniques": [
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Spawns processes"
+            },
+            {
+                "id": "T1036",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Creates files inside the user directory"
+            },
+            {
+                "id": "T1562.001",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Creates guard pages, often used to prevent reverse engineering and debugging"
+            },
+            {
+                "id": "T1497",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Contains long sleeps (>= 3 min)"
+            },
+            {
+                "id": "T1497",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "May sleep (evasive loops) to hinder dynamic analysis"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Queries the cryptographic machine GUID"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Reads software policies"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Queries the volume information (name, serial number etc) of a device"
+            }
+        ],
+        "calls_highlighted": [
+            "GetTickCount",
+            "IsDebuggerPresent",
+            "advapi32.RegOpenKeyExW",
+            "kernel32.WriteFile"
+        ],
+        "attack_techniques": {
+            "T1055": [
+                {
+                    "severity": "INFO",
+                    "description": "Spawns processes"
+                }
+            ],
+            "T1036": [
+                {
+                    "severity": "INFO",
+                    "description": "Creates files inside the user directory"
+                }
+            ],
+            "T1562.001": [
+                {
+                    "severity": "INFO",
+                    "description": "Creates guard pages, often used to prevent reverse engineering and debugging"
+                }
+            ],
+            "T1497": [
+                {
+                    "severity": "INFO",
+                    "description": "Contains long sleeps (>= 3 min)"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "May sleep (evasive loops) to hinder dynamic analysis"
+                }
+            ],
+            "T1082": [
+                {
+                    "severity": "INFO",
+                    "description": "Queries the cryptographic machine GUID"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Reads software policies"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Queries the volume information (name, serial number etc) of a device"
+                }
+            ]
+        }
+    }
+}

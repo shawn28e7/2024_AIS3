@@ -1,0 +1,2996 @@
+{
+    "data": {
+        "http_conversations": [
+            {
+                "url": "http://92.63.197.153/3.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "92.63.197.153"
+                }
+            },
+            {
+                "url": "http://92.63.197.153/2.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "92.63.197.153"
+                }
+            },
+            {
+                "url": "http://92.63.197.153/4.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "92.63.197.153"
+                }
+            },
+            {
+                "url": "http://92.63.197.153/1.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "92.63.197.153"
+                }
+            },
+            {
+                "url": "http://92.63.197.153/5.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "92.63.197.153"
+                }
+            },
+            {
+                "url": "http://fieooeoafheififo.ru/1.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "fieooeoafheififo.ru"
+                }
+            },
+            {
+                "url": "http://sefuhsuifhishffo.ru/1.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "sefuhsuifhishffo.ru"
+                }
+            },
+            {
+                "url": "http://srgsifijsjigjhfo.ru/3.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "srgsifijsjigjhfo.ru",
+                    "Cookie": "btst=17e769cf177a1ea99dee65bc7c113d2c|14.33.131.72|1616594824|1616594818|3|2|0"
+                }
+            },
+            {
+                "url": "http://srgsifijsjigjhfo.ru/5.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "srgsifijsjigjhfo.ru",
+                    "Cookie": "btst=17e769cf177a1ea99dee65bc7c113d2c|14.33.131.72|1616594840|1616594818|9|3|0"
+                }
+            },
+            {
+                "url": "http://eaojefiuaugueufo.ru/2.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "eaojefiuaugueufo.ru",
+                    "Cookie": "btst=2ff89a04292fa369f4edac2ce4bc610c|14.33.131.72|1616594852|1616594852|0|1|0; snkz=14.33.131.72"
+                }
+            },
+            {
+                "url": "http://srgsifijsjigjhfo.ru/1",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "srgsifijsjigjhfo.ru",
+                    "Cookie": "btst=17e769cf177a1ea99dee65bc7c113d2c|14.33.131.72|1616594818|1616594818|0|1|0",
+                    "Connection": "Keep-Alive"
+                }
+            },
+            {
+                "url": "http://srgsifijsjigjhfo.ru/1.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "srgsifijsjigjhfo.ru"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:06:58 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=17e769cf177a1ea99dee65bc7c113d2c|14.33.131.72|1616594818|1616594818|0|1|0; path=/; Expires=Thu, 15 Apr 2027 00:00:00 GMT",
+                    "Content-Type": "text/html",
+                    "Location": "1",
+                    "Connection": "close"
+                },
+                "response_status_code": 302
+            },
+            {
+                "url": "http://srgsifijsjigjhfo.ru/4.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "srgsifijsjigjhfo.ru",
+                    "Cookie": "btst=17e769cf177a1ea99dee65bc7c113d2c|14.33.131.72|1616594824|1616594818|3|2|0"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:07:20 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=17e769cf177a1ea99dee65bc7c113d2c|14.33.131.72|1616594840|1616594818|9|3|0; path=/; Expires=Thu, 15 Apr 2027 00:00:00 GMT",
+                    "Content-Type": "text/html",
+                    "Location": "1",
+                    "Connection": "close"
+                },
+                "response_status_code": 302
+            },
+            {
+                "url": "http://srgsifijsjigjhfo.ru/2.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "srgsifijsjigjhfo.ru",
+                    "Cookie": "btst=17e769cf177a1ea99dee65bc7c113d2c|14.33.131.72|1616594818|1616594818|0|1|0"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:07:04 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=17e769cf177a1ea99dee65bc7c113d2c|14.33.131.72|1616594824|1616594818|3|2|0; path=/; Expires=Thu, 15 Apr 2027 00:00:00 GMT",
+                    "Content-Type": "text/html",
+                    "Location": "1",
+                    "Connection": "close"
+                },
+                "response_status_code": 302
+            },
+            {
+                "url": "http://ffoeefsheuesihfo.ru/1.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "ffoeefsheuesihfo.ru"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:06:48 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=ad656d84b42c28227ed8597f492a4711|14.33.131.72|1616594808|1616594808|0|1|0; path=/; domain=.ffoeefsheuesihfo.ru; Expires=Thu, 15 Apr 2027 00:00:00 GMT; HttpOnly; SameSite=Lax;, snkz=14.33.131.72; path=/; Expires=Thu, 15 Apr 2027 00:00:00 GMT",
+                    "Transfer-Encoding": "chunked",
+                    "Content-Type": "text/html",
+                    "Connection": "close"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://fieooeoafheififo.ru/2.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "fieooeoafheififo.ru"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:06:44 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=bb67efc36f5f9b20d780ae95d67ab69d|14.33.131.72|1616594804|1616594804|0|1|0; path=/; domain=.fieooeoafheififo.ru; Expires=Thu, 15 Apr 2027 00:00:00 GMT; HttpOnly; SameSite=Lax;, snkz=14.33.131.72; path=/; Expires=Thu, 15 Apr 2027 00:00:00 GMT",
+                    "Transfer-Encoding": "chunked",
+                    "Content-Type": "text/html",
+                    "Connection": "close"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://eaojefiuaugueufo.ru/1.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "eaojefiuaugueufo.ru"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:07:32 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=2ff89a04292fa369f4edac2ce4bc610c|14.33.131.72|1616594852|1616594852|0|1|0; path=/; domain=.eaojefiuaugueufo.ru; Expires=Thu, 15 Apr 2027 00:00:00 GMT; HttpOnly; SameSite=Lax;, snkz=14.33.131.72; path=/; Expires=Thu, 15 Apr 2027 00:00:00 GMT",
+                    "Transfer-Encoding": "chunked",
+                    "Content-Type": "text/html",
+                    "Connection": "close"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://sefuhsuifhishffo.ru/2.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "sefuhsuifhishffo.ru"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:06:40 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=441e54025b9de41599bd86a5c9538831|14.33.131.72|1616594800|1616594800|0|1|0; path=/; domain=.sefuhsuifhishffo.ru; Expires=Thu, 15 Apr 2027 00:00:00 GMT; HttpOnly; SameSite=Lax;, snkz=14.33.131.72; path=/; Expires=Thu, 15 Apr 2027 00:00:00 GMT",
+                    "Transfer-Encoding": "chunked",
+                    "Content-Type": "text/html",
+                    "Connection": "close"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://sisfiusnrsruisfo.ru/1.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "sisfiusnrsruisfo.ru"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:06:52 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=a610ceeec275faca267436bf42b5550c|14.33.131.72|1616594812|1616594812|0|1|0; path=/; domain=.sisfiusnrsruisfo.ru; Expires=Thu, 15 Apr 2027 00:00:00 GMT; HttpOnly; SameSite=Lax;, snkz=14.33.131.72; path=/; Expires=Thu, 15 Apr 2027 00:00:00 GMT",
+                    "Transfer-Encoding": "chunked",
+                    "Content-Type": "text/html",
+                    "Connection": "close"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://ffoeefsheuesihfo.ru/5.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "ffoeefsheuesihfo.ru",
+                    "Cookie": "btst=ad656d84b42c28227ed8597f492a4711|14.33.131.72|1616594811|1616594808|0|4|0; snkz=14.33.131.72"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:06:51 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=ad656d84b42c28227ed8597f492a4711|14.33.131.72|1616594811|1616594808|0|5|0; path=/; domain=.ffoeefsheuesihfo.ru; Expires=Thu, 15 Apr 2027 00:00:00 GMT; HttpOnly; SameSite=Lax;",
+                    "Transfer-Encoding": "chunked",
+                    "Content-Type": "text/html",
+                    "Connection": "close"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://ffoeefsheuesihfo.ru/3.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "ffoeefsheuesihfo.ru",
+                    "Cookie": "btst=ad656d84b42c28227ed8597f492a4711|14.33.131.72|1616594810|1616594808|1|2|0; snkz=14.33.131.72"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:06:50 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=ad656d84b42c28227ed8597f492a4711|14.33.131.72|1616594810|1616594808|0|3|0; path=/; domain=.ffoeefsheuesihfo.ru; Expires=Thu, 15 Apr 2027 00:00:00 GMT; HttpOnly; SameSite=Lax;",
+                    "Transfer-Encoding": "chunked",
+                    "Content-Type": "text/html",
+                    "Connection": "close"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://sefuhsuifhishffo.ru/3.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "sefuhsuifhishffo.ru",
+                    "Cookie": "btst=441e54025b9de41599bd86a5c9538831|14.33.131.72|1616594800|1616594800|0|1|0; snkz=14.33.131.72"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:06:42 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=441e54025b9de41599bd86a5c9538831|14.33.131.72|1616594802|1616594800|1|2|0; path=/; domain=.sefuhsuifhishffo.ru; Expires=Thu, 15 Apr 2027 00:00:00 GMT; HttpOnly; SameSite=Lax;",
+                    "Transfer-Encoding": "chunked",
+                    "Content-Type": "text/html",
+                    "Connection": "close"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://sisfiusnrsruisfo.ru/5.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "sisfiusnrsruisfo.ru",
+                    "Cookie": "btst=a610ceeec275faca267436bf42b5550c|14.33.131.72|1616594815|1616594812|0|4|0; snkz=14.33.131.72"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:06:56 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=a610ceeec275faca267436bf42b5550c|14.33.131.72|1616594815|1616594812|0|5|0; path=/; domain=.sisfiusnrsruisfo.ru; Expires=Thu, 15 Apr 2027 00:00:00 GMT; HttpOnly; SameSite=Lax;",
+                    "Transfer-Encoding": "chunked",
+                    "Content-Type": "text/html",
+                    "Connection": "close"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://sefuhsuifhishffo.ru/5.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "sefuhsuifhishffo.ru",
+                    "Cookie": "btst=441e54025b9de41599bd86a5c9538831|14.33.131.72|1616594802|1616594800|0|3|0; snkz=14.33.131.72"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:06:43 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=441e54025b9de41599bd86a5c9538831|14.33.131.72|1616594803|1616594800|0|4|0; path=/; domain=.sefuhsuifhishffo.ru; Expires=Thu, 15 Apr 2027 00:00:00 GMT; HttpOnly; SameSite=Lax;",
+                    "Transfer-Encoding": "chunked",
+                    "Content-Type": "text/html",
+                    "Connection": "close"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://sisfiusnrsruisfo.ru/4.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "sisfiusnrsruisfo.ru",
+                    "Cookie": "btst=a610ceeec275faca267436bf42b5550c|14.33.131.72|1616594814|1616594812|0|3|0; snkz=14.33.131.72"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:06:55 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=a610ceeec275faca267436bf42b5550c|14.33.131.72|1616594815|1616594812|0|4|0; path=/; domain=.sisfiusnrsruisfo.ru; Expires=Thu, 15 Apr 2027 00:00:00 GMT; HttpOnly; SameSite=Lax;",
+                    "Transfer-Encoding": "chunked",
+                    "Content-Type": "text/html",
+                    "Connection": "close"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://sisfiusnrsruisfo.ru/2.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "sisfiusnrsruisfo.ru",
+                    "Cookie": "btst=a610ceeec275faca267436bf42b5550c|14.33.131.72|1616594812|1616594812|0|1|0; snkz=14.33.131.72"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:06:53 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=a610ceeec275faca267436bf42b5550c|14.33.131.72|1616594813|1616594812|0|2|0; path=/; domain=.sisfiusnrsruisfo.ru; Expires=Thu, 15 Apr 2027 00:00:00 GMT; HttpOnly; SameSite=Lax;",
+                    "Transfer-Encoding": "chunked",
+                    "Content-Type": "text/html",
+                    "Connection": "close"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://ffoeefsheuesihfo.ru/4.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "ffoeefsheuesihfo.ru",
+                    "Cookie": "btst=ad656d84b42c28227ed8597f492a4711|14.33.131.72|1616594810|1616594808|0|3|0; snkz=14.33.131.72"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:06:51 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=ad656d84b42c28227ed8597f492a4711|14.33.131.72|1616594811|1616594808|0|4|0; path=/; domain=.ffoeefsheuesihfo.ru; Expires=Thu, 15 Apr 2027 00:00:00 GMT; HttpOnly; SameSite=Lax;",
+                    "Transfer-Encoding": "chunked",
+                    "Content-Type": "text/html",
+                    "Connection": "close"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://sisfiusnrsruisfo.ru/3.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "sisfiusnrsruisfo.ru",
+                    "Cookie": "btst=a610ceeec275faca267436bf42b5550c|14.33.131.72|1616594813|1616594812|0|2|0; snkz=14.33.131.72"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:06:54 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=a610ceeec275faca267436bf42b5550c|14.33.131.72|1616594814|1616594812|0|3|0; path=/; domain=.sisfiusnrsruisfo.ru; Expires=Thu, 15 Apr 2027 00:00:00 GMT; HttpOnly; SameSite=Lax;",
+                    "Transfer-Encoding": "chunked",
+                    "Content-Type": "text/html",
+                    "Connection": "close"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://fieooeoafheififo.ru/3.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "fieooeoafheififo.ru",
+                    "Cookie": "btst=bb67efc36f5f9b20d780ae95d67ab69d|14.33.131.72|1616594804|1616594804|0|1|0; snkz=14.33.131.72"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:06:45 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=bb67efc36f5f9b20d780ae95d67ab69d|14.33.131.72|1616594805|1616594804|0|2|0; path=/; domain=.fieooeoafheififo.ru; Expires=Thu, 15 Apr 2027 00:00:00 GMT; HttpOnly; SameSite=Lax;",
+                    "Transfer-Encoding": "chunked",
+                    "Content-Type": "text/html",
+                    "Connection": "close"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://sefuhsuifhishffo.ru/4.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "sefuhsuifhishffo.ru",
+                    "Cookie": "btst=441e54025b9de41599bd86a5c9538831|14.33.131.72|1616594802|1616594800|1|2|0; snkz=14.33.131.72"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:06:42 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=441e54025b9de41599bd86a5c9538831|14.33.131.72|1616594802|1616594800|0|3|0; path=/; domain=.sefuhsuifhishffo.ru; Expires=Thu, 15 Apr 2027 00:00:00 GMT; HttpOnly; SameSite=Lax;",
+                    "Transfer-Encoding": "chunked",
+                    "Content-Type": "text/html",
+                    "Connection": "close"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://fieooeoafheififo.ru/4.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "fieooeoafheififo.ru",
+                    "Cookie": "btst=bb67efc36f5f9b20d780ae95d67ab69d|14.33.131.72|1616594805|1616594804|0|2|0; snkz=14.33.131.72"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:06:45 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=bb67efc36f5f9b20d780ae95d67ab69d|14.33.131.72|1616594805|1616594804|0|3|0; path=/; domain=.fieooeoafheififo.ru; Expires=Thu, 15 Apr 2027 00:00:00 GMT; HttpOnly; SameSite=Lax;",
+                    "Transfer-Encoding": "chunked",
+                    "Content-Type": "text/html",
+                    "Connection": "close"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://ffoeefsheuesihfo.ru/2.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "ffoeefsheuesihfo.ru",
+                    "Cookie": "btst=ad656d84b42c28227ed8597f492a4711|14.33.131.72|1616594808|1616594808|0|1|0; snkz=14.33.131.72"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:06:50 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=ad656d84b42c28227ed8597f492a4711|14.33.131.72|1616594810|1616594808|1|2|0; path=/; domain=.ffoeefsheuesihfo.ru; Expires=Thu, 15 Apr 2027 00:00:00 GMT; HttpOnly; SameSite=Lax;",
+                    "Transfer-Encoding": "chunked",
+                    "Content-Type": "text/html",
+                    "Connection": "close"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://fieooeoafheififo.ru/5.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0",
+                    "Host": "fieooeoafheififo.ru",
+                    "Cookie": "btst=bb67efc36f5f9b20d780ae95d67ab69d|14.33.131.72|1616594805|1616594804|0|3|0; snkz=14.33.131.72"
+                },
+                "response_headers": {
+                    "Date": "Wed, 24 Mar 2021 14:06:47 GMT",
+                    "Server": "nginx",
+                    "Set-Cookie": "btst=bb67efc36f5f9b20d780ae95d67ab69d|14.33.131.72|1616594807|1616594804|1|4|0; path=/; domain=.fieooeoafheififo.ru; Expires=Thu, 15 Apr 2027 00:00:00 GMT; HttpOnly; SameSite=Lax;",
+                    "Transfer-Encoding": "chunked",
+                    "Content-Type": "text/html",
+                    "Connection": "close"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://92.63.197.153/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://92.63.197.153/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://92.63.197.153/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://92.63.197.153/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://92.63.197.153/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://fieooeoafheififo.ru/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://fieooeoafheififo.ru/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://fieooeoafheififo.ru/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://fieooeoafheififo.ru/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://sefuhsuifhishffo.ru/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://sefuhsuifhishffo.ru/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://sefuhsuifhishffo.ru/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://sefuhsuifhishffo.ru/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://sefuhsuifhishffo.ru/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://fieooeoafheififo.ru/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ffoeefsheuesihfo.ru/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ffoeefsheuesihfo.ru/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ffoeefsheuesihfo.ru/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ffoeefsheuesihfo.ru/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ffoeefsheuesihfo.ru/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://sisfiusnrsruisfo.ru/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://sisfiusnrsruisfo.ru/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://sisfiusnrsruisfo.ru/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://sisfiusnrsruisfo.ru/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://sisfiusnrsruisfo.ru/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://srgsifijsjigjhfo.ru/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://srgsifijsjigjhfo.ru/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://srgsifijsjigjhfo.ru/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://srgsifijsjigjhfo.ru/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://srgsifijsjigjhfo.ru/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://eaojefiuaugueufo.ru/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://eaojefiuaugueufo.ru/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://eaojefiuaugueufo.ru/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://eaojefiuaugueufo.ru/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://eaojefiuaugueufo.ru/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ofeideinieghihfo.ru/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ofeideinieghihfo.ru/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ofeideinieghihfo.ru/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ofeideinieghihfo.ru/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ofeideinieghihfo.ru/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://92.63.197.153/1.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://92.63.197.153/2.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://92.63.197.153/3.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://92.63.197.153/4.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://92.63.197.153/5.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://fieooeoafheififo.ru/1.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://fieooeoafheififo.ru/2.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://fieooeoafheififo.ru/3.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://fieooeoafheififo.ru/4.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://fieooeoafheififo.ru/3.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)"
+                }
+            },
+            {
+                "url": "http://fieooeoafheififo.ru/5.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://ffoeefsheuesihfo.ru/1.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://ffoeefsheuesihfo.ru/2.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://ffoeefsheuesihfo.ru/3.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://ffoeefsheuesihfo.ru/4.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://ffoeefsheuesihfo.ru/5.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://sisfiusnrsruisfo.ru/1.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://sisfiusnrsruisfo.ru/2.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://sisfiusnrsruisfo.ru/3.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://sisfiusnrsruisfo.ru/4.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://sisfiusnrsruisfo.ru/5.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://92.63.197.59/11.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://92.63.197.59/22.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://92.63.197.59/33.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://eaojefiuaugueufo.ru/1.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://eaojefiuaugueufo.ru/2.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://92.63.197.59/44.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://eaojefiuaugueufo.ru/3.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://92.63.197.59/55.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://eaojefiuaugueufo.ru/4.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://eaojefiuaugueufo.ru/5.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://ofeideinieghihfo.ru/1.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://ofeideinieghihfo.ru/2.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://ofeideinieghihfo.ru/3.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://ofeideinieghihfo.ru/4.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://ofeideinieghihfo.ru/5.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://sfuhseidueiihffo.ru/1.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://sfuhseidueiihffo.ru/2.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://sfuhseidueiihffo.ru/3.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://sfuhseidueiihffo.ru/4.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://sfuhseidueiihffo.ru/5.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            }
+        ],
+        "processes_terminated": [
+            "%windir%\\System32\\svchost.exe -k WerSvcGroup",
+            "wmiadap.exe /F /T /R",
+            "%windir%\\60806747560730080\\winsvcs.exe",
+            "%SAMPLEPATH%",
+            "\"%APPDATA%\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Windows Security Update.exe\"",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2263429825.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1596325651.exe",
+            "C:\\WINDOWS\\system32\\cmd.exe"
+        ],
+        "processes_created": [
+            "C:\\Windows\\60806747560730080\\winsvcs.exe",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\3318238988.exe",
+            "C:\\WINDOWS\\system32\\cmd.exe",
+            "C:\\WINDOWS\\60806747560730080\\winsvcs.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\1260511025.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2195741143.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2195741143.exe C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2195741143.exe\" \"",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\4226210860.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\4226210860.exe C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\4226210860.exe\" \"",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2900620115.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2900620115.exe C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2900620115.exe\" \"",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2206632936.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2206632936.exe C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2206632936.exe\" \"",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2321919591.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2321919591.exe C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2321919591.exe\" \"",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2550639180.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2550639180.exe C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2550639180.exe\" \"",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\1668422339.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\1668422339.exe C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\1668422339.exe\" \"",
+            "C:\\WINDOWS\\8148262213223903\\winzdwc.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2685933033.exe"
+        ],
+        "files_opened": [
+            "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\winsvcmgr.exe",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2668619834.exe",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\3318238988.exe",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\1D6GPM8S\\1[1].exe",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\EGZE81HD\\1[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\EGZE81HD\\2[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\EGZE81HD\\2[2].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\1[1].exe",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\S7CGAYIV\\3[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@fieooeoafheififo[1].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@fieooeoafheififo[2].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@fieooeoafheififo[3].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@fieooeoafheififo[4].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@fieooeoafheififo[5].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@fieooeoafheififo[6].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Windows Security Update.exe",
+            "C:\\Windows\\60806747560730080",
+            "C:\\Windows\\60806747560730080\\winsvcs.exe",
+            "\\??\\MountPointManager",
+            "\\??\\Nsi",
+            "\\DEVICE\\NETBT_TCPIP_{CA8FCF09-3454-4A77-8B0B-C56C1488303C}",
+            "\\DEVICE\\NETBT_TCPIP_{D5CD48D7-B0F7-4C10-89F8-4DF45C40E31E}",
+            "\\DEVICE\\NETBT_TCPIP_{DCF5E7D8-4DB5-460B-B10A-62818BEB69E8}",
+            "\\DEVICE\\NETBT_TCPIP_{E29AC6C2-7037-11DE-816D-806E6F6E6963}",
+            "\\Device\\Afd\\AsyncConnectHlp",
+            "\\Device\\Afd\\Endpoint",
+            "\\Device\\NetBT_Tcpip6_{CA8FCF09-3454-4A77-8B0B-C56C1488303C}",
+            "\\Device\\NetBT_Tcpip6_{D5CD48D7-B0F7-4C10-89F8-4DF45C40E31E}",
+            "\\Device\\NetBT_Tcpip6_{DCF5E7D8-4DB5-460B-B10A-62818BEB69E8}",
+            "\\Device\\NetBT_Tcpip_{D5CD48D7-B0F7-4C10-89F8-4DF45C40E31E}",
+            "\\Device\\RasAcd",
+            "\\SystemRoot\\AppPatch\\sysmain.sdb",
+            "C:\\",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\S7CGAYIV\\4[1].htm",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2892524812.exe",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\1D6GPM8S\\3[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\1D6GPM8S\\4[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\1D6GPM8S\\5[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\1[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\2[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\2[2].htm",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@sefuhsuifhishffo[1].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@sefuhsuifhishffo[2].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@sefuhsuifhishffo[3].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@sefuhsuifhishffo[4].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@sefuhsuifhishffo[5].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@sefuhsuifhishffo[6].txt",
+            "C:\\WINDOWS\\system32\\winime32.dll",
+            "C:\\WINDOWS\\system32\\ws2_32.dll",
+            "C:\\WINDOWS\\system32\\ws2help.dll",
+            "C:\\WINDOWS\\system32\\psapi.dll",
+            "C:\\WINDOWS\\system32\\imm32.dll",
+            "C:\\WINDOWS\\system32\\lpk.dll",
+            "C:\\WINDOWS\\system32\\usp10.dll",
+            "C:\\WINDOWS\\system32\\wininet.dll",
+            "C:\\WINDOWS\\WinSxS\\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\\comctl32.dll",
+            "C:\\WINDOWS\\WindowsShell.Manifest",
+            "C:\\WINDOWS\\system32\\urlmon.dll",
+            "C:\\WINDOWS\\system32\\shell32.dll",
+            "C:\\WINDOWS\\system32\\comctl32.dll",
+            "C:\\WINDOWS\\system32\\msvcr100.dll",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe",
+            "C:\\WINDOWS\\60806747560730080",
+            "C:\\WINDOWS\\60806747560730080\\winsvcs.exe",
+            "C:\\WINDOWS\\system32\\apphelp.dll",
+            "C:\\WINDOWS\\AppPatch\\sysmain.sdb",
+            "C:\\DiskD",
+            "C:\\WINDOWS\\system32\\rpcss.dll",
+            "C:\\WINDOWS\\system32\\MSCTF.dll",
+            "C:\\WINDOWS\\system32\\clbcatq.dll",
+            "C:\\WINDOWS\\system32\\comres.dll",
+            "C:\\WINDOWS\\Registration\\R000000000007.clb",
+            "C:\\WINDOWS\\system32\\setupapi.dll",
+            "C:\\Documents and Settings\\Administrator\\My Documents\\desktop.ini",
+            "C:\\Documents and Settings\\All Users\\Documents\\desktop.ini",
+            "C:\\WINDOWS\\system32\\linkinfo.dll",
+            "C:\\WINDOWS\\system32\\ntshrui.dll",
+            "C:\\WINDOWS\\system32\\atl.dll",
+            "C:\\WINDOWS\\system32\\cmd.exe",
+            "C:\\WINDOWS\\system32",
+            "C:\\WINDOWS\\system32\\shdocvw.dll",
+            "C:\\WINDOWS\\system32\\riched20.dll",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files",
+            "C:\\Documents and Settings\\Administrator\\\u300c\u5f00\u59cb\u300d\u83dc\u5355\\desktop.ini",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\History",
+            "C:\\Documents and Settings\\All Users\\\u300c\u5f00\u59cb\u300d\u83dc\u5355\\desktop.ini",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\index.dat",
+            "C:\\Documents and Settings\\Administrator\\Cookies",
+            "C:\\Documents and Settings\\Administrator\\Cookies\\index.dat",
+            "C:\\Documents and Settings\\All Users\\Application Data\\desktop.ini",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\History\\History.IE5",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\History\\History.IE5\\index.dat",
+            "C:\\Documents and Settings\\Administrator\\Application Data\\desktop.ini",
+            "C:\\Documents and Settings\\Administrator\\My Documents\\My Pictures\\Desktop.ini",
+            "C:\\Documents and Settings\\All Users\\Documents\\My Pictures\\Desktop.ini",
+            "C:\\Documents and Settings\\All Users\\Documents\\My Music\\Desktop.ini",
+            "C:\\WINDOWS\\system32\\wsock32.dll",
+            "C:\\WINDOWS\\system32\\rasapi32.dll",
+            "C:\\WINDOWS\\system32\\rasman.dll",
+            "C:\\WINDOWS\\system32\\tapi32.dll",
+            "C:\\WINDOWS\\system32\\rtutils.dll",
+            "C:\\WINDOWS\\system32\\winmm.dll",
+            "C:\\DiskX\\.lnk",
+            "C:\\WINDOWS\\system32\\sensapi.dll",
+            "C:\\AUTOEXEC.BAT",
+            "C:\\DiskX\\_",
+            "C:\\WINDOWS\\system32\\mswsock.dll",
+            "C:\\WINDOWS\\system32\\hnetcfg.dll",
+            "C:\\WINDOWS\\system32\\wshtcpip.dll",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\1[1].exe",
+            "C:\\WINDOWS\\system32\\update.exe",
+            "C:\\DiskX\\_\\DeviceManager.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\2[1].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\3[1].exe",
+            "C:\\DiskX",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\4[1].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\5[1].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2263429825.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1596325651.exe",
+            "C:\\WINDOWS\\system32\\ntdll.dll",
+            "C:\\WINDOWS\\system32\\kernel32.dll",
+            "C:\\WINDOWS\\system32\\unicode.nls",
+            "C:\\WINDOWS\\system32\\locale.nls",
+            "C:\\WINDOWS\\system32\\sorttbls.nls",
+            "C:\\WINDOWS\\system32\\msvcrt.dll",
+            "C:\\WINDOWS\\system32\\user32.dll",
+            "C:\\WINDOWS\\system32\\gdi32.dll",
+            "C:\\WINDOWS\\system32\\ctype.nls",
+            "C:\\WINDOWS\\system32\\advapi32.dll",
+            "C:\\WINDOWS\\system32\\rpcrt4.dll",
+            "C:\\WINDOWS\\system32\\secur32.dll",
+            "C:\\WINDOWS\\system32\\shimeng.dll",
+            "C:\\WINDOWS\\AppPatch\\AcGenral.dll",
+            "C:\\WINDOWS\\system32\\ole32.dll",
+            "C:\\WINDOWS\\system32\\oleaut32.dll",
+            "C:\\WINDOWS\\system32\\msacm32.dll",
+            "C:\\WINDOWS\\system32\\version.dll",
+            "C:\\WINDOWS\\system32\\shlwapi.dll",
+            "C:\\WINDOWS\\system32\\userenv.dll",
+            "C:\\WINDOWS\\system32\\uxtheme.dll",
+            "C:\\WINDOWS\\WINDOWSSHELL.MANIFEST",
+            "C:\\WINDOWS\\system32\\conime.exe",
+            "c:\\autoexec.bat",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2195741143.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\4226210860.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2900620115.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2206632936.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2321919591.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2550639180.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\1668422339.exe",
+            "C:\\4591028ee2d06e6e5fa7dc3ce5b874f55b08eb0ec371a2f18dc98e291660ad75",
+            "\\\\.\\PIPE\\ROUTER",
+            "\\\\.\\Ip",
+            "\\\\.\\PIPE\\lsarpc",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\1260511025.exe",
+            "\\\\.\\PIPE\\wkssvc",
+            "\\\\.\\MountPointManager",
+            "C:\\WINDOWS\\8148262213223903\\winzdwc.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2685933033.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\1226436990.exe"
+        ],
+        "permissions_requested": [
+            "SE_LOAD_DRIVER_PRIVILEGE"
+        ],
+        "files_dropped": [
+            {
+                "path": "1260511025.exe",
+                "sha256": "1211e5cb3fc5d9a659831fbbd55331226347a7de10c4406538cdfc8c969d49ce"
+            },
+            {
+                "path": "1[1].exe",
+                "sha256": "1211e5cb3fc5d9a659831fbbd55331226347a7de10c4406538cdfc8c969d49ce"
+            },
+            {
+                "path": "2685933033.exe",
+                "sha256": "1211e5cb3fc5d9a659831fbbd55331226347a7de10c4406538cdfc8c969d49ce"
+            }
+        ],
+        "files_attribute_changed": [
+            "C:\\WINDOWS\\60806747560730080\\winsvcs.exe",
+            "C:\\DiskX\\_\\DeviceManager.exe"
+        ],
+        "services_opened": [
+            "RASMAN"
+        ],
+        "registry_keys_deleted": [
+            "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\First Counter",
+            "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\Last Counter",
+            "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\First Help",
+            "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\Last Help",
+            "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\Object List",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ProxyServer",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ProxyOverride",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\AutoConfigURL"
+        ],
+        "memory_pattern_ips": [
+            "92.63.197.153"
+        ],
+        "memory_pattern_urls": [
+            "http://fisiejdajijejgfo.ru/",
+            "http://uaihefiuieagugif.su/",
+            "http://sfuhseidueiihfif.su/",
+            "http://soijodneoiauoefo.ru/",
+            "http://eiufhiedniunegfo.ru/",
+            "http://iusrhiufhsirurfo.ru/",
+            "http://sfuhseidueiihffo.ru/",
+            "http://seiiamefiaigaefo.ru/",
+            "http://sirfuhsihfiugrfo.ru/",
+            "http://eioeiufuisefnifo.ru/",
+            "http://iandiwuiwnnugufo.ru/",
+            "http://sisfiusnrsruisfo.ru/",
+            "http://92.63.197.153/",
+            "http://eaojefiuaugueuif.su/",
+            "http://eaojefiuaugueufo.ru/",
+            "http://fiueafnuieniuafo.ru/",
+            "http://srgsiuhedufiusfo.ru/",
+            "http://ffoeefsheuesihfo.ru/",
+            "http://uaihefiuieagugfo.ru/",
+            "http://sriuedueiuiefgif.su/",
+            "http://ofeideinieghihfo.ru/",
+            "http://sriuedueiuiefgfo.ru/",
+            "http://diowiwiiwinfiffo.ru/",
+            "http://sisfiusnrsruisif.su/",
+            "http://srgsiuhedufiusif.su/",
+            "http://fieooeoafheifiif.su/",
+            "http://ffoeefsheuesihif.su/",
+            "http://sefuhsuifhishfif.su/",
+            "http://ifuhaeiuaeuigrfo.ru/",
+            "http://fiuehiaueifuiifo.ru/",
+            "http://srgsifijsjigjhfo.ru/",
+            "http://eiufhiedniunegif.su/",
+            "http://giuediaudnudunfo.ru/",
+            "http://siufhseifhurgrfo.ru/",
+            "http://fnauendaieghidfo.ru/",
+            "http://utdifguizdidizif.su/",
+            "http://fisiejdajijejgif.su/",
+            "http://sfiushiudneinefo.ru/",
+            "http://utdifguizdidizfo.ru/",
+            "http://sndiuenidniueifo.ru/",
+            "http://fieooeoafheififo.ru/",
+            "http://sefuhsuifhishffo.ru/",
+            "http://sirfuhsihfiugrif.su/",
+            "http://fsoufsefenugnufo.ru/",
+            "http://ofeideinieghihif.su/",
+            "http://srgsifijsjigjhif.su/"
+        ],
+        "files_written": [
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\History\\History.IE5",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\IETldCache",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Windows Security Update.exe",
+            "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\winsvcmgr.exe",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2668619834.exe",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\3318238988.exe",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\1D6GPM8S\\1[1].exe",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\EGZE81HD\\1[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\EGZE81HD\\2[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\EGZE81HD\\2[2].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\1[1].exe",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\S7CGAYIV\\3[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@fieooeoafheififo[1].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@fieooeoafheififo[2].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@fieooeoafheififo[3].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@fieooeoafheififo[4].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@fieooeoafheififo[5].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@fieooeoafheififo[6].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Windows Security Update.exe",
+            "C:\\Windows\\60806747560730080",
+            "C:\\Windows\\60806747560730080\\winsvcs.exe",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\S7CGAYIV\\4[1].htm",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2892524812.exe",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\1D6GPM8S\\3[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\1D6GPM8S\\4[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\1D6GPM8S\\5[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\1[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\2[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\2[2].htm",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@sefuhsuifhishffo[1].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@sefuhsuifhishffo[2].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@sefuhsuifhishffo[3].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@sefuhsuifhishffo[4].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@sefuhsuifhishffo[5].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@sefuhsuifhishffo[6].txt",
+            "C:\\WINDOWS\\60806747560730080\\winsvcs.exe",
+            "C:\\DiskX\\.lnk",
+            "C:\\DiskX\\_\\DeviceManager.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1596325651.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2263429825.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\1260511025.exe",
+            "C:\\4591028ee2d06e6e5fa7dc3ce5b874f55b08eb0ec371a2f18dc98e291660ad75",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2685933033.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\1226436990.exe"
+        ],
+        "signature_matches": [
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "contain loop",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: contain loop\n    authors:\n      - moritz.raabe@mandiant.com\n    lib: true\n    scopes:\n      static: function\n      dynamic: unsupported  # requires characteristic features\n    examples:\n      - 08AC667C65D36D6542917655571E61C8:0x406EAA\n  features:\n    - or:\n      - characteristic: loop\n      - characteristic: tight loop\n      - characteristic: recursive call\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "packed with generic packer",
+                "description": "anti-analysis/packer/generic",
+                "authors": [
+                    "william.ballenthin@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: packed with generic packer\n    namespace: anti-analysis/packer/generic\n    authors:\n      - william.ballenthin@mandiant.com\n    scopes:\n      static: function\n      dynamic: unsupported\n    att&ck:\n      - Defense Evasion::Obfuscated Files or Information::Software Packing [T1027.002]\n    mbc:\n      - Anti-Static Analysis::Software Packing::Standard Compression [F0001.002]\n    examples:\n      - Practical Malware Analysis Lab 18-01.exe_:0x409dc0\n  features:\n    - and:\n      - or:\n        - mnemonic: pusha\n        - mnemonic: pushad  # vivisect\n      - or:\n        - mnemonic: popa\n        - mnemonic: popad  # vivisect\n      - characteristic: cross section flow\n      - not:\n        - match: contain pusha popa sequence\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "packed with UPX",
+                "description": "anti-analysis/packer/upx",
+                "authors": [
+                    "william.ballenthin@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: packed with UPX\n    namespace: anti-analysis/packer/upx\n    authors:\n      - william.ballenthin@mandiant.com\n    scopes:\n      static: file\n      dynamic: file\n    att&ck:\n      - Defense Evasion::Obfuscated Files or Information::Software Packing [T1027.002]\n    mbc:\n      - Anti-Static Analysis::Software Packing::UPX [F0001.008]\n    examples:\n      - CD2CBA9E6313E8DF2C1273593E649682\n      - Practical Malware Analysis Lab 01-02.exe_:0x0401000\n  features:\n    - or:\n      - and:\n        - format: pe\n        - or:\n          - section: UPX0\n          - section: UPX1\n      - and:\n        - format: elf\n        - or:\n          - string: \"UPX!\"\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "(internal) packer file limitation",
+                "description": "internal/limitation/file : This sample appears to be packed.\n\nPacked samples have often been obfuscated to hide their logic.\ncapa cannot handle obfuscation well using static analysis. This means the results may be misleading or incomplete.\nIf possible, you should try to unpack this input file before analyzing it with capa.\nAlternatively, run the sample in a supported sandbox and invoke capa against the report to obtain dynamic analysis results.\n",
+                "authors": [
+                    "william.ballenthin@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: (internal) packer file limitation\n    namespace: internal/limitation/file\n    authors:\n      - william.ballenthin@mandiant.com\n    description: |\n      This sample appears to be packed.\n\n      Packed samples have often been obfuscated to hide their logic.\n      capa cannot handle obfuscation well using static analysis. This means the results may be misleading or incomplete.\n      If possible, you should try to unpack this input file before analyzing it with capa.\n      Alternatively, run the sample in a supported sandbox and invoke capa against the report to obtain dynamic analysis results.\n    scopes:\n      static: file\n      dynamic: file\n    examples:\n      - CD2CBA9E6313E8DF2C1273593E649682\n  features:\n    - or:\n      - match: anti-analysis/packer\n"
+            }
+        ],
+        "verdict_confidence": 70,
+        "mutexes_opened": [
+            "ShimCacheMutex",
+            "_!MSFTHISTORY!_",
+            "c:!documents and settings!administrator!local settings!temporary internet files!content.ie5!",
+            "c:!documents and settings!administrator!cookies!",
+            "c:!documents and settings!administrator!local settings!history!history.ie5!",
+            "WininetStartupMutex",
+            "WininetConnectionMutex",
+            "WininetProxyRegistryMutex",
+            "RasPbFile",
+            "6905074",
+            "9493030305902"
+        ],
+        "files_deleted": [
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\EGZE81HD\\1[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\EGZE81HD\\2[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\1[1].exe",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\S7CGAYIV\\3[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@fieooeoafheififo[1].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@fieooeoafheififo[2].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@fieooeoafheififo[3].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@fieooeoafheififo[4].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@fieooeoafheififo[5].txt",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\S7CGAYIV\\4[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\1D6GPM8S\\3[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\1D6GPM8S\\4[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\1D6GPM8S\\5[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\1[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\2[1].htm",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@sefuhsuifhishffo[1].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@sefuhsuifhishffo[2].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@sefuhsuifhishffo[3].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@sefuhsuifhishffo[4].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@sefuhsuifhishffo[5].txt",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\1[1].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\2[1].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\3[1].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\4[1].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\5[1].exe",
+            "C:\\4591028ee2d06e6e5fa7dc3ce5b874f55b08eb0ec371a2f18dc98e291660ad75:Zone.Identifier",
+            "C:\\WINDOWS\\60806747560730080\\winsvcs.exe:Zone.Identifier",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\1260511025.exe:Zone.Identifier",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2195741143.exe:Zone.Identifier",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\4226210860.exe:Zone.Identifier",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2900620115.exe:Zone.Identifier",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2206632936.exe:Zone.Identifier",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2321919591.exe:Zone.Identifier",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2550639180.exe:Zone.Identifier",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\1668422339.exe:Zone.Identifier",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\1260511025.exe:Zone.Iduentifier",
+            "C:\\WINDOWS\\8148262213223903\\winzdwc.exe:Zone.Iduentifier",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2685933033.exe:Zone.Identifier"
+        ],
+        "registry_keys_set": [
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\drivers\\ndis.sys[MofResourceName]",
+                "value": "LowDateTime:-1971493113,HighDateTime:30676308***Binary mof failed, see WMIPROV.LOG"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\System32\\Drivers\\portcls.SYS[PortclsMof]",
+                "value": "LowDateTime:-1221632304,HighDateTime:30487028***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\drivers\\en-US\\ACPI.sys.mui[ACPIMOFResource]",
+                "value": "LowDateTime:-403062016,HighDateTime:30016570***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\DRIVERS\\HDAudBus.sys[HDAudioMofName]",
+                "value": "LowDateTime:-1867536076,HighDateTime:30116016***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\System32\\Drivers\\en-US\\portcls.SYS.mui[PortclsMof]",
+                "value": "LowDateTime:-503062016,HighDateTime:30016570***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\advapi32.dll[MofResourceName]",
+                "value": "LowDateTime:-1337772912,HighDateTime:30778796***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\en-US\\advapi32.dll.mui[MofResourceName]",
+                "value": "LowDateTime:-1270310445,HighDateTime:30778796***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\drivers\\en-US\\mssmbios.sys.mui[MofResource]",
+                "value": "LowDateTime:-143062016,HighDateTime:30016570***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\DRIVERS\\en-US\\HDAudBus.sys.mui[HDAudioMofName]",
+                "value": "LowDateTime:-2018029312,HighDateTime:30016571***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\drivers\\en-US\\ndis.sys.mui[MofResourceName]",
+                "value": "LowDateTime:-1258029312,HighDateTime:30016571***Binary mof failed, see WMIPROV.LOG"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\DRIVERS\\en-US\\intelppm.sys.mui[PROCESSORWMI]",
+                "value": "LowDateTime:2076937984,HighDateTime:30016571***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\IDE\\DiskAMDX_HARDDISK___________________________2.5+____\\5&2770a7af&0&0.0.0_0-{05901221-D566-11d1-B2F0-00A0C9062910}",
+                "value": "LowDateTime:803713417,HighDateTime:0***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\DRIVERS\\intelppm.sys[PROCESSORWMI]",
+                "value": "LowDateTime:-2085707242,HighDateTime:30778791***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\drivers\\ACPI.sys[ACPIMOFResource]",
+                "value": "LowDateTime:-1241494372,HighDateTime:30646958***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\DRIVERS\\monitor.sys[MonitorWMI]"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\drivers\\mssmbios.sys[MofResource]",
+                "value": "LowDateTime:2004871927,HighDateTime:30733930***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\BackupRestore\\FilesNotToBackup\\BITS_LOG",
+                "value": "%windir%\\System32\\Bits.log"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\BackupRestore\\FilesNotToBackup\\BITS_BAK",
+                "value": "%windir%\\System32\\Bits.bak"
+            },
+            {
+                "key": "HKU\\S-1-5-21-575823232-3065301323-1442773979-1000\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\Content\\CachePrefix"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{85b7e34c-9e98-11ea-9481-167c9a143b00}\\DefaultObjectStore\\LruList\\CurrentLru"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows NT\\CurrentVersion\\SystemRestore\\DisableSR",
+                "value": "1"
+            },
+            {
+                "key": "HKU\\S-1-5-21-575823232-3065301323-1442773979-1000\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ProxyServer",
+                "value": "%HTTP_PROXY%:8080"
+            },
+            {
+                "key": "HKU\\S-1-5-21-575823232-3065301323-1442773979-1000\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ProxyEnable",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Services\\BITS\\Performance\\PerfMMFileName",
+                "value": "Global\\MMF_BITS_s"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\TimeZoneInformation\\ActiveTimeBias",
+                "value": "4294967176"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{85b7e34c-9e98-11ea-9481-167c9a143b00}\\DefaultObjectStore\\_CurrentObjectId_"
+            },
+            {
+                "key": "HKU\\S-1-5-21-575823232-3065301323-1442773979-1000\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\\\Microsoft Windows Services",
+                "value": "%windir%\\60806747560730080\\winsvcs.exe"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\CIMOM\\ConfigValueEssNeedsLoading",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\CIMOM\\List of event-active namespaces",
+                "value": "00 00 54 00 45 00 76 00 65 00 6E 00 74 00 4C 00 6F 00 67 00 45 00 76 00 65 00 6E 00 74 00 43 00 6F 00 6E 00 73 00 75 00 6D 00 65 00 72 00"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{85b7e34c-9e98-11ea-9481-167c9a143b00}\\DefaultObjectStore\\IndexTable\\FileIdIndex-{853201e6-2d75-11ea-a138-806e6f6e6963}\\_IndexName_"
+            },
+            {
+                "key": "\\\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Time Zones\\Iran Standard Time\\TZI"
+            },
+            {
+                "key": "HKU\\S-1-5-21-575823232-3065301323-1442773979-1000\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\Cookies\\CachePrefix",
+                "value": "Cookie:"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Security Center\\FirewallOverride",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Security Center\\FirewallDisableNotify",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Security Center\\AntiVirusDisableNotify",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Security Center\\UpdatesDisableNotify",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Security Center\\AutoUpdateDisableNotify",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Security Center\\UpdatesOverride",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Security Center\\AntiVirusOverride",
+                "value": "1"
+            },
+            {
+                "key": "HKU\\S-1-5-21-575823232-3065301323-1442773979-1000\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\\\AutoDetect",
+                "value": "1"
+            },
+            {
+                "key": "HKU\\S-1-5-21-575823232-3065301323-1442773979-1000\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\\\UNCAsIntranet",
+                "value": "0"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\WBEM\\PROVIDERS\\Performance\\Performance Refresh",
+                "value": "0"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\WBEM\\PROVIDERS\\Performance\\Performance Refreshed",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\WBEM\\PROVIDERS\\Performance\\Performance Data",
+                "value": "28 1B 00 00 01 00 00 00 00 00 00 00 10 00 00 00 18 1B 00 00 09 00 00 00 9A 00 00 00 01 00 00 00 01 00 00 00 40 00 00 00 1A 00 00 00 5C 00 5C 00 2E 00 5C 00 72 00 6F 00 6F 00 74 00 5C 00 77 00 6D 00 69 00 00 00 00 00 00 00 00 00 00 00 00 00 C0 01 00 00 04 00 00 00 08 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 64 00 00 00 68 00 00 00 3A 00 00 00 4D 00 53 00 69 00 53 00 43 00 53 00 49 00 5F 00 43 00 6F 00 6E 00 6E 00 65 00 63 00 74 00 69 00 6F 00 6E 00 53 00 74 00 61 00 74 00 69 00 73 00 74 00 69 00 63 00 73 00 00 00 00 00 00 00 00 00 00 00 00 00 30 00 00 00 1A 00 00 00 49 00 6E 00 73 00 74 00 61 00 6E 00 63 00 65 00 4E 00 61 00 6D 00 65 00 00 00 2F 20 4D 6F 64 75 6C 65 20 4E 61 6D 65 3A 48 00 00 00 00 00 00 00 02 00 00 00 15 00 00 00 00 00 00 00 64 00 00 00 00 05 41 10 48 00 00 00 1C 00 00 00 42 00 79 00 74 00 65 00 73 00 52 00 65 00 63 00 65 00 69 00 76 00 65 00 64 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 04 00 00 00 15 00 00 00 00 00 00 00 64 00 00 00 00 05 41 10 40 00 00 00 14 00 00 00 42 0"
+            },
+            {
+                "key": "\\\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Time Zones\\Middle East Standard Time\\TZI"
+            },
+            {
+                "key": "HKU\\S-1-5-21-575823232-3065301323-1442773979-1000\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Connections\\SavedLegacySettings",
+                "value": "46 00 00 00 1A 01 00 00 03 00 00 00 14 00 00 00 65 78 74 72 61 63 74 6F 72 2E 70 72 6F 78 79 3A 38 30 38 30 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 D0 5C 01 4D C1 D5 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Run\\\\Microsoft Windows Services",
+                "value": "%windir%\\60806747560730080\\winsvcs.exe"
+            },
+            {
+                "key": "HKU\\S-1-5-21-575823232-3065301323-1442773979-1000\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\History\\CachePrefix",
+                "value": "Visited:"
+            },
+            {
+                "key": "\\\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Time Zones\\Greenland Standard Time\\TZI"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\BITS\\StateIndex",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Perflib\\Last Counter",
+                "value": "12642"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Perflib\\Last Help",
+                "value": "12643"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Perflib\\Updating"
+            },
+            {
+                "key": "\\\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Time Zones\\Paraguay Standard Time\\TZI"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\Nsi\\{eb004a03-9b1a-11d4-9123-0050047759bc}\\22\\(Default)"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\Nsi\\{eb004a03-9b1a-11d4-9123-0050047759bc}\\24\\ffffffffffffffffffffffffffffff00",
+                "value": "00 00 00 00 00 00 00 00 00 00 00 00 FF FF FF FF FF FF FF FF FF FF FF FF"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\Nsi\\{eb004a03-9b1a-11d4-9123-0050047759bc}\\24\\ffffffffffffffffffffffffffffff01",
+                "value": "00 00 00 00 8C 00 00 00 27 00 00 00 FF FF FF FF FF FF FF FF FF FF FF FF"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\Nsi\\{eb004a03-9b1a-11d4-9123-0050047759bc}\\24\\ffffffffffffffffffffffffffffff02",
+                "value": "01 00 00 00 5A 00 00 00 D6 17 00 00 FF FF FF FF FF FF FF FF FF FF FF FF"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\Nsi\\{eb004a03-9b1a-11d4-9123-0050047759bc}\\24\\ffffffffffffffffffffffffffffff03",
+                "value": "00 00 00 00 00 00 00 00 00 00 00 00 FF FF FF FF FF FF FF FF FF FF FF FF"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Connections\\DefaultConnectionSettings"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Connections\\SavedLegacySettings"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ProxyEnable",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\52-54-00-e8-7d-69\\WpadDecision",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\52-54-00-e8-7d-69\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\52-54-00-e8-7d-69\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{905BF5F9-0C7D-491A-B3F4-60ED5FA637EB}\\WpadDecision",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{905BF5F9-0C7D-491A-B3F4-60ED5FA637EB}\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{905BF5F9-0C7D-491A-B3F4-60ED5FA637EB}\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{905BF5F9-0C7D-491A-B3F4-60ED5FA637EB}\\WpadNetworkName",
+                "value": "\u7f51\u7edc  9"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\DisableRegistryTools",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\DisableTaskMgr",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Services",
+                "value": "C:\\Windows\\60806747560730080\\winsvcs.exe"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Security Center\\AntiVirusDisableNotify",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Security Center\\AntiVirusOverride",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Security Center\\AutoUpdateDisableNotify",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Security Center\\FirewallDisableNotify",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Security Center\\FirewallOverride",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Security Center\\UpdatesDisableNotify",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Security Center\\UpdatesOverride",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\winsvcs_RASAPI32\\ConsoleTracingMask",
+                "value": "4294901760"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\winsvcs_RASAPI32\\EnableConsoleTracing",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\winsvcs_RASAPI32\\EnableFileTracing",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\winsvcs_RASAPI32\\FileDirectory",
+                "value": "%windir%\\tracing"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\winsvcs_RASAPI32\\FileTracingMask",
+                "value": "4294901760"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\winsvcs_RASAPI32\\MaxFileSize",
+                "value": "1048576"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\winsvcs_RASMANCS\\ConsoleTracingMask",
+                "value": "4294901760"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\winsvcs_RASMANCS\\EnableConsoleTracing",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\winsvcs_RASMANCS\\EnableFileTracing",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\winsvcs_RASMANCS\\FileDirectory",
+                "value": "%windir%\\tracing"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\winsvcs_RASMANCS\\FileTracingMask",
+                "value": "4294901760"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\winsvcs_RASMANCS\\MaxFileSize",
+                "value": "1048576"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\SystemRestore\\DisableSR",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Services",
+                "value": "C:\\Windows\\60806747560730080\\winsvcs.exe"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\WpadLastNetwork",
+                "value": "{905BF5F9-0C7D-491A-B3F4-60ED5FA637EB}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\AutoDetect",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\UNCAsIntranet",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\52-54-00-3c-4c-27\\WpadDecision",
+                "value": "3"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\52-54-00-3c-4c-27\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\52-54-00-3c-4c-27\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{6BA9EEFB-09D5-46C7-B1BC-4F857FBD194D}\\WpadDecision",
+                "value": "3"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{6BA9EEFB-09D5-46C7-B1BC-4F857FBD194D}\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{6BA9EEFB-09D5-46C7-B1BC-4F857FBD194D}\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{6BA9EEFB-09D5-46C7-B1BC-4F857FBD194D}\\WpadNetworkName",
+                "value": "\u7f51\u7edc  9"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\WpadLastNetwork",
+                "value": "{6BA9EEFB-09D5-46C7-B1BC-4F857FBD194D}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\52-54-00-e8-7d-69\\WpadDecision",
+                "value": "3"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{6AF71931-B1CE-430D-B841-BBC659B1438C}\\WpadDecision",
+                "value": "3"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{6AF71931-B1CE-430D-B841-BBC659B1438C}\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{6AF71931-B1CE-430D-B841-BBC659B1438C}\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{6AF71931-B1CE-430D-B841-BBC659B1438C}\\WpadNetworkName",
+                "value": "\u7f51\u7edc  9"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\WpadLastNetwork",
+                "value": "{6AF71931-B1CE-430D-B841-BBC659B1438C}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{8F4DA6CB-4362-45B1-A188-0D23CEC66F99}\\WpadDecision",
+                "value": "3"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{8F4DA6CB-4362-45B1-A188-0D23CEC66F99}\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{8F4DA6CB-4362-45B1-A188-0D23CEC66F99}\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{8F4DA6CB-4362-45B1-A188-0D23CEC66F99}\\WpadNetworkName",
+                "value": "\u7f51\u7edc  9"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\WpadLastNetwork",
+                "value": "{8F4DA6CB-4362-45B1-A188-0D23CEC66F99}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{BB19C87B-12A4-4C31-948F-50519D123ABC}\\WpadDecision",
+                "value": "3"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{BB19C87B-12A4-4C31-948F-50519D123ABC}\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{BB19C87B-12A4-4C31-948F-50519D123ABC}\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{BB19C87B-12A4-4C31-948F-50519D123ABC}\\WpadNetworkName",
+                "value": "\u7f51\u7edc  9"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\WpadLastNetwork",
+                "value": "{BB19C87B-12A4-4C31-948F-50519D123ABC}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{F953C8DF-D1DD-4765-8E36-74FA8A560347}\\WpadDecision",
+                "value": "3"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{F953C8DF-D1DD-4765-8E36-74FA8A560347}\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{F953C8DF-D1DD-4765-8E36-74FA8A560347}\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{F953C8DF-D1DD-4765-8E36-74FA8A560347}\\WpadNetworkName",
+                "value": "\u7f51\u7edc  9"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\WpadLastNetwork",
+                "value": "{F953C8DF-D1DD-4765-8E36-74FA8A560347}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{C4058AA4-CB11-4992-BC3A-44A9A38398B6}\\WpadDecision",
+                "value": "3"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{C4058AA4-CB11-4992-BC3A-44A9A38398B6}\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{C4058AA4-CB11-4992-BC3A-44A9A38398B6}\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{C4058AA4-CB11-4992-BC3A-44A9A38398B6}\\WpadNetworkName",
+                "value": "\u7f51\u7edc  9"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\WpadLastNetwork",
+                "value": "{C4058AA4-CB11-4992-BC3A-44A9A38398B6}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{C062CBD1-8412-4254-BDA4-7E1BD83420F9}\\WpadDecision",
+                "value": "3"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{C062CBD1-8412-4254-BDA4-7E1BD83420F9}\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{C062CBD1-8412-4254-BDA4-7E1BD83420F9}\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{C062CBD1-8412-4254-BDA4-7E1BD83420F9}\\WpadNetworkName",
+                "value": "\u7f51\u7edc  9"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\WpadLastNetwork",
+                "value": "{C062CBD1-8412-4254-BDA4-7E1BD83420F9}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{94DB4A5A-F49F-47C8-8433-BDE04BB3E17C}\\WpadDecision",
+                "value": "3"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{94DB4A5A-F49F-47C8-8433-BDE04BB3E17C}\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{94DB4A5A-F49F-47C8-8433-BDE04BB3E17C}\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{94DB4A5A-F49F-47C8-8433-BDE04BB3E17C}\\WpadNetworkName",
+                "value": "\u7f51\u7edc  9"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\WpadLastNetwork",
+                "value": "{94DB4A5A-F49F-47C8-8433-BDE04BB3E17C}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{0CC28D59-54C3-405F-8A59-7A73AA5B7280}\\WpadDecision",
+                "value": "3"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{0CC28D59-54C3-405F-8A59-7A73AA5B7280}\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{0CC28D59-54C3-405F-8A59-7A73AA5B7280}\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{0CC28D59-54C3-405F-8A59-7A73AA5B7280}\\WpadNetworkName",
+                "value": "\u7f51\u7edc  9"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\WpadLastNetwork",
+                "value": "{0CC28D59-54C3-405F-8A59-7A73AA5B7280}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{0ABEADBB-0723-4780-8BF9-0C2086D7F4C2}\\WpadDecision",
+                "value": "3"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{0ABEADBB-0723-4780-8BF9-0C2086D7F4C2}\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{0ABEADBB-0723-4780-8BF9-0C2086D7F4C2}\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{0ABEADBB-0723-4780-8BF9-0C2086D7F4C2}\\WpadNetworkName",
+                "value": "\u7f51\u7edc  9"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\WpadLastNetwork",
+                "value": "{0ABEADBB-0723-4780-8BF9-0C2086D7F4C2}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{9642DA9C-0409-4394-92A4-9949876E6563}\\WpadDecision",
+                "value": "3"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{9642DA9C-0409-4394-92A4-9949876E6563}\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{9642DA9C-0409-4394-92A4-9949876E6563}\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{9642DA9C-0409-4394-92A4-9949876E6563}\\WpadNetworkName",
+                "value": "\u7f51\u7edc  9"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\WpadLastNetwork",
+                "value": "{9642DA9C-0409-4394-92A4-9949876E6563}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\52-54-00-3c-4c-27\\WpadDecision",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{21BBBCAB-F0AA-4C18-8AB6-EC32878D131D}\\WpadDecision",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{21BBBCAB-F0AA-4C18-8AB6-EC32878D131D}\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{21BBBCAB-F0AA-4C18-8AB6-EC32878D131D}\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{21BBBCAB-F0AA-4C18-8AB6-EC32878D131D}\\WpadNetworkName",
+                "value": "\u7f51\u7edc  9"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\WpadLastNetwork",
+                "value": "{21BBBCAB-F0AA-4C18-8AB6-EC32878D131D}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{03EBD4C0-58D6-4E74-971B-73A58EC065F8}\\WpadDecision",
+                "value": "3"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{03EBD4C0-58D6-4E74-971B-73A58EC065F8}\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{03EBD4C0-58D6-4E74-971B-73A58EC065F8}\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{03EBD4C0-58D6-4E74-971B-73A58EC065F8}\\WpadNetworkName",
+                "value": "\u7f51\u7edc  9"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\WpadLastNetwork",
+                "value": "{03EBD4C0-58D6-4E74-971B-73A58EC065F8}"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Services",
+                "value": "C:\\WINDOWS\\60806747560730080\\winsvcs.exe\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Services",
+                "value": "C:\\WINDOWS\\60806747560730080\\winsvcs.exe\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\SharedAccess\\Parameters\\FirewallPolicy\\StandardProfile\\AuthorizedApplications\\List\\C:\\WINDOWS\\60806747560730080\\winsvcs.exe",
+                "value": "C:\\WINDOWS\\60806747560730080\\winsvcs.exe:*:Enabled:Microsoft Windows Services\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\DisableTaskMgr",
+                "value": "01000000"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\DisableRegistryTools",
+                "value": "01000000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\AntiVirusOverride",
+                "value": "01000000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\UpdatesOverride",
+                "value": "01000000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\FirewallOverride",
+                "value": "01000000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\AntiVirusDisableNotify",
+                "value": "01000000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\UpdatesDisableNotify",
+                "value": "01000000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\AutoUpdateDisableNotify",
+                "value": "01000000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\FirewallDisableNotify",
+                "value": "01000000"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Connections\\SavedLegacySettings",
+                "value": "3C0000003800000001000000000000000000000000000000010000000000000090B1E438DC92C60101000000C0A871FA0000000000000000"
+            }
+        ],
+        "registry_keys_opened": [
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\52-54-00-e8-7d-69",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{905BF5F9-0C7D-491A-B3F4-60ED5FA637EB}",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{905BF5F9-0C7D-491A-B3F4-60ED5FA637EB}\\52-54-00-e8-7d-69",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\winsvcs_RASAPI32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\winsvcs_RASMANCS",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\52-54-00-3c-4c-27",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{6BA9EEFB-09D5-46C7-B1BC-4F857FBD194D}",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{6BA9EEFB-09D5-46C7-B1BC-4F857FBD194D}\\52-54-00-3c-4c-27",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{6AF71931-B1CE-430D-B841-BBC659B1438C}",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{6AF71931-B1CE-430D-B841-BBC659B1438C}\\52-54-00-e8-7d-69",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{8F4DA6CB-4362-45B1-A188-0D23CEC66F99}",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{8F4DA6CB-4362-45B1-A188-0D23CEC66F99}\\52-54-00-e8-7d-69",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{BB19C87B-12A4-4C31-948F-50519D123ABC}",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{BB19C87B-12A4-4C31-948F-50519D123ABC}\\52-54-00-3c-4c-27",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{F953C8DF-D1DD-4765-8E36-74FA8A560347}",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{F953C8DF-D1DD-4765-8E36-74FA8A560347}\\52-54-00-e8-7d-69",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{C4058AA4-CB11-4992-BC3A-44A9A38398B6}",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{C4058AA4-CB11-4992-BC3A-44A9A38398B6}\\52-54-00-e8-7d-69",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{C062CBD1-8412-4254-BDA4-7E1BD83420F9}",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{C062CBD1-8412-4254-BDA4-7E1BD83420F9}\\52-54-00-e8-7d-69",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{94DB4A5A-F49F-47C8-8433-BDE04BB3E17C}",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{94DB4A5A-F49F-47C8-8433-BDE04BB3E17C}\\52-54-00-3c-4c-27",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{0CC28D59-54C3-405F-8A59-7A73AA5B7280}",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{0CC28D59-54C3-405F-8A59-7A73AA5B7280}\\52-54-00-3c-4c-27",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{0ABEADBB-0723-4780-8BF9-0C2086D7F4C2}",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{0ABEADBB-0723-4780-8BF9-0C2086D7F4C2}\\52-54-00-3c-4c-27",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{9642DA9C-0409-4394-92A4-9949876E6563}",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{9642DA9C-0409-4394-92A4-9949876E6563}\\52-54-00-e8-7d-69",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{21BBBCAB-F0AA-4C18-8AB6-EC32878D131D}",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{21BBBCAB-F0AA-4C18-8AB6-EC32878D131D}\\52-54-00-3c-4c-27",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{03EBD4C0-58D6-4E74-971B-73A58EC065F8}",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{03EBD4C0-58D6-4E74-971B-73A58EC065F8}\\52-54-00-e8-7d-69",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\996E.exe",
+            "\\Registry\\MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\TransparentEnabled",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\MSASN1.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\CRYPT32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WININET.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\comctl32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ntdll.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\KERNEL32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\GDI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USER32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\Secur32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\RPCRT4.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ADVAPI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\msvcrt.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WS2HELP.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WS2_32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SHLWAPI.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\PSAPI.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ole32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\OLEAUT32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\winime32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\IMM32.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USP10.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\LPK.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\VERSION.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\urlmon.dll",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Security_HKLM_only",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains\\",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains\\",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Ranges\\",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Ranges\\",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SHELL32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\msvcr100.dll",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\",
+            "\\Registry\\MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\AppCertDlls",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\Apphelp.dll",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\AuthenticodeEnabled",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\LevelObjects",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\Levels",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths\\{dda3f824-d8cb-441b-834d-be2efd2c1a33}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths\\{dda3f824-d8cb-441b-834d-be2efd2c1a33}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths\\{dda3f824-d8cb-441b-834d-be2efd2c1a33}\\SaferFlags",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}\\SaferFlags",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}\\SaferFlags",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}\\SaferFlags",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}\\SaferFlags",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}\\SaferFlags",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\UrlZones",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Paths",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Hashes",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\UrlZones",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Paths",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Hashes",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\UrlZones",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Paths",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Hashes",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\UrlZones",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Paths",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Hashes",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\UrlZones",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\DefaultLevel",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\PolicyScope",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Cache",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\LogFileName",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\winsvcs.exe",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\SharedAccess\\Parameters\\FirewallPolicy\\StandardProfile\\AuthorizedApplications\\List\\C:\\WINDOWS\\60806747560730080\\winsvcs.exe",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows Defender",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\DisableTaskMgr",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\DisableRegistryTools",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\AntiVirusOverride",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\UpdatesOverride",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\FirewallOverride",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\AntiVirusDisableNotify",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\UpdatesDisableNotify",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\AutoUpdateDisableNotify",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\FirewallDisableNotify",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\Svc",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\MSCTF.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\COMRes.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\CLBCATQ.DLL",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\policies\\Explorer\\NoInternetIcon",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoInternetIcon",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\policies\\Explorer\\NoControlPanel",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoControlPanel",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\policies\\Explorer\\NoSetFolders",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoSetFolders",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SETUPAPI.dll",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\System\\DNSclient",
+            "\\REGISTRY\\MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\winsvcs.exe\\RpcThreadPoolThrottle",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Rpc",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\Hidden",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\HideFileExt",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\ShowSuperHidden",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Personal",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Common Documents",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Desktop",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Common Desktop",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500_CLASSES\\.exe",
+            "\\Registry\\Machine\\Software\\Classes\\.exe",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500_Classes\\.exe",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\LINKINFO.dll",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Classes\\Network\\SharingHandler\\",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ATL.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\NETAPI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USERENV.dll",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Local Settings",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows\\System",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ntshrui.dll",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Desktop\\NameSpace\\{1f4de370-d627-11d1-ba4f-00a0c91eedba}\\SuppressionPolicy",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Desktop\\NameSpace\\{450D8FBA-AD25-11D0-98A8-0800361B1103}\\SuppressionPolicy",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Desktop\\NameSpace\\{645FF040-5081-101B-9F08-00AA002F954E}\\SuppressionPolicy",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Desktop\\NameSpace\\{e17d4fc0-5564-11d1-83f2-00a0c90dc849}\\SuppressionPolicy",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\appHelp.dll",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\EnableHttp1_1",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ProxyHttp1.1",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\IMAGEHLP.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WINTRUST.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WLDAP32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\CRYPTUI.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\RichEd20.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\shdocvw.dll",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Cache",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Cookies",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\History",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Start Menu",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Common Start Menu",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Common AppData",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\AppData",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\My Pictures",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\CommonPictures",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\CommonMusic",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\CommonVideo",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\wsock32.dll",
+            "\\REGISTRY\\MACHINE\\System\\CurrentControlSet\\Services\\WinSock2\\Parameters",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\WinSock_Registry_Version",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Serial_Access_Num",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\00000007",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Next_Catalog_Entry_ID",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Num_Catalog_Entries",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000001",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000001\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000002",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000002\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000003",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000003\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000004",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000004\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000005",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000005\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000006",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000006\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000007",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000007\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000008",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000008\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000009",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000009\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000010",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000010\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000011",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000011\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000012",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000012\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000013",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000013\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000014",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000014\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000015",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000015\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Serial_Access_Num",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\00000004",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Num_Catalog_Entries",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\LibraryPath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\DisplayString",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\ProviderId",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\AddressFamily",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\SupportedNameSpace",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\Enabled",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\Version",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\StoresServiceClassInfo",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\LibraryPath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\DisplayString",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\ProviderId",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\AddressFamily",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\SupportedNameSpace",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\Enabled",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\Version",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\StoresServiceClassInfo",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\LibraryPath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\DisplayString",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\ProviderId",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\AddressFamily",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\SupportedNameSpace",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\Enabled",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\Version",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\StoresServiceClassInfo",
+            "\\REGISTRY\\MACHINE\\System\\CurrentControlSet\\Services\\Winsock2\\Parameters",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Ws2_32NumHandleBuckets",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Ws2_32SpinCount",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\rasman.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\rtutils.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WINMM.dll",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\wave",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\wave1",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\wave2",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\wave3",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\wave4",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\wave5",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\wave6",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\wave7",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\wave8",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\wave9",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\midi",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\midi1",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\midi2",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\midi3",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\midi4",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\midi5",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\midi6",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\midi7",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\midi8",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\midi9",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\aux",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\aux1",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\aux2",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\aux3",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\aux4",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\aux5",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\aux6",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\aux7",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\aux8",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\aux9",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\mixer",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\mixer1",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\mixer2",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\mixer3",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\mixer4",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\mixer5",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\mixer6",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\mixer7",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\mixer8",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\mixer9",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\TAPI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\RASAPI32.DLL"
+        ],
+        "verdict_labels": [
+            "Phorpiex",
+            "Zenpack"
+        ],
+        "verdicts": [
+            "MALWARE"
+        ],
+        "ip_traffic": [
+            {
+                "destination_ip": "173.231.184.54",
+                "destination_port": 80
+            },
+            {
+                "destination_ip": "92.63.197.153",
+                "destination_port": 80
+            },
+            {
+                "destination_ip": "173.231.189.29",
+                "destination_port": 80
+            },
+            {
+                "destination_ip": "92.63.197.153",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "173.231.184.52",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "173.231.184.57",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "92.63.197.59",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            }
+        ],
+        "files_copied": [
+            {
+                "source": "C:\\analyse\\1557375657.501581_5a480b3e-c253-4de5-808c-65f4d33d8901",
+                "destination": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\winsvcmgr.exe"
+            },
+            {
+                "source": "C:\\analyse\\1557375657.501581_5a480b3e-c253-4de5-808c-65f4d33d8901",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1557375657.501581_5a480b3e-c253-4de5-808c-65f4d33d8901",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1558518308.2999284_748df642-57b7-480e-90ae-a5f0bb88d811",
+                "destination": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\winsvcmgr.exe"
+            },
+            {
+                "source": "C:\\analyse\\1558518308.2999284_748df642-57b7-480e-90ae-a5f0bb88d811",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1558518308.2999284_748df642-57b7-480e-90ae-a5f0bb88d811",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1574347796.1901152_b1eb9ae0-bb5a-4e6d-88d7-bc841c292d39",
+                "destination": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\winsvcmgr.exe"
+            },
+            {
+                "source": "C:\\analyse\\1574347796.1901152_b1eb9ae0-bb5a-4e6d-88d7-bc841c292d39",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1574347796.1901152_b1eb9ae0-bb5a-4e6d-88d7-bc841c292d39",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1574654010.309149_3d53404e-5aee-41cc-92d1-ff68e29de171",
+                "destination": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\winsvcmgr.exe"
+            },
+            {
+                "source": "C:\\analyse\\1574654010.309149_3d53404e-5aee-41cc-92d1-ff68e29de171",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1574654010.309149_3d53404e-5aee-41cc-92d1-ff68e29de171",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1574958872.1471078_2f7d62b7-b1ef-4d7f-bc6f-5f7356f9a448",
+                "destination": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\winsvcmgr.exe"
+            },
+            {
+                "source": "C:\\analyse\\1574958872.1471078_2f7d62b7-b1ef-4d7f-bc6f-5f7356f9a448",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1574958872.1471078_2f7d62b7-b1ef-4d7f-bc6f-5f7356f9a448",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1575771770.3761973_5970542e-62c0-427f-84f7-1c1f82210881",
+                "destination": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\winsvcmgr.exe"
+            },
+            {
+                "source": "C:\\analyse\\1575771770.3761973_5970542e-62c0-427f-84f7-1c1f82210881",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1575771770.3761973_5970542e-62c0-427f-84f7-1c1f82210881",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1576907082.5743601_0b805ba6-9f63-4723-b56c-c490f9ef0328",
+                "destination": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\winsvcmgr.exe"
+            },
+            {
+                "source": "C:\\analyse\\1576907082.5743601_0b805ba6-9f63-4723-b56c-c490f9ef0328",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1576907082.5743601_0b805ba6-9f63-4723-b56c-c490f9ef0328",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1577325263.189753_83f26390-95ca-44a8-a97a-5cea062792dc",
+                "destination": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\winsvcmgr.exe"
+            },
+            {
+                "source": "C:\\analyse\\1577325263.189753_83f26390-95ca-44a8-a97a-5cea062792dc",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1577325263.189753_83f26390-95ca-44a8-a97a-5cea062792dc",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1577993958.1765978_6426c31d-dfe6-4108-81b3-e8747e3a2f13",
+                "destination": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\winsvcmgr.exe"
+            },
+            {
+                "source": "C:\\analyse\\1577993958.1765978_6426c31d-dfe6-4108-81b3-e8747e3a2f13",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1577993958.1765978_6426c31d-dfe6-4108-81b3-e8747e3a2f13",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1578631819.4493308_1eebf448-cb60-4b67-92d6-d2c6092b985d",
+                "destination": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\winsvcmgr.exe"
+            },
+            {
+                "source": "C:\\analyse\\1578631819.4493308_1eebf448-cb60-4b67-92d6-d2c6092b985d",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1578631819.4493308_1eebf448-cb60-4b67-92d6-d2c6092b985d",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1587186669.4108796_d0a3cb59-7e02-4cfb-abb6-60de7352cc76",
+                "destination": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\winsvcmgr.exe"
+            },
+            {
+                "source": "C:\\analyse\\1587186669.4108796_d0a3cb59-7e02-4cfb-abb6-60de7352cc76",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1587186669.4108796_d0a3cb59-7e02-4cfb-abb6-60de7352cc76",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1587688450.6725607_11b08e3b-2828-4719-b8ef-152bb5a41ea0",
+                "destination": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\winsvcmgr.exe"
+            },
+            {
+                "source": "C:\\analyse\\1587688450.6725607_11b08e3b-2828-4719-b8ef-152bb5a41ea0",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1587688450.6725607_11b08e3b-2828-4719-b8ef-152bb5a41ea0",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1587971303.6015806_57f4d9e8-758d-49a5-a3c8-7af99205fa9b",
+                "destination": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\winsvcmgr.exe"
+            },
+            {
+                "source": "C:\\analyse\\1587971303.6015806_57f4d9e8-758d-49a5-a3c8-7af99205fa9b",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1587971303.6015806_57f4d9e8-758d-49a5-a3c8-7af99205fa9b",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1589514177.7757287_5ad8e69c-5be8-4294-9ac0-d9eecc05a534",
+                "destination": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\winsvcmgr.exe"
+            },
+            {
+                "source": "C:\\analyse\\1589514177.7757287_5ad8e69c-5be8-4294-9ac0-d9eecc05a534",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1589514177.7757287_5ad8e69c-5be8-4294-9ac0-d9eecc05a534",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1590132385.6097023_3728ea2a-fc51-4b39-955d-ef003c09f29b",
+                "destination": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\winsvcmgr.exe"
+            },
+            {
+                "source": "C:\\analyse\\1590132385.6097023_3728ea2a-fc51-4b39-955d-ef003c09f29b",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\analyse\\1590132385.6097023_3728ea2a-fc51-4b39-955d-ef003c09f29b",
+                "destination": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Windows Security Update.exe"
+            },
+            {
+                "source": "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe ",
+                "destination": "C:\\WINDOWS\\60806747560730080\\winsvcs.exe "
+            },
+            {
+                "source": "C:\\WINDOWS\\60806747560730080\\winsvcs.exe ",
+                "destination": "X:\\\\_\\DeviceManager.exe "
+            },
+            {
+                "source": "C:\\4591028ee2d06e6e5fa7dc3ce5b874f55b08eb0ec371a2f18dc98e291660ad75",
+                "destination": "C:\\WINDOWS\\60806747560730080\\winsvcs.exe"
+            },
+            {
+                "source": "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\1260511025.exe",
+                "destination": "C:\\WINDOWS\\8148262213223903\\winzdwc.exe"
+            }
+        ],
+        "mitre_attack_techniques": [
+            {
+                "id": "T1027.002",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "packed with generic packer",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "packed with generic packer"
+                    }
+                ]
+            },
+            {
+                "id": "T1027.002",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "packed with UPX",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "packed with UPX"
+                    }
+                ]
+            }
+        ],
+        "command_executions": [
+            "%SAMPLEPATH%",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\3318238988.exe",
+            "C:\\Windows\\60806747560730080\\winsvcs.exe",
+            " ",
+            "\"C:\\WINDOWS\\system32\\cmd.exe\" /c move /y \"X:\\\\.\", \"X:\\\\_\\.\"",
+            "\"C:\\WINDOWS\\system32\\cmd.exe\" /c move /y \"X:\\\\..\", \"X:\\\\_\\..\"",
+            "\"C:\\WINDOWS\\system32\\cmd.exe\" /c move /y \"X:\\\\.lnk-newfile\", \"X:\\\\_\\.lnk-newfile\"",
+            "\"C:\\WINDOWS\\system32\\cmd.exe\" /c move /y \"X:\\\\.lnk-samplefile\", \"X:\\\\_\\.lnk-samplefile\"",
+            "(open) C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2195741143.exe(null) [(null)]",
+            "(open) C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\4226210860.exe(null) [(null)]",
+            "(open) C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2900620115.exe(null) [(null)]",
+            "(open) C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2206632936.exe(null) [(null)]",
+            "(open) C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2321919591.exe(null) [(null)]",
+            "(open) C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\2550639180.exe(null) [(null)]",
+            "(open) C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\1668422339.exe(null) [(null)]"
+        ],
+        "memory_pattern_domains": [
+            "fisiejdajijejgfo.ru",
+            "uaihefiuieagugif.su",
+            "sfuhseidueiihfif.su",
+            "soijodneoiauoefo.ru",
+            "eiufhiedniunegfo.ru",
+            "iusrhiufhsirurfo.ru",
+            "sfuhseidueiihffo.ru",
+            "seiiamefiaigaefo.ru",
+            "sirfuhsihfiugrfo.ru",
+            "eioeiufuisefnifo.ru",
+            "iandiwuiwnnugufo.ru",
+            "sisfiusnrsruisfo.ru",
+            "eaojefiuaugueuif.su",
+            "eaojefiuaugueufo.ru",
+            "fiueafnuieniuafo.ru",
+            "srgsiuhedufiusfo.ru",
+            "ffoeefsheuesihfo.ru",
+            "uaihefiuieagugfo.ru",
+            "sriuedueiuiefgif.su",
+            "ofeideinieghihfo.ru",
+            "sriuedueiuiefgfo.ru",
+            "diowiwiiwinfiffo.ru",
+            "sisfiusnrsruisif.su",
+            "srgsiuhedufiusif.su",
+            "fieooeoafheifiif.su",
+            "ffoeefsheuesihif.su",
+            "sefuhsuifhishfif.su",
+            "ifuhaeiuaeuigrfo.ru",
+            "fiuehiaueifuiifo.ru",
+            "srgsifijsjigjhfo.ru",
+            "eiufhiedniunegif.su",
+            "giuediaudnudunfo.ru",
+            "siufhseifhurgrfo.ru",
+            "fnauendaieghidfo.ru",
+            "utdifguizdidizif.su",
+            "fisiejdajijejgif.su",
+            "sfiushiudneinefo.ru",
+            "utdifguizdidizfo.ru",
+            "sndiuenidniueifo.ru",
+            "fieooeoafheififo.ru",
+            "sefuhsuifhishffo.ru",
+            "sirfuhsihfiugrif.su",
+            "fsoufsefenugnufo.ru",
+            "ofeideinieghihif.su",
+            "srgsifijsjigjhif.su"
+        ],
+        "mutexes_created": [
+            "6905074",
+            "IESQMMUTEX_0_208",
+            "Local\\!IETld!Mutex",
+            "Local\\WininetProxyRegistryMutex",
+            "Local\\WininetStartupMutex",
+            "Local\\_!MSFTHISTORY!_",
+            "Local\\c:!users!administrator!appdata!local!microsoft!windows!history!history.ie5!",
+            "Local\\c:!users!administrator!appdata!local!microsoft!windows!temporary internet files!content.ie5!",
+            "Local\\c:!users!administrator!appdata!roaming!microsoft!windows!cookies!",
+            "Local\\c:!users!administrator!appdata!roaming!microsoft!windows!ietldcache!",
+            "RasPbFile",
+            "Local\\ZoneAttributeCacheCounterMutex",
+            "Local\\ZonesCacheCounterMutex",
+            "Local\\ZonesCounterMutex",
+            "Local\\ZonesLockedCacheCounterMutex",
+            "ZonesCounterMutex",
+            "ZonesCacheCounterMutex",
+            "ZonesLockedCacheCounterMutex",
+            "CTF.LBES.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.Compart.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.Asm.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.Layouts.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.TMD.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.TimListCache.FMPDefaultS-1-5-21-1482476501-1645522239-1417001333-500MUTEX.DefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "ShimCacheMutex"
+        ],
+        "mbc": [
+            {
+                "id": "F0001.002",
+                "objective": "Anti-Static Analysis",
+                "behavior": "Software Packing",
+                "method": "Standard Compression",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "packed with generic packer"
+                    }
+                ]
+            },
+            {
+                "id": "F0001.008",
+                "objective": "Anti-Static Analysis",
+                "behavior": "Software Packing",
+                "method": "UPX",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "packed with UPX"
+                    }
+                ]
+            }
+        ],
+        "modules_loaded": [
+            "KERNEL32.DLL",
+            "GDI32.dll",
+            "USER32.dll",
+            "kernel32.dll",
+            "MSVCRT.dll",
+            "advapi32.dll",
+            "comctl32.dll",
+            "KERNEL32",
+            "DisableImprovedZoneCheck",
+            "SHLWAPI.dll",
+            "KERNEL32.dll",
+            "ADVAPI32.dll",
+            "imm32.dll",
+            "ole32.dll",
+            "ntdll.dll",
+            "C:\\WINDOWS\\system32\\MSCTF.dll",
+            "NTDLL.DLL",
+            "shell32.dll",
+            "C:\\WINDOWS\\system32\\SHELL32.dll",
+            "rpcrt4.dll",
+            "ntshrui.dll",
+            "Comctl32.dll",
+            "Secur32.dll",
+            "C:\\WINDOWS\\system32\\shdocvw.dll",
+            "RPCRT4.dll",
+            "ws2_32",
+            "RASAPI32.DLL",
+            "RasPbFile",
+            "RTUTILS.DLL",
+            "netapi32.dll",
+            "WS2HELP.dll",
+            "hnetcfg.dll",
+            "C:\\WINDOWS\\System32\\wshtcpip.dll",
+            "C:\\WINDOWS\\system32\\urlmon.dll",
+            "C:\\WINDOWS\\system32\\cmd.exe",
+            "gdi32.dll",
+            "user32.dll",
+            "msvcrt.dll",
+            "wininet.dll",
+            "urlmon.dll",
+            "shlwapi.dll",
+            "msvcr100.dll",
+            "secur32.dll",
+            "wsock32",
+            "rasapi32.dll",
+            "rtutils.dll",
+            "rasman.dll",
+            "c:\\windows\\system32\\msv1_0.dll",
+            "sensapi.dll",
+            "userenv.dll",
+            "c:\\windows\\system32\\mswsock.dll",
+            "c:\\windows\\system32\\wshtcpip.dll",
+            "dnsapi.dll",
+            "rasadhlp.dll",
+            "netapi32",
+            "setupapi.dll",
+            "clbcatq.dll",
+            "version.dll",
+            "mlang.dll",
+            "ws2_32.dll"
+        ],
+        "processes_tree": [
+            {
+                "process_id": "2152",
+                "name": "%windir%\\System32\\svchost.exe -k WerSvcGroup"
+            },
+            {
+                "process_id": "2936",
+                "name": "%windir%\\System32\\svchost.exe -k WerSvcGroup"
+            },
+            {
+                "process_id": "2992",
+                "name": "wmiadap.exe /F /T /R"
+            },
+            {
+                "process_id": "3032",
+                "name": "%windir%\\system32\\wbem\\wmiprvse.exe"
+            },
+            {
+                "process_id": "2884",
+                "name": "%windir%\\60806747560730080\\winsvcs.exe"
+            },
+            {
+                "process_id": "2576",
+                "name": "%SAMPLEPATH%",
+                "time_offset": 1,
+                "children": [
+                    {
+                        "process_id": "2652",
+                        "name": "%windir%\\60806747560730080\\winsvcs.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "2776",
+                "name": "%windir%\\system32\\DllHost.exe /Processid:{3EB3C877-1F16-487C-9050-104DBCD66683}"
+            },
+            {
+                "process_id": "2892",
+                "name": "\"%APPDATA%\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Windows Security Update.exe\""
+            },
+            {
+                "process_id": "2548",
+                "name": "****.exe",
+                "children": [
+                    {
+                        "process_id": "2720",
+                        "name": "winsvcs.exe",
+                        "children": [
+                            {
+                                "process_id": "2992",
+                                "name": "2263429825.exe"
+                            },
+                            {
+                                "process_id": "3004",
+                                "name": "1596325651.exe"
+                            },
+                            {
+                                "process_id": "2988",
+                                "name": "cmd.exe"
+                            },
+                            {
+                                "process_id": "3012",
+                                "name": "cmd.exe"
+                            },
+                            {
+                                "process_id": "3020",
+                                "name": "cmd.exe"
+                            },
+                            {
+                                "process_id": "3040",
+                                "name": "cmd.exe"
+                            },
+                            {
+                                "process_id": "3064",
+                                "name": "cmd.exe"
+                            },
+                            {
+                                "process_id": "3072",
+                                "name": "cmd.exe"
+                            },
+                            {
+                                "process_id": "3080",
+                                "name": "cmd.exe"
+                            },
+                            {
+                                "process_id": "3088",
+                                "name": "cmd.exe"
+                            },
+                            {
+                                "process_id": "3096",
+                                "name": "cmd.exe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "dns_lookups": [
+            {
+                "hostname": "sisfiusnrsruisfo.ru",
+                "resolved_ips": [
+                    "173.231.184.122",
+                    "173.231.184.57"
+                ]
+            },
+            {
+                "hostname": "srgsifijsjigjhfo.ru",
+                "resolved_ips": [
+                    "35.205.61.67"
+                ]
+            },
+            {
+                "hostname": "eaojefiuaugueufo.ru",
+                "resolved_ips": [
+                    "173.231.184.122",
+                    "173.231.184.57"
+                ]
+            },
+            {
+                "hostname": "ffoeefsheuesihfo.ru",
+                "resolved_ips": [
+                    "173.231.184.124",
+                    "173.231.184.52"
+                ]
+            },
+            {
+                "hostname": "sefuhsuifhishffo.ru",
+                "resolved_ips": [
+                    "173.231.189.15"
+                ]
+            },
+            {
+                "hostname": "fieooeoafheififo.ru",
+                "resolved_ips": [
+                    "173.231.184.124",
+                    "173.231.184.52"
+                ]
+            },
+            {
+                "hostname": "ofeideinieghihfo.ru",
+                "resolved_ips": [
+                    "173.231.184.52"
+                ]
+            },
+            {
+                "hostname": "gaieufhaefuefh.su"
+            },
+            {
+                "hostname": "isohgohrusurgd.su"
+            },
+            {
+                "hostname": "sfuhseidueiihffo.ru",
+                "resolved_ips": [
+                    "173.231.184.57"
+                ]
+            }
+        ],
+        "processes_injected": [
+            "1260511025.exe",
+            "winzdwc.exe"
+        ],
+        "attack_techniques": {
+            "T1027.002": [
+                {
+                    "severity": "INFO",
+                    "description": "packed with generic packer"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "packed with UPX"
+                }
+            ]
+        }
+    }
+}

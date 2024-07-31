@@ -1,0 +1,311 @@
+{
+    "data": {
+        "processes_created": [
+            "%SAMPLEPATH%\\C__PROGRA~3_Mozilla_ixxiuyl.exe",
+            "C:\\PROGRA~3\\Mozilla\\mpavlvn.exe"
+        ],
+        "registry_keys_set": [
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Schedule\\TaskCache\\Tasks\\{5E80E901-1B46-4F3D-A62F-49F56DB8E580}\\DynamicInfo"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Schedule\\TaskCache\\Tasks\\{5E80E901-1B46-4F3D-A62F-49F56DB8E580}\\Path"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Schedule\\TaskCache\\Tasks\\{5E80E901-1B46-4F3D-A62F-49F56DB8E580}\\Hash"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Schedule\\TaskCache\\Tasks\\{5E80E901-1B46-4F3D-A62F-49F56DB8E580}\\Triggers"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Schedule\\TaskCache\\Tree\\scdpkth\\Index"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Schedule\\TaskCache\\Tree\\scdpkth\\Id"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows\\AppInit_DLLs",
+                "value": "C:\\PROGRA~3\\Mozilla\\iswlzia.dll"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows\\LoadAppInit_DLLs",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows\\LoadAppInit_DLLs",
+                "value": "DWORD (0x00000001)"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Windows\\AppInit_DLLs",
+                "value": "C:\\DOCUME~1\\ALLUSE~1\\APPLIC~1\\Mozilla\\aopsara.dll\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Windows\\LoadAppInit_DLLs",
+                "value": "01000000"
+            }
+        ],
+        "verdict_confidence": 50,
+        "files_deleted": [
+            "C:\\PROGRA~3\\Mozilla\\ixxiuyl.exewvhjaaa.tmp"
+        ],
+        "verdicts": [
+            "STEALER"
+        ],
+        "files_written": [
+            "C:\\Documents and Settings\\All Users\\Application Data\\Mozilla\\byiamvi.exe",
+            "C:\\WINDOWS\\Tasks\\rwdqoxi.job",
+            "C:\\Documents and Settings\\All Users\\Application Data\\Mozilla\\aopsara.dll",
+            "C:\\PROGRA~3\\Mozilla\\ixxiuyl.exe"
+        ],
+        "calls_highlighted": [
+            "GetTickCount"
+        ],
+        "processes_tree": [
+            {
+                "process_id": "2264",
+                "name": "%windir%\\System32\\svchost.exe -k WerSvcGroup"
+            },
+            {
+                "process_id": "2912",
+                "name": "C:\\PROGRA~3\\Mozilla\\cvfwqdm.exe -ryuitec"
+            },
+            {
+                "process_id": "2948",
+                "name": "wmiadap.exe /F /T /R"
+            },
+            {
+                "process_id": "2732",
+                "name": "taskeng.exe {378B219F-7F7F-479C-807E-D870B44A5C4F}",
+                "children": [
+                    {
+                        "process_id": "2768",
+                        "name": "C:\\PROGRA~3\\Mozilla\\cvfwqdm.exe -ryuitec"
+                    }
+                ]
+            },
+            {
+                "process_id": "2660",
+                "name": "%SAMPLEPATH%",
+                "time_offset": 3
+            },
+            {
+                "process_id": "2996",
+                "name": "%windir%\\system32\\wbem\\wmiprvse.exe"
+            },
+            {
+                "process_id": "2996",
+                "name": "%WINDIR%\\explorer.exe",
+                "children": [
+                    {
+                        "process_id": "3948",
+                        "name": "%SAMPLEPATH%\\C__PROGRA~3_Mozilla_ixxiuyl.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "912",
+                "name": "-",
+                "children": [
+                    {
+                        "process_id": "3776",
+                        "name": "C:\\PROGRA~3\\Mozilla\\mpavlvn.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "348",
+                "name": "****.exe"
+            },
+            {
+                "process_id": "988",
+                "name": "svchost.exe",
+                "children": [
+                    {
+                        "process_id": "1632",
+                        "name": "byiamvi.exe"
+                    }
+                ]
+            }
+        ],
+        "mutexes_opened": [
+            "ShimCacheMutex"
+        ],
+        "files_dropped": [
+            {
+                "path": "C:\\PROGRA~3\\Mozilla\\cvfwqdm.exe",
+                "sha256": "8f4c148ae5cb8141f1247356877c20e14f34ba0cbc1b252654eacd7195c6115b"
+            },
+            {
+                "path": "C:\\ProgramData\\Mozilla"
+            },
+            {
+                "path": "C:\\PROGRA~3\\Mozilla\\mpavlvn.exe"
+            },
+            {
+                "path": "C:\\Windows\\System32\\Tasks\\dkemncd"
+            },
+            {
+                "path": "C:\\PROGRA~3\\Mozilla\\citxdrf.dll"
+            },
+            {
+                "path": "C:\\PROGRA~3\\Mozilla\\ixxiuyl.exe",
+                "sha256": "2afc02842256e61222784af2ef58d2e8e1b648528ee43f4b7d6f53f9b5da24a7"
+            }
+        ],
+        "mutexes_created": [
+            "CTF.LBES.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.Compart.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.Asm.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.Layouts.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.TMD.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.TimListCache.FMPDefaultS-1-5-21-1482476501-1645522239-1417001333-500MUTEX.DefaultS-1-5-21-1482476501-1645522239-1417001333-500"
+        ],
+        "modules_loaded": [
+            "user32",
+            "kernel32.dll",
+            "msvcrt.dll",
+            "KERNEL32.dll",
+            "USER32.dll",
+            "ADVAPI32.dll",
+            "comctl32.dll",
+            "imm32.dll",
+            "ole32.dll",
+            "OLEAUT32.dll",
+            "C:\\WINDOWS\\system32\\MSCTF.dll",
+            "version.dll",
+            "C:\\WINDOWS\\system32\\msctfime.ime",
+            "C:\\WINDOWS\\system32\\ole32.dll",
+            "KERNEL32.DLL",
+            "NTDLL.DLL",
+            "C:\\WINDOWS\\system32\\mstask.dll",
+            "Secur32.dll",
+            "C:\\WINDOWS\\system32\\SHELL32.dll",
+            "MPR.DLL",
+            "rpcrt4.dll",
+            "C:\\WINDOWS\\system32\\Msctf.dll",
+            "SHELL32.dll",
+            "API-MS-Win-Security-LSALookup-L1-1-0.dll"
+        ],
+        "processes_terminated": [
+            "%windir%\\System32\\svchost.exe -k WerSvcGroup",
+            "C:\\PROGRA~3\\Mozilla\\cvfwqdm.exe -ryuitec",
+            "wmiadap.exe /F /T /R",
+            "taskeng.exe {378B219F-7F7F-479C-807E-D870B44A5C4F}",
+            "%SAMPLEPATH%",
+            "%SAMPLEPATH%\\C__PROGRA~3_Mozilla_ixxiuyl.exe",
+            "C:\\PROGRA~3\\Mozilla\\mpavlvn.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe",
+            "C:\\Documents and Settings\\All Users\\Application Data\\Mozilla\\byiamvi.exe"
+        ],
+        "files_copied": [
+            {
+                "source": "C:\\PROGRA~3\\Mozilla\\ixxiuyl.exe",
+                "destination": "C:\\PROGRA~3\\Mozilla\\ixxiuyl.exewvhjaaa.tmp"
+            }
+        ],
+        "files_opened": [
+            "C:\\WINDOWS\\system32\\winime32.dll",
+            "C:\\WINDOWS\\system32\\ws2_32.dll",
+            "C:\\WINDOWS\\system32\\ws2help.dll",
+            "C:\\WINDOWS\\system32\\psapi.dll",
+            "C:\\WINDOWS\\system32\\imm32.dll",
+            "C:\\WINDOWS\\system32\\lpk.dll",
+            "C:\\WINDOWS\\system32\\usp10.dll",
+            "C:\\WINDOWS\\system32\\shell32.dll",
+            "C:\\WINDOWS\\WinSxS\\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\\comctl32.dll",
+            "C:\\WINDOWS\\WindowsShell.Manifest",
+            "C:\\WINDOWS\\system32\\comctl32.dll",
+            "C:\\WINDOWS\\system32\\MSCTF.dll",
+            "C:\\WINDOWS\\system32\\MSCTFIME.IME",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe",
+            "C:\\WINDOWS\\system32\\rpcss.dll",
+            "C:\\WINDOWS\\system32\\clbcatq.dll",
+            "C:\\WINDOWS\\system32\\comres.dll",
+            "C:\\WINDOWS\\Registration\\R000000000007.clb",
+            "C:\\WINDOWS\\system32\\mstask.dll",
+            "C:\\WINDOWS\\system32\\ntdsapi.dll",
+            "C:\\WINDOWS\\system32\\dnsapi.dll",
+            "C:\\WINDOWS\\Tasks",
+            "C:\\WINDOWS\\Tasks\\rwdqoxi.job",
+            "C:\\ProgramData\\Mozilla\\",
+            "C:\\PROGRA~3\\Mozilla\\ixxiuyl.exe",
+            "C:\\PROGRA~3\\Mozilla\\ixxiuyl.exewvhjaaa.tmp",
+            "C:\\Windows\\SysWOW64\\taskschd.dll"
+        ],
+        "verdict_labels": [
+            "Lethic"
+        ],
+        "command_executions": [
+            "%SAMPLEPATH%",
+            "\"%SAMPLEPATH%\\C__PROGRA~3_Mozilla_ixxiuyl.exe\" ",
+            "C:\\PROGRA~3\\Mozilla\\mpavlvn.exe -zavmktg"
+        ],
+        "registry_keys_opened": [
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\996E.exe",
+            "\\Registry\\MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\TransparentEnabled",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SHELL32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\comctl32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ntdll.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\KERNEL32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\GDI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USER32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\Secur32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\RPCRT4.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ADVAPI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\msvcrt.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WS2HELP.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WS2_32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SHLWAPI.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\PSAPI.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ole32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\OLEAUT32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\winime32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\IMM32.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USP10.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\LPK.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\MSCTF.dll",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\IMM\\Ime File",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\version.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\msctfime.ime",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Common AppData",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\COMRes.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\VERSION.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\CLBCATQ.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\comdlg32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\MPR.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DNSAPI.dll",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\DnsClient",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\NETAPI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WLDAP32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\NTDSAPI.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USERENV.dll",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Personal",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Local Settings",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows\\System",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\mstask.dll",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\policies\\Explorer\\NoInternetIcon",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoInternetIcon",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\policies\\Explorer\\NoControlPanel",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoControlPanel",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\policies\\Explorer\\NoSetFolders",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoSetFolders",
+            "\\REGISTRY\\MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\996E.exe\\RpcThreadPoolThrottle",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Rpc",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\byiamvi.exe",
+            "\\REGISTRY\\MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\byiamvi.exe\\RpcThreadPoolThrottle",
+            "HKLM\\software\\classes\\Interface\\{00000610-0000-0010-8000-00aa006d2ea4}\\proxystubclsid",
+            "HKLM\\software\\classes\\Interface\\{00000610-0000-0010-8000-00aa006d2ea4}\\proxystubclsid\\0x0",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Common AppData",
+            "HKLM\\SOFTWARE\\Microsoft\\Cryptography",
+            "HKLM\\SOFTWARE\\Microsoft\\Cryptography\\MachineGuid"
+        ],
+        "tags": [
+            "DIRECT_CPU_CLOCK_ACCESS",
+            "RUNTIME_MODULES"
+        ]
+    }
+}

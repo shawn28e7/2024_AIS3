@@ -1,0 +1,638 @@
+{
+    "data": {
+        "registry_keys_set": [
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Office\\14.0\\Common\\LanguageResources\\EnabledLanguages",
+                "value": "2052"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Office\\14.0\\Common\\LanguageResources\\EnabledLanguages",
+                "value": "1033"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems",
+                "value": "\"{'"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Office\\14.0\\Outlook",
+                "value": "MTTT"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Office\\14.0\\Outlook\\SQM",
+                "value": "SQMSessionNumber"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Office\\14.0\\Outlook\\SQM",
+                "value": "SQMSessionDate"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Control Panel\\International",
+                "value": "iCalendarType"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows Messaging Subsystem\\Profiles\\Outlook\\0a0d020000000000c000000000000046",
+                "value": "00030429"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows Messaging Subsystem\\Profiles\\Outlook\\9375CFF0413111d3B88A00104B2A6676",
+                "value": "{ED475418-B0D6-11D2-8C3B-00104B2A6676}"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows Messaging Subsystem\\Profiles\\Outlook\\9375CFF0413111d3B88A00104B2A6676",
+                "value": "LastChangeVer"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00004109A10040800000000000F01FEC\\Usage",
+                "value": "OutlookMAPI2Intl_2052"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Classes\\Local Settings\\MuiCache\\bf\\AAF68885",
+                "value": "LanguageList"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Classes\\Local Settings\\MuiCache\\bf\\AAF68885",
+                "value": "C:\\Windows\\system32,@tzres.dll,-570"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Classes\\Local Settings\\MuiCache\\bf\\AAF68885",
+                "value": "C:\\Windows\\system32,@tzres.dll,-572"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Classes\\Local Settings\\MuiCache\\bf\\AAF68885",
+                "value": "C:\\Windows\\system32,@tzres.dll,-571"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00004109110000000000000000F01FEC\\Usage",
+                "value": "OUTLOOKFiles"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00004109110000000000000000F01FEC\\Usage",
+                "value": "ProductFiles"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00004109110000000000000000F01FEC\\Usage",
+                "value": "WORDFiles"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Classes\\Local Settings\\MuiCache\\bf\\AAF68885",
+                "value": "@%SystemRoot%\\system32\\mlang.dll,-4608"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems",
+                "value": ",(("
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows Messaging Subsystem\\Profiles\\Outlook\\0a0d020000000000c000000000000046",
+                "value": "000b046b"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00004109F10040800000000000F01FEC\\Usage",
+                "value": "TranslationChinese_2052"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems",
+                "value": ";\u007f("
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems",
+                "value": "dc("
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems4<y",
+                "value": "4<y\\x00X\\x0b\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00"
+            },
+            {
+                "key": "MTTT",
+                "value": "X\\x0b\\x00\\x00 t\\x92\\xb5\\xc4\\xe4\\xd7\\x01\\x00\\x00\\x00\\x00"
+            },
+            {
+                "key": "SQMSessionDate",
+                "value": "221375520"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00004109A10090400000000000F01FEC\\UsageOutlookMAPI2Intl_1033",
+                "value": "1400635394"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00004109110000000000000000F01FEC\\UsageOUTLOOKFiles",
+                "value": "1400635397"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00004109110000000000000000F01FEC\\UsageWORDFiles",
+                "value": "1400635415"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00004109110000000000000000F01FEC\\UsageProductFiles",
+                "value": "1400635485"
+            },
+            {
+                "key": "LastPurgeTime",
+                "value": "27302786"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItemsfy#",
+                "value": "fy#\\x00X\\x0b\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xd6\\x00\\x00\\x00\\x01\\x00\\x00\\x00~\\x00\\x00\\x00L\\x00\\x00\\x00c\\x00:\\x00\\\\x00p\\x00r\\x00o\\x00g\\x00r\\x00a\\x00m\\x00 \\x00f\\x00i\\x00l\\x00e\\x00s\\x00\\\\x00m\\x00i\\x00c\\x00r\\x00o\\x00s\\x00o\\x00f\\x00t\\x00 \\x00o\\x00f\\x00f\\x00i\\x00c\\x00e\\x00\\\\x00o\\x00f\\x00f\\x00i\\x00c\\x00e\\x001\\x004\\x00\\\\x00a\\x00d\\x00d\\x00i\\x00n\\x00s\\x00\\\\x00b\\x00c\\x00s\\x00a\\x00d\\x00d\\x00i\\x00n\\x00.\\x00d\\x00l\\x00l\\x00\\x00\\x00b\\x00u\\x00s\\x00i\\x00n\\x00e\\x00s\\x00s\\x00 \\x00c\\x00o\\x00n\\x00n\\x00e\\x00c\\x00t\\x00i\\x00v\\x00i\\x00t\\x00y\\x00 \\x00s\\x00e\\x00r\\x00v\\x00i\\x00c\\x00e\\x00s\\x00 \\x00a\\x00d\\x00d\\x00-\\x00i\\x00n\\x00\\x00\\x00"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItemsn\\x7f$",
+                "value": "n\\x7f$\\x00X\\x0b\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x01\\x00\\x00\\x01\\x00\\x00\\x00\\x8c\\x00\\x00\\x00h\\x00\\x00\\x00c\\x00:\\x00\\\\x00p\\x00r\\x00o\\x00g\\x00r\\x00a\\x00m\\x00 \\x00f\\x00i\\x00l\\x00e\\x00s\\x00\\\\x00m\\x00i\\x00c\\x00r\\x00o\\x00s\\x00o\\x00f\\x00t\\x00 \\x00o\\x00f\\x00f\\x00i\\x00c\\x00e\\x00\\\\x00o\\x00f\\x00f\\x00i\\x00c\\x00e\\x001\\x004\\x00\\\\x00a\\x00d\\x00d\\x00i\\x00n\\x00s\\x00\\\\x00c\\x00o\\x00l\\x00l\\x00e\\x00a\\x00g\\x00u\\x00e\\x00i\\x00m\\x00p\\x00o\\x00r\\x00t\\x00.\\x00d\\x00l\\x00l\\x00\\x00\\x00m\\x00i\\x00c\\x00r\\x00o\\x00s\\x00o\\x00f\\x00t\\x00 \\x00s\\x00h\\x00a\\x00r\\x00e\\x00p\\x00o\\x00i\\x00n\\x00t\\x00 \\x00s\\x00e\\x00r\\x00v\\x00e\\x00r\\x00 \\x00c\\x00o\\x00l\\x00l\\x00e\\x00a\\x00g\\x00u\\x00e\\x00 \\x00i\\x00m\\x00p\\x00o\\x00r\\x00t\\x00 \\x00a\\x00d\\x00d\\x00-\\x00i\\x00n\\x00\\x00\\x00"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems~\\x7f$",
+                "value": "~\\x7f$\\x00X\\x0b\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xd2\\x00\\x00\\x00\\x01\\x00\\x00\\x00V\\x00\\x00\\x00p\\x00\\x00\\x00c\\x00:\\x00\\\\x00p\\x00r\\x00o\\x00g\\x00r\\x00a\\x00~\\x001\\x00\\\\x00m\\x00i\\x00c\\x00r\\x00o\\x00s\\x00~\\x001\\x00\\\\x00o\\x00f\\x00f\\x00i\\x00c\\x00e\\x001\\x004\\x00\\\\x00g\\x00r\\x00o\\x00o\\x00v\\x00e\\x00e\\x00x\\x00.\\x00d\\x00l\\x00l\\x00\\x00\\x00m\\x00i\\x00c\\x00r\\x00o\\x00s\\x00o\\x00f\\x00t\\x00 \\x00s\\x00h\\x00a\\x00r\\x00e\\x00p\\x00o\\x00i\\x00n\\x00t\\x00 \\x00w\\x00o\\x00r\\x00k\\x00s\\x00p\\x00a\\x00c\\x00e\\x00 \\x00p\\x00r\\x00o\\x00x\\x00y\\x00 \\x00f\\x00o\\x00r\\x00 \\x00o\\x00u\\x00t\\x00l\\x00o\\x00o\\x00k\\x00 \\x00a\\x00d\\x00d\\x00-\\x00i\\x00n\\x00\\x00\\x00"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItemsd\"$",
+                "value": "d\"$\\x00X\\x0b\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xc0\\x00\\x00\\x00\\x01\\x00\\x00\\x00p\\x00\\x00\\x00D\\x00\\x00\\x00c\\x00:\\x00\\\\x00p\\x00r\\x00o\\x00g\\x00r\\x00a\\x00m\\x00 \\x00f\\x00i\\x00l\\x00e\\x00s\\x00\\\\x00m\\x00i\\x00c\\x00r\\x00o\\x00s\\x00o\\x00f\\x00t\\x00 \\x00o\\x00f\\x00f\\x00i\\x00c\\x00e\\x00\\\\x00o\\x00f\\x00f\\x00i\\x00c\\x00e\\x001\\x004\\x00\\\\x00o\\x00n\\x00b\\x00t\\x00t\\x00n\\x00o\\x00l\\x00.\\x00d\\x00l\\x00l\\x00\\x00\\x00o\\x00n\\x00e\\x00n\\x00o\\x00t\\x00e\\x00 \\x00n\\x00o\\x00t\\x00e\\x00s\\x00 \\x00a\\x00b\\x00o\\x00u\\x00t\\x00 \\x00o\\x00u\\x00t\\x00l\\x00o\\x00o\\x00k\\x00 \\x00i\\x00t\\x00e\\x00m\\x00s\\x00\\x00\\x00"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems2#$",
+                "value": "2#$\\x00X\\x0b\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xd0\\x00\\x00\\x00\\x01\\x00\\x00\\x00~\\x00\\x00\\x00F\\x00\\x00\\x00c\\x00:\\x00\\\\x00p\\x00r\\x00o\\x00g\\x00r\\x00a\\x00m\\x00 \\x00f\\x00i\\x00l\\x00e\\x00s\\x00\\\\x00m\\x00i\\x00c\\x00r\\x00o\\x00s\\x00o\\x00f\\x00t\\x00 \\x00o\\x00f\\x00f\\x00i\\x00c\\x00e\\x00\\\\x00o\\x00f\\x00f\\x00i\\x00c\\x00e\\x001\\x004\\x00\\\\x00s\\x00o\\x00c\\x00i\\x00a\\x00l\\x00c\\x00o\\x00n\\x00n\\x00e\\x00c\\x00t\\x00o\\x00r\\x00.\\x00d\\x00l\\x00l\\x00\\x00\\x00m\\x00i\\x00c\\x00r\\x00o\\x00s\\x00o\\x00f\\x00t\\x00 \\x00o\\x00u\\x00t\\x00l\\x00o\\x00o\\x00k\\x00 \\x00s\\x00o\\x00c\\x00i\\x00a\\x00l\\x00 \\x00c\\x00o\\x00n\\x00n\\x00e\\x00c\\x00t\\x00o\\x00r\\x00\\x00\\x00"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItemsz$$",
+                "value": "z$$\\x00X\\x0b\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xca\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x8a\\x00\\x00\\x004\\x00\\x00\\x00c\\x00:\\x00\\\\x00p\\x00r\\x00o\\x00g\\x00r\\x00a\\x00m\\x00 \\x00f\\x00i\\x00l\\x00e\\x00s\\x00\\\\x00m\\x00i\\x00c\\x00r\\x00o\\x00s\\x00o\\x00f\\x00t\\x00 \\x00o\\x00f\\x00f\\x00i\\x00c\\x00e\\x00\\\\x00o\\x00f\\x00f\\x00i\\x00c\\x00e\\x001\\x004\\x00\\\\x00a\\x00d\\x00d\\x00i\\x00n\\x00s\\x00\\\\x00u\\x00m\\x00o\\x00u\\x00t\\x00l\\x00o\\x00o\\x00k\\x00a\\x00d\\x00d\\x00i\\x00n\\x00.\\x00d\\x00l\\x00l\\x00\\x00\\x00m\\x00i\\x00c\\x00r\\x00o\\x00s\\x00o\\x00f\\x00t\\x00 \\x00e\\x00x\\x00c\\x00h\\x00a\\x00n\\x00g\\x00e\\x00 \\x00a\\x00d\\x00d\\x00-\\x00i\\x00n\\x00\\x00\\x00"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00004109A10090400000000000F01FEC\\UsageOUTLOOKFilesIntl_1033",
+                "value": "1400635396"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItemss%$",
+                "value": "s%$\\x00X\\x0b\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xd6\\x00\\x00\\x00\\x01\\x00\\x00\\x00~\\x00\\x00\\x00L\\x00\\x00\\x00c\\x00:\\x00\\\\x00p\\x00r\\x00o\\x00g\\x00r\\x00a\\x00m\\x00 \\x00f\\x00i\\x00l\\x00e\\x00s\\x00\\\\x00m\\x00i\\x00c\\x00r\\x00o\\x00s\\x00o\\x00f\\x00t\\x00 \\x00o\\x00f\\x00f\\x00i\\x00c\\x00e\\x00\\\\x00o\\x00f\\x00f\\x00i\\x00c\\x00e\\x001\\x004\\x00\\\\x00a\\x00d\\x00d\\x00i\\x00n\\x00s\\x00\\\\x00b\\x00c\\x00s\\x00a\\x00d\\x00d\\x00i\\x00n\\x00.\\x00d\\x00l\\x00l\\x00\\x00\\x00b\\x00u\\x00s\\x00i\\x00n\\x00e\\x00s\\x00s\\x00 \\x00c\\x00o\\x00n\\x00n\\x00e\\x00c\\x00t\\x00i\\x00v\\x00i\\x00t\\x00y\\x00 \\x00s\\x00e\\x00r\\x00v\\x00i\\x00c\\x00e\\x00s\\x00 \\x00a\\x00d\\x00d\\x00-\\x00i\\x00n\\x00\\x00\\x00"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItemss%$",
+                "value": "s%$\\x00X\\x0b\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xc0\\x00\\x00\\x00\\x01\\x00\\x00\\x00p\\x00\\x00\\x00D\\x00\\x00\\x00c\\x00:\\x00\\\\x00p\\x00r\\x00o\\x00g\\x00r\\x00a\\x00m\\x00 \\x00f\\x00i\\x00l\\x00e\\x00s\\x00\\\\x00m\\x00i\\x00c\\x00r\\x00o\\x00s\\x00o\\x00f\\x00t\\x00 \\x00o\\x00f\\x00f\\x00i\\x00c\\x00e\\x00\\\\x00o\\x00f\\x00f\\x00i\\x00c\\x00e\\x001\\x004\\x00\\\\x00o\\x00n\\x00b\\x00t\\x00t\\x00n\\x00o\\x00l\\x00.\\x00d\\x00l\\x00l\\x00\\x00\\x00o\\x00n\\x00e\\x00n\\x00o\\x00t\\x00e\\x00 \\x00n\\x00o\\x00t\\x00e\\x00s\\x00 \\x00a\\x00b\\x00o\\x00u\\x00t\\x00 \\x00o\\x00u\\x00t\\x00l\\x00o\\x00o\\x00k\\x00 \\x00i\\x00t\\x00e\\x00m\\x00s\\x00\\x00\\x00"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItemss%$",
+                "value": "s%$\\x00X\\x0b\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xd0\\x00\\x00\\x00\\x01\\x00\\x00\\x00~\\x00\\x00\\x00F\\x00\\x00\\x00c\\x00:\\x00\\\\x00p\\x00r\\x00o\\x00g\\x00r\\x00a\\x00m\\x00 \\x00f\\x00i\\x00l\\x00e\\x00s\\x00\\\\x00m\\x00i\\x00c\\x00r\\x00o\\x00s\\x00o\\x00f\\x00t\\x00 \\x00o\\x00f\\x00f\\x00i\\x00c\\x00e\\x00\\\\x00o\\x00f\\x00f\\x00i\\x00c\\x00e\\x001\\x004\\x00\\\\x00s\\x00o\\x00c\\x00i\\x00a\\x00l\\x00c\\x00o\\x00n\\x00n\\x00e\\x00c\\x00t\\x00o\\x00r\\x00.\\x00d\\x00l\\x00l\\x00\\x00\\x00m\\x00i\\x00c\\x00r\\x00o\\x00s\\x00o\\x00f\\x00t\\x00 \\x00o\\x00u\\x00t\\x00l\\x00o\\x00o\\x00k\\x00 \\x00s\\x00o\\x00c\\x00i\\x00a\\x00l\\x00 \\x00c\\x00o\\x00n\\x00n\\x00e\\x00c\\x00t\\x00o\\x00r\\x00\\x00\\x00"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItemss%$",
+                "value": "s%$\\x00X\\x0b\\x00\\x00\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xca\\x00\\x00\\x00\\x01\\x00\\x00\\x00\\x8a\\x00\\x00\\x004\\x00\\x00\\x00c\\x00:\\x00\\\\x00p\\x00r\\x00o\\x00g\\x00r\\x00a\\x00m\\x00 \\x00f\\x00i\\x00l\\x00e\\x00s\\x00\\\\x00m\\x00i\\x00c\\x00r\\x00o\\x00s\\x00o\\x00f\\x00t\\x00 \\x00o\\x00f\\x00f\\x00i\\x00c\\x00e\\x00\\\\x00o\\x00f\\x00f\\x00i\\x00c\\x00e\\x001\\x004\\x00\\\\x00a\\x00d\\x00d\\x00i\\x00n\\x00s\\x00\\\\x00u\\x00m\\x00o\\x00u\\x00t\\x00l\\x00o\\x00o\\x00k\\x00a\\x00d\\x00d\\x00i\\x00n\\x00.\\x00d\\x00l\\x00l\\x00\\x00\\x00m\\x00i\\x00c\\x00r\\x00o\\x00s\\x00o\\x00f\\x00t\\x00 \\x00e\\x00x\\x00c\\x00h\\x00a\\x00n\\x00g\\x00e\\x00 \\x00a\\x00d\\x00d\\x00-\\x00i\\x00n\\x00\\x00\\x00"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Office\\Outlook\\SocialConnectorCleanupFolder",
+                "value": "C:\\Users\\John\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\{C4A0C38F-AAA2-4174-B541-F87B82D6CBC7}"
+            },
+            {
+                "key": "{41B8C1FC-C3E1-48A3-84E7-A1C1B4FE3759}WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "{41B8C1FC-C3E1-48A3-84E7-A1C1B4FE3759}WpadDecisionTime",
+                "value": "\\xf0\\xae\\xd9\\xdd\\xea\\xe4\\xd7\\x01"
+            },
+            {
+                "key": "{41B8C1FC-C3E1-48A3-84E7-A1C1B4FE3759}WpadDecision",
+                "value": "3"
+            },
+            {
+                "key": "{41B8C1FC-C3E1-48A3-84E7-A1C1B4FE3759}WpadNetworkName",
+                "value": "Network  2"
+            },
+            {
+                "key": "52-54-00-e9-99-e1WpadDecisionTime",
+                "value": "\\xf0\\xae\\xd9\\xdd\\xea\\xe4\\xd7\\x01"
+            },
+            {
+                "key": "Software\\Microsoft\\windows\\CurrentVersion\\Internet Settings\\ConnectionsDefaultConnectionSettings",
+                "value": "F\\x00\\x00\\x00\\x04\\x00\\x00\\x00\t\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x04\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x10\\xc8\\xcd\\xdd\\xea\\xe4\\xd7\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x03\\x00\\x00\\x00\\x17\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xfe\\x80\\x00\\x00\\x00\\x00\\x00\\x00\\xc05\\x12\\xa7k\\xb0\nd\\x0e\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x17\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xfe\\x80\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00^\\xfe\n\\x14\\x0eH\\x14\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x0"
+            },
+            {
+                "key": "WpadLastNetwork",
+                "value": "{41B8C1FC-C3E1-48A3-84E7-A1C1B4FE3759}"
+            },
+            {
+                "key": "{41B8C1FC-C3E1-48A3-84E7-A1C1B4FE3759}WpadDecisionTime",
+                "value": " y\\x0f\\xf9\\xea\\xe4\\xd7\\x01"
+            },
+            {
+                "key": "{41B8C1FC-C3E1-48A3-84E7-A1C1B4FE3759}WpadDecision",
+                "value": "0"
+            },
+            {
+                "key": "52-54-00-e9-99-e1WpadDecisionTime",
+                "value": " y\\x0f\\xf9\\xea\\xe4\\xd7\\x01"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00004109110000000000000000F01FEC\\UsageWORDFiles",
+                "value": "1400635416"
+            },
+            {
+                "key": "0a0d020000000000c00000000000004600030487",
+                "value": "M\\xf31\r"
+            }
+        ],
+        "processes_tree": [
+            {
+                "process_id": "2392",
+                "name": "\"C:\\Program Files (x86)\\Microsoft Office\\Office14\\OUTLOOK.EXE\" /f \"${SamplePath}\\671ede00b5be118bab9238386fd3f7502ffa21f678d8f509b181d4a819524525.msg\" "
+            },
+            {
+                "process_id": "572",
+                "name": "svchost.exe"
+            },
+            {
+                "process_id": "464",
+                "name": "services.exe"
+            },
+            {
+                "process_id": "2904",
+                "name": "OUTLOOK.EXE"
+            }
+        ],
+        "modules_loaded": [
+            "C:\\Windows\\System32\\ntdll.dll",
+            "C:\\Windows\\SysWOW64\\ntdll.dll",
+            "C:\\Windows\\System32\\wow64.dll",
+            "C:\\Windows\\System32\\wow64win.dll",
+            "C:\\Windows\\System32\\wow64cpu.dll",
+            "C:\\Windows\\System32\\kernel32.dll",
+            "C:\\Windows\\SysWOW64\\kernel32.dll",
+            "C:\\Windows\\System32\\user32.dll",
+            "C:\\Windows\\SysWOW64\\KernelBase.dll",
+            "C:\\Windows\\SysWOW64\\version.dll",
+            "C:\\Windows\\SysWOW64\\msvcrt.dll",
+            "C:\\Windows\\winsxs\\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.7523_none_508f21ccbcbbb7a8\\msvcr90.dll",
+            "C:\\Windows\\SysWOW64\\advapi32.dll",
+            "C:\\Windows\\SysWOW64\\sechost.dll",
+            "C:\\Windows\\SysWOW64\\rpcrt4.dll",
+            "C:\\Windows\\SysWOW64\\sspicli.dll",
+            "C:\\Windows\\SysWOW64\\cryptbase.dll",
+            "C:\\Windows\\SysWOW64\\gdi32.dll",
+            "C:\\Windows\\SysWOW64\\user32.dll",
+            "C:\\Windows\\SysWOW64\\lpk.dll",
+            "C:\\Windows\\SysWOW64\\usp10.dll",
+            "C:\\Windows\\SysWOW64\\imm32.dll",
+            "C:\\Windows\\SysWOW64\\msctf.dll",
+            "C:\\Windows\\SysWOW64\\msi.dll",
+            "C:\\Windows\\SysWOW64\\shell32.dll",
+            "C:\\Windows\\SysWOW64\\shlwapi.dll",
+            "C:\\Windows\\SysWOW64\\ole32.dll",
+            "C:\\Windows\\winsxs\\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.7523_none_508f21ccbcbbb7a8\\msvcp90.dll",
+            "C:\\Windows\\SysWOW64\\apphelp.dll",
+            "C:\\Windows\\winsxs\\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.24203_none_5c030043a0118fbf\\GdiPlus.dll",
+            "C:\\Program Files (x86)\\Microsoft Office\\Office14\\DBGHELP.DLL",
+            "C:\\Windows\\SysWOW64\\ws2_32.dll",
+            "C:\\Windows\\SysWOW64\\nsi.dll",
+            "C:\\Windows\\SysWOW64\\psapi.dll",
+            "C:\\Windows\\SysWOW64\\oleaut32.dll",
+            "C:\\Windows\\SysWOW64\\setupapi.dll",
+            "C:\\Windows\\SysWOW64\\cfgmgr32.dll",
+            "C:\\Windows\\SysWOW64\\devobj.dll",
+            "C:\\Windows\\SysWOW64\\IPHLPAPI.DLL",
+            "C:\\Windows\\SysWOW64\\winnsi.dll",
+            "C:\\Windows\\SysWOW64\\api-ms-win-core-synch-l1-2-0.DLL",
+            "C:\\Windows\\SysWOW64\\imagehlp.dll",
+            "C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\OFFICE14\\MSO.DLL",
+            "C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\OFFICE14\\Cultures\\OFFICE.ODF",
+            "C:\\Windows\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\\comctl32.dll",
+            "C:\\Windows\\SysWOW64\\clbcatq.dll",
+            "C:\\Windows\\SysWOW64\\msimtf.dll",
+            "C:\\Program Files (x86)\\Microsoft Office\\Office14\\2052\\OUTLLIBR.DLL",
+            "C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\OFFICE14\\MSORES.DLL",
+            "C:\\Windows\\SysWOW64\\davclnt.dll",
+            "C:\\Windows\\SysWOW64\\davhlpr.dll",
+            "C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\OFFICE14\\2052\\MSOINTL.DLL",
+            "C:\\Windows\\SysWOW64\\mscoree.dll",
+            "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\mscoreei.dll",
+            "C:\\Windows\\Microsoft.NET\\Framework\\v2.0.50727\\mscorwks.dll",
+            "C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\OfficeSoftwareProtectionPlatform\\OSPPC.DLL",
+            "C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\OFFICE14\\RICHED20.DLL",
+            "C:\\Program Files (x86)\\Microsoft Office\\Office14\\OLMAPI32.DLL",
+            "C:\\Program Files (x86)\\Microsoft Office\\Office14\\2052\\MAPIR.DLL",
+            "C:\\Windows\\SysWOW64\\powrprof.dll",
+            "C:\\Windows\\SysWOW64\\ntmarta.dll",
+            "C:\\Windows\\SysWOW64\\Wldap32.dll",
+            "C:\\Program Files (x86)\\Microsoft Office\\Office14\\INTLDATE.DLL",
+            "C:\\Windows\\SysWOW64\\cryptsp.dll",
+            "C:\\Windows\\SysWOW64\\rsaenh.dll",
+            "C:\\Windows\\SysWOW64\\RpcRtRemote.dll",
+            "C:\\Windows\\SysWOW64\\dwmapi.dll",
+            "C:\\Windows\\SysWOW64\\uxtheme.dll",
+            "C:\\Program Files (x86)\\Microsoft Office\\Office14\\CONTAB32.DLL",
+            "C:\\Program Files (x86)\\Microsoft Office\\Office14\\OMSXP32.DLL",
+            "C:\\Windows\\SysWOW64\\urlmon.dll",
+            "C:\\Windows\\SysWOW64\\wininet.dll",
+            "C:\\Windows\\SysWOW64\\iertutil.dll",
+            "C:\\Windows\\SysWOW64\\crypt32.dll",
+            "C:\\Windows\\SysWOW64\\msasn1.dll",
+            "C:\\Windows\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\\comctl32.dll",
+            "C:\\Program Files (x86)\\Microsoft Office\\Office14\\MSPST32.DLL",
+            "C:\\Windows\\SysWOW64\\sfc.dll",
+            "C:\\Windows\\SysWOW64\\sfc_os.dll",
+            "C:\\Program Files (x86)\\Microsoft Office\\Office14\\EXSEC32.DLL",
+            "C:\\Windows\\SysWOW64\\tzres.dll",
+            "C:\\Program Files (x86)\\Common Files\\microsoft shared\\ink\\tiptsf.dll",
+            "C:\\Program Files (x86)\\Microsoft Office\\Office14\\RTFHTML.DLL",
+            "C:\\Program Files (x86)\\Microsoft Office\\Office14\\2052\\OMSINTL.DLL",
+            "C:\\Windows\\SysWOW64\\mlang.dll",
+            "C:\\Program Files (x86)\\Microsoft Office\\Office14\\WWLIB.DLL",
+            "C:\\Program Files (x86)\\Microsoft Office\\Office14\\GFX.DLL",
+            "C:\\Windows\\SysWOW64\\wtsapi32.dll",
+            "C:\\Windows\\SysWOW64\\msimg32.dll",
+            "C:\\Program Files (x86)\\Microsoft Office\\Office14\\OART.DLL",
+            "C:\\Program Files (x86)\\Microsoft Office\\Office14\\2052\\WWINTL.DLL",
+            "C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\OFFICE14\\MSPTLS.DLL",
+            "C:\\Windows\\SysWOW64\\propsys.dll",
+            "C:\\Windows\\SysWOW64\\msxml6.dll",
+            "ADVAPI32.dll",
+            "CRYPT32.dll",
+            "CRYPTSP.dll",
+            "Comctl32.dll",
+            "DHCPCSVC.dll",
+            "DavClnt.dll",
+            "GDI32.dll",
+            "GdiPlus.dll",
+            "IMM32.dll",
+            "MSIMG32.dll",
+            "MSPTLS.dll",
+            "OLEAUT32.dll",
+            "OMSMAIN.dll",
+            "OSPPC.dll",
+            "OUTLOOK.EXE.FOutlookIsBooting@0.dll",
+            "OUTLOOK.EXE.FOutlookIsResuming@0.dll",
+            "OUTLOOK.EXE.GetOutlookSafeModeState.dll",
+            "OUTLOOK.EXE.HrGetAMapProgressObject.dll",
+            "OUTLOOK.EXE.HrGetTCRebuildProgressObject.dll",
+            "OUTLOOK.EXE.OlkGetCodepageUI.dll",
+            "OUTLOOK.EXE.OlkGetResourceHandle.dll",
+            "POWRPROF.dll",
+            "PROPSYS.dll",
+            "PSTOREC.dll",
+            "RASAPI32.dll",
+            "RPCRT4.dll",
+            "RpcRtRemote.dll",
+            "SFC.dll",
+            "SHELL32.dll",
+            "SHLWAPI.dll",
+            "SOCIALCONNECTOR.dll",
+            "SXS.dll",
+            "URLMON.dll",
+            "USER32.dll",
+            "USP10.dll",
+            "VERSION.dll",
+            "WININET.dll",
+            "WindowsCodecs.dll",
+            "apphelp.dll",
+            "bcryptprimitives.dll",
+            "contab32.dll",
+            "cryptbase.dll",
+            "dhcpcsvc6.dll",
+            "dwmapi.dll",
+            "exsec32.dll",
+            "iphlpapi.dll",
+            "kernel32.dll",
+            "mscoree.dll",
+            "mscoreei.dll",
+            "msi.dll",
+            "msimtf.dll",
+            "mso.dll",
+            "mspst32.dll",
+            "normaliz.dll",
+            "ntmarta.dll",
+            "ole32.dll",
+            "olmapi32.dll",
+            "omsxp32.dll",
+            "rasman.dll",
+            "riched20.dll",
+            "rsaenh.dll",
+            "rtfhtml.dll",
+            "rtutils.dll",
+            "sechost.dll",
+            "uxtheme.dll",
+            "wwlib.dll"
+        ],
+        "command_executions": [
+            "\"C:\\Program Files\\Common Files\\Microsoft Shared\\OfficeSoftwareProtectionPlatform\\OSPPSVC.EXE\"",
+            "%WINDIR%\\System32\\svchost.exe -k WerSvcGroup",
+            "%WINDIR%\\System32\\wsqmcons.exe",
+            "%WINDIR%\\system32\\wbem\\wmiprvse.exe -Embedding",
+            "taskhost.exe $(Arg0)"
+        ],
+        "registry_keys_opened": [
+            "\\REGISTRY\\MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion",
+            "\\Registry\\MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\SideBySide",
+            "\\Registry\\Machine\\Software\\Wow6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DllNXOptions",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers",
+            "\\REGISTRY\\MACHINE\\software\\Wow6432Node\\microsoft\\office\\14.0\\common\\filespaths",
+            "\\REGISTRY\\MACHINE\\software\\microsoft\\office\\14.0\\common\\filespaths",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Office\\14.0",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Office\\14.0\\Common",
+            "\\Registry\\Machine\\Software\\Wow6432Node\\Microsoft\\Windows\\Tablet PC",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Policies",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Office\\Common",
+            "\\REGISTRY\\MACHINE\\Software\\Wow6432Node\\Microsoft\\SQMClient",
+            "\\REGISTRY\\MACHINE\\Software\\Wow6432Node\\Microsoft\\Office\\14.0\\Common\\ProductVersion",
+            "\\REGISTRY\\MACHINE\\Software\\Wow6432Node\\Microsoft\\Office\\14.0\\Common\\LanguageResources",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Office\\14.0\\Common\\LanguageResources\\EnabledLanguages",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Office\\14.0\\Common\\LanguageResources",
+            "\\Registry\\Machine\\System\\CurrentControlSet\\Control\\Nls\\CustomLocale",
+            "\\Registry\\Machine\\System\\CurrentControlSet\\Control\\Nls\\ExtendedLocale",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems\\s%$",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\TCPIP6\\Parameters\\Interfaces\\{9e137ef8-dcbd-499f-8b23-573d361f158e}\\SearchList",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems\\~\\x7f$",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems\\z$$",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems\\d\"$",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems\\n\\x7f$",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems\\4<y",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems\\2#$",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems\\fy#"
+        ],
+        "files_written": [
+            "C:\\Users\\Admin\\AppData\\Local\\Temp\\outlook logging\\firstrun.log",
+            "C:\\Users\\Admin\\Documents\\Outlook \u6587\u4ef6\\Outlook.pst",
+            "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Outlook\\mapisvc.inf",
+            "C:\\Users\\Admin\\AppData\\Roaming\\Microsoft\\Templates\\~$rmalEmail.dotm",
+            "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{5FCF8EFD-C51A-4C1E-8F3E-7A7076F7978F}.tmp",
+            "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{4944C0B1-B53D-4FAF-8F56-F68808E5AADD}.tmp",
+            "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.MSO\\89930E61.dat",
+            "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.MSO\\FBAB60EE.dat",
+            "C:\\Users\\<USER>\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.MSO\\6D5D896F.dat",
+            "C:\\Users\\<USER>\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.MSO\\B47891A6.dat",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\03f3694f9bcbd9d4d0ac29802be3abab.msg"
+        ],
+        "services_opened": [
+            "WSearch"
+        ],
+        "verdicts": [
+            "MALWARE"
+        ],
+        "mitre_attack_techniques": [
+            {
+                "id": "T1497.003"
+            },
+            {
+                "id": "T1082"
+            },
+            {
+                "id": "T1087.001"
+            },
+            {
+                "id": "T1033"
+            },
+            {
+                "id": "T1559.001"
+            },
+            {
+                "id": "T1055.004"
+            },
+            {
+                "id": "T1129"
+            }
+        ],
+        "registry_keys_deleted": [
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Control Panel\\MMCPL",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows Messaging Subsystem\\Profiles\\Outlook\\9207f3e0a3b11019908b08002b2a56c2",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems\\s%$",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems\\~\\x7f$",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems\\z$$",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems\\d\"$",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems\\n\\x7f$",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems\\4<y",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems\\2#$",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\14.0\\Outlook\\Resiliency\\StartupItems\\fy#"
+        ],
+        "services_started": [
+            "osppsvc",
+            "ProtectedStorage"
+        ],
+        "processes_terminated": [
+            "C:\\Program Files (x86)\\Microsoft Office\\Office14\\OUTLOOK.EXE"
+        ],
+        "files_dropped": [
+            {
+                "path": "C:\\Users\\Admin\\AppData\\Local\\Temp\\CVR1743.tmp",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "path": "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{4944C0B1-B53D-4FAF-8F56-F68808E5AADD}.tmp",
+                "sha256": "a91a632d3e0d78c04b2472aea6efdbecc61d205a6e0bbee9d130838e25b90b79"
+            },
+            {
+                "path": "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.MSO\\FBAB60EE.dat",
+                "sha256": "7c2301b4be5a7c62a327a962a2702bb77c207945cd3970bff09daedf87c7b77a"
+            },
+            {
+                "path": "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.MSO\\89930E61.dat",
+                "sha256": "2d0b0f93cb81e6f1a22cdcae97a286b92d1ad45374e6cfcc815259f61e858062"
+            },
+            {
+                "path": "C:\\Users\\Admin\\AppData\\Local\\Temp\\outlook logging\\firstrun.log",
+                "sha256": "2dce23d64a123b3501bad18f19e381e2b4fe71db0332ac89c83ddaeb59089a64"
+            },
+            {
+                "path": "C:\\Users\\Admin\\Documents\\Outlook \u6587\u4ef6\\~Outlook.pst.tmp",
+                "sha256": "dfe814e85da91174c2a7c0e5e16602b8c321d9fa5b3b7838bfbb8fead511618e"
+            },
+            {
+                "path": "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{5FCF8EFD-C51A-4C1E-8F3E-7A7076F7978F}.tmp",
+                "sha256": "4826c0d860af884d3343ca6460b0006a7a2ce7dbccc4d743208585d997cc5fd1"
+            },
+            {
+                "path": "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Outlook\\mapisvc.inf",
+                "sha256": "7bfe1f3691e2b4fb4d61fbf5e9f7782fbe49da1342dbd32201c2cc8e540dbd1a"
+            },
+            {
+                "path": "C:\\Users\\Admin\\AppData\\Roaming\\Microsoft\\Templates\\~$rmalEmail.dotm",
+                "sha256": "bbbfd9715c87b7ecdd8c3b342273cdcfca33ead4bfbb3ee829bd583c21374392"
+            },
+            {
+                "path": "C:\\Users\\Admin\\AppData\\Local\\Temp\\~DF27638F6F6CC547EF.TMP",
+                "sha256": "6dca9b7174b9f087e49340e75c78ac7cb0b8ad91abde62f8b96804dae2d0e9dc"
+            },
+            {
+                "path": "C:\\Users\\Admin\\Documents\\Outlook \u6587\u4ef6\\Outlook.pst",
+                "sha256": "4a5fc8563e1722e1c2840adfaa2b75d4ac999e3c1e6e607182aac08da38d588c"
+            },
+            {
+                "path": "C:\\Users\\<USER>\\AppData\\Local\\Microsoft\\Outlook\\RoamCache\\Stream_Calendar_2_A7798259E1A1E440B8A46B90E760BF97.dat",
+                "sha256": "ac0469628b57cbdfbcb818b7739f04ee7f300d8e3096300eb283c937be1944c7",
+                "type": "TEXT"
+            },
+            {
+                "path": "C:\\Users\\<USER>\\AppData\\Local\\Microsoft\\Outlook\\RoamCache\\Stream_ContactPrefs_2_5B9B8F5216C5D5469DA40F85C6AF981A.dat",
+                "sha256": "383020065c1f31f4fb09f448599a6d5e532c390af4e5b8af0771fe17a23222ad",
+                "type": "TEXT"
+            },
+            {
+                "path": "C:\\Program Files\\Microsoft Office\\Office14\\1033\\OUTLLIBR.DLL",
+                "sha256": "f1363cf0b0ba1fad8d0298ff5f132e81c99c7938ce37948bf8345883dbdb7da2",
+                "type": "PE_EXE"
+            }
+        ],
+        "files_deleted": [
+            "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Outlook\\mapisvc.inf",
+            "C:\\Users\\<USER>\\AppData\\Local\\Microsoft\\Outlook\\mapisvc.inf"
+        ],
+        "files_copied": [
+            {
+                "source": "C:\\Users\\Admin\\AppData\\Local\\Temp\\CVR1743.tmp",
+                "destination": "C:\\Users\\Admin\\AppData\\Local\\Temp\\CVR1743.tmp.cvr"
+            }
+        ],
+        "files_opened": [
+            "C:\\Users\\Admin\\AppData\\Local\\Temp\\CVR1743.tmp",
+            "C:\\Users\\Admin\\AppData\\Local\\Temp\\outlook logging\\firstrun.log",
+            "C:\\Users\\Admin\\AppData\\Local\\Temp\\~DF27638F6F6CC547EF.TMP",
+            "C:\\Users\\Admin\\Documents\\Outlook \u6587\u4ef6\\~Outlook.pst.tmp",
+            "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Outlook\\mapisvc.inf",
+            "C:\\Users\\Admin\\AppData\\Roaming\\Microsoft\\Templates\\~$rmalEmail.dotm",
+            "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{5FCF8EFD-C51A-4C1E-8F3E-7A7076F7978F}.tmp",
+            "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{4944C0B1-B53D-4FAF-8F56-F68808E5AADD}.tmp",
+            "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.MSO\\89930E61.dat",
+            "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.MSO\\FBAB60EE.dat",
+            "C:\\Users\\Admin\\AppData\\Roaming\\Microsoft\\Ime\\IMESC14",
+            "C:\\Users\\<USER>\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.MSO\\6D5D896F.dat",
+            "C:\\Users\\<USER>\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.MSO\\B47891A6.dat",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\03f3694f9bcbd9d4d0ac29802be3abab.msg"
+        ],
+        "tags": [
+            "LONG_SLEEPS",
+            "RUNTIME_MODULES"
+        ],
+        "attack_techniques": {
+            "T1497.003": [
+                {
+                    "severity": "UNKNOWN"
+                }
+            ],
+            "T1082": [
+                {
+                    "severity": "UNKNOWN"
+                }
+            ],
+            "T1087.001": [
+                {
+                    "severity": "UNKNOWN"
+                }
+            ],
+            "T1033": [
+                {
+                    "severity": "UNKNOWN"
+                }
+            ],
+            "T1559.001": [
+                {
+                    "severity": "UNKNOWN"
+                }
+            ],
+            "T1055.004": [
+                {
+                    "severity": "UNKNOWN"
+                }
+            ],
+            "T1129": [
+                {
+                    "severity": "UNKNOWN"
+                }
+            ]
+        }
+    }
+}

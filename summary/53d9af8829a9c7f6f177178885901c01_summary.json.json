@@ -1,0 +1,1967 @@
+{
+    "data": {
+        "files_written": [
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.8e3d2u",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.mliW4A",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.wSzBYS",
+            "/Users/user1/Library/Application Support/Esilet/.updaterId",
+            "/Users/user1/Library/Application Support/Esilet/Cache/data_0",
+            "/Users/user1/Library/Application Support/Esilet/Cache/data_1",
+            "/Users/user1/Library/Application Support/Esilet/Cache/data_2",
+            "/Users/user1/Library/Application Support/Esilet/Cache/data_3",
+            "/Users/user1/Library/Application Support/Esilet/Cache/f_000001",
+            "/Users/user1/Library/Application Support/Esilet/Cache/f_000002",
+            "/Users/user1/Library/Application Support/Esilet/Cache/f_000003",
+            "/Users/user1/Library/Application Support/Esilet/Cache/f_000004",
+            "/Users/user1/Library/Application Support/Esilet/Cache/f_000005",
+            "/Users/user1/Library/Application Support/Esilet/Cache/f_000006",
+            "/Users/user1/Library/Application Support/Esilet/Cache/f_000007",
+            "/Users/user1/Library/Application Support/Esilet/Cache/f_000008",
+            "/Users/user1/Library/Application Support/Esilet/Cache/f_000009",
+            "/Users/user1/Library/Application Support/Esilet/Cache/index",
+            "/Users/user1/Library/Application Support/Esilet/Code Cache/js/index",
+            "/Users/user1/Library/Application Support/Esilet/Code Cache/js/index-dir/temp-index",
+            "/Users/user1/Library/Application Support/Esilet/Cookies",
+            "/Users/user1/Library/Application Support/Esilet/Cookies-journal",
+            "/Users/user1/Library/Application Support/Esilet/GPUCache/data_0",
+            "/Users/user1/Library/Application Support/Esilet/GPUCache/data_1",
+            "/Users/user1/Library/Application Support/Esilet/GPUCache/data_2",
+            "/Users/user1/Library/Application Support/Esilet/GPUCache/data_3",
+            "/Users/user1/Library/Application Support/Esilet/GPUCache/index",
+            "/Users/user1/Library/Application Support/Esilet/Local Storage/leveldb/000001.dbtmp",
+            "/Users/user1/Library/Application Support/Esilet/Local Storage/leveldb/LOG",
+            "/Users/user1/Library/Application Support/Esilet/Local Storage/leveldb/MANIFEST-000001",
+            "/Users/user1/Library/Application Support/Esilet\\currency.json",
+            "/Users/user1/Library/Application Support/Esilet\\group-list.json",
+            "/Users/user1/Library/Application Support/Esilet\\setting.json",
+            "/Users/user1/Library/LaunchAgents/com.applex.services.agent.agent.plist",
+            "/Users/user1/Library/Logs/Esilet/main.log",
+            "/private/var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/C/mds/mdsDirectory.db_",
+            "/private/var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/C/mds/mdsObject.db_",
+            "/private/var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/T/Esilet-tmpg7lpp",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.0Nq1lA",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.P13XlR",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.e73myp",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.X65xEl",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.Zh5b6G",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.syzfre",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.J00mFY",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.Jdlsbc",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.h7k0LB",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.2zVytX",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.94fiif",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.v3hmbv",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.0AgV6R",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.7pbsls",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.oSKkR9",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.WYn7f9",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.aCV8Ip",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.yKrG7z",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.1uADg8",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.DKVjTb",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.SEOGRf",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.3Fuod7",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.JPdNbp",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.QjVKSl",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.6ZtnX1",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.FT0Bwj",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.xfZ9JG",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.2G5aZx",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.70mMjg",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.F6IBCT",
+            "/private/var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/T/Esilet-tmp21p99",
+            "unknown",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.9VR8Ks",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.OdBWW6",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.aEUpuK",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.XGtzpM",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.xpKwxj",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.yRCYCO",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.KdETsB",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.Wzk6oq",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.ubE3i0",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.N7dhjs",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.hh5bJx",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.wc4wWb",
+            "/System/Library/PrivateFrameworks/CoreServicesInternal.framework/CoreServicesInternal",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/mds/mdsDirectory.db_",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/mds/mdsObject.db_",
+            "/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.geDz4L",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.JUtQQl",
+            "/System/Library/PrivateFrameworks/Heimdal.framework/Heimdal",
+            "/Users/user1/Library/Saved Application State/org.develar.Esilet.savedState/windows.plist",
+            "/Users/user1/Library/Saved Application State/org.develar.Esilet.savedState/data.data",
+            "/System/Library/Frameworks/DiskArbitration.framework/Versions/Current",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/com.apple.trustd/mds/mdsDirectory.db_",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/com.apple.trustd/mds/mdsObject.db_",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.ON16Ih",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.9dthd7",
+            "/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/Current",
+            "/System/Library/Frameworks/CoreGraphics.framework/Versions/Current"
+        ],
+        "http_conversations": [
+            {
+                "url": "http://cacerts.digicert.com/DigiCertSHA2ExtendedValidationServerCA.crt",
+                "request_method": "GET",
+                "request_headers": {
+                    "user-agent": "com.apple.trustd/1.0",
+                    "connection": "close",
+                    "host": "cacerts.digicert.com"
+                }
+            },
+            {
+                "url": "http://init-p01st.push.apple.com/bag",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mac OS X/10.13.4 (17E202)",
+                    "Host": "init-p01st.push.apple.com"
+                },
+                "response_headers": {
+                    "Content-Length": "4894",
+                    "Content-Type": "application/x-apple-plist"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://ocsp.digicert.com/MFYwVKADAgEAME0wSzBJMAkGBSsOAwIaBQAEFN+qEuMosQlBk+KfQoLOR0BClVijBBSxPsNpA/i/RwHUmCYaCALvY2QrwwIQCBFAVkurzpTL7gkKKGj0nQ==",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "trustd (unknown version) CFNetwork/897.15 Darwin/17.5.0 (x86_64)",
+                    "Host": "ocsp.digicert.com"
+                },
+                "response_headers": {
+                    "Content-Length": "471",
+                    "Content-Type": "application/ocsp-response"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://www.apple.com/appleca/root.crl",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "ocspd/1.0.3",
+                    "Host": "www.apple.com"
+                },
+                "response_status_code": 301
+            },
+            {
+                "url": "http://ocsp.digicert.com/MFYwVKADAgEAME0wSzBJMAkGBSsOAwIaBQAEFN+qEuMosQlBk+KfQoLOR0BClVijBBSxPsNpA/i/RwHUmCYaCALvY2QrwwIQBOHnpNxc8vNtwCtCuF0Vnw==",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "trustd (unknown version) CFNetwork/897.15 Darwin/17.5.0 (x86_64)",
+                    "Host": "ocsp.digicert.com"
+                },
+                "response_headers": {
+                    "Content-Length": "471",
+                    "Content-Type": "application/ocsp-response"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://ocsp.digicert.com/MFYwVKADAgEAME0wSzBJMAkGBSsOAwIaBQAEFEn0vYoYv3YGmMXeQC1oO3Fq5OaGBBQ901Cl1qCt7vNKYApl0yHU+PjWDwIQCleMA3tUTBJZpjR0IjRkxw==",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "trustd (unknown version) CFNetwork/897.15 Darwin/17.5.0 (x86_64)",
+                    "Host": "ocsp.digicert.com"
+                },
+                "response_headers": {
+                    "Content-Length": "471",
+                    "Content-Type": "application/ocsp-response"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://ocsp.digicert.com/MFYwVKADAgEAME0wSzBJMAkGBSsOAwIaBQAEFM8m9Rj6yX6PjLNC4BwvahCejl8KBBRRaP+QrwIHdTzM2WVkYqISuFlyOwIQBVfICygmg6F7ChFEkylreQ==",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "trustd (unknown version) CFNetwork/897.15 Darwin/17.5.0 (x86_64)",
+                    "Host": "ocsp.digicert.com"
+                },
+                "response_headers": {
+                    "Content-Length": "471",
+                    "Content-Type": "application/ocsp-response"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://ocsp.digicert.com/MFYwVKADAgEAME0wSzBJMAkGBSsOAwIaBQAEFN+qEuMosQlBk+KfQoLOR0BClVijBBSxPsNpA/i/RwHUmCYaCALvY2QrwwIQDHmpRLCMEZUgkmFf4msdgw==",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "trustd (unknown version) CFNetwork/897.15 Darwin/17.5.0 (x86_64)",
+                    "Host": "ocsp.digicert.com"
+                },
+                "response_headers": {
+                    "Content-Length": "471",
+                    "Content-Type": "application/ocsp-response"
+                },
+                "response_status_code": 200
+            }
+        ],
+        "files_deleted": [
+            "/var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/C//mds/mdsObject.db",
+            "7za",
+            "CodeResources",
+            "Info.plist",
+            "PkgInfo",
+            "RdrServicesUpdater",
+            "RdrWebResources.7z",
+            "metadata.txt"
+        ],
+        "dns_lookups": [
+            {
+                "hostname": "github.com",
+                "resolved_ips": [
+                    "140.82.113.3",
+                    "140.82.114.4",
+                    "140.82.112.3",
+                    "140.82.114.3",
+                    "140.82.113.4",
+                    "192.30.255.112",
+                    "192.30.255.113"
+                ]
+            },
+            {
+                "hostname": "blockchain.info",
+                "resolved_ips": [
+                    "104.16.55.3",
+                    "104.16.54.3",
+                    "104.16.145.212",
+                    "104.16.146.212",
+                    "104.16.143.212",
+                    "104.16.144.212",
+                    "104.16.147.212"
+                ]
+            },
+            {
+                "hostname": "www.esilet.com",
+                "resolved_ips": [
+                    "none",
+                    ""
+                ]
+            },
+            {
+                "hostname": "esilet.com",
+                "resolved_ips": [
+                    "104.168.98.156"
+                ]
+            },
+            {
+                "hostname": "api.binance.com",
+                "resolved_ips": [
+                    "52.84.150.39"
+                ]
+            },
+            {
+                "hostname": "api-pub.bitfinex.com",
+                "resolved_ips": [
+                    "104.16.174.181",
+                    "104.16.173.181",
+                    "104.16.175.181",
+                    "104.16.171.181",
+                    "104.16.172.181"
+                ]
+            },
+            {
+                "hostname": "d3h36i1mno13q3.cloudfront.net",
+                "resolved_ips": [
+                    "52.84.150.39"
+                ]
+            },
+            {
+                "hostname": "api.upbit.com",
+                "resolved_ips": [
+                    "3.34.214.213",
+                    "3.35.117.157"
+                ]
+            },
+            {
+                "hostname": "api.kraken.com",
+                "resolved_ips": [
+                    "104.16.213.191",
+                    "104.16.214.191",
+                    "104.16.215.191",
+                    "104.16.212.191",
+                    "104.16.211.191"
+                ]
+            },
+            {
+                "hostname": "www.bitstamp.net",
+                "resolved_ips": [
+                    "107.154.249.133"
+                ]
+            },
+            {
+                "hostname": "api.upbitit.cool",
+                "resolved_ips": [
+                    "3.35.212.111",
+                    "3.34.109.113",
+                    "3.34.29.28",
+                    "3.34.214.213",
+                    "52.78.106.170",
+                    "3.35.252.1",
+                    "15.165.13.115",
+                    "15.164.83.234",
+                    "13.124.59.31",
+                    "3.35.117.157",
+                    "13.209.234.233"
+                ]
+            },
+            {
+                "hostname": "api.huobi.pro",
+                "resolved_ips": [
+                    "104.16.232.188",
+                    "104.16.233.188"
+                ]
+            },
+            {
+                "hostname": "www.bitmex.com",
+                "resolved_ips": [
+                    "54.216.45.85",
+                    "52.208.185.90"
+                ]
+            },
+            {
+                "hostname": "qgjb4.x.incapdns.net",
+                "resolved_ips": [
+                    "107.154.249.133"
+                ]
+            },
+            {
+                "hostname": "www.services.bitmex.com",
+                "resolved_ips": [
+                    "52.31.182.29",
+                    "63.35.13.119",
+                    "52.30.85.57",
+                    "52.30.160.63",
+                    "99.80.129.189",
+                    "54.74.218.81",
+                    "63.35.243.77",
+                    "18.200.44.207",
+                    "52.213.152.156",
+                    "54.220.107.169",
+                    "52.19.1.178",
+                    "54.171.46.136",
+                    "54.216.173.24",
+                    "54.77.190.68",
+                    "34.254.149.37",
+                    "52.214.17.210",
+                    "54.220.47.73",
+                    "52.30.0.132",
+                    "54.246.75.67",
+                    "34.248.237.168",
+                    "54.75.138.108",
+                    "34.253.80.130",
+                    "18.202.158.206",
+                    "34.242.242.25",
+                    "34.246.249.213",
+                    "54.246.177.142",
+                    "54.228.62.141",
+                    "54.246.209.249",
+                    "34.248.150.16",
+                    "52.17.45.133",
+                    "52.214.97.228",
+                    "52.213.89.33",
+                    "34.250.62.209",
+                    "34.242.202.239",
+                    "46.137.20.200",
+                    "63.35.88.165",
+                    "54.78.60.174",
+                    "52.18.3.41",
+                    "54.154.118.128",
+                    "54.76.81.239",
+                    "52.214.101.232",
+                    "52.31.171.197",
+                    "54.78.253.165",
+                    "54.194.196.11",
+                    "54.229.2.22",
+                    "52.48.249.223",
+                    "54.77.59.112",
+                    "99.80.137.81",
+                    "52.208.225.56",
+                    "54.220.42.16"
+                ]
+            },
+            {
+                "hostname": "bittrex.com",
+                "resolved_ips": [
+                    "104.17.152.108",
+                    "104.17.153.108",
+                    "104.17.156.108",
+                    "104.17.154.108",
+                    "104.17.155.108"
+                ]
+            },
+            {
+                "hostname": "sche-eg.org",
+                "resolved_ips": [
+                    "160.153.235.20"
+                ]
+            },
+            {
+                "hostname": "www.vinoymas.ch",
+                "resolved_ips": [
+                    "46.16.62.238"
+                ]
+            },
+            {
+                "hostname": "gateway.fe.apple-dns.net",
+                "resolved_ips": [
+                    "17.248.185.9",
+                    "17.248.131.175",
+                    "17.248.131.141",
+                    "17.248.185.5",
+                    "17.248.185.41",
+                    "17.248.185.137",
+                    "17.248.131.56",
+                    "17.248.185.13",
+                    "17.248.131.10",
+                    "17.248.131.143",
+                    "17.248.241.5",
+                    "17.248.131.233",
+                    "17.248.131.236",
+                    "17.248.185.39",
+                    "17.248.185.109",
+                    "17.248.131.197",
+                    "17.248.185.230",
+                    "17.248.241.175",
+                    "17.248.241.102",
+                    "17.248.241.142",
+                    "17.248.241.229",
+                    "17.248.241.82",
+                    "17.248.241.169",
+                    "17.248.241.242",
+                    "17.248.241.211",
+                    "17.248.241.238",
+                    "17.248.241.171",
+                    "17.248.241.200",
+                    "17.248.241.164",
+                    "17.248.241.132",
+                    "17.248.241.144",
+                    "17.248.241.240",
+                    "17.248.188.136",
+                    "17.248.188.143",
+                    "17.248.188.105",
+                    "17.248.188.135",
+                    "17.248.188.74",
+                    "17.248.188.81",
+                    "17.248.188.177",
+                    "17.248.188.178",
+                    "17.248.241.145",
+                    "17.248.241.140",
+                    "17.248.241.110",
+                    "17.248.241.206",
+                    "17.248.241.196",
+                    "17.248.185.202",
+                    "17.248.185.205",
+                    "17.248.241.208"
+                ]
+            },
+            {
+                "hostname": "muzeyyengroup.com",
+                "resolved_ips": [
+                    "135.181.168.237"
+                ]
+            },
+            {
+                "hostname": "cdn.digicertcdn.com",
+                "resolved_ips": [
+                    "104.18.11.39",
+                    "104.18.10.39"
+                ]
+            },
+            {
+                "hostname": "a1441.g4.akamai.net",
+                "resolved_ips": [
+                    "23.196.47.40",
+                    "23.196.47.50"
+                ]
+            },
+            {
+                "hostname": "cs9.wac.phicdn.net",
+                "resolved_ips": [
+                    "72.21.91.29"
+                ]
+            },
+            {
+                "hostname": "api.huobi.pro.cdn.cloudflare.net",
+                "resolved_ips": [
+                    "104.16.230.188",
+                    "104.16.232.188",
+                    "104.16.234.188",
+                    "104.16.231.188",
+                    "104.16.233.188"
+                ]
+            },
+            {
+                "hostname": "e673.dsce9.akamaiedge.net",
+                "resolved_ips": [
+                    "23.47.206.49"
+                ]
+            },
+            {
+                "hostname": "cacerts.digicert.com",
+                "resolved_ips": [
+                    "104.18.10.39"
+                ]
+            },
+            {
+                "hostname": "lb._dns-sd._udp.localdomain"
+            },
+            {
+                "hostname": "apple.com",
+                "resolved_ips": [
+                    "17.253.144.10"
+                ]
+            }
+        ],
+        "ids_alerts": [
+            {
+                "rule_msg": "DECODE_IPV4_DGRAM_GT_IPHDR",
+                "rule_category": "protocol-command-decode",
+                "rule_id": "116:6",
+                "alert_severity": "low",
+                "rule_source": "Snort registered user ruleset",
+                "rule_url": "https://www.snort.org/downloads/#rule-downloads",
+                "rule_raw": "alert ( msg:\"DECODE_IPV4_DGRAM_GT_IPHDR\"; sid:6; gid:116; rev:1; metadata:rule-type decode; classtype:protocol-command-decode; )"
+            },
+            {
+                "rule_msg": "PSNG_IP_PORTSWEEP_FILTERED",
+                "rule_category": "attempted-recon",
+                "rule_id": "122:15",
+                "alert_severity": "medium",
+                "rule_source": "Snort registered user ruleset",
+                "rule_url": "https://www.snort.org/downloads/#rule-downloads",
+                "rule_raw": "alert ( msg:\"PSNG_IP_PORTSWEEP_FILTERED\"; sid:15; gid:122; rev:1; metadata:rule-type preproc; classtype:attempted-recon; )"
+            },
+            {
+                "rule_msg": "STREAM5_BAD_RST",
+                "rule_category": "bad-unknown",
+                "rule_id": "129:15",
+                "alert_severity": "medium",
+                "rule_source": "Snort registered user ruleset",
+                "alert_context": {
+                    "dest_ip": "23.47.207.28",
+                    "dest_port": 443
+                },
+                "rule_url": "https://www.snort.org/downloads/#rule-downloads",
+                "rule_raw": "alert ( msg:\"STREAM5_BAD_RST\"; sid:15; gid:129; rev:1; metadata:rule-type preproc; classtype:bad-unknown; )"
+            }
+        ],
+        "processes_created": [
+            "/usr/libexec/xpcproxy",
+            "/Volumes/Esilet/Esilet.app/Contents/MacOS/Esilet /Volumes/Esilet/Esilet.app/Contents/MacOS/Esilet ",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (GPU).app/Contents/MacOS/Esilet Helper (GPU)",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper.app/Contents/MacOS/Esilet Helper",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (Renderer).app/Contents/MacOS/Esilet Helper (Renderer)",
+            "/bin/sh -c /var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/T/Esilet-tmpg7lpp",
+            "/var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/T/Esilet-tmpg7lpp",
+            "/var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/T/Esilet-tmpg7lpp /var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/T/Esilet-tmpg7lpp ",
+            "/private/var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/T/Esilet-tmpg7lpp",
+            "sw_vers",
+            "/usr/bin/sw_vers sw_vers ",
+            "/bin/bash -c slee 10",
+            "/bin/bash /bin/bash -c slee 10 ",
+            "/usr/libexec/gamecontrollerd /usr/libexec/gamecontrollerd ",
+            "/usr/libexec/trustd /usr/libexec/trustd --agent ",
+            "chmod -R 755 /Library/Application Support/Adobe/Reader/DC/WebResources/Resource1",
+            "/bin/chmod chmod -R 755 /Library/Application Support/Adobe/Reader/DC/WebResources/Resource1 ",
+            "rm -rf /tmp/webinstaller",
+            "/bin/rm rm -rf /tmp/webinstaller ",
+            "/System/Library/PrivateFrameworks/PackageKit.framework/Resources/efw_cache_update",
+            "/bin/sh -c /var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/T/Esilet-tmp21p99",
+            "/var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/T/Esilet-tmp21p99",
+            "/var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/T/Esilet-tmp21p99 /var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/T/Esilet-tmp21p99 ",
+            "/private/var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/T/Esilet-tmp21p99",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/AppCenter_R.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/AppCenter_R.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/AppCenter_R.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/EPDF_RHP.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/EPDF_RHP.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/EPDF_RHP.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/Home.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/Home.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/Home.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/TrackedSend.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/TrackedSend.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/TrackedSend.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/Viewer.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/Viewer.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/Viewer.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/AppCenter_R.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/AppCenter_R.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/AppCenter_R.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/EPDF_RHP.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/EPDF_RHP.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/EPDF_RHP.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/Home.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/Home.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/Home.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/TrackedSend.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/TrackedSend.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/TrackedSend.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/Viewer.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/Viewer.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/Viewer.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/FRA/AppCenter_R.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/FRA/AppCenter_R.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/FRA/AppCenter_R.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/FRA/EPDF_RHP.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/FRA/EPDF_RHP.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/FRA/EPDF_RHP.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/FRA/Home.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/FRA/Home.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/FRA/Home.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/FRA/TrackedSend.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/FRA/TrackedSend.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/FRA/TrackedSend.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/FRA/Viewer.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/FRA/Viewer.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/FRA/Viewer.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/HUN/AppCenter_R.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/HUN/AppCenter_R.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/HUN/AppCenter_R.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/HUN/EPDF_RHP.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/HUN/EPDF_RHP.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/HUN/EPDF_RHP.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/HUN/Home.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/HUN/Home.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/HUN/Home.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/HUN/Viewer.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/HUN/Viewer.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/HUN/Viewer.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ITA/AppCenter_R.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ITA/AppCenter_R.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ITA/AppCenter_R.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ITA/EPDF_RHP.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ITA/EPDF_RHP.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ITA/EPDF_RHP.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ITA/Home.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ITA/Home.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ITA/Home.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ITA/TrackedSend.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ITA/TrackedSend.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ITA/TrackedSend.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ITA/Viewer.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ITA/Viewer.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ITA/Viewer.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/JPN/AppCenter_R.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/JPN/AppCenter_R.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/JPN/AppCenter_R.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/JPN/EPDF_RHP.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/JPN/EPDF_RHP.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/JPN/EPDF_RHP.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/JPN/Edit_R_Exp_RHP.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/JPN/Edit_R_Exp_RHP.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/JPN/Edit_R_Exp_RHP.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/JPN/Home.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/JPN/Home.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/JPN/Home.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/JPN/TrackedSend.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/JPN/TrackedSend.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/JPN/TrackedSend.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/JPN/Viewer.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/JPN/Viewer.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/JPN/Viewer.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/KOR/AppCenter_R.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/KOR/AppCenter_R.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/KOR/AppCenter_R.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/KOR/EPDF_RHP.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/KOR/EPDF_RHP.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/KOR/EPDF_RHP.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/KOR/Edit_R_Exp_RHP.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/KOR/Edit_R_Exp_RHP.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/KOR/Edit_R_Exp_RHP.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/KOR/Home.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/KOR/Home.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/KOR/Home.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/KOR/Viewer.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/KOR/Viewer.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/KOR/Viewer.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NLD/AppCenter_R.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NLD/AppCenter_R.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NLD/AppCenter_R.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NLD/EPDF_RHP.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NLD/EPDF_RHP.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NLD/EPDF_RHP.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NLD/Home.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NLD/Home.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NLD/Home.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NLD/TrackedSend.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NLD/TrackedSend.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NLD/TrackedSend.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NLD/Viewer.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NLD/Viewer.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NLD/Viewer.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NOR/AppCenter_R.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NOR/AppCenter_R.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NOR/AppCenter_R.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NOR/EPDF_RHP.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NOR/EPDF_RHP.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NOR/EPDF_RHP.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NOR/Home.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NOR/Home.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NOR/Home.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NOR/TrackedSend.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NOR/TrackedSend.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NOR/TrackedSend.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NOR/Viewer.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NOR/Viewer.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/NOR/Viewer.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/POL/AppCenter_R.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/POL/AppCenter_R.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/POL/AppCenter_R.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/POL/EPDF_RHP.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/POL/EPDF_RHP.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/POL/EPDF_RHP.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/POL/Home.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/POL/Home.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/POL/Home.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/POL/Viewer.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/POL/Viewer.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/POL/Viewer.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/PTB/AppCenter_R.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/PTB/AppCenter_R.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/PTB/AppCenter_R.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/PTB/EPDF_RHP.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/PTB/EPDF_RHP.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/PTB/EPDF_RHP.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/PTB/Home.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/PTB/Home.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/PTB/Home.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/PTB/TrackedSend.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/PTB/TrackedSend.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/PTB/TrackedSend.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/PTB/Viewer.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/PTB/Viewer.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/PTB/Viewer.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUM/AppCenter_R.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUM/AppCenter_R.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUM/AppCenter_R.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUM/EPDF_RHP.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUM/EPDF_RHP.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUM/EPDF_RHP.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUM/Home.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUM/Home.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUM/Home.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUM/Viewer.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUM/Viewer.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUM/Viewer.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUS/AppCenter_R.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUS/AppCenter_R.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUS/AppCenter_R.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUS/EPDF_RHP.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUS/EPDF_RHP.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUS/EPDF_RHP.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUS/Home.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUS/Home.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUS/Home.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUS/Viewer.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUS/Viewer.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/RUS/Viewer.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SUO/AppCenter_R.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SUO/AppCenter_R.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SUO/AppCenter_R.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SUO/EPDF_RHP.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SUO/EPDF_RHP.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SUO/EPDF_RHP.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SUO/Home.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SUO/Home.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SUO/Home.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SUO/TrackedSend.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SUO/TrackedSend.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SUO/TrackedSend.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SUO/Viewer.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SUO/Viewer.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SUO/Viewer.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SVE/AppCenter_R.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SVE/AppCenter_R.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SVE/AppCenter_R.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SVE/EPDF_RHP.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SVE/EPDF_RHP.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SVE/EPDF_RHP.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SVE/Home.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SVE/Home.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SVE/Home.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SVE/TrackedSend.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SVE/TrackedSend.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SVE/TrackedSend.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SVE/Viewer.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SVE/Viewer.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/SVE/Viewer.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/TUR/AppCenter_R.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/TUR/AppCenter_R.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/TUR/AppCenter_R.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/TUR/EPDF_RHP.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/TUR/EPDF_RHP.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/TUR/EPDF_RHP.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/TUR/Home.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/TUR/Home.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/TUR/Home.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/TUR/Viewer.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/TUR/Viewer.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/TUR/Viewer.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/UKR/AppCenter_R.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/UKR/AppCenter_R.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/UKR/AppCenter_R.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/UKR/CPDF_Full.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/UKR/CPDF_Full.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/UKR/CPDF_Full.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/UKR/CPDF_RHP.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/UKR/CPDF_RHP.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/UKR/CPDF_RHP.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/UKR/EPDF_RHP.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/UKR/EPDF_RHP.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/UKR/EPDF_RHP.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/UKR/Home.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/UKR/Home.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/UKR/Home.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/UKR/Viewer.aapp'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/UKR/Viewer.aapp",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/UKR/Viewer.aapp ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/Resource/OWP/default/assets/AdobeClean-Bold.otf'",
+            "/usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/Resource/OWP/default/assets/AdobeClean-Bold.otf",
+            "/usr/bin/cksum /usr/bin/cksum /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/Resource/OWP/default/assets/AdobeClean-Bold.otf ",
+            "/bin/sh -c /usr/bin/cksum  '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/Resource/OWP/default/assets/AdobeClean-Regular.otf'"
+        ],
+        "ip_traffic": [
+            {
+                "destination_ip": "17.249.25.246",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "140.82.113.3",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.16.55.3",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.168.98.156",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "52.84.150.39",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.16.174.181",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "3.35.212.111",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.16.213.191",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "107.154.249.133",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "18.200.44.207",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.17.152.108",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "160.153.235.20",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.142.169.200",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.142.169.199",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "184.28.221.115",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.253.21.208",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "46.16.62.238",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "140.82.114.4",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.16.54.3",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.16.211.191",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "3.34.109.113",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "34.254.149.37",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.17.155.108",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "140.82.112.3",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.16.173.181",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "34.248.237.168",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.84.225.86",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.248.185.9",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "140.82.114.3",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.16.171.181",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.16.212.191",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "54.246.177.142",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "140.82.113.4",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.253.27.201",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "184.28.221.112",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.248.131.10",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.16.215.191",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "99.80.129.189",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "63.35.88.165",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.17.153.108",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.248.185.230",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.16.172.181",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "3.34.29.28",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.253.21.202",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.167.194.230",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.253.21.206",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.16.214.191",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "54.246.75.67",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.248.241.211",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "23.6.116.155",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "192.30.255.112",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.16.175.181",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "54.220.47.73",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.17.154.108",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "184.28.221.105",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.248.188.136",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.167.192.225",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.253.21.207",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "192.30.255.113",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.16.145.212",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "99.80.137.81",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "135.181.168.237",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.16.144.212",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "52.48.249.223",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.253.21.203",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "54.229.132.11",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.253.21.206",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "23.194.118.240",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.16.143.212",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "54.220.107.169",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.248.241.145",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "3.34.214.213",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "34.251.155.16",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.16.146.212",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "52.78.106.170",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "52.31.182.29",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "173.223.193.88",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "173.223.193.88",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "23.223.201.33",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "255.255.255.255",
+                "destination_port": 67,
+                "transport_layer_protocol": "UDP"
+            },
+            {
+                "destination_ip": "104.18.10.39",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "46.137.20.200",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.16.234.188",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "23.196.47.50",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "72.21.91.29",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "23.47.207.24",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "23.52.176.194",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "23.47.207.28",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "23.47.206.49",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "23.47.207.24",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.18.11.39",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "52.208.225.56",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "3.35.252.1",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "104.16.231.188",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            }
+        ],
+        "files_copied": [
+            {
+                "source": "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C//mds/mdsObject.db_",
+                "destination": "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C//mds/mdsObject.db"
+            },
+            {
+                "source": "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C//mds/mdsDirectory.db_",
+                "destination": "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C//mds/mdsDirectory.db"
+            },
+            {
+                "source": "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.geDz4L",
+                "destination": "/Users/user1/Library/Application Support/Esilet/Network Persistent State"
+            },
+            {
+                "source": "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.JUtQQl",
+                "destination": "/Users/user1/Library/Application Support/Esilet/TransportSecurity"
+            },
+            {
+                "source": "/Users/user1/Library/Application Support/Esilet/Code Cache/js/index-dir/temp-index",
+                "destination": "/Users/user1/Library/Application Support/Esilet/Code Cache/js/index-dir/the-real-index"
+            },
+            {
+                "source": "/Users/user1/Library/Application Support/Esilet/Local Storage/leveldb/000001.dbtmp",
+                "destination": "/Users/user1/Library/Application Support/Esilet/Local Storage/leveldb/CURRENT"
+            },
+            {
+                "source": "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/com.apple.trustd//mds/mdsObject.db_",
+                "destination": "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/com.apple.trustd//mds/mdsObject.db"
+            },
+            {
+                "source": "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/com.apple.trustd//mds/mdsDirectory.db_",
+                "destination": "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/com.apple.trustd//mds/mdsDirectory.db"
+            },
+            {
+                "source": "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/T/assistantd/TemporaryItems/(A Document Being Saved By assistantd)/sync_flagcom.apple.siri.applications",
+                "destination": "/Users/user1/Library/Assistant/sync_flagcom.apple.siri.applications"
+            },
+            {
+                "source": "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.ON16Ih",
+                "destination": "/Users/user1/Library/Application Support/Esilet/Network Persistent State"
+            },
+            {
+                "source": "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.9dthd7",
+                "destination": "/Users/user1/Library/Application Support/Esilet/TransportSecurity"
+            }
+        ],
+        "ja3_digests": [
+            "66918128f1b9b03303d77c6f2eefd128",
+            "a69708a64f853c3bcc214c2c5faf84f3",
+            "dda262729e5413660ec0e6a8d4279860",
+            "e60543755a8d40214a13f2d6f359e04a"
+        ],
+        "files_dropped": [
+            {
+                "path": "/private/var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/T/Esilet-tmpg7lpp",
+                "sha256": "DCED1ACBBE11DB2B9E7AE44A617F3C12D6613A8188F6A1ECE0451E4CD4205156",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/private/var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/T/Esilet-tmp21p99",
+                "sha256": "DB6E79D2654D59915C73A7E244ACFA3745C807E970E9F744754DC6B1A25D1A25",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Electron Framework",
+                "sha256": "ec7bfbe215a2131284d4a38d0b67924646c9fd4c0b94d5f1dd4cc68acf40a6f0",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libEGL.dylib",
+                "sha256": "28478e22eb74f5c5ff6ba3c810cda90acb2130f29854ab9dee25143dd58839f5",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libffmpeg.dylib",
+                "sha256": "95832d8e1fa5919479904d79dc8a2ad56f1cc47572e1d78bfe40c57d3fa291be",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libGLESv2.dylib",
+                "sha256": "6096731fe98a1b614a75b97c7e8602b13e3dc4666a8d2e55db4ae5580c08d963",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libswiftshader_libEGL.dylib",
+                "sha256": "535f4c50644cec60038431c2b800f0cb78ff66ecbd6a186638d26fbcab57a69a",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libswiftshader_libGLESv2.dylib",
+                "sha256": "fbcd80bdc44137ec6611d4a73bd87618f8629a90e9812732fe07757a6fe9a616",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/crashpad_handler",
+                "sha256": "d55618886cab9183ddab73653d60423371d193bbf457402f5858a335296dab43",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (GPU).app/Contents/MacOS/Esilet Helper (GPU)",
+                "sha256": "45abb3906bd1bcda1fb298ef682217a53ddc18eaa166605e66b6659ea4a376ec",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (Plugin).app/Contents/MacOS/Esilet Helper (Plugin)",
+                "sha256": "720f97c052522864ae8e99a06e978ff35ec6b70829c2bce426c4f80007be6556",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (Renderer).app/Contents/MacOS/Esilet Helper (Renderer)",
+                "sha256": "a1596c88caaf37f0d84b102928c31353b24f95863c1db1ac13b4aeb5c9a05888",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper.app/Contents/MacOS/Esilet Helper",
+                "sha256": "dc29ae99f355c292f562ed3cbc9b6a8d3a3fc75c16c55cef12e17b7bb266ccda",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Mantle.framework/Mantle",
+                "sha256": "43cfce24ef9572eaff01e8e35bd9e1359b352f66af1ba001e82794a53237f5d9",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/Esilet/Esilet.app/Contents/Frameworks/ReactiveCocoa.framework/ReactiveCocoa",
+                "sha256": "5d25e8c8ed10f2b6a043f40815fa089a0ab36df731dfd69f18812998c963eb0a",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Squirrel.framework/Squirrel",
+                "sha256": "1fcd17e5296c73bd850ed86725b2ad376bb959638c4d4c03750489e3ac42def6",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Squirrel.framework/Versions/A/Resources/ShipIt",
+                "sha256": "8f4359ec8550aa3b2fd34e8920c2dd74f88f31c7132ea3f1bfcebda63f9e1c3e",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/Esilet/Esilet.app/Contents/MacOS/Esilet",
+                "sha256": "703f47cfc62fa3a5ce33be852370d4126ac5602aaa6ec01d2e7d18073c5a6e01",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration",
+                "sha256": "f2fc47887ba5c26fe17a8378a0da31236ad978bcaf60d393eb57c5f6f594dec6",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/PrivateFrameworks/CoreServicesInternal.framework/CoreServicesInternal",
+                "sha256": "4f1b14b686b51589e07d1f0290029b3c95c7d2214b4cebe4f2671f917ba63ad3",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/PrivateFrameworks/CoreUI.framework/CoreUI",
+                "sha256": "45118529f6e66ede4601034cfb2b13aca7327b2dc89b5fe6a6bd9cfcf1c30005",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/MediaToolbox.framework/MediaToolbox",
+                "sha256": "792f9dc5e74aaf54973976223f363882bfb004b036bf2f82f948896420a58a93",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/HIToolbox",
+                "sha256": "a218802a5aa79bc7014c9a0dde1e5895c21d922c2fb4d8da57194a53eb7e5f23",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/usr/lib/libSystem.dylib",
+                "sha256": "c286ebeb821e449a9878bc4f6714689d22421be36ddc681a1f702e051f154c2d",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/DiskArbitration.framework/DiskArbitration",
+                "sha256": "5bd631387a9db6b9b8c02599a5cdfac0fe759299083e67416851e40c0aea4621",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/CoreText.framework/CoreText",
+                "sha256": "7733ee1d543e225b1fde7285d08df9c492bd5dcd977bea6bbd1a8cf767439205",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/HIServices",
+                "sha256": "db94118f4b2948df9067be5065ad1720f1d20e8cc9d768cb919077e6b7f538fb",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/AppKit.framework/AppKit",
+                "sha256": "0b2934cdfe6d369507124ac05a337f83d98cf3cd225d9f7cfb3a1787e62a359b",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/PrivateFrameworks/SkyLight.framework/SkyLight",
+                "sha256": "42949b1340f5e692b497b7754ab221af1d0f4f00af79dc8658e4961272e86a2f",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/PrivateFrameworks/AppleFSCompression.framework/AppleFSCompression",
+                "sha256": "d0da5c90454697272f33f1aa85c045a3da39b944a99d16e229d59403169b4bd9",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/ColorSync.framework/ColorSync",
+                "sha256": "7a7c635ef9fa28cf61805d39c2d992f5eba52ebba88057864092a5cd4be56f4f",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/LaunchServices",
+                "sha256": "2d9fb09f6058f4cded6326c00111ab578ab7b764bd89934bbca0e9491c936f5a",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics",
+                "sha256": "20d17bc53bd666568d6c128a81dc5654f2ff34ca307da6afbe75f9f621b3f2f5",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SharedFileList.framework/SharedFileList",
+                "sha256": "d1469217c47e8334f28d77b4e2735957dc422d41fe4d24ec32b98dee171a5f8e",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/PrivateFrameworks/login.framework/login",
+                "sha256": "be73625ec2745112146f73fa70a91339371615a55f0cffe537e0bc9293c13039",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/bag",
+                "sha256": "47778445b7366bad42d3d88d1c72da617925f4872ec3e18d8b56cfdeda3dba18",
+                "type": "XML",
+                "download_url": "http://init-p01st.push.apple.com/bag"
+            },
+            {
+                "path": "/MFYwVKADAgEAME0wSzBJMAkGBSsOAwIaBQAEFN+qEuMosQlBk+KfQoLOR0BClVijBBSxPsNpA/i/RwHUmCYaCALvY2QrwwIQCBFAVkurzpTL7gkKKGj0nQ==",
+                "sha256": "8e990d8eda692d997d8cb63c0955e17b3b106099d36419ca7876cff459733a81",
+                "download_url": "http://ocsp.digicert.com/MFYwVKADAgEAME0wSzBJMAkGBSsOAwIaBQAEFN+qEuMosQlBk+KfQoLOR0BClVijBBSxPsNpA/i/RwHUmCYaCALvY2QrwwIQCBFAVkurzpTL7gkKKGj0nQ=="
+            },
+            {
+                "path": "/MFYwVKADAgEAME0wSzBJMAkGBSsOAwIaBQAEFN+qEuMosQlBk+KfQoLOR0BClVijBBSxPsNpA/i/RwHUmCYaCALvY2QrwwIQBOHnpNxc8vNtwCtCuF0Vnw==",
+                "sha256": "a374fde12c2b91513695a3adceace371639c6cc2fe6c93b0bfa2c78705fa09b1",
+                "download_url": "http://ocsp.digicert.com/MFYwVKADAgEAME0wSzBJMAkGBSsOAwIaBQAEFN+qEuMosQlBk+KfQoLOR0BClVijBBSxPsNpA/i/RwHUmCYaCALvY2QrwwIQBOHnpNxc8vNtwCtCuF0Vnw=="
+            },
+            {
+                "path": "/MFYwVKADAgEAME0wSzBJMAkGBSsOAwIaBQAEFEn0vYoYv3YGmMXeQC1oO3Fq5OaGBBQ901Cl1qCt7vNKYApl0yHU+PjWDwIQCleMA3tUTBJZpjR0IjRkxw==",
+                "sha256": "e317c67c133da8eae52044ecd411767923c296b5745017d17e6ea14510893ea6",
+                "download_url": "http://ocsp.digicert.com/MFYwVKADAgEAME0wSzBJMAkGBSsOAwIaBQAEFEn0vYoYv3YGmMXeQC1oO3Fq5OaGBBQ901Cl1qCt7vNKYApl0yHU+PjWDwIQCleMA3tUTBJZpjR0IjRkxw=="
+            },
+            {
+                "path": "/DigiCertSHA2ExtendedValidationServerCA.crt",
+                "sha256": "403e062a2653059113285baf80a0d4ae422c848c9f78fad01fc94bc5b87fef1a",
+                "download_url": "http://cacerts.digicert.com/DigiCertSHA2ExtendedValidationServerCA.crt"
+            },
+            {
+                "path": "/MFYwVKADAgEAME0wSzBJMAkGBSsOAwIaBQAEFM8m9Rj6yX6PjLNC4BwvahCejl8KBBRRaP+QrwIHdTzM2WVkYqISuFlyOwIQBVfICygmg6F7ChFEkylreQ==",
+                "sha256": "53edaac73936853dc2820d47e63e8769319c9481d2d8d18b7e699513004d39da",
+                "download_url": "http://ocsp.digicert.com/MFYwVKADAgEAME0wSzBJMAkGBSsOAwIaBQAEFM8m9Rj6yX6PjLNC4BwvahCejl8KBBRRaP+QrwIHdTzM2WVkYqISuFlyOwIQBVfICygmg6F7ChFEkylreQ=="
+            },
+            {
+                "path": "/MFYwVKADAgEAME0wSzBJMAkGBSsOAwIaBQAEFN+qEuMosQlBk+KfQoLOR0BClVijBBSxPsNpA/i/RwHUmCYaCALvY2QrwwIQDHmpRLCMEZUgkmFf4msdgw==",
+                "sha256": "0bd72c356e868e868769c1408d335432bc77bbe4af26935d45f4cc6034b108ed",
+                "download_url": "http://ocsp.digicert.com/MFYwVKADAgEAME0wSzBJMAkGBSsOAwIaBQAEFN+qEuMosQlBk+KfQoLOR0BClVijBBSxPsNpA/i/RwHUmCYaCALvY2QrwwIQDHmpRLCMEZUgkmFf4msdgw=="
+            }
+        ],
+        "files_opened": [
+            "/Library/Application Support/CrashReporter/SubmitDiagInfo.domains",
+            "/Library/Keychains/SupplementalsAssets/AnalyticsSamplingRates.plist",
+            "/Library/Keychains/SupplementalsAssets/AppleCertificateAuthorities.plist",
+            "/Library/Keychains/SupplementalsAssets/OTAPKIContext.plist",
+            "/Library/Keychains/SupplementalsAssets/TrustedCTLogs.plist",
+            "/Library/MessageTracer/SubmitDiagInfo.default.domains.searchtree",
+            "/Library/Preferences/com.apple.networkd.plist",
+            "/Library/Preferences/com.apple.security.plist",
+            "/Library/Video/Plug-Ins",
+            "/System/Library/Caches/com.apple.IntlDataCache.le",
+            "/System/Library/Caches/com.apple.IntlDataCache.le.kbdx",
+            "/System/Library/CoreServices/CoreTypes.bundle/Contents/Library/AppExceptions.bundle/Exceptions.plist",
+            "/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/Exceptions.plist",
+            "/System/Library/CoreServices/ServerVersion.plist",
+            "/System/Library/CoreServices/SystemAppearance.bundle",
+            "/System/Library/CoreServices/SystemAppearance.bundle/Contents",
+            "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Info.plist",
+            "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources",
+            "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/Assets.car",
+            "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/Base.lproj",
+            "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/English.lproj",
+            "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/SystemAppearance.car",
+            "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/VibrantLightAppearance.car",
+            "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/en.lproj",
+            "/System/Library/CoreServices/SystemVersion.bundle",
+            "/System/Library/CoreServices/SystemVersion.bundle/",
+            "/System/Library/CoreServices/SystemVersion.bundle//Base.lproj",
+            "/System/Library/CoreServices/SystemVersion.bundle//English.lproj",
+            "/System/Library/CoreServices/SystemVersion.bundle/English.lproj/SystemVersion.strings",
+            "/System/Library/CoreServices/SystemVersion.plist",
+            "/System/Library/Extensions/AppleVADriver.bundle/Contents/Info.plist",
+            "/System/Library/Fonts/SFNSText.ttf",
+            "/System/Library/Fonts/Times.ttc",
+            "/System/Library/Frameworks/AppKit.framework",
+            "/System/Library/Frameworks/AppKit.framework/",
+            "/System/Library/Frameworks/AppKit.framework//Base.lproj",
+            "/System/Library/Frameworks/AppKit.framework//English.lproj",
+            "/System/Library/Frameworks/AppKit.framework/Resources",
+            "/System/Library/Frameworks/AppKit.framework/Resources/Base.lproj",
+            "/System/Library/Frameworks/AppKit.framework/Resources/English.lproj",
+            "/System/Library/Frameworks/AppKit.framework/Resources/Info.plist",
+            "/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework",
+            "/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Resources",
+            "/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Resources/Base.lproj",
+            "/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Resources/English.lproj",
+            "/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Resources/Info.plist",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Resources",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Resources/Base.lproj/cursors",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Resources/English.lproj/cursors",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Resources/Info.plist",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Resources/cursors",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Resources/cursors/resizeeast/cursor.pdf",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Resources/cursors/resizeeast/cursor_1only_.png",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Resources/cursors/resizeeast/info.plist",
+            "/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework",
+            "/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Resources",
+            "/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Resources/Extras2.rsrc",
+            "/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Resources/Info.plist",
+            "/System/Library/Frameworks/CoreText.framework//Base.lproj/FontResources",
+            "/System/Library/Frameworks/CoreText.framework//English.lproj/FontResources",
+            "/System/Library/Frameworks/CoreText.framework//FontResources",
+            "/System/Library/Frameworks/CoreText.framework//en.lproj/FontResources",
+            "/System/Library/Frameworks/OpenGL.framework/Resources",
+            "/System/Library/Frameworks/OpenGL.framework/Resources/",
+            "/System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex",
+            "/System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents",
+            "/System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/Info.plist",
+            "/System/Library/Keyboard Layouts/AppleKeyboardLayouts.bundle/Contents/Resources/AppleKeyboardLayouts-L.dat",
+            "/System/Library/Keyboard Layouts/AppleKeyboardLayouts.bundle/Contents/Resources/English.lproj/InfoPlist.strings",
+            "/System/Library/Keychains/SystemTrustSettings.plist",
+            "/System/Library/PrivateFrameworks/AppleGVA.framework",
+            "/System/Library/PrivateFrameworks/AppleGVA.framework/AppleGVA",
+            "/System/Library/PrivateFrameworks/AppleGVA.framework/Resources",
+            "/System/Library/PrivateFrameworks/AppleGVA.framework/Resources/Info.plist",
+            "/System/Library/PrivateFrameworks/CoreUI.framework",
+            "/System/Library/PrivateFrameworks/CoreUI.framework/Resources",
+            "/System/Library/PrivateFrameworks/CoreUI.framework/Resources/Base.lproj",
+            "/System/Library/PrivateFrameworks/CoreUI.framework/Resources/DuplicateImageNames.plist",
+            "/System/Library/PrivateFrameworks/CoreUI.framework/Resources/English.lproj",
+            "/System/Library/PrivateFrameworks/CoreUI.framework/Resources/Info.plist",
+            "/System/Library/Sandbox/Profiles/com.apple.corefoundation.sb",
+            "/System/Library/Sandbox/Profiles/com.apple.trustd.sb",
+            "/System/Library/Sandbox/Profiles/system.sb",
+            "/System/Library/Security",
+            "/System/Library/Security/Certificates.bundle",
+            "/System/Library/Security/Certificates.bundle/Contents",
+            "/System/Library/Security/Certificates.bundle/Contents/Info.plist",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/AppleESCertificates.plist",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/AssetVersion.plist",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/Base.lproj",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/Blocked.plist",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/EVRoots.plist",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/GrayListedKeys.plist",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/ValidUpdate.plist",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/certsIndex.data",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/certsTable.data",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/en.lproj",
+            "/System/Library/Video/Plug-Ins",
+            "/System/Library/Video/Plug-Ins/AppleAVEEncoder.bundle",
+            "/System/Library/Video/Plug-Ins/AppleAVEEncoder.bundle/Contents",
+            "/System/Library/Video/Plug-Ins/AppleAVEEncoder.bundle/Contents/Info.plist",
+            "/System/Library/Video/Plug-Ins/AppleAVEEncoder.bundle/Contents/Resources",
+            "/System/Library/Video/Plug-Ins/AppleAVEEncoder.bundle/Contents/Resources/Base.lproj",
+            "/System/Library/Video/Plug-Ins/AppleAVEEncoder.bundle/Contents/Resources/en.lproj",
+            "/System/Library/Video/Plug-Ins/AppleGVAHEVCDecoder.bundle",
+            "/System/Library/Video/Plug-Ins/AppleGVAHEVCDecoder.bundle/Contents",
+            "/System/Library/Video/Plug-Ins/AppleGVAHEVCDecoder.bundle/Contents/Info.plist",
+            "/System/Library/Video/Plug-Ins/AppleGVAHEVCDecoder.bundle/Contents/Resources",
+            "/System/Library/Video/Plug-Ins/AppleGVAHEVCDecoder.bundle/Contents/Resources/Base.lproj",
+            "/System/Library/Video/Plug-Ins/AppleGVAHEVCDecoder.bundle/Contents/Resources/en.lproj",
+            "/System/Library/Video/Plug-Ins/AppleGVAHEVCEncoder.bundle",
+            "/System/Library/Video/Plug-Ins/AppleGVAHEVCEncoder.bundle/Contents",
+            "/System/Library/Video/Plug-Ins/AppleGVAHEVCEncoder.bundle/Contents/Info.plist",
+            "/System/Library/Video/Plug-Ins/AppleGVAHEVCEncoder.bundle/Contents/Resources",
+            "/System/Library/Video/Plug-Ins/AppleGVAHEVCEncoder.bundle/Contents/Resources/Base.lproj",
+            "/System/Library/Video/Plug-Ins/AppleGVAHEVCEncoder.bundle/Contents/Resources/en.lproj",
+            "/System/Library/Video/Plug-Ins/AppleProResCodec.bundle",
+            "/System/Library/Video/Plug-Ins/AppleProResCodec.bundle/Contents",
+            "/System/Library/Video/Plug-Ins/AppleProResCodec.bundle/Contents/Info.plist",
+            "/System/Library/Video/Plug-Ins/AppleProResCodec.bundle/Contents/Resources",
+            "/System/Library/Video/Plug-Ins/AppleProResCodec.bundle/Contents/Resources/Base.lproj",
+            "/System/Library/Video/Plug-Ins/AppleProResCodec.bundle/Contents/Resources/English.lproj",
+            "/System/Library/Video/Plug-Ins/VCPHEVC.bundle",
+            "/System/Library/Video/Plug-Ins/VCPHEVC.bundle/Contents",
+            "/System/Library/Video/Plug-Ins/VCPHEVC.bundle/Contents/Info.plist",
+            "/System/Library/Video/Plug-Ins/VCPHEVC.bundle/Contents/Resources",
+            "/System/Library/Video/Plug-Ins/VCPHEVC.bundle/Contents/Resources/Base.lproj",
+            "/System/Library/Video/Plug-Ins/VCPHEVC.bundle/Contents/Resources/English.lproj",
+            "/System/Library/Video/Plug-Ins/VCPHEVC.bundle/Contents/Resources/en.lproj",
+            "/System/Library/Video/Plug-Ins/VCPHEVC.bundle/Contents/Resources/en.lproj/InfoPlist.strings",
+            "/Users/user1",
+            "/Users/user1/.CFUserTextEncoding",
+            "/Users/user1/Library/Application Support/Esilet",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.8e3d2u",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.mliW4A",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.wSzBYS",
+            "/Users/user1/Library/Application Support/Esilet/.updaterId",
+            "/Users/user1/Library/Application Support/Esilet/Cache/data_0",
+            "/Users/user1/Library/Application Support/Esilet/Cache/data_1",
+            "/Users/user1/Library/Application Support/Esilet/Cache/data_2",
+            "/Users/user1/Library/Application Support/Esilet/Cache/data_3",
+            "/Users/user1/Library/Application Support/Esilet/Cache/f_000001",
+            "/Users/user1/Library/Application Support/Esilet/Cache/f_000002",
+            "/Users/user1/Library/Application Support/Esilet/Cache/f_000003",
+            "/Users/user1/Library/Application Support/Esilet/Cache/f_000004",
+            "/Users/user1/Library/Application Support/Esilet/Cache/f_000005",
+            "/Users/user1/Library/Application Support/Esilet/Cache/f_000006",
+            "/Users/user1/Library/Application Support/Esilet/Cache/f_000007",
+            "/Users/user1/Library/Application Support/Esilet/Cache/f_000008",
+            "/Users/user1/Library/Application Support/Esilet/Cache/f_000009",
+            "/Users/user1/Library/Application Support/Esilet/Cache/index",
+            "/Users/user1/Library/Application Support/Esilet/Code Cache/js",
+            "/Users/user1/Library/Application Support/Esilet/Code Cache/js/index",
+            "/Users/user1/Library/Application Support/Esilet/Code Cache/js/index-dir/the-real-index",
+            "/Users/user1/Library/Application Support/Esilet/Cookies",
+            "/Users/user1/Library/Application Support/Esilet/DevTools Extensions",
+            "/Users/user1/Library/Application Support/Esilet/File System/primary.origin",
+            "/Users/user1/Library/Application Support/Esilet/GPUCache/data_0",
+            "/Users/user1/Library/Application Support/Esilet/GPUCache/data_1",
+            "/Users/user1/Library/Application Support/Esilet/GPUCache/data_2",
+            "/Users/user1/Library/Application Support/Esilet/GPUCache/data_3",
+            "/Users/user1/Library/Application Support/Esilet/GPUCache/index",
+            "/Users/user1/Library/Application Support/Esilet/Local Storage/leveldb",
+            "/Users/user1/Library/Application Support/Esilet/Local Storage/leveldb/CURRENT",
+            "/Users/user1/Library/Application Support/Esilet/Local Storage/leveldb/LOCK",
+            "/Users/user1/Library/Application Support/Esilet/Local Storage/leveldb/MANIFEST-000001",
+            "/Users/user1/Library/Application Support/Esilet/Network Persistent State",
+            "/Users/user1/Library/Application Support/Esilet/Preferences",
+            "/Users/user1/Library/Application Support/Esilet/TransportSecurity",
+            "/Users/user1/Library/Application Support/Esilet\\currency.json",
+            "/Users/user1/Library/Application Support/Esilet\\group-list.json",
+            "/Users/user1/Library/Autosave Information/org.develar.Esilet.plist",
+            "/Users/user1/Library/Input Methods",
+            "/Users/user1/Library/Keyboard Layouts",
+            "/Users/user1/Library/Preferences/com.apple.LaunchServices/com.apple.LaunchServices.plist",
+            "/Users/user1/Library/Preferences/com.apple.LaunchServices/com.apple.launchservices.secure.plist",
+            "/Users/user1/Library/Saved Application State/org.develar.Esilet.savedState/data.data",
+            "/Users/user1/Library/Saved Application State/org.develar.Esilet.savedState/windows.plist",
+            "/Users/user1/Library/Security",
+            "/Users/user1/Library/Spelling",
+            "/Volumes/Esilet/Esilet.app",
+            "/Volumes/Esilet/Esilet.app/Contents",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Resources",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Resources/Base.lproj",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Resources/Info.plist",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Resources/MainMenu.nib",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Resources/chrome_100_percent.pak",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Resources/chrome_200_percent.pak",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Resources/en.lproj",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Resources/en.lproj/locale.pak",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Resources/icudtl.dat",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Resources/natives_blob.bin",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Resources/resources.pak",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Resources/v8_context_snapshot.bin",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libffmpeg.dylib",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (GPU).app",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (GPU).app/Contents",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (GPU).app/Contents/Info.plist",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (GPU).app/Contents/MacOS/../../../Electron Framework.framework/Electron Framework",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (GPU).app/Contents/MacOS/../../../Mantle.framework/Mantle",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (GPU).app/Contents/MacOS/../../../ReactiveCocoa.framework/ReactiveCocoa",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (GPU).app/Contents/MacOS/../../../Squirrel.framework/Squirrel",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (GPU).app/Contents/MacOS/Esilet Helper (GPU)",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (GPU).app/Contents/Resources",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (GPU).app/Contents/Resources/Base.lproj",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (GPU).app/Contents/Resources/en.lproj",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (GPU).app/Contents/XPCServices",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (Renderer).app",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (Renderer).app/Contents",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (Renderer).app/Contents/Info.plist",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (Renderer).app/Contents/MacOS/../../../Electron Framework.framework/Electron Framework",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (Renderer).app/Contents/MacOS/../../../Mantle.framework/Mantle",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (Renderer).app/Contents/MacOS/../../../ReactiveCocoa.framework/ReactiveCocoa",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (Renderer).app/Contents/MacOS/../../../Squirrel.framework/Squirrel",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (Renderer).app/Contents/MacOS/Esilet Helper (Renderer)",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (Renderer).app/Contents/PkgInfo",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (Renderer).app/Contents/Resources",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (Renderer).app/Contents/Resources/Base.lproj",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (Renderer).app/Contents/Resources/en.lproj",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (Renderer).app/Contents/XPCServices",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper.app",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper.app/Contents",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper.app/Contents/Info.plist",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper.app/Contents/MacOS/../../../Electron Framework.framework/Electron Framework",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper.app/Contents/MacOS/../../../Mantle.framework/Mantle",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper.app/Contents/MacOS/../../../ReactiveCocoa.framework/ReactiveCocoa",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper.app/Contents/MacOS/../../../Squirrel.framework/Squirrel",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper.app/Contents/MacOS/Esilet Helper",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper.app/Contents/Resources",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper.app/Contents/Resources/Base.lproj",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper.app/Contents/Resources/en.lproj",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper.app/Contents/XPCServices",
+            "/Volumes/Esilet/Esilet.app/Contents/Info.plist",
+            "/Volumes/Esilet/Esilet.app/Contents/MacOS/../Frameworks/Electron Framework.framework/Electron Framework",
+            "/Volumes/Esilet/Esilet.app/Contents/MacOS/../Frameworks/Mantle.framework/Mantle",
+            "/Volumes/Esilet/Esilet.app/Contents/MacOS/../Frameworks/ReactiveCocoa.framework/ReactiveCocoa",
+            "/Volumes/Esilet/Esilet.app/Contents/MacOS/../Frameworks/Squirrel.framework/Squirrel",
+            "/Volumes/Esilet/Esilet.app/Contents/MacOS/Esilet",
+            "/Volumes/Esilet/Esilet.app/Contents/PkgInfo",
+            "/Volumes/Esilet/Esilet.app/Contents/Resources",
+            "/Volumes/Esilet/Esilet.app/Contents/Resources/Base.lproj",
+            "/Volumes/Esilet/Esilet.app/Contents/Resources/app-update.yml",
+            "/Volumes/Esilet/Esilet.app/Contents/Resources/app.asar",
+            "/Volumes/Esilet/Esilet.app/Contents/Resources/en.lproj",
+            "/Volumes/Esilet/Esilet.app/Contents/XPCServices",
+            "/dev/autofs_nowait",
+            "/dev/urandom",
+            "/etc",
+            "/etc/group",
+            "/etc/host.conf",
+            "/etc/hosts",
+            "/etc/master.passwd",
+            "/etc/nsswitch.conf",
+            "/etc/passwd",
+            "/etc/resolv.conf",
+            "/etc/ssl/cert.pem",
+            "/etc/svc.conf",
+            "/private/etc/ssl/openssl.cnf",
+            "/private/var/db/mds/messages/501/se_SecurityMessages",
+            "/private/var/db/mds/system/mdsDirectory.db",
+            "/private/var/db/mds/system/mdsObject.db",
+            "/usr/bin/sw_vers",
+            "/usr/libexec",
+            "/usr/libexec/gamecontrollerd",
+            "/usr/libexec/trustd",
+            "/usr/share/icu/icudt59l.dat",
+            "/usr/share/locale/en.UTF-8/LC_MESSAGES/BASH.mo",
+            "/usr/share/locale/en.utf8/LC_MESSAGES/BASH.mo",
+            "/usr/share/locale/en/LC_MESSAGES/BASH.mo",
+            "/usr/share/locale/en_US.UTF-8/LC_MESSAGES/BASH.mo",
+            "/usr/share/locale/en_US.utf8/LC_MESSAGES/BASH.mo",
+            "/usr/share/locale/en_US/LC_MESSAGES/BASH.mo",
+            "/usr/share/locale/locale.alias",
+            "/var/db/timezone/icutz/icutz44l.dat",
+            "/var/db/timezone/zoneinfo/UTC",
+            "/var/db/timezone/zoneinfo/posixrules",
+            "/var/empty/.CFUserTextEncoding",
+            "/var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/C//mds/mds.lock",
+            "/var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/C//mds/mdsDirectory.db",
+            "/var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/C//mds/mdsObject.db",
+            "/var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/C/com.apple.IntlDataCache.le",
+            "/var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/T/Esilet-tmpg7lpp",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.0Nq1lA",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.P13XlR",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.e73myp",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.X65xEl",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.Zh5b6G",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.syzfre",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.J00mFY",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.Jdlsbc",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.h7k0LB",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.2zVytX",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.94fiif",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.v3hmbv",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.0AgV6R",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.7pbsls",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.oSKkR9",
+            "/tmp",
+            "/private/tmp/CommCenter.KeepAlive.Enabled",
+            "/private/tmp",
+            "/System/Library/CoreServices/FolderActionsDispatcher.app",
+            "/System/Library/CoreServices/FolderActionsDispatcher.app/Contents",
+            "/System/Library/CoreServices/FolderActionsDispatcher.app/Contents/Info.plist",
+            "/System/Library/CoreServices/FolderActionsDispatcher.app/Contents/MacOS/FolderActionsDispatcher",
+            "/System/Library/CoreServices/FolderActionsDispatcher.app/Contents/_CodeSignature/CodeRequirements-1",
+            "/System/Library/CoreServices/System Events.app",
+            "/System/Library/CoreServices/System Events.app/Contents",
+            "/System/Library/CoreServices/System Events.app/Contents/Info.plist",
+            "/System/Library/CoreServices/System Events.app/Contents/MacOS/System Events",
+            "/System/Library/CoreServices/System Events.app/Contents/_CodeSignature/CodeRequirements-1",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/ReactiveCocoa.framework/ReactiveCocoa",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/Current",
+            "/System/Library/PrivateFrameworks/Heimdal.framework/Heimdal",
+            "/System/Library/PrivateFrameworks/Heimdal.framework/Versions/Current",
+            "/System/Library/Frameworks/GSS.framework/GSS",
+            "/System/Library/Frameworks/GSS.framework/Versions/Current",
+            "/System/Library/Frameworks/CoreServices.framework/Frameworks",
+            "/System/Library/Frameworks/CoreServices.framework/Versions/Current",
+            "/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/LaunchServices",
+            "/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/Current",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Electron Framework",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Electron Framework.framework/Versions/Current",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Squirrel.framework/Squirrel",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Squirrel.framework/Versions/Current",
+            "/System/Library/Frameworks/ApplicationServices.framework/Frameworks",
+            "/System/Library/PrivateFrameworks/CoreServicesInternal.framework/CoreServicesInternal",
+            "/System/Library/PrivateFrameworks/CoreServicesInternal.framework/Versions/Current",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Resources",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/Current",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Mantle.framework/Mantle",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Mantle.framework/Versions/Current",
+            "/System/Library/Frameworks/ColorSync.framework/ColorSync",
+            "/System/Library/Frameworks/ColorSync.framework/Versions/Current",
+            "/System/Library/Frameworks/AppKit.framework/AppKit",
+            "/System/Library/Frameworks/AppKit.framework/Versions/Current",
+            "/System/Library/Frameworks/AppKit.framework/English.lproj",
+            "/System/Library/Frameworks/AppKit.framework/Base.lproj",
+            "/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics",
+            "/System/Library/Frameworks/CoreGraphics.framework/Versions/Current",
+            "/System/Library/CoreServices/SystemVersion.bundle/English.lproj",
+            "/System/Library/CoreServices/SystemVersion.bundle/Base.lproj",
+            "/System/Library/PrivateFrameworks/AppleFSCompression.framework/AppleFSCompression",
+            "/System/Library/PrivateFrameworks/AppleFSCompression.framework/Versions/Current",
+            "/System/Library/Frameworks/Accelerate.framework/Frameworks",
+            "/System/Library/Frameworks/Accelerate.framework/Versions/Current",
+            "/Volumes/Esilet/Esilet.app/Contents/_CodeSignature/CodeDirectory",
+            "/var/db/DetachedSignatures",
+            "/Volumes/Esilet/Esilet.app/Contents/_CodeSignature/CodeSignature",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (Renderer).app/Contents/_CodeSignature/CodeDirectory",
+            "/Volumes/Esilet/Esilet.app/Contents/Frameworks/Esilet Helper (Renderer).app/Contents/_CodeSignature/CodeSignature",
+            "/System/Library/Sandbox/Profiles/com.apple.swcd.sb",
+            "/usr/libexec/swcd",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/mds/mds.lock",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/mds/mdsObject.db_",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/mds/mdsDirectory.db_",
+            "/var",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/mds/mdsObject.db",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/mds/mdsDirectory.db",
+            "/Users/user1/Library/Keychains/login.keychain-db",
+            "/Library/Keychains/System.keychain",
+            "/Library/Keychains/pinningrules.sqlite3",
+            "/var/folders/zz/zyxvpxvq6csfxvn_n00000b400002s/C/com.apple.trustd/ocspcache.sqlite3-wal",
+            "/var/folders/zz/zyxvpxvq6csfxvn_n00000b400002s/C/com.apple.trustd/ocspcache.sqlite3-shm",
+            "/var/folders/zz/zyxvpxvq6csfxvn_n00000b400002s/C/com.apple.trustd/Analytics/trust_analytics.db",
+            "/var/folders/zz/zyxvpxvq6csfxvn_n00000b400002s/C/com.apple.trustd/Analytics/trust_analytics.db-wal",
+            "/var/folders/zz/zyxvpxvq6csfxvn_n00000b400002s/C/com.apple.trustd/Analytics/trust_analytics.db-shm",
+            "/Library/Keychains/crls/valid.sqlite3",
+            "/var/folders/zz/zyxvpxvq6csfxvn_n00000b400002s/C/com.apple.trustd/ocspcache.sqlite3",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/TrustedCTLogs.plist",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/AnalyticsSamplingRates.plist",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/AppleCertificateAuthorities.plist",
+            "/System/Library/Frameworks/MediaToolbox.framework/MediaToolbox",
+            "/System/Library/Frameworks/MediaToolbox.framework/Versions/Current",
+            "/System/Library/PrivateFrameworks/AppleGVA.framework/Versions/Current",
+            "/System/Library/Frameworks/OpenGL.framework/Versions/Current",
+            "/System/Library/PrivateFrameworks/SkyLight.framework/SkyLight",
+            "/System/Library/PrivateFrameworks/SkyLight.framework/Versions/Current",
+            "/usr/lib/libSystem.dylib",
+            "/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration",
+            "/System/Library/Frameworks/SystemConfiguration.framework/Versions/Current",
+            "/Users/user1/Library/Application Support/Esilet/Cookies-journal",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.geDz4L",
+            "/Users/user1/Library/Application Support/Esilet/.org.develar.Esilet.JUtQQl",
+            "/System/Library/Frameworks/OpenGL.framework/Libraries",
+            "/System/Library/Frameworks/OpenGL.framework/Resources/GLByteCodes.x86_64.bc",
+            "/System/Library/Sandbox/Profiles/cvmsCompAgent.sb",
+            "/usr/share/sandbox/cvmsCompAgent.sb",
+            "/Users/user1/Library/Saved Application State/org.develar.Esilet.savedState/restorecount.plist",
+            "/System/Library/Frameworks/DiskArbitration.framework/DiskArbitration",
+            "/System/Library/Frameworks/DiskArbitration.framework/Versions/Current",
+            "/Users/user1/Library/Logs/Esilet/main.log",
+            "/Users/user1/Library/Application Support/Esilet/Code Cache/js/index-dir/temp-index",
+            "/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/HIToolbox",
+            "/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/Current",
+            "/System/Library/PrivateFrameworks/CoreUI.framework/CoreUI",
+            "/System/Library/PrivateFrameworks/CoreUI.framework/Versions/Current",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/com.apple.IntlDataCache.le"
+        ]
+    }
+}

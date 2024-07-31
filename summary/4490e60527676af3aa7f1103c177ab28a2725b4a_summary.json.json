@@ -1,0 +1,1034 @@
+{
+    "data": {
+        "files_deleted": [
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0ee33f0d",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0ee33f0d\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_19de93d4",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_19de93d4\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC13E.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC13E.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC228.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC228.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC8D0.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC8D0.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCAD4.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCAD4.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCB23.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCB23.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCB50.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCCF6.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCCF6.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCEEC.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCEEC.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCF39.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCF3A.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD323.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD43A.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD43A.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD68D.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD68D.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD6AE.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD9FB.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_02eea1aa",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_02eea1aa\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1265f538",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1265f538\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER203.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER203.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3C9.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3C9.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC8A8.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC8B9.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC9E3.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC9F4.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD3A9.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD3BA.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF196.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF196.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF1B6.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF1B6.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF4F3.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF4F3.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF59F.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF59F.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF6E8.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF6E8.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF7A3.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF7A3.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERFD8D.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERFD8D.tmp.dmp"
+        ],
+        "tags": [
+            "DETECT_DEBUG_ENVIRONMENT"
+        ],
+        "registry_keys_opened": [
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\AppModel\\Lookaside\\Packages",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DllNXOptions",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\cmd.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\rundll32.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\OLE",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\OLEAUT",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Policies\\Microsoft\\WindowsStore",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages\\en-US",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Nls\\CustomLocale",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Segment Heap",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Policies\\Microsoft\\Cryptography\\Configuration",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole\\FeatureDevelopmentProperties",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Disable8And16BitMitigation",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Wow64\\x86",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Wow64\\x86\\xtajit",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\IdentityCRL\\ClockData",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\LanguageOverlay\\OverlayPackages\\en-US",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\OLE\\Tracing",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\ProfileList",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\SideBySide",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\Windows Error Reporting\\Debug",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\MUI\\Settings",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows\\Display",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\FileSystem\\",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FipsAlgorithmPolicy",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\Settings\\LanguageConfiguration",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\UILanguages",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\UILanguages\\PendingDelete",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\NLS\\Language",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\CustomLocale",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\ExtendedLocale",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Sorting\\Versions",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\AppCertDlls",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Srp\\GP\\DLL",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters",
+            "HKEY_LOCAL_MACHINE\\system\\CurrentControlSet\\control\\NetworkProvider\\HwOrder",
+            "HKEY_LOCAL_MACHINE\\system\\CurrentControlSet\\control\\NetworkProvider\\ProviderOrder",
+            "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root",
+            "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile",
+            "HKEY_CURRENT_USER\\Software\\Classes\\Local Settings",
+            "HKEY_CURRENT_USER_Classes\\Local Settings\\Software\\Microsoft",
+            "HKEY_CURRENT_USER_Classes\\Local Settings\\Software\\Microsoft\\Ole",
+            "HKEY_CURRENT_USER_Classes\\Local Settings\\Software\\Microsoft\\Ole\\FeatureDevelopmentProperties",
+            "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root",
+            "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile"
+        ],
+        "files_opened": [
+            "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath",
+            "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath\\",
+            "C:\\Program Files\\dotnet",
+            "C:\\Program Files\\dotnet\\",
+            "C:\\ProgramData\\Microsoft\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_027946d0\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_05b09457\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0b53eef6\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0ee33f0d",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0ee33f0d\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0ee33f0d\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0eea1cde\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1127d013\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_15d6973b\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_172deaf8\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_17489afa\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_174f43cc\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1887e8df\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_19de93d4",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_19de93d4\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_19de93d4\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1b2c6f9e\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1b55e9b4",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1b55e9b4\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1b55e9b4\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1bc13e96\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_5dd7fd603015de8aedc66cc2c9a037292894ce74_82810a17_00c2845f\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_5dd7fd603015de8aedc66cc2c9a037292894ce74_82810a17_057677cc\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_5dd7fd603015de8aedc66cc2c9a037292894ce74_82810a17_057677cc\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_5dd7fd603015de8aedc66cc2c9a037292894ce74_82810a17_12e280d4\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_5dd7fd603015de8aedc66cc2c9a037292894ce74_82810a17_12e280d4\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_745f16c7b917cc01a2748e37d9f8bd6a4e91c8e_00000000_04c5cc2d\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_019601f0\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_0430c552\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_044610d4\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_064dade7\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_06da029b\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_0ac5b049\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_0dadc25a\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_0e3ca1b0\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_10a08f03\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_122eb1b1\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_1551f472\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_156d6c57\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_16e9b3fd\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_192a07db\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_19362324\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_19bde65c\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_089e1d48\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_0c98d271\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_0d69f83f\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_0d6e11fd\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_0e11cdc4\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_0e8a2cb9\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_0f9dc13c\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_1249b9fd\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_13420e25\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_13709bb5\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_13fe004a\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_1734add6\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_19b582dc\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_19c60f7c\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_1b3ebea1\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_1b55c140\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_f92d996342dbb18d45179bcf587cad44bfddd_00000000_0579df86\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_Acquisition;Acqu_12916ef023ae775b437ef92ac575f71e828b5_00000000_12b25756\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC13E.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC13E.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC228.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC228.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC8D0.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC8D0.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCAD4.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCAD4.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCB23.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCB23.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCB50.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCCF6.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCCF6.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCEEC.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCEEC.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCF39.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCF3A.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD323.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD43A.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD43A.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD68D.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD68D.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD6AE.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD9FB.tmp.txt",
+            "C:\\ProgramData\\chocolatey\\bin",
+            "C:\\ProgramData\\chocolatey\\bin\\",
+            "C:\\Users\\user\\AppData\\Local\\DBG\\config.xml",
+            "C:\\Users\\user\\AppData\\Local\\Dbg\\EngineExtensions32",
+            "C:\\Users\\user\\AppData\\Local\\Dbg\\Visualizers\\",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\WindowsApps",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\WindowsApps\\",
+            "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39",
+            "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\",
+            "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\Scripts",
+            "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\Scripts\\",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\AppContainerUserCertRead",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\CRLs\\",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\CTLs\\",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\Certificates\\",
+            "C:\\Users\\user\\Desktop\\library.dll",
+            "C:\\Users\\user\\Desktop\\library.dll.123.Manifest",
+            "C:\\Users\\user\\Desktop\\library.dll.124.Manifest",
+            "C:\\Windows\\AppCompat\\Programs\\Amcache.hve.tmp",
+            "C:\\Windows\\AppPatch\\sysmain.sdb",
+            "C:\\Windows\\Globalization\\Sorting\\sortdefault.nls",
+            "C:\\Windows\\SysWOW64",
+            "C:\\Windows\\SysWOW64\\",
+            "C:\\Windows\\SysWOW64\\ADVAPI32.dll",
+            "C:\\Windows\\SysWOW64\\AcLayers.DLL",
+            "C:\\Windows\\SysWOW64\\CRYPTBASE.dll",
+            "C:\\Windows\\SysWOW64\\CRYPTSP.dll",
+            "C:\\Windows\\SysWOW64\\DNSAPI.dll",
+            "C:\\Windows\\SysWOW64\\DPAPI.DLL",
+            "C:\\Windows\\SysWOW64\\DSREG.DLL",
+            "C:\\Windows\\SysWOW64\\FLTLIB.DLL",
+            "C:\\Windows\\SysWOW64\\GDI32.dll",
+            "C:\\Windows\\SysWOW64\\IMM32.DLL",
+            "C:\\Windows\\SysWOW64\\IPHLPAPI.DLL",
+            "C:\\Windows\\SysWOW64\\KERNEL32.DLL",
+            "C:\\Windows\\SysWOW64\\KERNELBASE.dll",
+            "C:\\Windows\\SysWOW64\\MPR.dll",
+            "C:\\Windows\\SysWOW64\\MSCTF.dll",
+            "C:\\Windows\\SysWOW64\\NETAPI32.dll",
+            "C:\\Windows\\SysWOW64\\OLEAUT32.dll",
+            "C:\\Windows\\SysWOW64\\OnDemandConnRouteHelper.dll",
+            "C:\\Windows\\SysWOW64\\OneCoreUAPCommonProxyStub.dll",
+            "C:\\Windows\\SysWOW64\\OpenSSH",
+            "C:\\Windows\\SysWOW64\\PROPSYS.dll",
+            "C:\\Windows\\SysWOW64\\RMCLIENT.dll",
+            "C:\\Windows\\SysWOW64\\RPCRT4.dll",
+            "C:\\Windows\\SysWOW64\\SETUPAPI.dll",
+            "C:\\Windows\\SysWOW64\\SHELL32.dll",
+            "C:\\Windows\\SysWOW64\\Secur32.dll",
+            "C:\\Windows\\SysWOW64\\SspiCli.dll",
+            "C:\\Windows\\SysWOW64\\USER32.dll",
+            "C:\\Windows\\SysWOW64\\Visualizers\\",
+            "C:\\Windows\\SysWOW64\\WINHTTP.dll",
+            "C:\\Windows\\SysWOW64\\WINNSI.DLL",
+            "C:\\Windows\\SysWOW64\\WINSPOOL.DRV",
+            "C:\\Windows\\SysWOW64\\WINXP",
+            "C:\\Windows\\SysWOW64\\Wbem",
+            "C:\\Windows\\SysWOW64\\Wbem\\",
+            "C:\\Windows\\SysWOW64\\Windows.Security.Authentication.OnlineId.dll",
+            "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0",
+            "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\",
+            "C:\\Windows\\SysWOW64\\XmlLite.dll",
+            "C:\\Windows\\SysWOW64\\advapi32.dll",
+            "C:\\Windows\\SysWOW64\\aepic.dll",
+            "C:\\Windows\\SysWOW64\\apphelp.dll",
+            "C:\\Windows\\SysWOW64\\bcrypt.dll",
+            "C:\\Windows\\SysWOW64\\bcryptPrimitives.dll",
+            "C:\\Windows\\SysWOW64\\cfgmgr32.dll",
+            "C:\\Windows\\SysWOW64\\combase.dll",
+            "C:\\Windows\\SysWOW64\\dbgcore.DLL",
+            "C:\\Windows\\SysWOW64\\dbgeng.dll",
+            "C:\\Windows\\SysWOW64\\dbghelp.dll",
+            "C:\\Windows\\SysWOW64\\dbgmodel.dll",
+            "C:\\Windows\\SysWOW64\\dhcpcsvc.DLL",
+            "C:\\Windows\\SysWOW64\\dhcpcsvc6.DLL",
+            "C:\\Windows\\SysWOW64\\drivers\\",
+            "C:\\Windows\\SysWOW64\\dwmapi.dll",
+            "C:\\Windows\\SysWOW64\\en-US\\FLTLIB.DLL.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\IPHLPAPI.DLL.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\KERNEL32.DLL.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\KERNELBASE.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\MPR.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\MSCTF.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\OLEAUT32.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\PROPSYS.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\RPCRT4.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\SETUPAPI.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\SHELL32.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\USER32.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\WINSPOOL.DRV.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\WerFault.exe.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\advapi32.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\apphelp.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\bcrypt.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\combase.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\dwmapi.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\faultrep.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\ntdll.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\powrprof.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\rundll32.exe.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\sechost.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\shcore.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\shlwapi.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\tzres.dll.mui",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0167b10a\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_02eea1aa",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_02eea1aa\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_02eea1aa\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_04a0557f\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_06b96ea6\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_083997d2\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_093c7348\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_09c8a12e\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0d2ab2dd\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0d755352\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0da46adc\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0e5cd3f3\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0e896645\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0ebe1d98\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0ecc34b8\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0f74391d\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0fac631b\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_105b7bf9\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_10cc5c64\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1240be1d\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1265f538",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1265f538\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1265f538\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1310af76\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_133a0179\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_13a411bb\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_14e658b1\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_164425eb\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_16928446\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_169c9557\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_17084850\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_170c5ddb\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_17886657\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_17a76142\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_17e7f771\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1884ee06\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_191e2e8c\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1ac4a5b7\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1ae1faeb\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1b058065\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1bf77989\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1c574b4d\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1db2ca49\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1e62d7f1\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_472415dd5ba4c0c0f84c8d55616996825a407766_82810a17_02781357\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_472415dd5ba4c0c0f84c8d55616996825a407766_82810a17_02781357\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_472415dd5ba4c0c0f84c8d55616996825a407766_82810a17_1ddc0b68\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_472415dd5ba4c0c0f84c8d55616996825a407766_82810a17_1ddc0b68\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_472415dd5ba4c0c0f84c8d55616996825a407766_82810a17_1e581b66\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_428143de0835352ca0387c8ac5b230cb50517e_00000000_1d8e5d10\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_cfe1cecb3fc4fa47e4cfd13f073f8f5286f2352_00000000_06ca88da\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_d0f89118b8f38e6d8948ba1b85de33a87f3cf_00000000_0fd55fbe\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_d0f89118b8f38e6d8948ba1b85de33a87f3cf_00000000_1380c7a7\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.556_b8eb1e54943b78873f4d8fc9e530a75a38b8ad5_00000000_26f00b2c\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.556_b8eb1e54943b78873f4d8fc9e530a75a38b8ad5_00000000_92aed632\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.556_b8eb1e54943b78873f4d8fc9e530a75a38b8ad5_00000000_c8537061\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_Update;_befb8eec60bd843fc1643beae2e16262f9b62027_00000000_1fce4988\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_setup.exe_c65736d431fda8aba8a61f35d41838c047e8f0f8_00000000_02305ef5\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER203.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER203.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3C9.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3C9.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC8A8.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC8B9.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC9E3.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC9F4.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD3A9.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD3BA.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF196.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF196.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF1B6.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF1B6.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF4F3.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF4F3.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF59F.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF59F.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF6E8.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF6E8.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF7A3.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF7A3.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERFD8D.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERFD8D.tmp.dmp",
+            "C:\\Users\\user\\Desktop\\readme.dll",
+            "C:\\Users\\user\\Desktop\\readme.dll.123.Manifest",
+            "C:\\Users\\user\\Desktop\\readme.dll.124.Manifest",
+            "C:\\Windows\\SysWOW64\\en-US\\mswsock.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\uxtheme.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\wer.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\windows.storage.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\winnlsres.dll.mui"
+        ],
+        "registry_keys_set": [
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\CIMOM\\ConfigValueEssNeedsLoading",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\CIMOM\\List of event-active namespaces",
+                "value": "00 00 54 00 45 00 76 00 65 00 6E 00 74 00 4C 00 6F 00 67 00 45 00 76 00 65 00 6E 00 74 00 43 00 6F 00 6E 00 73 00 75 00 6D 00 65 00 72 00"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\DeviceClasses\\{ad498944-762f-11d0-8dcb-00c04fc3358c}\\##?#SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{ad498944-762f-11d0-8dcb-00c04fc3358c}\\#{78032B7E-4968-42D3-9F37-287EA86C0AAA}\\SymbolicLink",
+                "value": "\\\\?\\SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{ad498944-762f-11d0-8dcb-00c04fc3358c}\\{78032B7E-4968-42D3-9F37-287EA86C0AAA}"
+            },
+            {
+                "key": "HKU\\S-1-5-21-575823232-3065301323-1442773979-1000_CLASSES\\Local Settings\\MuiCache\\17b\\52C64B7E\\LanguageList",
+                "value": "en-US\nen"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\advapi32.dll[MofResourceName]",
+                "value": "LowDateTime:-1337772912,HighDateTime:30778796***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\en-US\\advapi32.dll.mui[MofResourceName]",
+                "value": "LowDateTime:-1270310445,HighDateTime:30778796***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\IDE\\DiskAMDX_HARDDISK___________________________2.5+____\\5&2770a7af&0&0.0.0_0-{05901221-D566-11d1-B2F0-00A0C9062910}",
+                "value": "LowDateTime:803713417,HighDateTime:0***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\BackupRestore\\FilesNotToBackup\\BITS_LOG",
+                "value": "%windir%\\System32\\Bits.log"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\BackupRestore\\FilesNotToBackup\\BITS_BAK",
+                "value": "%windir%\\System32\\Bits.bak"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\BITS\\StateIndex",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\DeviceClasses\\{ad498944-762f-11d0-8dcb-00c04fc3358c}\\##?#SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{ad498944-762f-11d0-8dcb-00c04fc3358c}\\DeviceInstance",
+                "value": "SW\\{eeab7790-c514-11d1-b42b-00805fc1270e}\\asyncmac"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\DeviceClasses\\{cac88484-7515-4c03-82e6-71a87abac361}\\##?#SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{cac88484-7515-4c03-82e6-71a87abac361}\\#\\SymbolicLink",
+                "value": "\\\\?\\SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{cac88484-7515-4c03-82e6-71a87abac361}"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\Network\\{4D36E972-E325-11CE-BFC1-08002BE10318}\\{B5DA8633-954C-4495-AE46-0BB5B5FB1CDC}\\Connection\\PnpInstanceID",
+                "value": "PCI\\VEN_8086&DEV_100E&SUBSYS_11001AF4&REV_03\\3&13C0B0C5&0&90"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\DeviceClasses\\{cac88484-7515-4c03-82e6-71a87abac361}\\##?#SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{cac88484-7515-4c03-82e6-71a87abac361}\\DeviceInstance",
+                "value": "SW\\{eeab7790-c514-11d1-b42b-00805fc1270e}\\asyncmac"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Services\\BITS\\Performance\\PerfMMFileName",
+                "value": "Global\\MMF_BITS_s"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\TimeZoneInformation\\ActiveTimeBias",
+                "value": "4294967176"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\{11517B7C-E79D-4e20-961B-75A811715ADD}"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\PermissionsCheckTestKey"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\Windows Error Reporting\\Debug"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\IdentityCRL\\ClockData"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\AmiHivePermissionsCorrect",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\AmiHiveOwnerCorrect",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager\\PendingFileRenameOperations",
+                "value": "\\??\\C:\\Windows\\AppCompat\\Programs\\Amcache.hve.tmp!\\??\\C:\\Windows\\AppCompat\\Programs\\Amcache.hve"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\AmiOverridePath",
+                "value": "C:\\Windows\\AppCompat\\Programs\\Amcache.hve.tmp"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\WritePermissionsCheck",
+                "value": "1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\ProviderSyncId",
+                "value": "{75878f94-f22f-4bce-a453-20944b0eccc7}"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\ProgramId",
+                "value": "0000f519feec486de87ed73cb92d3cac802400000000"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\FileId",
+                "value": "0000bcc5dc3222034d3f257f1fd35889e5be90f09b5f"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\LowerCaseLongPath",
+                "value": "c:\\windows\\syswow64\\rundll32.exe"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\LongPathHash",
+                "value": "rundll32.exe|ccf370e740f0e788"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Name",
+                "value": "rundll32.exe"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Publisher",
+                "value": "microsoft corporation"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Version",
+                "value": "10.0.17134.1 (winbuild.160101.0800)"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\BinFileVersion",
+                "value": "10.0.17134.1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\BinaryType",
+                "value": "pe32_i386"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\ProductName",
+                "value": "microsoft. windows. operating system"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\ProductVersion",
+                "value": "10.0.17134.1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\LinkDate",
+                "value": "01/30/1986 11:42:44"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\BinProductVersion",
+                "value": "10.0.17134.1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Size",
+                "value": "00 F2 00 00 00 00 00 00 "
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Language",
+                "value": "1033"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\IsPeFile",
+                "value": "1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\IsOsComponent",
+                "value": "1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{10313bfc-6744-031b-1743-c8f3d222a54f}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Usn",
+                "value": "20 05 00 1E 00 00 00 00 "
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\Windows Error Reporting\\Debug\\ExceptionRecord",
+                "value": "05 00 00 C0 00 00 00 00 00 00 00 00 E0 26 8F 70 02 00 00 00 00 00 00 00 4D 5A 90 00 00 00 00 00 00 0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\IdentityCRL\\ClockData\\ClockTimeSeconds",
+                "value": "80 0D F3 60 00 00 00 00 "
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\IdentityCRL\\ClockData\\TickCount",
+                "value": "64 D2 69 00 00 00 00 00 "
+            },
+            {
+                "key": "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile\\PermissionsCheckTestKey"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\ProgramId",
+                "value": "0000f519feec486de87ed73cb92d3cac802400000000"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\FileId",
+                "value": "0000bcc5dc3222034d3f257f1fd35889e5be90f09b5f"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\LowerCaseLongPath",
+                "value": "c:\\windows\\syswow64\\rundll32.exe"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\LongPathHash",
+                "value": "rundll32.exe|ccf370e740f0e788"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Name",
+                "value": "rundll32.exe"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Publisher",
+                "value": "microsoft corporation"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Version",
+                "value": "10.0.17134.1 (winbuild.160101.0800)"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\BinFileVersion",
+                "value": "10.0.17134.1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\BinaryType",
+                "value": "pe32_i386"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\ProductName",
+                "value": "microsoft. windows. operating system"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\ProductVersion",
+                "value": "10.0.17134.1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\LinkDate",
+                "value": "01/30/1986 11:42:44"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\BinProductVersion",
+                "value": "10.0.17134.1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Size",
+                "value": "00 F2 00 00 00 00 00 00 "
+            },
+            {
+                "key": "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Language",
+                "value": "1033"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\IsPeFile",
+                "value": "1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\IsOsComponent",
+                "value": "1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{cd29092a-d9e2-8e38-33e0-c13a02c1675e}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Usn",
+                "value": "20 05 00 1E 00 00 00 00 "
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\Windows Error Reporting\\Debug\\ExceptionRecord",
+                "value": "05 00 00 C0 00 00 00 00 00 00 00 00 E0 26 78 6F 02 00 00 00 00 00 00 00 4D 5A 90 00 00 00 00 00 00 0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\IdentityCRL\\ClockData\\ClockTimeSeconds",
+                "value": "9C 90 4B 63 00 00 00 00 "
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\IdentityCRL\\ClockData\\TickCount",
+                "value": "CE FA 4B 00 00 00 00 00 "
+            }
+        ],
+        "verdict_confidence": 3,
+        "mitre_attack_techniques": [
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Spawns processes"
+            },
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Creates a process in suspended mode (likely to inject code)"
+            },
+            {
+                "id": "T1036",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Creates files inside the system directory"
+            },
+            {
+                "id": "T1218.011",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Runs a DLL by calling functions"
+            },
+            {
+                "id": "T1497",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Sample may be VM or Sandbox-aware, try analysis on a native machine"
+            },
+            {
+                "id": "T1497",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Checks if the current process is being debugged"
+            },
+            {
+                "id": "T1518.001",
+                "severity": "IMPACT_SEVERITY_LOW",
+                "signature_description": "Tries to detect debuggers by setting the trap flag for special instructions"
+            },
+            {
+                "id": "T1518.001",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Checks if the current process is being debugged"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_LOW",
+                "signature_description": "Tries to detect debuggers by setting the trap flag for special instructions"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Reads software policies"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Queries the volume information (name, serial number etc) of a device"
+            },
+            {
+                "id": "T1018",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Reads the hosts file"
+            }
+        ],
+        "mutexes_created": [
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\WERReportingForProcess6452",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\AmiProviderMutex_InventoryApplicationFile",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\27952f34-04a4-44f5-a840-b0c950705efe",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\a7e7aaa4-0548-4df6-8684-be348e0c5bf7",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\cb116980-0f47-40d0-9964-bf9603d491e5",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\WERReportingForProcess6436",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\ab3333d4-fc22-4a51-afd8-12b2de6bfcc6",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\WERReportingForProcess3548",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\965cd8a7-449a-4f7c-b818-72e6b51dabb8",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\8b27dc10-7310-4d7c-b1bc-75d33b825f57",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\WERReportingForProcess7484",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\c19c5a11-414c-4c31-a2d8-d662852b6a8e",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\WERReportingForProcess7528",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\abcb5670-e284-4ab3-b149-9ba1ca173c9a",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\34a0b669-b738-4c1e-af50-b9a8b5d28660",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\WERReportingForProcess7652",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\025c0257-34a1-43d2-8f36-9c96bfe065e9",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\2969e071-f3c6-4645-b29e-a692f241cdbd"
+        ],
+        "processes_terminated": [
+            "%windir%\\System32\\svchost.exe -k WerSvcGroup"
+        ],
+        "verdicts": [
+            "UNKNOWN_VERDICT",
+            "CLEAN"
+        ],
+        "files_written": [
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_5dd7fd603015de8aedc66cc2c9a037292894ce74_82810a17_00c2845f",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_5dd7fd603015de8aedc66cc2c9a037292894ce74_82810a17_00c2845f\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_5dd7fd603015de8aedc66cc2c9a037292894ce74_82810a17_057677cc",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_5dd7fd603015de8aedc66cc2c9a037292894ce74_82810a17_057677cc\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_5dd7fd603015de8aedc66cc2c9a037292894ce74_82810a17_12e280d4",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_5dd7fd603015de8aedc66cc2c9a037292894ce74_82810a17_12e280d4\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC13E.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC13E.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC228.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC228.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC8D0.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC8D0.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCAD4.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCAD4.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCB23.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCB23.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCCF6.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCCF6.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCEEC.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCEEC.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD43A.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD43A.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD68D.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD68D.tmp.xml",
+            "C:\\Users\\user\\AppData\\Local\\DBG",
+            "C:\\Windows\\AppCompat\\Programs\\Amcache.hve.tmp",
+            "\\Device\\ConDrv\\\\Connect",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_472415dd5ba4c0c0f84c8d55616996825a407766_82810a17_02781357",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_472415dd5ba4c0c0f84c8d55616996825a407766_82810a17_02781357\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_472415dd5ba4c0c0f84c8d55616996825a407766_82810a17_1ddc0b68",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_472415dd5ba4c0c0f84c8d55616996825a407766_82810a17_1ddc0b68\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_472415dd5ba4c0c0f84c8d55616996825a407766_82810a17_1e581b66",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_472415dd5ba4c0c0f84c8d55616996825a407766_82810a17_1e581b66\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER203.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER203.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3C9.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3C9.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF196.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF196.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF1B6.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF1B6.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF4F3.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF4F3.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF59F.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF59F.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF6E8.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF6E8.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF7A3.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF7A3.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERFD8D.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERFD8D.tmp.dmp"
+        ],
+        "files_dropped": [
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC8D0.tmp.WERInternalMetadata.xml",
+                "sha256": "B189B792CDDEAE50F13E0BA89E7003A1745DF539441A1EFA9EBD39AA51786BF9",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCAD4.tmp.WERInternalMetadata.xml",
+                "sha256": "5F3C6A99827261AA8B6A99BB8D6131E37EA54368489DA4EAF750601AC359C17C",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCB23.tmp.xml",
+                "sha256": "F7DFFD6CDBCDDEC9F6775E5D74368857C7293472C0AB696EB7BA2FAC542CF018",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCEEC.tmp.xml",
+                "sha256": "329E9E2ED0F0584B8F0153CF10A4B4BA049E9D312EA1F7D6CE7A5D049FAF6783",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD43A.tmp.WERInternalMetadata.xml",
+                "sha256": "52F4FBD218DBAB5B49E8BAA6E1025AC5598EFB354ED81CF541D5F9C3687B807A",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERD68D.tmp.xml",
+                "sha256": "59B56B233F77A8590BB92CFE572B8A4B5D155D3CB318AA789B6C243F7F92B6E6",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER203.tmp.WERInternalMetadata.xml",
+                "sha256": "76a60c5c58dcfe5caf449a5a84b4b779476f20b46227eebf514caf707cdb8c55",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3C9.tmp.xml",
+                "sha256": "f0bec7a8ba27455bbf0a1bbf59402fb7fb653b66c6343ecedb259a6eeafc1320",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF4F3.tmp.WERInternalMetadata.xml",
+                "sha256": "bc0548c9335c7e3ea65ceadc09889e52bd48ab30fe0783a93c14f551a54dc5ea",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF59F.tmp.WERInternalMetadata.xml",
+                "sha256": "d32a450e9558d2406dd4bae64e2e5d31affad06ed140af5810301fdbd027045a",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF6E8.tmp.xml",
+                "sha256": "9ff0ba6b26a626a11df7f5be5e9409f1fabf862d76f0c92d7a29ea66f720fb14",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF7A3.tmp.xml",
+                "sha256": "a8793ffd8c59a7ff718fd92e5c996718457854bb840e90156ed39b897f0e075a",
+                "type": "XML"
+            }
+        ],
+        "processes_tree": [
+            {
+                "process_id": "2300",
+                "name": "%windir%\\System32\\svchost.exe -k WerSvcGroup"
+            },
+            {
+                "process_id": "2676",
+                "name": "%SANDBOX_DLL_LOADER_X86% %SAMPLEPATH% %WORKDIR% 483"
+            },
+            {
+                "process_id": "2956",
+                "name": "wmiadap.exe /F /T /R"
+            },
+            {
+                "process_id": "3004",
+                "name": "%windir%\\system32\\wbem\\wmiprvse.exe"
+            },
+            {
+                "process_id": "6332",
+                "name": "C:\\Windows\\System32\\loaddll32.exe loaddll32.exe 'C:\\Users\\user\\Desktop\\library.dll'",
+                "children": [
+                    {
+                        "process_id": "6316",
+                        "name": "C:\\Windows\\SysWOW64\\cmd.exe cmd.exe /C rundll32.exe 'C:\\Users\\user\\Desktop\\library.dll',#1",
+                        "children": [
+                            {
+                                "process_id": "6436",
+                                "name": "C:\\Windows\\SysWOW64\\rundll32.exe rundll32.exe  'C:\\Users\\user\\Desktop\\library.dll',#1",
+                                "children": [
+                                    {
+                                        "process_id": "1308",
+                                        "name": "C:\\Windows\\SysWOW64\\WerFault.exe -u -p 6436 -s 672"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "process_id": "6452",
+                        "name": "C:\\Windows\\SysWOW64\\rundll32.exe rundll32.exe C:\\Users\\user\\Desktop\\library.dll,ServiceMain",
+                        "children": [
+                            {
+                                "process_id": "4744",
+                                "name": "C:\\Windows\\SysWOW64\\WerFault.exe -u -p 6452 -s 664"
+                            }
+                        ]
+                    },
+                    {
+                        "process_id": "3548",
+                        "name": "C:\\Windows\\SysWOW64\\rundll32.exe rundll32.exe 'C:\\Users\\user\\Desktop\\library.dll',ServiceMain",
+                        "children": [
+                            {
+                                "process_id": "168",
+                                "name": "C:\\Windows\\SysWOW64\\WerFault.exe -u -p 3548 -s 656"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "attack_techniques": {
+            "T1055": [
+                {
+                    "severity": "INFO",
+                    "description": "Spawns processes"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Creates a process in suspended mode (likely to inject code)"
+                }
+            ],
+            "T1036": [
+                {
+                    "severity": "INFO",
+                    "description": "Creates files inside the system directory"
+                }
+            ],
+            "T1218.011": [
+                {
+                    "severity": "INFO",
+                    "description": "Runs a DLL by calling functions"
+                }
+            ],
+            "T1497": [
+                {
+                    "severity": "INFO",
+                    "description": "Sample may be VM or Sandbox-aware, try analysis on a native machine"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Checks if the current process is being debugged"
+                }
+            ],
+            "T1518.001": [
+                {
+                    "severity": "LOW",
+                    "description": "Tries to detect debuggers by setting the trap flag for special instructions"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Checks if the current process is being debugged"
+                }
+            ],
+            "T1082": [
+                {
+                    "severity": "LOW",
+                    "description": "Tries to detect debuggers by setting the trap flag for special instructions"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Reads software policies"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Queries the volume information (name, serial number etc) of a device"
+                }
+            ],
+            "T1018": [
+                {
+                    "severity": "INFO",
+                    "description": "Reads the hosts file"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1229 @@
+{
+    "data": {
+        "modules_loaded": [
+            "%SAMPLEPATH%\\1ebff0d007569c6ebcfc12fa87b616601a26e621d13b3873738f8d8dcaddef1e.exe",
+            "comctl32.dll",
+            "imm32.dll",
+            "kERneL32.dll",
+            "\\\\.\\Ip",
+            "oleaut32.Dll",
+            "wtsapi32.Dll",
+            "shell32.dLl",
+            "rpcrt4.dll",
+            "kernel32.dll",
+            "iphlpapi.dll",
+            "oleaut32.dll",
+            "wtsapi32.dll",
+            "shell32.dll",
+            "vboxhook.dll",
+            "ADVAPI32.dll",
+            "API-MS-WIN-Service-Management-L1-1-0.dll"
+        ],
+        "text_highlighted": [
+            "Deleted file - C:\\Users\\<USER>\\AppData\\Local\\Temp\\1",
+            "Deleted file - C:\\Users\\<USER>\\AppData\\Local\\Temp\\4",
+            "Deleted file - C:\\Users\\<USER>\\AppData\\Local\\Temp\\7",
+            "Deleted file - C:\\Users\\<USER>\\AppData\\Local\\Temp\\8",
+            "Deleted file - C:\\Users\\<USER>\\AppData\\Local\\Temp\\a",
+            "Deleted file - C:\\Users\\<USER>\\AppData\\Local\\Temp\\A",
+            "Deleted file - C:\\Users\\<USER>\\AppData\\Local\\Temp\\b",
+            "Deleted file - C:\\Users\\<USER>\\AppData\\Local\\Temp\\c",
+            "Deleted file - C:\\Users\\<USER>\\AppData\\Local\\Temp\\d",
+            "Deleted file - C:\\Users\\<USER>\\AppData\\Local\\Temp\\D",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\FXSAPIDebugLogFi",
+            "The process cannot access the file because it is b",
+            "Deleted file - C:\\Users\\<USER>\\AppData\\Local\\Temp\\J",
+            "Deleted file - C:\\Users\\<USER>\\AppData\\Local\\Temp\\j",
+            "Deleted file - C:\\Users\\<USER>\\AppData\\Local\\Temp\\M",
+            "\r\n",
+            "Deleted file - C:\\Users\\<USER>\\AppData\\Local\\Temp\\P",
+            "Deleted file - C:\\Users\\<USER>\\AppData\\Local\\Temp\\R",
+            "Deleted file - C:\\Users\\<USER>\\AppData\\Local\\Temp\\S",
+            "Deleted file - C:\\Users\\<USER>\\AppData\\Local\\Temp\\t",
+            "Deleted file - C:\\Users\\<USER>\\AppData\\Local\\Temp\\w",
+            "Deleted file - C:\\Users\\<USER>\\AppData\\Local\\Temp\\C",
+            "Deleted file - C:\\Users\\<USER>\\AppData\\Local\\Temp\\f",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\frida-a96b95e223",
+            "Access is denied.\r\n",
+            "C:\\Windows\\system32\\cmd.exe"
+        ],
+        "files_opened": [
+            "C:\\WINDOWS\\system32\\winime32.dll",
+            "C:\\WINDOWS\\system32\\ws2_32.dll",
+            "C:\\WINDOWS\\system32\\ws2help.dll",
+            "C:\\WINDOWS\\system32\\psapi.dll",
+            "C:\\WINDOWS\\system32\\imm32.dll",
+            "C:\\WINDOWS\\system32\\lpk.dll",
+            "C:\\WINDOWS\\system32\\usp10.dll",
+            "C:\\WINDOWS\\system32\\wtsapi32.dll",
+            "C:\\WINDOWS\\system32\\winsta.dll",
+            "C:\\WINDOWS\\system32\\shell32.dll",
+            "C:\\WINDOWS\\WinSxS\\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\\comctl32.dll",
+            "C:\\WINDOWS\\WindowsShell.Manifest",
+            "C:\\WINDOWS\\system32\\comctl32.dll",
+            "C:\\WINDOWS\\system32\\iphlpapi.dll",
+            "\\\\.\\Ip",
+            "\\\\.\\VBoxMiniRdrDN",
+            "VBoxMiniRdrDN",
+            "1.ini",
+            "C:\\Windows\\system32\\apphelp.dll",
+            "\\SystemRoot\\AppPatch\\sysmain.sdb",
+            "C:\\Windows\\system32\\",
+            "C:\\Windows\\",
+            "C:\\Users\\<USER>\\Downloads",
+            "C:\\Users\\",
+            "C:\\Users\\<USER>\\",
+            "C:\\Users\\<USER>\\Downloads\\del %temp%\\*.* \\S \\F \\Q\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\*.*",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\155a9a30-8be4-49ad-8ad0-a514ada1bbe7.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\4ebd70be-f36f-4356-abdf-e5435f76ad7b.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\7cb3ad8e-28c7-47b6-9906-17a5797b609f.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\8371e0a7-4e2e-4be7-8a03-73a960d2c7ff.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\89e44f7d-4612-45d2-9fcb-9d2aade9006b.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\admin.bmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\AdobeARM.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\AdobeSFX.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\ArmUI.ini",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\ASPNETSetup_00000.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\ASPNETSetup_00001.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\bch1C61.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\bch94E0.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\bch9C85.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\bchB179.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\chrome_installer.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\dd_ndp48-web_decompression_log.txt",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\dd_SetupUtility.txt",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\dd_TMP151B.tmp_decompression_log.txt",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\dd_vcredist_amd64_20200608052206.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\dd_vcredist_amd64_20200608052206_001_vcRuntimeMinimum_x64.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\dd_wcf_CA_smci_20200608_113230_537.txt",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\dd_wcf_CA_smci_20200608_113249_849.txt",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\DMI8C80.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\DMIA307.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\DMIB0A4.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\DMIF4EF.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\FXSAPIDebugLogFile.txt",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\FXSAPI~1.TXT",
+            "C:\\Windows\\syswow64\\en-US\\KERNELBASE.dll.mui",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\JavaDeployReg.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\jawshtml.html",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\jusched.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Microsoft .NET Framework 4.8 Setup_20200608_042100297-MSI_netfx_Full_x64.msi.txt",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Microsoft .NET Framework 4.8 Setup_20200608_042100297.html",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Microsoft Visual C++ 2010  x64 Redistributable Setup_20200617_021319855-MSI_vc_red.msi.txt",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Microsoft Visual C++ 2010  x64 Redistributable Setup_20200617_021319855.html",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Microsoft Visual C++ 2010  x64 Redistributable Setup_20200617_022726402.html",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Microsoft_Windows_Desktop_Runtime_-_3.1.4_(x64)_20200608072921.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Microsoft_Windows_Desktop_Runtime_-_3.1.4_(x64)_20200608072921_000_windowsdesktop_runtime_3.1.4_win_x64.msi.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Microsoft_Windows_Desktop_Runtime_-_3.1.4_(x64)_20200608072921_001_dotnet_runtime_3.1.4_win_x64.msi.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Microsoft_Windows_Desktop_Runtime_-_3.1.4_(x64)_20200608072921_002_dotnet_hostfxr_3.1.4_win_x64.msi.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Microsoft_Windows_Desktop_Runtime_-_3.1.4_(x64)_20200608072921_003_dotnet_host_3.1.4_win_x64.msi.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\MSI1a1cc.LOG",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\MSIb35b0.LOG",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608044805.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608044805_000_ucrt_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_000_ucrt_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_001_core_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_002_dev_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_003_exe_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_004_lib_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_005_test_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_006_doc_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_007_tools_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_008_tcltk_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_009_launcher_AllUsers.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_010_pip_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_011_path_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\RGIFE8A.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\RGIFE8A.tmp-tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\StructuredQuery.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\tmpaddon",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\tmpaddon-e89b43",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\wmsetup.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\acrocef_low\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\acrord32_sbx\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\acrord32_sbx\\lilo.1672\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Adobe_ADMLogs\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Adobe_ADMLogs\\Adobe_ADM.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Adobe_ADMLogs\\Adobe_GDE.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\CR_F943F.tmp\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\CR_F943F.tmp\\setup.exe",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\frida-a96b95e223751109914e7abfd1d0fa4c\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\frida-a96b95e223751109914e7abfd1d0fa4c\\dbghelp-32.dll",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\frida-a96b95e223751109914e7abfd1d0fa4c\\dbghelp-64.dll",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\frida-a96b95e223751109914e7abfd1d0fa4c\\frida-agent-32.dll",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\frida-a96b95e223751109914e7abfd1d0fa4c\\FRIDA-~1.DLL",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\frida-a96b95e223751109914e7abfd1d0fa4c\\frida-agent-64.dll",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\frida-a96b95e223751109914e7abfd1d0fa4c\\frida-winjector-helper-32.exe",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\frida-a96b95e223751109914e7abfd1d0fa4c\\FRIDA-~1.EXE",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\frida-a96b95e223751109914e7abfd1d0fa4c\\frida-winjector-helper-64.exe",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\frida-a96b95e223751109914e7abfd1d0fa4c\\FRIDA-~2.EXE",
+            "C:\\Windows\\system32\\cmd.exe",
+            "C:\\Users\\<USER>\\AppData\\Roaming\\Microsoft\\Windows\\Recent",
+            "C:\\Users\\<USER>\\AppData\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\",
+            "C:\\Users\\user\\Desktop\\software.exe",
+            "C:\\Windows\\AppPatch\\sysmain.sdb",
+            "C:\\Windows\\SysWOW64\\ADVAPI32.dll",
+            "C:\\Windows\\SysWOW64\\CRYPTBASE.dll",
+            "C:\\Windows\\SysWOW64\\FLTLIB.DLL",
+            "C:\\Windows\\SysWOW64\\GDI32.dll",
+            "C:\\Windows\\SysWOW64\\IMM32.DLL",
+            "C:\\Windows\\SysWOW64\\KERNEL32.DLL",
+            "C:\\Windows\\SysWOW64\\KERNELBASE.dll",
+            "C:\\Windows\\SysWOW64\\OLEAUT32.dll",
+            "C:\\Windows\\SysWOW64\\RPCRT4.dll",
+            "C:\\Windows\\SysWOW64\\SHELL32.dll",
+            "C:\\Windows\\SysWOW64\\SspiCli.dll",
+            "C:\\Windows\\SysWOW64\\USER32.dll",
+            "C:\\Windows\\SysWOW64\\USERENV.dll",
+            "C:\\Windows\\SysWOW64\\WS2_32.dll",
+            "C:\\Windows\\SysWOW64\\WTSAPI32.dll",
+            "C:\\Windows\\SysWOW64\\apphelp.dll",
+            "C:\\Windows\\SysWOW64\\bcryptPrimitives.dll",
+            "C:\\Windows\\SysWOW64\\cfgmgr32.dll",
+            "C:\\Windows\\SysWOW64\\combase.dll",
+            "C:\\Windows\\SysWOW64\\gdi32full.dll",
+            "C:\\Windows\\SysWOW64\\iphlpapi.dlL",
+            "C:\\Windows\\SysWOW64\\kernel.appcore.dll",
+            "C:\\Windows\\SysWOW64\\msvcp_win.dll",
+            "C:\\Windows\\SysWOW64\\msvcrt.dll",
+            "C:\\Windows\\SysWOW64\\ntdll.dll",
+            "C:\\Windows\\SysWOW64\\ole32.dll",
+            "C:\\Windows\\SysWOW64\\powrprof.dll",
+            "C:\\Windows\\SysWOW64\\profapi.dll",
+            "C:\\Windows\\SysWOW64\\sechost.dll",
+            "C:\\Windows\\SysWOW64\\shcore.dll",
+            "C:\\Windows\\SysWOW64\\shlwapi.dll",
+            "C:\\Windows\\SysWOW64\\ucrtbase.dll",
+            "C:\\Windows\\SysWOW64\\win32u.dll",
+            "C:\\Windows\\SysWOW64\\windows.storage.dll"
+        ],
+        "mitre_attack_techniques": [
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Reads software policies"
+            }
+        ],
+        "processes_terminated": [
+            "%windir%\\System32\\svchost.exe -k WerSvcGroup",
+            "%CONHOST% \"12845106051729629751161038097786948510-2080205408887412773-15901471421158333754",
+            "%CONHOST% \"2027387771392854745-1045543165-143195187-18499670231879956611430921844988494900",
+            "%CONHOST% \"492200073-2080774615-153094111-1288308591217254967-11461087161262215541977463254",
+            "%CONHOST% \"-14207400181552963462-133911872829930365-213875454-981333145-3523422231634977132",
+            "%CONHOST% \"-209795827117509191911350004185-1589404238145553521113197662801794248289964157097",
+            "%CONHOST% \"-735752146-186610381-1910754196-535381492848104581359207157-1969848142-1765662133",
+            "%CONHOST% \"-809384275-4636239161308749118-1234643752-1337105213102822511613555804912023406518",
+            "wmiadap.exe /F /T /R",
+            "cmd.exe /c \"dir \"%HOME%\\Favorites\" /a /O:-D >> 1.ini\" 2>&1",
+            "cmd.exe /c \"ipconfig /all >> 1.ini\" 2>&1",
+            "ipconfig  /all ",
+            "cmd.exe /c \"dir \"%HOME%\\Desktop\" /a /O:-D >> 1.ini\" 2>&1",
+            "cmd.exe /c \"net view >> 1.ini\" 2>&1",
+            "net  view ",
+            "cmd.exe /c \"dir \"%APPDATA%\\Microsoft\\Windows\\Recent\" /a /O:-D >> 1.ini\" 2>&1",
+            "cmd.exe /c \"del %temp%\\*.* /S /F /Q /A\"",
+            "cmd.exe /c \"net view /domain >> 1.ini\" 2>&1",
+            "net  view /domain ",
+            "C:\\Windows\\SysWOW64\\cmd.exe",
+            "C:\\Windows\\System32\\conhost.exe",
+            "C:\\Windows\\System32\\wuapihost.exe",
+            "C:\\Windows\\SysWOW64\\net.exe",
+            "C:\\Windows\\SysWOW64\\ipconfig.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe",
+            "cmd.exe /c del %temp%\\*.* /S /F /Q /A",
+            "cmd.exe /c dir C:\\Users\\<USER>\\AppData\\Roaming\\Microsoft\\Windows\\Recent /a /O:-D >> 1.ini 2>&1",
+            "cmd.exe /c dir C:\\Users\\<USER>\\Desktop /a /O:-D >> 1.ini 2>&1",
+            "cmd.exe /c dir C:\\Users\\<USER>\\Favorites /a /O:-D >> 1.ini 2>&1",
+            "net view",
+            "cmd.exe /c net view >> 1.ini 2>&1",
+            "net view /domain",
+            "cmd.exe /c net view /domain >> 1.ini 2>&1",
+            "ipconfig /all",
+            "cmd.exe /c ipconfig /all >> 1.ini 2>&1",
+            "2128 - \"C:\\Program Files\\Windows Media Player\\wmpnetwk.exe\"",
+            "2596 - cmd.exe /c \"del %%temp%%\\*.* /S /F /Q /A\"",
+            "2656 - cmd.exe /c \"dir \"C:\\Users\\admin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\" /a /O:-D >> 1.ini\" 2>&1",
+            "2724 - cmd.exe /c \"dir \"C:\\Users\\admin\\Desktop\" /a /O:-D >> 1.ini\" 2>&1",
+            "2784 - cmd.exe /c \"dir \"C:\\Users\\admin\\Favorites\" /a /O:-D >> 1.ini\" 2>&1",
+            "2844 - cmd.exe /c \"net view >> 1.ini\" 2>&1",
+            "2904 - net  view ",
+            "2976 - cmd.exe /c \"net view /domain >> 1.ini\" 2>&1",
+            "2012 - net  view /domain ",
+            "2192 - cmd.exe /c \"ipconfig /all >> 1.ini\" 2>&1",
+            "2316 - ipconfig  /all "
+        ],
+        "verdict_confidence": 1,
+        "files_deleted": [
+            "%USERPROFILE%\\AppData\\Local\\Temp\\AdobeSFX.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\chrome_installer.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_NDP462-KB3151800-x86-x64-AllOS-ENU_decompression_log.txt",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredistUI188D.txt",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredistUI1894.txt",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_amd64_20180501212011.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_amd64_20180501212011_0_vcRuntimeMinimum_x64.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_amd64_20180501212011_1_vcRuntimeAdditional_x64.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_amd64_20180501212023.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_amd64_20180501212023_000_vcRuntimeMinimum_x64.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_amd64_20180501212023_001_vcRuntimeAdditional_x64.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_amd64_20180501212027.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_amd64_20180501212027_000_vcRuntimeMinimum_x64.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_amd64_20180501212027_001_vcRuntimeAdditional_x64.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_amd64_20180501212034.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_amd64_20180501212034_000_vcRuntimeMinimum_x64.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_amd64_20180501212034_001_vcRuntimeAdditional_x64.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_amd64_20180501212037.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_x86_20180501212022.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_x86_20180501212022_0_vcRuntimeMinimum_x86.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_x86_20180501212022_1_vcRuntimeAdditional_x86.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_x86_20180501212025.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_x86_20180501212025_000_vcRuntimeMinimum_x86.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_x86_20180501212025_001_vcRuntimeAdditional_x86.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_x86_20180501212029.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_x86_20180501212029_000_vcRuntimeMinimum_x86.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_x86_20180501212029_001_vcRuntimeAdditional_x86.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_x86_20180501212038.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_x86_20180501212038_000_vcRuntimeMinimum_x86.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_x86_20180501212038_001_vcRuntimeAdditional_x86.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\dd_vcredist_x86_20180501212040.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\DriveUI.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\JavaDeployReg.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\jawshtml.html",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\jusched.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\Microsoft .NET Framework 4.6.2 Setup_20181009_160021501.html",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\Microsoft Visual C++ 2010  x64 Redistributable Setup_20180501_211948773-MSI_vc_red.msi.txt",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\Microsoft Visual C++ 2010  x64 Redistributable Setup_20180501_211948773.html",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\Microsoft Visual C++ 2010  x86 Redistributable Setup_20180501_212007164-MSI_vc_red.msi.txt",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\Microsoft Visual C++ 2010  x86 Redistributable Setup_20180501_212007164.html",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\sa.9NBLGGGZLXN1_0_0010_.Public.InstallAgent.dat",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\sa.9WZDNCRCV5XN_0_0010_.Public.InstallAgent.dat",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\sa.9WZDNCRD2G0J_0_0010_.Public.InstallAgent.dat",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\sa.9WZDNCRDJMH1_0_0010_.Public.InstallAgent.dat",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\sa.9WZDNCRFHVFW_0_0010_.Public.InstallAgent.dat",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\sa.9WZDNCRFHX52_0_0010_.Public.InstallAgent.dat",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\sa.9WZDNCRFHZDT_0_0010_.Public.InstallAgent.dat",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\sa.9WZDNCRFJ27N_0_0010_.Public.InstallAgent.dat",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\sa.9WZDNCRFJ3PS_0_0010_.Public.InstallAgent.dat",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\sa.9WZDNCRFJ46V_0_0010_.Public.InstallAgent.dat",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\SetupExe(20180501212231444).log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\SetupExe(20180501212716A2C).log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\SetupExe(201805012128411194).log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\tmp4DD.tmp",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\tmpA05D.tmp",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\tmpA473.tmp",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\tmpA8A.tmp",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\wmsetup.log",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\~DFD53EA0344FBE6770.TMP",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\2812_16707\\crl-set",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\2812_16707\\LICENSE",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\2812_16707\\manifest.fingerprint",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\2812_16707\\manifest.json",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\2812_16707\\_metadata\\verified_contents.json",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\CR_EC40E.tmp\\setup.exe",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\outlook logging\\firstrun.log",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER1DF.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER29B.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2CB.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER49F.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4A0.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4B1.tmp.txt",
+            "C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat",
+            "1.ini",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\155a9a30-8be4-49ad-8ad0-a514ada1bbe7.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\4ebd70be-f36f-4356-abdf-e5435f76ad7b.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\7cb3ad8e-28c7-47b6-9906-17a5797b609f.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\8371e0a7-4e2e-4be7-8a03-73a960d2c7ff.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\89e44f7d-4612-45d2-9fcb-9d2aade9006b.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\admin.bmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\AdobeARM.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\AdobeSFX.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\ArmUI.ini",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\ASPNETSetup_00000.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\ASPNETSetup_00001.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\bch1C61.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\bch94E0.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\bch9C85.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\bchB179.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\chrome_installer.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\dd_ndp48-web_decompression_log.txt",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\dd_SetupUtility.txt",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\dd_TMP151B.tmp_decompression_log.txt",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\dd_vcredist_amd64_20200608052206.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\dd_vcredist_amd64_20200608052206_001_vcRuntimeMinimum_x64.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\dd_wcf_CA_smci_20200608_113230_537.txt",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\dd_wcf_CA_smci_20200608_113249_849.txt",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\DMI8C80.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\DMIA307.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\DMIB0A4.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\DMIF4EF.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\FXSAPIDebugLogFile.txt",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\FXSAPI~1.TXT",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\JavaDeployReg.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\jawshtml.html",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\jusched.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Microsoft .NET Framework 4.8 Setup_20200608_042100297-MSI_netfx_Full_x64.msi.txt",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Microsoft .NET Framework 4.8 Setup_20200608_042100297.html",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Microsoft Visual C++ 2010  x64 Redistributable Setup_20200617_021319855-MSI_vc_red.msi.txt",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Microsoft Visual C++ 2010  x64 Redistributable Setup_20200617_021319855.html",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Microsoft Visual C++ 2010  x64 Redistributable Setup_20200617_022726402.html",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Microsoft_Windows_Desktop_Runtime_-_3.1.4_(x64)_20200608072921.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Microsoft_Windows_Desktop_Runtime_-_3.1.4_(x64)_20200608072921_000_windowsdesktop_runtime_3.1.4_win_x64.msi.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Microsoft_Windows_Desktop_Runtime_-_3.1.4_(x64)_20200608072921_001_dotnet_runtime_3.1.4_win_x64.msi.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Microsoft_Windows_Desktop_Runtime_-_3.1.4_(x64)_20200608072921_002_dotnet_hostfxr_3.1.4_win_x64.msi.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Microsoft_Windows_Desktop_Runtime_-_3.1.4_(x64)_20200608072921_003_dotnet_host_3.1.4_win_x64.msi.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\MSI1a1cc.LOG",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\MSIb35b0.LOG",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608044805.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608044805_000_ucrt_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_000_ucrt_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_001_core_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_002_dev_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_003_exe_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_004_lib_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_005_test_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_006_doc_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_007_tools_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_008_tcltk_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_009_launcher_AllUsers.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_010_pip_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Python 3.7.4 (64-bit)_20200608045057_011_path_JustForMe.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\RGIFE8A.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\RGIFE8A.tmp-tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\StructuredQuery.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\tmpaddon",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\tmpaddon-e89b43",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\wmsetup.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Adobe_ADMLogs\\Adobe_ADM.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\Adobe_ADMLogs\\Adobe_GDE.log",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\CR_F943F.tmp\\setup.exe",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\frida-a96b95e223751109914e7abfd1d0fa4c\\dbghelp-32.dll",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\frida-a96b95e223751109914e7abfd1d0fa4c\\dbghelp-64.dll",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\frida-a96b95e223751109914e7abfd1d0fa4c\\frida-agent-32.dll",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\frida-a96b95e223751109914e7abfd1d0fa4c\\FRIDA-~1.DLL",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\frida-a96b95e223751109914e7abfd1d0fa4c\\frida-agent-64.dll",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\frida-a96b95e223751109914e7abfd1d0fa4c\\frida-winjector-helper-32.exe",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\frida-a96b95e223751109914e7abfd1d0fa4c\\FRIDA-~1.EXE",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\frida-a96b95e223751109914e7abfd1d0fa4c\\frida-winjector-helper-64.exe",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\frida-a96b95e223751109914e7abfd1d0fa4c\\FRIDA-~2.EXE"
+        ],
+        "ip_traffic": [
+            {
+                "destination_ip": "181.39.135.126",
+                "destination_port": 5443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "117.239.241.2",
+                "destination_port": 8443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "197.211.212.59",
+                "destination_port": 8080,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "192.168.0.38",
+                "destination_port": 138,
+                "transport_layer_protocol": "UDP"
+            },
+            {
+                "destination_ip": "20.99.184.37",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            }
+        ],
+        "command_executions": [
+            "cmd.exe /c \"dir \"%HOME%\\Favorites\" /a /O:-D >> 1.ini\" 2>&1",
+            "cmd.exe /c \"ipconfig /all >> 1.ini\" 2>&1",
+            "ipconfig  /all ",
+            "cmd.exe /c \"dir \"%HOME%\\Desktop\" /a /O:-D >> 1.ini\" 2>&1",
+            "cmd.exe /c \"net view >> 1.ini\" 2>&1",
+            "net  view ",
+            "cmd.exe /c \"dir \"%APPDATA%\\Microsoft\\Windows\\Recent\" /a /O:-D >> 1.ini\" 2>&1",
+            "cmd.exe /c \"del %temp%\\*.* /S /F /Q /A\"",
+            "cmd.exe /c \"net view /domain >> 1.ini\" 2>&1",
+            "net  view /domain ",
+            "\"%SAMPLEPATH%\\1ebff0d007569c6ebcfc12fa87b616601a26e621d13b3873738f8d8dcaddef1e.exe\" ",
+            "cmd.exe /c \"del %%temp%%\\*.* /S /F /Q /A\"",
+            "cmd.exe /c \"dir \"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Recent\" /a /O:-D >> 1.ini\" 2>&1",
+            "cmd.exe /c \"dir \"%USERPROFILE%\\Desktop\" /a /O:-D >> 1.ini\" 2>&1",
+            "cmd.exe /c \"dir \"%USERPROFILE%\\Favorites\" /a /O:-D >> 1.ini\" 2>&1",
+            "C:\\Windows\\System32\\wuapihost.exe -Embedding"
+        ],
+        "registry_keys_opened": [
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\996E.exe",
+            "\\Registry\\MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\TransparentEnabled",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SHELL32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\comctl32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ntdll.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\KERNEL32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\GDI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USER32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\Secur32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\RPCRT4.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ADVAPI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\msvcrt.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WS2HELP.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WS2_32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SHLWAPI.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\PSAPI.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ole32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\OLEAUT32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\winime32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\IMM32.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USP10.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\LPK.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USERENV.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\NETAPI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WINSTA.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WTSAPI32.dll",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Personal",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Local Settings",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows\\System",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\iphlpapi.dlL",
+            "\\REGISTRY\\MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\996E.exe\\RpcThreadPoolThrottle",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Rpc",
+            "HKLM\\System\\CurrentControlSet\\Services\\NapAgent\\Shas",
+            "HKLM\\System\\CurrentControlSet\\Services\\NapAgent\\Qecs",
+            "HKCU\\Software\\Microsoft\\Internet Explorer\\TypedURLs",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\AppModel\\Lookaside\\Packages",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\software.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\OLE",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\OLEAUT",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages\\en-US",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Nls\\CustomLocale",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Segment Heap",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Policies\\Microsoft\\Cryptography\\Configuration",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole\\FeatureDevelopmentProperties",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Disable8And16BitMitigation",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Wow64\\x86",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\OLE\\Tracing",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\MUI\\Settings",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows\\Display",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\FileSystem\\",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FipsAlgorithmPolicy",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\Settings\\LanguageConfiguration",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\UILanguages",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\UILanguages\\PendingDelete",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\NLS\\Language",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Sorting\\Versions",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Srp\\GP\\DLL"
+        ],
+        "files_dropped": [
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Temp\\1.ini"
+            },
+            {
+                "path": "C:\\Windows\\System32\\spp\\store\\2.0\\data.dat.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER1DF.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER1DF.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER29B.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER29B.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2CB.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2CB.tmp.txt"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER49F.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER49F.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4A0.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4A0.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4B1.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4B1.tmp.txt"
+            },
+            {
+                "path": "C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat"
+            }
+        ],
+        "files_written": [
+            "C:\\Windows\\ServiceProfiles\\LocalService\\AppData\\Roaming\\Microsoft\\UPnP Device Host\\upnphost\\udhisapi.dll"
+        ],
+        "processes_created": [
+            "%SAMPLEPATH%\\1ebff0d007569c6ebcfc12fa87b616601a26e621d13b3873738f8d8dcaddef1e.exe",
+            "C:\\Windows\\SysWOW64\\cmd.exe",
+            "C:\\Windows\\SysWOW64\\net.exe",
+            "C:\\Windows\\System32\\wuapihost.exe",
+            "C:\\Windows\\SysWOW64\\ipconfig.exe",
+            "cmd.exe /c del %temp%\\*.* /S /F /Q /A",
+            "cmd.exe /c dir C:\\Users\\<USER>\\AppData\\Roaming\\Microsoft\\Windows\\Recent /a /O:-D >> 1.ini 2>&1",
+            "cmd.exe /c dir C:\\Users\\<USER>\\Desktop /a /O:-D >> 1.ini 2>&1",
+            "cmd.exe /c dir C:\\Users\\<USER>\\Favorites /a /O:-D >> 1.ini 2>&1",
+            "cmd.exe /c net view >> 1.ini 2>&1",
+            "net view",
+            "cmd.exe /c net view /domain >> 1.ini 2>&1",
+            "net view /domain",
+            "cmd.exe /c ipconfig /all >> 1.ini 2>&1",
+            "ipconfig /all"
+        ],
+        "registry_keys_set": [
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\drivers\\ndis.sys[MofResourceName]",
+                "value": "LowDateTime:-331231481,HighDateTime:30676316***Binary mof failed, see WMIPROV.LOG"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\System32\\Drivers\\portcls.SYS[PortclsMof]",
+                "value": "LowDateTime:418629328,HighDateTime:30487037***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\drivers\\en-US\\ACPI.sys.mui[ACPIMOFResource]",
+                "value": "LowDateTime:1237199616,HighDateTime:30016579***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\DRIVERS\\HDAudBus.sys[HDAudioMofName]",
+                "value": "LowDateTime:-227274444,HighDateTime:30116024***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\System32\\Drivers\\en-US\\portcls.SYS.mui[PortclsMof]",
+                "value": "LowDateTime:1137199616,HighDateTime:30016579***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\advapi32.dll[MofResourceName]",
+                "value": "LowDateTime:302488720,HighDateTime:30778805***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\en-US\\advapi32.dll.mui[MofResourceName]",
+                "value": "LowDateTime:369951187,HighDateTime:30778805***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\drivers\\en-US\\mssmbios.sys.mui[MofResource]",
+                "value": "LowDateTime:1497199616,HighDateTime:30016579***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\DRIVERS\\en-US\\HDAudBus.sys.mui[HDAudioMofName]",
+                "value": "LowDateTime:-377767680,HighDateTime:30016579***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\drivers\\en-US\\ndis.sys.mui[MofResourceName]",
+                "value": "LowDateTime:382232320,HighDateTime:30016580***Binary mof failed, see WMIPROV.LOG"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\DRIVERS\\en-US\\intelppm.sys.mui[PROCESSORWMI]",
+                "value": "LowDateTime:-577767680,HighDateTime:30016579***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\IDE\\DiskAMDX_HARDDISK___________________________2.5+____\\5&2770a7af&0&0.0.0_0-{05901221-D566-11d1-B2F0-00A0C9062910}",
+                "value": "LowDateTime:803713417,HighDateTime:0***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\DRIVERS\\intelppm.sys[PROCESSORWMI]",
+                "value": "LowDateTime:-445445610,HighDateTime:30778799***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\drivers\\ACPI.sys[ACPIMOFResource]",
+                "value": "LowDateTime:398767260,HighDateTime:30646967***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\DRIVERS\\monitor.sys[MonitorWMI]"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\drivers\\mssmbios.sys[MofResource]",
+                "value": "LowDateTime:-649833737,HighDateTime:30733938***Binary mof compiled successfully"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\LruList\\CurrentLru"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\LruList\\0000000000002B79\\ObjectLru"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\LruList\\0000000000002B79\\ObjectId"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\Network\\{4D36E972-E325-11CE-BFC1-08002BE10318}\\{B5DA8633-954C-4495-AE46-0BB5B5FB1CDC}\\Connection\\PnpInstanceID",
+                "value": "PCI\\VEN_8086&DEV_100E&SUBSYS_11001AF4&REV_03\\3&13C0B0C5&0&90"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Services\\BITS\\Performance\\PerfMMFileName",
+                "value": "Global\\MMF_BITS_s"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\661\\Indexes\\FileIdIndex-{853201e6-2d75-11ea-a138-806e6f6e6963}\\100000001F551"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\LruList\\0000000000002B70\\ObjectLru"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\LruList\\0000000000002B70\\ObjectId"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\DeviceClasses\\{ad498944-762f-11d0-8dcb-00c04fc3358c}\\##?#SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{ad498944-762f-11d0-8dcb-00c04fc3358c}\\#{78032B7E-4968-42D3-9F37-287EA86C0AAA}\\Control\\Linked",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\DeviceClasses\\{ad498944-762f-11d0-8dcb-00c04fc3358c}\\##?#SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{ad498944-762f-11d0-8dcb-00c04fc3358c}\\#{78032B7E-4968-42D3-9F37-287EA86C0AAA}\\SymbolicLink",
+                "value": "\\\\?\\SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{ad498944-762f-11d0-8dcb-00c04fc3358c}\\{78032B7E-4968-42D3-9F37-287EA86C0AAA}"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\CIMOM\\ConfigValueEssNeedsLoading",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\CIMOM\\List of event-active namespaces",
+                "value": "00 00 54 00 45 00 76 00 65 00 6E 00 74 00 4C 00 6F 00 67 00 45 00 76 00 65 00 6E 00 74 00 43 00 6F 00 6E 00 73 00 75 00 6D 00 65 00 72 00"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\663\\Indexes\\FileIdIndex-{853201e6-2d75-11ea-a138-806e6f6e6963}\\10000000092C4"
+            },
+            {
+                "key": "\\\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Time Zones\\Iran Standard Time\\TZI"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\BackupRestore\\FilesNotToBackup\\BITS_LOG",
+                "value": "%windir%\\System32\\Bits.log\n"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\BackupRestore\\FilesNotToBackup\\BITS_BAK",
+                "value": "%windir%\\System32\\Bits.bak\n"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\IndexTable\\FileIdIndex-{853201e6-2d75-11ea-a138-806e6f6e6963}\\10000000092C4\\663"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\Last Counter",
+                "value": "12642"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\Object List",
+                "value": "12476 12482 12492 12502 12522 12566 12576 12614 12620 12636"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\Last Help",
+                "value": "12643"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\First Counter",
+                "value": "12476"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\First Help",
+                "value": "12477"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\PerfIniFile",
+                "value": "WmiApRpl.ini\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\DeviceClasses\\{cac88484-7515-4c03-82e6-71a87abac361}\\##?#SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{cac88484-7515-4c03-82e6-71a87abac361}\\DeviceInstance",
+                "value": "SW\\{eeab7790-c514-11d1-b42b-00805fc1270e}\\asyncmac"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\DeviceClasses\\{ad498944-762f-11d0-8dcb-00c04fc3358c}\\##?#SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{ad498944-762f-11d0-8dcb-00c04fc3358c}\\Control\\ReferenceCount",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\DeviceClasses\\{cac88484-7515-4c03-82e6-71a87abac361}\\##?#SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{cac88484-7515-4c03-82e6-71a87abac361}\\#\\Control\\Linked",
+                "value": "1"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\662\\Indexes\\FileIdIndex-{853201e6-2d75-11ea-a138-806e6f6e6963}\\10000000094CE"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\_CurrentObjectId_"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\IndexTable\\FileIdIndex-{853201e6-2d75-11ea-a138-806e6f6e6963}\\10000000094CE\\662"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\DeviceClasses\\{cac88484-7515-4c03-82e6-71a87abac361}\\##?#SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{cac88484-7515-4c03-82e6-71a87abac361}\\#\\SymbolicLink",
+                "value": "\\\\?\\SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{cac88484-7515-4c03-82e6-71a87abac361}"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\WBEM\\PROVIDERS\\Performance\\Performance Refresh",
+                "value": "0"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\WBEM\\PROVIDERS\\Performance\\Performance Refreshed",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\WBEM\\PROVIDERS\\Performance\\Performance Data",
+                "value": "28 1B 00 00 01 00 00 00 00 00 00 00 10 00 00 00 18 1B 00 00 09 00 00 00 9A 00 00 00 01 00 00 00 01 00 00 00 40 00 00 00 1A 00 00 00 5C 00 5C 00 2E 00 5C 00 72 00 6F 00 6F 00 74 00 5C 00 77 00 6D 00 69 00 00 00 00 00 00 00 00 00 00 00 00 00 C0 01 00 00 04 00 00 00 08 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 64 00 00 00 68 00 00 00 3A 00 00 00 4D 00 53 00 69 00 53 00 43 00 53 00 49 00 5F 00 43 00 6F 00 6E 00 6E 00 65 00 63 00 74 00 69 00 6F 00 6E 00 53 00 74 00 61 00 74 00 69 00 73 00 74 00 69 00 63 00 73 00 00 00 00 00 00 00 00 00 00 00 00 00 30 00 00 00 1A 00 00 00 49 00 6E 00 73 00 74 00 61 00 6E 00 63 00 65 00 4E 00 61 00 6D 00 65 00 00 00 2F 20 4D 6F 64 75 6C 65 20 4E 61 6D 65 3A 48 00 00 00 00 00 00 00 02 00 00 00 15 00 00 00 00 00 00 00 64 00 00 00 00 05 41 10 48 00 00 00 1C 00 00 00 42 00 79 00 74 00 65 00 73 00 52 00 65 00 63 00 65 00 69 00 76 00 65 00 64 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 04 00 00 00 15 00 00 00 00 00 00 00 64 00 00 00 00 05 41 10 40 00 00 00 14 00 00 00 42 0"
+            },
+            {
+                "key": "\\\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Time Zones\\Paraguay Standard Time\\TZI"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\DRIVERS\\en-US\\intelppm.sys.mui[PROCESSORWMI]",
+                "value": "LowDateTime:-577767680,HighDateTime:30016579***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\DRIVERS\\HDAudBus.sys[HDAudioMofName]",
+                "value": "LowDateTime:-227274444,HighDateTime:30116024***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\System32\\Drivers\\en-US\\portcls.SYS.mui[PortclsMof]",
+                "value": "LowDateTime:1137199616,HighDateTime:30016579***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\advapi32.dll[MofResourceName]",
+                "value": "LowDateTime:302488720,HighDateTime:30778805***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\en-US\\advapi32.dll.mui[MofResourceName]",
+                "value": "LowDateTime:369951187,HighDateTime:30778805***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\DRIVERS\\en-US\\mssmbios.sys.mui[MofResource]",
+                "value": "LowDateTime:1497199616,HighDateTime:30016579***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\System32\\Drivers\\portcls.SYS[PortclsMof]",
+                "value": "LowDateTime:418629328,HighDateTime:30487037***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\drivers\\en-US\\ndis.sys.mui[MofResourceName]",
+                "value": "LowDateTime:382232320,HighDateTime:30016580***Binary mof failed, see WMIPROV.LOG"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\DRIVERS\\en-US\\HDAudBus.sys.mui[HDAudioMofName]",
+                "value": "LowDateTime:-377767680,HighDateTime:30016579***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\DRIVERS\\en-US\\ACPI.sys.mui[ACPIMOFResource]",
+                "value": "LowDateTime:1237199616,HighDateTime:30016579***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\IDE\\DiskAMDX_HARDDISK___________________________2.5+____\\5&2770a7af&0&0.0.0_0-{05901221-D566-11d1-B2F0-00A0C9062910}",
+                "value": "LowDateTime:803713417,HighDateTime:0***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\DRIVERS\\intelppm.sys[PROCESSORWMI]",
+                "value": "LowDateTime:-445445610,HighDateTime:30778799***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\DRIVERS\\ACPI.sys[ACPIMOFResource]",
+                "value": "LowDateTime:398767260,HighDateTime:30646967***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\DRIVERS\\mssmbios.sys[MofResource]",
+                "value": "LowDateTime:-649833737,HighDateTime:30733938***Binary mof compiled successfully"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\LruList\\0000000000002B67\\ObjectLru"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\LruList\\0000000000002B67\\ObjectId"
+            },
+            {
+                "key": "\\\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Time Zones\\Middle East Standard Time\\TZI"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\IndexTable\\FileIdIndex-{853201e6-2d75-11ea-a138-806e6f6e6963}\\_IndexName_"
+            },
+            {
+                "key": "\\\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Time Zones\\Greenland Standard Time\\TZI"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\662\\_FileId_"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\662\\_ObjectLru_"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\662\\_Usn_"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\662\\_ObjectId_"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\662\\AeFileID"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\662\\_UsnJournalId_"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\662\\AeProgramID"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\663\\_FileId_"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\663\\_ObjectLru_"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\663\\_Usn_"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\663\\_ObjectId_"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\663\\AeFileID"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\663\\_UsnJournalId_"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\663\\AeProgramID"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\661\\_FileId_"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\661\\_ObjectLru_"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\661\\_Usn_"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\661\\_ObjectId_"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\661\\AeFileID"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\661\\_UsnJournalId_"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\ObjectTable\\661\\AeProgramID"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\BITS\\StateIndex",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Perflib\\Last Counter",
+                "value": "12642"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Perflib\\Last Help",
+                "value": "12643"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Perflib\\Updating"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\DeviceClasses\\{ad498944-762f-11d0-8dcb-00c04fc3358c}\\##?#SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{ad498944-762f-11d0-8dcb-00c04fc3358c}\\DeviceInstance",
+                "value": "SW\\{eeab7790-c514-11d1-b42b-00805fc1270e}\\asyncmac"
+            },
+            {
+                "key": "\\\\REGISTRY\\A\\{d1fe7773-9ea6-11ea-baff-167c9a143b01}\\DefaultObjectStore\\IndexTable\\FileIdIndex-{853201e6-2d75-11ea-a138-806e6f6e6963}\\100000001F551\\661"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\DeviceClasses\\{cac88484-7515-4c03-82e6-71a87abac361}\\##?#SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{cac88484-7515-4c03-82e6-71a87abac361}\\Control\\ReferenceCount",
+                "value": "1"
+            },
+            {
+                "key": "HKU\\S-1-5-21-575823232-3065301323-1442773979-1000_CLASSES\\Local Settings\\MuiCache\\17b\\52C64B7E\\LanguageList",
+                "value": "en-US\nen\n"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows Media Player NSS\\3.0\\Servers\\A70D59A1-8EAD-4F40-AAAB-FBFC460800A4\\FriendlyName",
+                "value": "WORK: admin:"
+            }
+        ],
+        "mutexes_created": [
+            "0x0"
+        ],
+        "registry_keys_deleted": [
+            "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\First Counter",
+            "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\Last Counter",
+            "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\First Help",
+            "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\Last Help",
+            "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\Object List"
+        ],
+        "calls_highlighted": [
+            "GetTickCount",
+            "Sleep"
+        ],
+        "processes_tree": [
+            {
+                "process_id": "2300",
+                "name": "%windir%\\System32\\svchost.exe -k WerSvcGroup"
+            },
+            {
+                "process_id": "2828",
+                "name": "%CONHOST% \"12845106051729629751161038097786948510-2080205408887412773-15901471421158333754"
+            },
+            {
+                "process_id": "2936",
+                "name": "%CONHOST% \"2027387771392854745-1045543165-143195187-18499670231879956611430921844988494900"
+            },
+            {
+                "process_id": "2776",
+                "name": "%CONHOST% \"492200073-2080774615-153094111-1288308591217254967-11461087161262215541977463254"
+            },
+            {
+                "process_id": "2852",
+                "name": "%CONHOST% \"-14207400181552963462-133911872829930365-213875454-981333145-3523422231634977132"
+            },
+            {
+                "process_id": "2804",
+                "name": "%CONHOST% \"-209795827117509191911350004185-1589404238145553521113197662801794248289964157097"
+            },
+            {
+                "process_id": "2896",
+                "name": "%CONHOST% \"-735752146-186610381-1910754196-535381492848104581359207157-1969848142-1765662133"
+            },
+            {
+                "process_id": "2752",
+                "name": "%CONHOST% \"-809384275-4636239161308749118-1234643752-1337105213102822511613555804912023406518"
+            },
+            {
+                "process_id": "2212",
+                "name": "wmiadap.exe /F /T /R"
+            },
+            {
+                "process_id": "1132",
+                "name": "%windir%\\system32\\wbem\\wmiprvse.exe"
+            },
+            {
+                "process_id": "2676",
+                "name": "%SAMPLEPATH%",
+                "children": [
+                    {
+                        "process_id": "2820",
+                        "name": "cmd.exe /c \"dir \"%HOME%\\Favorites\" /a /O:-D >> 1.ini\" 2>&1",
+                        "time_offset": 3
+                    },
+                    {
+                        "process_id": "2928",
+                        "name": "cmd.exe /c \"ipconfig /all >> 1.ini\" 2>&1",
+                        "time_offset": 8,
+                        "children": [
+                            {
+                                "process_id": "2952",
+                                "name": "ipconfig  /all ",
+                                "time_offset": 8
+                            }
+                        ]
+                    },
+                    {
+                        "process_id": "2796",
+                        "name": "cmd.exe /c \"dir \"%HOME%\\Desktop\" /a /O:-D >> 1.ini\" 2>&1",
+                        "time_offset": 3
+                    },
+                    {
+                        "process_id": "2844",
+                        "name": "cmd.exe /c \"net view >> 1.ini\" 2>&1",
+                        "time_offset": 4,
+                        "children": [
+                            {
+                                "process_id": "2868",
+                                "name": "net  view ",
+                                "time_offset": 4
+                            }
+                        ]
+                    },
+                    {
+                        "process_id": "2768",
+                        "name": "cmd.exe /c \"dir \"%APPDATA%\\Microsoft\\Windows\\Recent\" /a /O:-D >> 1.ini\" 2>&1",
+                        "time_offset": 2
+                    },
+                    {
+                        "process_id": "2744",
+                        "name": "cmd.exe /c \"del %temp%\\*.* /S /F /Q /A\"",
+                        "time_offset": 1
+                    },
+                    {
+                        "process_id": "2888",
+                        "name": "cmd.exe /c \"net view /domain >> 1.ini\" 2>&1",
+                        "time_offset": 7,
+                        "children": [
+                            {
+                                "process_id": "2912",
+                                "name": "net  view /domain ",
+                                "time_offset": 7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "process_id": "2988",
+                "name": "%WINDIR%\\explorer.exe",
+                "children": [
+                    {
+                        "process_id": "3580",
+                        "name": "%SAMPLEPATH%\\1ebff0d007569c6ebcfc12fa87b616601a26e621d13b3873738f8d8dcaddef1e.exe",
+                        "children": [
+                            {
+                                "process_id": "4036",
+                                "name": "C:\\Windows\\SysWOW64\\cmd.exe"
+                            },
+                            {
+                                "process_id": "3436",
+                                "name": "C:\\Windows\\SysWOW64\\cmd.exe"
+                            },
+                            {
+                                "process_id": "2716",
+                                "name": "C:\\Windows\\SysWOW64\\cmd.exe"
+                            },
+                            {
+                                "process_id": "3716",
+                                "name": "C:\\Windows\\SysWOW64\\cmd.exe"
+                            },
+                            {
+                                "process_id": "3168",
+                                "name": "C:\\Windows\\SysWOW64\\cmd.exe",
+                                "children": [
+                                    {
+                                        "process_id": "2884",
+                                        "name": "C:\\Windows\\SysWOW64\\net.exe"
+                                    }
+                                ]
+                            },
+                            {
+                                "process_id": "1944",
+                                "name": "C:\\Windows\\SysWOW64\\cmd.exe",
+                                "children": [
+                                    {
+                                        "process_id": "1096",
+                                        "name": "C:\\Windows\\SysWOW64\\net.exe"
+                                    }
+                                ]
+                            },
+                            {
+                                "process_id": "4024",
+                                "name": "C:\\Windows\\SysWOW64\\cmd.exe",
+                                "children": [
+                                    {
+                                        "process_id": "3084",
+                                        "name": "C:\\Windows\\SysWOW64\\ipconfig.exe"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "process_id": "620",
+                "name": "C:\\Windows\\System32\\svchost.exe",
+                "children": [
+                    {
+                        "process_id": "3632",
+                        "name": "C:\\Windows\\System32\\wuapihost.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "184",
+                "name": "****.exe"
+            },
+            {
+                "process_id": "2384",
+                "name": "1ebff0d007569c6ebcfc12fa87b616601a26e621d13b3873738f8d8dcaddef1e.exe",
+                "children": [
+                    {
+                        "process_id": "2192",
+                        "name": "cmd.exe /c ipconfig /all >> 1.ini 2>&1",
+                        "time_offset": 4,
+                        "children": [
+                            {
+                                "process_id": "2316",
+                                "name": "ipconfig /all",
+                                "time_offset": 5
+                            }
+                        ]
+                    },
+                    {
+                        "process_id": "2976",
+                        "name": "cmd.exe /c net view /domain >> 1.ini 2>&1",
+                        "time_offset": 3,
+                        "children": [
+                            {
+                                "process_id": "2012",
+                                "name": "net view /domain",
+                                "time_offset": 4
+                            }
+                        ]
+                    },
+                    {
+                        "process_id": "2844",
+                        "name": "cmd.exe /c net view >> 1.ini 2>&1",
+                        "time_offset": 2,
+                        "children": [
+                            {
+                                "process_id": "2904",
+                                "name": "net view",
+                                "time_offset": 3
+                            }
+                        ]
+                    },
+                    {
+                        "process_id": "2784",
+                        "name": "cmd.exe /c dir C:\\Users\\<USER>\\Favorites /a /O:-D >> 1.ini 2>&1",
+                        "time_offset": 2
+                    },
+                    {
+                        "process_id": "2724",
+                        "name": "cmd.exe /c dir C:\\Users\\<USER>\\Desktop /a /O:-D >> 1.ini 2>&1",
+                        "time_offset": 2
+                    },
+                    {
+                        "process_id": "2656",
+                        "name": "cmd.exe /c dir C:\\Users\\<USER>\\AppData\\Roaming\\Microsoft\\Windows\\Recent /a /O:-D >> 1.ini 2>&1",
+                        "time_offset": 1
+                    },
+                    {
+                        "process_id": "2596",
+                        "name": "cmd.exe /c del %temp%\\*.* /S /F /Q /A"
+                    }
+                ]
+            },
+            {
+                "process_id": "1784",
+                "name": "\"C:\\Users\\user\\Desktop\\software.exe\" "
+            }
+        ],
+        "tags": [
+            "DIRECT_CPU_CLOCK_ACCESS",
+            "LONG_SLEEPS",
+            "RUNTIME_MODULES",
+            "IDLE"
+        ],
+        "verdicts": [
+            "UNKNOWN_VERDICT",
+            "CLEAN"
+        ],
+        "attack_techniques": {
+            "T1082": [
+                {
+                    "severity": "INFO",
+                    "description": "Reads software policies"
+                }
+            ]
+        }
+    }
+}

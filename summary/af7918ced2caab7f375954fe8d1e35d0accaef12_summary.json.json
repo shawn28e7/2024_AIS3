@@ -1,0 +1,682 @@
+{
+    "data": {
+        "files_dropped": [
+            {
+                "path": "C:\\Windows\\System32\\spp\\store\\2.0\\data.dat.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERBD2.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERBD2.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC9D.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC9D.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCDD.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCDD.tmp.txt"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER249A.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER249A.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER24AB.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER24AB.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER24AC.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER24AC.tmp.txt"
+            },
+            {
+                "path": "C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat"
+            }
+        ],
+        "signature_matches": [
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "calculate modulo 256 via x86 assembly",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: calculate modulo 256 via x86 assembly\n    authors:\n      - moritz.raabe@mandiant.com\n    lib: true\n    scope: instruction\n    mbc:\n      - Data::Modulo [C0058]\n    examples:\n      - 9324D1A8AE37A36AE560C37448C9705A:0x4049A9\n  features:\n    #  and ecx, 800000FFh\n    #  and ecx, 0FFh\n    - and:\n      - mnemonic: and\n      - or:\n        - number: 0x800000FF\n        - number: 0xFF\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "contain obfuscated stackstrings",
+                "description": "anti-analysis/obfuscation/string/stackstring",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: contain obfuscated stackstrings\n    namespace: anti-analysis/obfuscation/string/stackstring\n    authors:\n      - moritz.raabe@mandiant.com\n    scope: basic block\n    att&ck:\n      - Defense Evasion::Obfuscated Files or Information::Indicator Removal from Tools [T1027.005]\n    mbc:\n      - Anti-Static Analysis::Executable Code Obfuscation::Argument Obfuscation [B0032.020]\n      - Anti-Static Analysis::Executable Code Obfuscation::Stack Strings [B0032.017]\n    examples:\n      - Practical Malware Analysis Lab 16-03.exe_:0x4013D0\n  features:\n    - characteristic: stack string\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "delay execution",
+                "authors": [
+                    "michael.hunhoff@mandiant.com",
+                    "@ramen0x3f"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: delay execution\n    authors:\n      - michael.hunhoff@mandiant.com\n      - \"@ramen0x3f\"\n    lib: true\n    scope: basic block\n    mbc:\n      - Anti-Behavioral Analysis::Dynamic Analysis Evasion::Delayed Execution [B0003.003]\n    references:\n      - https://docs.microsoft.com/en-us/windows/win32/sync/wait-functions\n      - https://github.com/LordNoteworthy/al-khaser/blob/master/al-khaser/TimingAttacks/timing.cpp\n    examples:\n      - al-khaser_x86.exe_:0x449770\n      - B5F85C26D7AA5A1FB4AF5821B6B5AB9B:0x402FA6\n  features:\n    - or:\n      - and:\n        - os: windows\n        - or:\n          - api: kernel32.Sleep\n          - api: kernel32.SleepEx\n          - api: kernel32.WaitForSingleObject\n          - api: kernel32.SignalObjectAndWait\n          - api: kernel32.WaitForSingleObjectEx\n          - api: kernel32.WaitForMultipleObjects\n          - api: kernel32.WaitForMultipleObjectsEx\n          - api: kernel32.RegisterWaitForSingleObject\n          - api: WaitOnAddress\n          - api: user32.MsgWaitForMultipleObjects\n          - api: user32.MsgWaitForMultipleObjectsEx\n          - api: NtDelayExecution\n          - api: KeWaitForSingleObject\n          - api: KeDelayExecutionThread\n      - and:\n        - os: linux\n        - or:\n          - api: sleep\n          - api: usleep\n",
+                "refs": [
+                    {
+                        "ref": "https://docs.microsoft.com/en-us/windows/win32/sync/wait-functions"
+                    },
+                    {
+                        "ref": "https://github.com/LordNoteworthy/al-khaser/blob/master/al-khaser/TimingAttacks/timing.cpp"
+                    }
+                ]
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "create or open file",
+                "authors": [
+                    "michael.hunhoff@mandiant.com",
+                    "joakim@intezer.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: create or open file\n    authors:\n      - michael.hunhoff@mandiant.com\n      - joakim@intezer.com\n    lib: true\n    scope: basic block\n    mbc:\n      - File System::Create File [C0016]\n    examples:\n      - B5F85C26D7AA5A1FB4AF5821B6B5AB9B:0x401D7E\n  features:\n    - or:\n      - api: CreateFile\n      - api: CreateFileEx\n      - api: IoCreateFile\n      - api: IoCreateFileEx\n      - api: ZwOpenFile\n      - api: ZwCreateFile\n      - api: NtOpenFile\n      - api: NtCreateFile\n      - api: fopen\n      - api: fopen64\n      - api: fdopen\n      - api: freopen\n      - api: open\n      - api: openat\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "create thread",
+                "description": "host-interaction/thread/create",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "michael.hunhoff@mandiant.com",
+                    "joakim@intezer.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: create thread\n    namespace: host-interaction/thread/create\n    authors:\n      - moritz.raabe@mandiant.com\n      - michael.hunhoff@mandiant.com\n      - joakim@intezer.com\n      - anushka.virgaonkar@mandiant.com\n    scope: basic block\n    mbc:\n      - Process::Create Thread [C0038]\n    examples:\n      - 946A99F36A46D335DEC080D9A4371940:0x10001DA0\n      - B5F85C26D7AA5A1FB4AF5821B6B5AB9B:0x408020\n  features:\n    - or:\n      - and:\n        - os: windows\n        - or:\n          - api: kernel32.CreateThread\n          - api: _beginthread\n          - api: _beginthreadex\n          - api: PsCreateSystemThread\n          - api: SHCreateThread\n          - api: SHCreateThreadWithHandle\n          - api: kernel32.CreateRemoteThread\n          - api: kernel32.CreateRemoteThreadEx\n          - api: RtlCreateUserThread\n          - api: ntdll.NtCreateThread\n          - api: ntdll.NtCreateThreadEx\n          - api: ntdll.ZwCreateThread\n          - api: ntdll.ZwCreateThreadEx\n      - and:\n        - os: linux\n        - api: pthread_create\n      - and:\n        - api: System.Threading.Thread::Start\n        - optional:\n          - api: System.Threading.Thread::ctor\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "reference absolute stream path on Windows",
+                "description": "host-interaction/file-system",
+                "authors": [
+                    "blas.kojusner@mandiant.com",
+                    "william.ballenthin@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: reference absolute stream path on Windows\n    namespace: host-interaction/file-system\n    authors:\n      - blas.kojusner@mandiant.com\n      - william.ballenthin@mandiant.com\n    scope: basic block\n    references:\n      - https://learn.microsoft.com/en-us/windows/win32/fileio/file-streams\n    examples:\n      - 51828683DC26BFABD3994494099AE97D:0x11A9\n  features:\n    - and:\n      - string: /^(..\\?\\\\)?([\\w]\\:|\\\\)(\\\\+((?![\\<\\>\\\"\\/\\|\\*\\?\\:\\\\])[\\x20-\\x5B\\x5D-\\x7E])+)+(\\:\\$?([a-zA-Z0-9_]+))?/\n        # ^(..\\?\\\\)? -> Check for path starting with \"\\\\?\\\"\n        # ([\\w]\\:|\\\\) -> Check for absolute path beginning\n        # (\\\\+((?![\\<\\>\\\"\\/\\|\\*\\?\\:\\\\])[\\x20-\\x5B\\x5D-\\x7E])+)+ -> Check for valid path and filename\n        #   \\\\+ -> Check for at least one backslash path separator\n        #   (?![\\<\\>\\\"\\/\\|\\*\\?\\:\\\\]) -> path component must not start with <, >, \", ...\n        #   [\\x20-\\x5B\\x5D-\\x7E] -> path component must be printable ASCII, except backslash path separator\n        # : -> Check for start of stream filename\n        # \\$?([a-zA-Z0-9_]+))? -> Check for valid stream filename\n        ### Example Matches:\n        ### \\\\\\\\server\\share\\\\file:stream\n        ### \\\\\\\\server\\share\\dir.ext\\\\file.ext:stream \n        ### \\\\\\\\server\\share\\dir.ext\\\\file.tar.gz:stream\n        ### \\\\\\\\server\\share\\dir.ext\\\\file:stream.tar.gz\n        ### \\\\\\\\server\\share\\dir\\\\file.ext:stream.ext\n        ### \\\\\\\\?\\C:\\dir1\\dir2\\\\file:stream\n        ### C:\\dir\\\\file:stream.ext\n        ### C:\\dir\\\\file:}{+,.';[]-=-0987654321`~!@#$%^&()_+-.ext\n",
+                "refs": [
+                    {
+                        "ref": "https://learn.microsoft.com/en-us/windows/win32/fileio/file-streams"
+                    }
+                ]
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "encode data using XOR",
+                "description": "data-manipulation/encoding/xor",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: encode data using XOR\n    namespace: data-manipulation/encoding/xor\n    authors:\n      - moritz.raabe@mandiant.com\n    scope: basic block\n    att&ck:\n      - Defense Evasion::Obfuscated Files or Information [T1027]\n    mbc:\n      - Defense Evasion::Obfuscated Files or Information::Encoding-Standard Algorithm [E1027.m02]\n      - Data::Encode Data::XOR [C0026.002]\n    examples:\n      - 2D3EDC218A90F03089CC01715A9F047F:0x403D7E\n  features:\n    - and:\n      - characteristic: tight loop\n      - characteristic: nzxor\n      - not:\n        - description: filter for potential false positives\n        - or:\n          - or:\n            - description: unsigned bitwise negation operation (~i)\n            - number: 0xFFFFFFFF = bitwise negation for unsigned 32 bits\n            - number: 0xFFFFFFFFFFFFFFFF = bitwise negation for unsigned 64 bits\n          - or:\n            - description: signed bitwise negation operation (~i)\n            - number: 0x0FFFFFFF = bitwise negation for signed 32 bits\n            - number: 0x0FFFFFFFFFFFFFFF = bitwise negation for signed 64 bits\n          - or:\n            - description: Magic constants used in the implementation of strings functions.\n            # such as `strlen` and `strcat` in the Windows standard library:\n            # (((i - 0x81010101) ^ ~i) & 0x81010100)\n            ## 32 bits\n            - number: 0x7EFEFEFF = optimized string constant for 32 bits\n            - number: 0x81010101 = -0x81010101 = 0x7EFEFEFF\n            - number: 0x81010100 = 0x81010100 = ~0x7EFEFEFF\n            ## 64 bits\n            - number: 0x7EFEFEFEFEFEFEFF = optimized string constant for 64 bits\n            - number: 0x8101010101010101 = -0x8101010101010101 = 0x7EFEFEFEFEFEFEFF\n            - number: 0x8101010101010100 = 0x8101010101010100 = ~0x7EFEFEFEFEFEFEFF\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "link function at runtime on Windows",
+                "description": "linking/runtime-linking",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: link function at runtime on Windows\n    namespace: linking/runtime-linking\n    authors:\n      - moritz.raabe@mandiant.com\n      - michael.hunhoff@mandiant.com\n    scope: function\n    att&ck:\n      - Execution::Shared Modules [T1129]\n    examples:\n      - 9324D1A8AE37A36AE560C37448C9705A:0x404130\n      - Practical Malware Analysis Lab 01-04.exe_:0x401350\n  features:\n    - and:\n      - os: windows\n      - or:\n        - api: kernel32.GetProcAddress\n        - api: ntdll.LdrGetProcedureAddress\n      - optional:\n        - characteristic: indirect call\n        - api: kernel32.LoadLibrary\n        - api: kernel32.GetModuleHandle\n        - api: kernel32.GetModuleHandleEx\n        - api: ntdll.LdrLoadDll\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "link many functions at runtime",
+                "description": "linking/runtime-linking",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "joakim@intezer.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: link many functions at runtime\n    namespace: linking/runtime-linking\n    authors:\n      - moritz.raabe@mandiant.com\n      - joakim@intezer.com\n    scope: function\n    att&ck:\n      - Execution::Shared Modules [T1129]\n    examples:\n      - b7b5e1253710d8927cbe07d52d2d2e10:0x401000\n  features:\n    - or:\n      - and:\n        - os: windows\n        - match: link function at runtime on Windows\n        - or:\n          - count(api(kernel32.GetProcAddress)): 5 or more\n          - count(api(ntdll.LdrGetProcedureAddress)): 5 or more\n      - and:\n        - os: linux\n        - match: link function at runtime on Linux\n        - or:\n          - count(api(dlsym)): 5 or more\n          - count(api(dlvsym)): 5 or more\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "contain loop",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: contain loop\n    authors:\n      - moritz.raabe@mandiant.com\n    lib: true\n    scope: function\n    examples:\n      - 08AC667C65D36D6542917655571E61C8:0x406EAA\n  features:\n    - or:\n      - characteristic: loop\n      - characteristic: tight loop\n      - characteristic: recursive call\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "write file on Windows",
+                "description": "host-interaction/file-system/write",
+                "authors": [
+                    "william.ballenthin@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: write file on Windows\n    namespace: host-interaction/file-system/write\n    authors:\n      - william.ballenthin@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scope: function\n    mbc:\n      - File System::Writes File [C0052]\n    examples:\n      - Practical Malware Analysis Lab 01-04.exe_:0x4011FC\n      # ntdll\n      - 563653399B82CD443F120ECEFF836EA3678D4CF11D9B351BB737573C2D856299:0x1400025C4\n  features:\n    - or:\n      - and:\n        - os: windows\n        - optional:\n          - or:\n            - and:\n              - number: 0x40000000 = GENERIC_WRITE\n              - api: kernel32.CreateFile\n            - and:\n              - number: 0x2 = FILE_WRITE_DATA\n              - or:\n                - api: NtCreateFile\n                - api: ZwCreateFile\n        - or:\n          - api: kernel32.WriteFile\n          - api: kernel32.WriteFileEx\n          - api: NtWriteFile\n          - api: ZwWriteFile\n          - api: _fwrite\n          - api: fwrite\n      - api: System.IO.File::WriteAllBytes\n      - api: System.IO.File::WriteAllBytesAsync\n      - api: System.IO.File::WriteAllLines\n      - api: System.IO.File::WriteAllLinesAsync\n      - api: System.IO.File::WriteAllText\n      - api: System.IO.File::WriteAllTextAsync\n      - api: System.IO.File::AppendAllLines\n      - api: System.IO.File::AppendAllLinesAsync\n      - api: System.IO.File::AppendAllText\n      - api: System.IO.File::AppendAllTextAsync\n      - api: System.IO.File::AppendText\n      - api: System.IO.FileInfo::AppendText\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "read file on Windows",
+                "description": "host-interaction/file-system/read",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: read file on Windows\n    namespace: host-interaction/file-system/read\n    authors:\n      - moritz.raabe@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scope: function\n    mbc:\n      - File System::Read File [C0051]\n    examples:\n      - BFB9B5391A13D0AFD787E87AB90F14F5:0x1314567B\n  features:\n    - or:\n      - and:\n        - os: windows\n        - optional:\n          - and:\n            - number: 0x80000000 = GENERIC_READ\n            - api: kernel32.CreateFile\n        - or:\n          - api: kernel32.ReadFile\n          - api: ReadFileEx\n          - api: NtReadFile\n          - api: ZwReadFile\n          - api: _read\n          - api: fread\n      - api: System.IO.File::ReadAllBytes\n      - api: System.IO.File::ReadAllBytesAsync\n      - api: System.IO.File::ReadAllLines\n      - api: System.IO.File::ReadAllLinesAsync\n      - api: System.IO.File::ReadAllText\n      - api: System.IO.File::ReadAllTextAsync\n      - api: System.IO.File::ReadLines\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "terminate process",
+                "description": "host-interaction/process/terminate",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "michael.hunhoff@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: terminate process\n    namespace: host-interaction/process/terminate\n    authors:\n      - moritz.raabe@mandiant.com\n      - michael.hunhoff@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scope: function\n    mbc:\n      - Process::Terminate Process [C0018]\n    examples:\n      - C91887D861D9BD4A5872249B641BC9F9:0x401A77\n      - 9B7CCAA2AE6A5B96E3110EBCBC4311F6:0x10010307\n  features:\n    - or:\n      - api: System.Diagnostics.Process::Kill\n      - api: System.Diagnostics.Process::WaitForExit\n      - api: System.Diagnostics.Process::WaitForExitAsync\n      - api: System.Environment::Exit\n      - api: System.Windows.Forms.Application::Exit\n      - and:\n        - optional:\n          - match: open process\n        - or:\n          - api: kernel32.TerminateProcess\n          - api: ntdll.NtTerminateProcess\n          - api: kernel32.ExitProcess\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "query service status",
+                "description": "host-interaction/service",
+                "authors": [
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: query service status\n    namespace: host-interaction/service\n    authors:\n      - michael.hunhoff@mandiant.com\n    scope: function\n    att&ck:\n      - Discovery::System Service Discovery [T1007]\n    examples:\n      - 9DC209F66DA77858E362E624D0BE86B3:0x403C70\n  features:\n    - or:\n      - api: advapi32.QueryServiceStatusEx\n      - api: advapi32.QueryServiceStatus\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "encrypt data using RC4 KSA",
+                "description": "data-manipulation/encryption/rc4",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: encrypt data using RC4 KSA\n    namespace: data-manipulation/encryption/rc4\n    authors:\n      - moritz.raabe@mandiant.com\n    scope: function\n    att&ck:\n      - Defense Evasion::Obfuscated Files or Information [T1027]\n    mbc:\n      - Cryptography::Encrypt Data::RC4 [C0027.009]\n      - Cryptography::Encryption Key::RC4 KSA [C0028.002]\n    examples:\n      - 34404A3FB9804977C6AB86CB991FB130:0x403D40\n      - 9324D1A8AE37A36AE560C37448C9705A:0x404950\n      - 2B8BEC5BCB1777EAA155D832F7AFC797:0x405C42\n      - 73CE04892E5F39EC82B00C02FC04C70F:0x40646E\n  features:\n    - or:\n      - and:\n        - basic block:\n          - and:\n            - description: initialize S\n            # misses if regular loop is used,\n            # however we cannot model that a loop contains a certain number\n            - characteristic: tight loop\n            - or:\n              - number: 0xFF\n              - number: 0x100\n        - or:\n          - description: modulo 256\n          - match: calculate modulo 256 via x86 assembly\n          - basic block:\n            - and:\n              - description: modulo via zero-extended mov from 8-bit register\n              - count(mnemonic(movzx)): 2 or more\n              # avoid false positives; filter out unexpected instructions\n              - not:\n                - or:\n                  - mnemonic: shl\n                  - mnemonic: rol\n                  - characteristic: nzxor\n        - or:\n          - description: modulo key length\n          - mnemonic: div\n          - mnemonic: idiv\n      - and:\n        - description: write DWORDs instead of bytes\n        - or:\n          - number: 0x03020100\n          - number: 0xFFFEFDFC\n        - instruction:\n          - or:\n            - mnemonic: add\n            - mnemonic: sub\n          - number: 0x04040404\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "hash data with MD5",
+                "description": "data-manipulation/hashing/md5",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com",
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: hash data with MD5\n    namespace: data-manipulation/hashing/md5\n    authors:\n      - moritz.raabe@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n      - michael.hunhoff@mandiant.com\n    scope: function\n    mbc:\n      - Cryptography::Cryptographic Hash::MD5 [C0029.001]\n    references:\n      - https://github.com/rwfpl/rewolf-x86-virtualizer/blob/master/src/test_app/main.cpp\n    examples:\n      - Practical Malware Analysis Lab 05-01.dll_:0x100108ED\n  features:\n    - or:\n      - and:\n        - description: magic initialization constants from MD4 and MD5\n        - number: 0x67452301 = A, also used in SHA1, RIPEMD-128, RIPEMD-160, RIPEMD-256, and RIPEMD-320\n        - number: 0xefcdab89 = B, also used in SHA1, RIPEMD-128, RIPEMD-160, RIPEMD-256, and RIPEMD-320\n        - number: 0x98badcfe = C, also used in SHA1, RIPEMD-128, RIPEMD-160, RIPEMD-256, and RIPEMD-320\n        - number: 0x10325476 = D, also used in SHA1, RIPEMD-128, RIPEMD-160, RIPEMD-256, and RIPEMD-320\n        - not:\n          - number: 0xc3d2e1f0 = likely SHA1 but also used in RIPEMD-160 and RIPEMD-320\n        - optional:\n          - description: specific compilation from https://github.com/rwfpl/rewolf-x86-virtualizer/blob/master/src/test_app/main.cpp\n          - and:\n            - offset: -0x28955B88\n            - offset: -0x173848AA\n      - basic block:\n        - and:\n          - number: 0x8003 = CALG_MD5\n          - api: advapi32.CryptCreateHash\n      - and:\n        - format: dotnet\n        - or:\n          - api: System.Security.Cryptography.MD5::Create\n          - api: System.Security.Cryptography.MD5CryptoServiceProvider::ctor\n        - optional:\n          - api: System.Security.Cryptography.HashAlgorithm::ComputeHash\n",
+                "refs": [
+                    {
+                        "ref": "https://github.com/rwfpl/rewolf-x86-virtualizer/blob/master/src/test_app/main.cpp"
+                    }
+                ]
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "contain a resource (.rsrc) section",
+                "description": "executable/pe/section/rsrc",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: contain a resource (.rsrc) section\n    namespace: executable/pe/section/rsrc\n    authors:\n      - moritz.raabe@mandiant.com\n    scope: file\n    examples:\n      - A933A1A402775CFA94B6BEE0963F4B46:0x41fd25\n  features:\n    - section: .rsrc\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "create or open file",
+                "authors": [
+                    "michael.hunhoff@mandiant.com",
+                    "joakim@intezer.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: create or open file\n    authors:\n      - michael.hunhoff@mandiant.com\n      - joakim@intezer.com\n    lib: true\n    scope: basic block\n    mbc:\n      - File System::Create File [C0016]\n    examples:\n      - B5F85C26D7AA5A1FB4AF5821B6B5AB9B:0x401D7E\n  features:\n    - or:\n      - api: CreateFile\n      - api: CreateFileEx\n      - api: IoCreateFile\n      - api: IoCreateFileEx\n      - api: ZwOpenFile\n      - api: ZwCreateFile\n      - api: NtOpenFile\n      - api: NtCreateFile\n      - api: LZCreateFile\n      - api: LZOpenFile\n      - api: fopen\n      - api: fopen64\n      - api: fdopen\n      - api: freopen\n      - api: open\n      - api: openat\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "write file on Windows",
+                "description": "host-interaction/file-system/write",
+                "authors": [
+                    "william.ballenthin@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: write file on Windows\n    namespace: host-interaction/file-system/write\n    authors:\n      - william.ballenthin@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scope: function\n    mbc:\n      - File System::Writes File [C0052]\n    examples:\n      - Practical Malware Analysis Lab 01-04.exe_:0x4011FC\n      # ntdll\n      - 563653399B82CD443F120ECEFF836EA3678D4CF11D9B351BB737573C2D856299:0x1400025C4\n  features:\n    - or:\n      - and:\n        - os: windows\n        - optional:\n          - basic block:\n            - or:\n              - number: 0x40000000 = GENERIC_WRITE\n              - number: 0x2 = FILE_WRITE_DATA\n              - match: create or open file\n        - or:\n          - api: kernel32.WriteFile\n          - api: kernel32.WriteFileEx\n          - api: NtWriteFile\n          - api: ZwWriteFile\n          - api: _fwrite\n          - api: fwrite\n      - api: System.IO.File::WriteAllBytes\n      - api: System.IO.File::WriteAllBytesAsync\n      - api: System.IO.File::WriteAllLines\n      - api: System.IO.File::WriteAllLinesAsync\n      - api: System.IO.File::WriteAllText\n      - api: System.IO.File::WriteAllTextAsync\n      - api: System.IO.File::AppendAllLines\n      - api: System.IO.File::AppendAllLinesAsync\n      - api: System.IO.File::AppendAllText\n      - api: System.IO.File::AppendAllTextAsync\n      - api: System.IO.File::AppendText\n      - api: System.IO.FileInfo::AppendText\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "read file on Windows",
+                "description": "host-interaction/file-system/read",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: read file on Windows\n    namespace: host-interaction/file-system/read\n    authors:\n      - moritz.raabe@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scope: function\n    mbc:\n      - File System::Read File [C0051]\n    examples:\n      - BFB9B5391A13D0AFD787E87AB90F14F5:0x1314567B\n  features:\n    - or:\n      - and:\n        - os: windows\n        - optional:\n          - and:\n            - number: 0x80000000 = GENERIC_READ\n            - match: create or open file\n        - or:\n          - api: kernel32.ReadFile\n          - api: ReadFileEx\n          - api: NtReadFile\n          - api: ZwReadFile\n          - api: LZRead\n          - api: _read\n          - api: fread\n      - api: System.IO.File::ReadAllBytes\n      - api: System.IO.File::ReadAllBytesAsync\n      - api: System.IO.File::ReadAllLines\n      - api: System.IO.File::ReadAllLinesAsync\n      - api: System.IO.File::ReadAllText\n      - api: System.IO.File::ReadAllTextAsync\n      - api: System.IO.File::ReadLines\n"
+            }
+        ],
+        "mutexes_opened": [
+            "Global\\FwtSqmSession106829323_S-1-5-19"
+        ],
+        "processes_terminated": [
+            "%SAMPLEPATH%\\SVCH0ST.EXE",
+            "C:\\Windows\\System32\\wuapihost.exe"
+        ],
+        "processes_created": [
+            "%SAMPLEPATH%\\SVCH0ST.EXE",
+            "C:\\Windows\\System32\\wuapihost.exe"
+        ],
+        "files_deleted": [
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERBD2.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC9D.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCDD.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER249A.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER24AB.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER24AC.tmp.txt",
+            "C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat"
+        ],
+        "ip_traffic": [
+            {
+                "destination_ip": "20.99.184.37",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            }
+        ],
+        "files_opened": [
+            "\\\\.\\PIPE\\lsarpc",
+            "\\\\.\\pipe\\net\\NtControlPipe10",
+            "C:\\Users\\user\\Desktop\\SVCH0ST.EXE",
+            "C:\\Windows\\AppPatch\\sysmain.sdb",
+            "C:\\Windows\\SysWOW64\\ADVAPI32.dll",
+            "C:\\Windows\\SysWOW64\\CRYPTBASE.dll",
+            "C:\\Windows\\SysWOW64\\GDI32.dll",
+            "C:\\Windows\\SysWOW64\\IMM32.DLL",
+            "C:\\Windows\\SysWOW64\\KERNEL32.DLL",
+            "C:\\Windows\\SysWOW64\\KERNELBASE.dll",
+            "C:\\Windows\\SysWOW64\\RPCRT4.dll",
+            "C:\\Windows\\SysWOW64\\SspiCli.dll",
+            "C:\\Windows\\SysWOW64\\USER32.dll",
+            "C:\\Windows\\SysWOW64\\apphelp.dll",
+            "C:\\Windows\\SysWOW64\\bcryptPrimitives.dll",
+            "C:\\Windows\\SysWOW64\\combase.dll",
+            "C:\\Windows\\SysWOW64\\gdi32full.dll",
+            "C:\\Windows\\SysWOW64\\msvcp_win.dll",
+            "C:\\Windows\\SysWOW64\\msvcrt.dll",
+            "C:\\Windows\\SysWOW64\\ntdll.dll",
+            "C:\\Windows\\SysWOW64\\ntmarta.dll",
+            "C:\\Windows\\SysWOW64\\sechost.dll",
+            "C:\\Windows\\SysWOW64\\shlwapi.dll",
+            "C:\\Windows\\SysWOW64\\system",
+            "C:\\Windows\\SysWOW64\\system\\",
+            "C:\\Windows\\SysWOW64\\ucrtbase.dll",
+            "C:\\Windows\\SysWOW64\\win32u.dll",
+            "C:\\Windows\\SysWOW64\\ws2_32.dll"
+        ],
+        "command_executions": [
+            "\"%SAMPLEPATH%\\SVCH0ST.EXE\" ",
+            "C:\\Windows\\System32\\wuapihost.exe -Embedding"
+        ],
+        "mutexes_created": [
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\FwtSqmSession106829323_S-1-5-19"
+        ],
+        "processes_tree": [
+            {
+                "process_id": "2228",
+                "name": "%WINDIR%\\explorer.exe",
+                "children": [
+                    {
+                        "process_id": "3892",
+                        "name": "%SAMPLEPATH%\\SVCH0ST.EXE"
+                    }
+                ]
+            },
+            {
+                "process_id": "616",
+                "name": "C:\\Windows\\System32\\svchost.exe",
+                "children": [
+                    {
+                        "process_id": "2896",
+                        "name": "C:\\Windows\\System32\\wuapihost.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "4072",
+                "name": "\"C:\\Users\\user\\Desktop\\SVCH0ST.EXE\" "
+            }
+        ],
+        "mbc": [
+            {
+                "id": "C0058",
+                "objective": "Data",
+                "behavior": "Modulo",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "calculate modulo 256 via x86 assembly"
+                    }
+                ]
+            },
+            {
+                "id": "B0032.020",
+                "objective": "Anti-Static Analysis",
+                "behavior": "Executable Code Obfuscation",
+                "method": "Argument Obfuscation",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "contain obfuscated stackstrings"
+                    }
+                ]
+            },
+            {
+                "id": "B0032.017",
+                "objective": "Anti-Static Analysis",
+                "behavior": "Executable Code Obfuscation",
+                "method": "Stack Strings",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "contain obfuscated stackstrings"
+                    }
+                ]
+            },
+            {
+                "id": "B0003.003",
+                "objective": "Anti-Behavioral Analysis",
+                "behavior": "Dynamic Analysis Evasion",
+                "method": "Delayed Execution",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "delay execution"
+                    }
+                ]
+            },
+            {
+                "id": "C0016",
+                "objective": "File System",
+                "behavior": "Create File",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "create or open file"
+                    }
+                ]
+            },
+            {
+                "id": "C0038",
+                "objective": "Process",
+                "behavior": "Create Thread",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "create thread"
+                    }
+                ]
+            },
+            {
+                "id": "E1027.m02",
+                "objective": "Defense Evasion",
+                "behavior": "Obfuscated Files or Information",
+                "method": "Encoding-Standard Algorithm",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "encode data using XOR"
+                    }
+                ]
+            },
+            {
+                "id": "C0026.002",
+                "objective": "Data",
+                "behavior": "Encode Data",
+                "method": "XOR",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "encode data using XOR"
+                    }
+                ]
+            },
+            {
+                "id": "C0052",
+                "objective": "File System",
+                "behavior": "Writes File",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "write file on Windows"
+                    }
+                ]
+            },
+            {
+                "id": "C0051",
+                "objective": "File System",
+                "behavior": "Read File",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "read file on Windows"
+                    }
+                ]
+            },
+            {
+                "id": "C0018",
+                "objective": "Process",
+                "behavior": "Terminate Process",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "terminate process"
+                    }
+                ]
+            },
+            {
+                "id": "C0027.009",
+                "objective": "Cryptography",
+                "behavior": "Encrypt Data",
+                "method": "RC4",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "encrypt data using RC4 KSA"
+                    }
+                ]
+            },
+            {
+                "id": "C0028.002",
+                "objective": "Cryptography",
+                "behavior": "Encryption Key",
+                "method": "RC4 KSA",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "encrypt data using RC4 KSA"
+                    }
+                ]
+            },
+            {
+                "id": "C0029.001",
+                "objective": "Cryptography",
+                "behavior": "Cryptographic Hash",
+                "method": "MD5",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "hash data with MD5"
+                    }
+                ]
+            }
+        ],
+        "registry_keys_opened": [
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\AppModel\\Lookaside\\Packages",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DllNXOptions",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SVCH0ST.EXE",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\OLE",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages\\en-US",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\Windows Search Engine",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Nls\\CustomLocale",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Segment Heap",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Policies\\Microsoft\\Cryptography\\Configuration",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole\\FeatureDevelopmentProperties",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Disable8And16BitMitigation",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Wow64\\x86",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\OLE\\Tracing",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Rpc",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\MUI\\Settings",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows NT\\Rpc",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows\\Display",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\ComputerName\\ActiveComputerName",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\FileSystem\\",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FipsAlgorithmPolicy",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\Settings\\LanguageConfiguration",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\UILanguages",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\UILanguages\\PendingDelete",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\NLS\\Language",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Sorting\\Versions",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Srp\\GP\\DLL",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Terminal Server",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services",
+            "HKEY_LOCAL_MACHINE\\System\\Setup"
+        ],
+        "services_opened": [
+            "Windows Filter Driver"
+        ],
+        "modules_loaded": [
+            "kernel32.dll",
+            "shlwapi.dll",
+            "advapi32.dll",
+            "ws2_32.dll",
+            "rpcrt4.dll",
+            "ntmarta.dll"
+        ],
+        "tags": [
+            "IDLE"
+        ],
+        "mitre_attack_techniques": [
+            {
+                "id": "T1027.005",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "contain obfuscated stackstrings",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "contain obfuscated stackstrings"
+                    }
+                ]
+            },
+            {
+                "id": "T1027",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "encode data using XOR",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "encode data using XOR"
+                    }
+                ]
+            },
+            {
+                "id": "T1129",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "link function at runtime on Windows",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "link function at runtime on Windows"
+                    }
+                ]
+            },
+            {
+                "id": "T1129",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "link many functions at runtime",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "link many functions at runtime"
+                    }
+                ]
+            },
+            {
+                "id": "T1007",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "query service status",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "query service status"
+                    }
+                ]
+            },
+            {
+                "id": "T1027",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "encrypt data using RC4 KSA",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "encrypt data using RC4 KSA"
+                    }
+                ]
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Reads software policies"
+            }
+        ],
+        "attack_techniques": {
+            "T1027.005": [
+                {
+                    "severity": "INFO",
+                    "description": "contain obfuscated stackstrings"
+                }
+            ],
+            "T1027": [
+                {
+                    "severity": "INFO",
+                    "description": "encode data using XOR"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "encrypt data using RC4 KSA"
+                }
+            ],
+            "T1129": [
+                {
+                    "severity": "INFO",
+                    "description": "link function at runtime on Windows"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "link many functions at runtime"
+                }
+            ],
+            "T1007": [
+                {
+                    "severity": "INFO",
+                    "description": "query service status"
+                }
+            ],
+            "T1082": [
+                {
+                    "severity": "INFO",
+                    "description": "Reads software policies"
+                }
+            ]
+        }
+    }
+}

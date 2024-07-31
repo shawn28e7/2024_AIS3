@@ -1,0 +1,1233 @@
+{
+    "data": {
+        "files_opened": [
+            "/Library/Application Support/CrashReporter/SubmitDiagInfo.domains",
+            "/Library/Keychains/SupplementalsAssets/AnalyticsSamplingRates.plist",
+            "/Library/Keychains/SupplementalsAssets/AppleCertificateAuthorities.plist",
+            "/Library/Keychains/SupplementalsAssets/OTAPKIContext.plist",
+            "/Library/Keychains/SupplementalsAssets/TrustedCTLogs.plist",
+            "/Library/MessageTracer/SubmitDiagInfo.default.domains.searchtree",
+            "/System/Library/Caches/com.apple.IntlDataCache.le",
+            "/System/Library/Caches/com.apple.IntlDataCache.le.kbdx",
+            "/System/Library/CoreServices/CoreTypes.bundle/Contents/Library/AppExceptions.bundle/Exceptions.plist",
+            "/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/Exceptions.plist",
+            "/System/Library/CoreServices/SystemAppearance.bundle",
+            "/System/Library/CoreServices/SystemAppearance.bundle/Contents",
+            "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Info.plist",
+            "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources",
+            "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/Assets.car",
+            "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/Base.lproj",
+            "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/English.lproj",
+            "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/SystemAppearance.car",
+            "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/VibrantLightAppearance.car",
+            "/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/en.lproj",
+            "/System/Library/CoreServices/SystemVersion.bundle",
+            "/System/Library/CoreServices/SystemVersion.bundle/",
+            "/System/Library/CoreServices/SystemVersion.bundle//Base.lproj",
+            "/System/Library/CoreServices/SystemVersion.bundle//English.lproj",
+            "/System/Library/CoreServices/SystemVersion.bundle/English.lproj/SystemVersion.strings",
+            "/System/Library/CoreServices/SystemVersion.plist",
+            "/System/Library/Fonts/ ProN W4.ttc",
+            "/System/Library/Fonts/Helvetica.ttc",
+            "/System/Library/Fonts/SFNSText.ttf",
+            "/System/Library/Frameworks/AppKit.framework",
+            "/System/Library/Frameworks/AppKit.framework/",
+            "/System/Library/Frameworks/AppKit.framework//Base.lproj",
+            "/System/Library/Frameworks/AppKit.framework//English.lproj",
+            "/System/Library/Frameworks/AppKit.framework/Resources",
+            "/System/Library/Frameworks/AppKit.framework/Resources/Base.lproj",
+            "/System/Library/Frameworks/AppKit.framework/Resources/English.lproj",
+            "/System/Library/Frameworks/AppKit.framework/Resources/Info.plist",
+            "/System/Library/Frameworks/AppKit.framework/Resources/StandardKeyBinding.dict",
+            "/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework",
+            "/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Resources",
+            "/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Resources/Base.lproj",
+            "/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Resources/English.lproj",
+            "/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Resources/Info.plist",
+            "/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework",
+            "/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Resources",
+            "/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Resources/Extras2.rsrc",
+            "/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Resources/Info.plist",
+            "/System/Library/Frameworks/CoreText.framework//Base.lproj/FontResources",
+            "/System/Library/Frameworks/CoreText.framework//English.lproj/FontResources",
+            "/System/Library/Frameworks/CoreText.framework//FontResources",
+            "/System/Library/Frameworks/CoreText.framework//en.lproj/FontResources",
+            "/System/Library/Keyboard Layouts/AppleKeyboardLayouts.bundle/Contents/Resources/AppleKeyboardLayouts-L.dat",
+            "/System/Library/Keyboard Layouts/AppleKeyboardLayouts.bundle/Contents/Resources/English.lproj/InfoPlist.strings",
+            "/System/Library/PrivateFrameworks/CoreUI.framework",
+            "/System/Library/PrivateFrameworks/CoreUI.framework/Resources",
+            "/System/Library/PrivateFrameworks/CoreUI.framework/Resources/Base.lproj",
+            "/System/Library/PrivateFrameworks/CoreUI.framework/Resources/DuplicateImageNames.plist",
+            "/System/Library/PrivateFrameworks/CoreUI.framework/Resources/English.lproj",
+            "/System/Library/PrivateFrameworks/CoreUI.framework/Resources/Info.plist",
+            "/System/Library/Sandbox/Profiles/com.apple.corefoundation.sb",
+            "/System/Library/Sandbox/Profiles/com.apple.trustd.sb",
+            "/System/Library/Sandbox/Profiles/system.sb",
+            "/System/Library/Security/Certificates.bundle",
+            "/System/Library/Security/Certificates.bundle/Contents",
+            "/System/Library/Security/Certificates.bundle/Contents/Info.plist",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/AppleESCertificates.plist",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/AssetVersion.plist",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/Base.lproj",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/Blocked.plist",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/EVRoots.plist",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/GrayListedKeys.plist",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/ValidUpdate.plist",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/certsIndex.data",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/certsTable.data",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/en.lproj",
+            "/Users/user1/.CFUserTextEncoding",
+            "/Users/user1/Library/Autosave Information/www.dtleader.skord.plist",
+            "/Users/user1/Library/Input Methods",
+            "/Users/user1/Library/KeyBindings/DefaultKeyBinding.dict",
+            "/Users/user1/Library/Keyboard Layouts",
+            "/Users/user1/Library/Preferences/com.apple.LaunchServices/com.apple.LaunchServices.plist",
+            "/Users/user1/Library/Preferences/com.apple.LaunchServices/com.apple.launchservices.secure.plist",
+            "/Users/user1/Library/Saved Application State/www.dtleader.skord.savedState/data.data",
+            "/Users/user1/Library/Saved Application State/www.dtleader.skord.savedState/windows.plist",
+            "/Volumes/skord/skord.app",
+            "/Volumes/skord/skord.app/Contents",
+            "/Volumes/skord/skord.app/Contents/Info.plist",
+            "/Volumes/skord/skord.app/Contents/MacOS/../Frameworks/Charts.framework/Versions/A/Charts",
+            "/Volumes/skord/skord.app/Contents/MacOS/../Frameworks/libswiftAppKit.dylib",
+            "/Volumes/skord/skord.app/Contents/MacOS/../Frameworks/libswiftCore.dylib",
+            "/Volumes/skord/skord.app/Contents/MacOS/../Frameworks/libswiftCoreData.dylib",
+            "/Volumes/skord/skord.app/Contents/MacOS/../Frameworks/libswiftCoreFoundation.dylib",
+            "/Volumes/skord/skord.app/Contents/MacOS/../Frameworks/libswiftCoreGraphics.dylib",
+            "/Volumes/skord/skord.app/Contents/MacOS/../Frameworks/libswiftCoreImage.dylib",
+            "/Volumes/skord/skord.app/Contents/MacOS/../Frameworks/libswiftDarwin.dylib",
+            "/Volumes/skord/skord.app/Contents/MacOS/../Frameworks/libswiftDispatch.dylib",
+            "/Volumes/skord/skord.app/Contents/MacOS/../Frameworks/libswiftFoundation.dylib",
+            "/Volumes/skord/skord.app/Contents/MacOS/../Frameworks/libswiftIOKit.dylib",
+            "/Volumes/skord/skord.app/Contents/MacOS/../Frameworks/libswiftMetal.dylib",
+            "/Volumes/skord/skord.app/Contents/MacOS/../Frameworks/libswiftObjectiveC.dylib",
+            "/Volumes/skord/skord.app/Contents/MacOS/../Frameworks/libswiftQuartzCore.dylib",
+            "/Volumes/skord/skord.app/Contents/MacOS/../Frameworks/libswiftXPC.dylib",
+            "/Volumes/skord/skord.app/Contents/MacOS/../Frameworks/libswiftos.dylib",
+            "/Volumes/skord/skord.app/Contents/MacOS/skord",
+            "/Volumes/skord/skord.app/Contents/PkgInfo",
+            "/Volumes/skord/skord.app/Contents/Resources",
+            "/Volumes/skord/skord.app/Contents/Resources/Assets.car",
+            "/Volumes/skord/skord.app/Contents/Resources/Base.lproj",
+            "/Volumes/skord/skord.app/Contents/Resources/Base.lproj/Main.storyboardc",
+            "/Volumes/skord/skord.app/Contents/Resources/Base.lproj/Main.storyboardc/",
+            "/Volumes/skord/skord.app/Contents/Resources/Base.lproj/Main.storyboardc//Base.lproj",
+            "/Volumes/skord/skord.app/Contents/Resources/Base.lproj/Main.storyboardc//en.lproj",
+            "/Volumes/skord/skord.app/Contents/Resources/Base.lproj/Main.storyboardc/68v-5r-r0R-view-pHa-BF-7KK.nib",
+            "/Volumes/skord/skord.app/Contents/Resources/Base.lproj/Main.storyboardc/Info.plist",
+            "/Volumes/skord/skord.app/Contents/Resources/Base.lproj/Main.storyboardc/MainController.nib",
+            "/Volumes/skord/skord.app/Contents/Resources/Base.lproj/Main.storyboardc/MainMenu.nib",
+            "/Volumes/skord/skord.app/Contents/Resources/Base.lproj/Main.storyboardc/NSWindowController-Hxd-4J-uiF.nib",
+            "/Volumes/skord/skord.app/Contents/Resources/Base.lproj/Main.storyboardc/SignupController.nib",
+            "/Volumes/skord/skord.app/Contents/Resources/en.lproj",
+            "/Volumes/skord/skord.app/Contents/XPCServices",
+            "/dev/autofs_nowait",
+            "/etc/master.passwd",
+            "/etc/passwd",
+            "/usr/libexec",
+            "/usr/libexec/apfsd",
+            "/usr/libexec/trustd",
+            "/usr/share/icu/icudt59l.dat",
+            "/var/db/timezone/icutz/icutz44l.dat",
+            "/var/db/timezone/zoneinfo/posixrules",
+            "/var/empty/.CFUserTextEncoding",
+            "/var/folders/7d/7skpstwd7qnctfwpwp7225xw0000gn/C/com.apple.IntlDataCache.le",
+            "/System/Library/Frameworks/AppKit.framework/Resources/English.lproj/AccessibilityImageDescriptions.strings",
+            "/System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex",
+            "/System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents",
+            "/System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/Info.plist",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/DVA.acroplugin/Contents/MacOS/./DVA",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/DigSig.acroplugin/Contents/MacOS/./DigSig",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/DropboxStorage.acroplugin/Contents/MacOS/./DropboxStorage",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/EFS.acroplugin/Contents/MacOS/./EFS",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/EScript.acroplugin/Contents/MacOS/./EScript",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/MakeAccessible.acroplugin/Contents/MacOS/./MakeAccessible",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/./Multimedia",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/FlashMPP.mpp/Contents/MacOS/./FlashMPP",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/QuickTimeMPP.mpp/Contents/MacOS/./QuickTimeMPP",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/PDDom.acroplugin/Contents/MacOS/./PDDom",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/PPKLite.acroplugin/Contents/MacOS/./PPKLite",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/ReadOutLoud.acroplugin/Contents/MacOS/./ReadOutLoud",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Reflow.acroplugin/Contents/MacOS/./Reflow",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/SaveAsRTF.acroplugin/Contents/MacOS/./SaveAsRTF",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Search.acroplugin/Contents/MacOS/./Search",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/SendMail.acroplugin/Contents/MacOS/./SendMail",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Spelling.acroplugin/Contents/MacOS/./Spelling",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/StorageConnectors.acroplugin/Contents/MacOS/./StorageConnectors",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Updater.acroplugin/Contents/MacOS/./Updater",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/WebLink.acroplugin/Contents/MacOS/./WebLink",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/eBook.acroplugin/Contents/MacOS/./eBook",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHS/./FillSign.aapp",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHT/./FillSign.aapp",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CZE/./FillSign.aapp",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DAN/./FillSign.aapp",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DEU/./FillSign.aapp",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/./FillSign.aapp",
+            "/private/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/./FillSign.aapp",
+            "/tmp",
+            "/private/tmp/CommCenter.KeepAlive.Enabled",
+            "/private/tmp",
+            "/Volumes/skord/skord.app/Contents/_CodeSignature/CodeRequirements-1",
+            "/System/Library/CoreServices/FolderActionsDispatcher.app",
+            "/System/Library/CoreServices/FolderActionsDispatcher.app/Contents/MacOS/FolderActionsDispatcher",
+            "/System/Library/CoreServices/FolderActionsDispatcher.app/Contents/_CodeSignature/CodeRequirements-1",
+            "/System/Library/CoreServices/FolderActionsDispatcher.app/Contents/Info.plist",
+            "/System/Library/CoreServices/System Events.app",
+            "/System/Library/CoreServices/System Events.app/Contents",
+            "/System/Library/CoreServices/System Events.app/Contents/Info.plist",
+            "/System/Library/CoreServices/System Events.app/Contents/MacOS/System Events",
+            "/System/Library/CoreServices/System Events.app/Contents/_CodeSignature/CodeRequirements-1",
+            "/System/Library/CoreServices/FolderActionsDispatcher.app/Contents",
+            "/System/Library/Keychains/SystemRootCertificates.keychain",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/com.apple.trustd/mds/mds.lock",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/com.apple.trustd/mds/mdsObject.db_",
+            "/private/var/db/mds/system/mdsObject.db",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/com.apple.trustd/mds/mdsDirectory.db_",
+            "/private/var/db/mds/system/mdsDirectory.db",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/com.apple.trustd/mds/mdsObject.db",
+            "/System/Library/Security",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/com.apple.trustd/mds/mdsDirectory.db",
+            "/Users/user1/Library/Security",
+            "/Users/user1/Library/Keychains/login.keychain-db",
+            "/Library/Keychains/System.keychain",
+            "/System/Library/Sandbox/Profiles/com.apple.swcd.sb",
+            "/usr/libexec/swcd",
+            "/System/Library/PrivateFrameworks/CoreServicesInternal.framework/CoreServicesInternal",
+            "/System/Library/PrivateFrameworks/CoreServicesInternal.framework/Versions/Current",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/mds/mds.lock",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/mds/mdsObject.db_",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/mds/mdsDirectory.db_",
+            "/var",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/mds/mdsObject.db",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/mds/mdsDirectory.db",
+            "/private/var/db/mds/messages/501/se_SecurityMessages",
+            "/System/Library/CoreServices/SystemVersion.bundle/English.lproj",
+            "/System/Library/CoreServices/SystemVersion.bundle/Base.lproj",
+            "/Volumes/skord/skord.app/Contents/Frameworks/libswiftFoundation.dylib",
+            "/Volumes/skord/skord.app/Contents/Frameworks/libswiftCoreData.dylib",
+            "/Volumes/skord/skord.app/Contents/Frameworks/libswiftQuartzCore.dylib",
+            "/System/Library/PrivateFrameworks/Heimdal.framework/Heimdal",
+            "/System/Library/PrivateFrameworks/Heimdal.framework/Versions/Current",
+            "/System/Library/Frameworks/GSS.framework/GSS",
+            "/System/Library/Frameworks/GSS.framework/Versions/Current",
+            "/System/Library/PrivateFrameworks/AppleFSCompression.framework/AppleFSCompression",
+            "/System/Library/PrivateFrameworks/AppleFSCompression.framework/Versions/Current",
+            "/Volumes/skord/skord.app/Contents/Resources/Base.lproj/Main.storyboardc/en.lproj",
+            "/Volumes/skord/skord.app/Contents/Resources/Base.lproj/Main.storyboardc/Base.lproj",
+            "/System/Library/Frameworks/AppKit.framework/AppKit",
+            "/System/Library/Frameworks/AppKit.framework/Versions/Current",
+            "/System/Library/PrivateFrameworks/CoreUI.framework/CoreUI",
+            "/System/Library/PrivateFrameworks/CoreUI.framework/Versions/Current",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/com.apple.IntlDataCache.le",
+            "/System/Library/Frameworks/AppKit.framework/English.lproj",
+            "/System/Library/Frameworks/AppKit.framework/Base.lproj",
+            "/System/Library/Frameworks/CoreText.framework/CoreText",
+            "/System/Library/Frameworks/CoreText.framework/Versions/Current",
+            "/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/HIToolbox",
+            "/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/Current",
+            "/System/Library/Frameworks/DiskArbitration.framework/DiskArbitration",
+            "/System/Library/Frameworks/DiskArbitration.framework/Versions/Current",
+            "/Volumes/skord/skord.app/Contents/Frameworks/libswiftObjectiveC.dylib",
+            "/Volumes/skord/skord.app/Contents/Frameworks/libswiftIOKit.dylib",
+            "/Volumes/skord/skord.app/Contents/Frameworks/libswiftCoreFoundation.dylib",
+            "/Volumes/skord/skord.app/Contents/Frameworks/libswiftDarwin.dylib",
+            "/Volumes/skord/skord.app/Contents/Frameworks/libswiftXPC.dylib",
+            "/System/Library/Frameworks/CoreServices.framework/Versions/Current",
+            "/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/Current",
+            "/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics",
+            "/System/Library/Frameworks/CoreGraphics.framework/Versions/Current",
+            "/System/Library/Frameworks/Accelerate.framework/Frameworks",
+            "/System/Library/Frameworks/Accelerate.framework/Versions/Current",
+            "/Users/user1/Library/Saved Application State/www.dtleader.skord.savedState/restorecount.plist",
+            "/Volumes/skord/skord.app/Contents/Frameworks/libswiftCoreImage.dylib",
+            "/Volumes/skord/skord.app/Contents/Frameworks/libswiftMetal.dylib",
+            "/Volumes/skord/skord.app/Contents/Frameworks/libswiftos.dylib",
+            "/System/Library/Frameworks/ColorSync.framework/ColorSync",
+            "/System/Library/Frameworks/ColorSync.framework/Versions/Current",
+            "/System/Library/Frameworks/CoreServices.framework/Frameworks",
+            "/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/LaunchServices",
+            "/System/Library/Frameworks/ApplicationServices.framework/Frameworks",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Resources",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/Current",
+            "/Volumes/skord/skord.app/Contents/Frameworks/Charts.framework/Versions/A/Charts",
+            "/Volumes/skord/skord.app/Contents/Frameworks/libswiftAppKit.dylib",
+            "/Volumes/skord/skord.app/Contents/Frameworks/libswiftCore.dylib",
+            "/Volumes/skord/skord.app/Contents/Frameworks/libswiftCoreGraphics.dylib",
+            "/Volumes/skord/skord.app/Contents/Frameworks/libswiftDispatch.dylib",
+            "/System/Library/Frameworks/OpenCL.framework/Libraries",
+            "/System/Library/Frameworks/OpenCL.framework/Versions/Current",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/HIServices",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/Current",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Resources/English.lproj/RoleDescriptions.strings",
+            "/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration",
+            "/System/Library/Frameworks/SystemConfiguration.framework/Versions/Current",
+            "/Library/Preferences/SystemConfiguration/preferences.plist",
+            "/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SharedFileList.framework/SharedFileList",
+            "/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SharedFileList.framework/Versions/Current",
+            "/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Resources/English.lproj/Menus.strings",
+            "/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Resources/English.lproj/Menus.stringsdict",
+            "/System/Library/Frameworks/AppKit.framework/Resources/English.lproj/Spelling.strings",
+            "/System/Library/Frameworks/AppKit.framework/Resources/English.lproj/FontManager.strings",
+            "/System/Library/Frameworks/AppKit.framework/Resources/English.lproj/NSColorPanelExtras.strings",
+            "/System/Library/Frameworks/Foundation.framework",
+            "/System/Library/Frameworks/Foundation.framework/Resources",
+            "/System/Library/Frameworks/Foundation.framework/Resources/Info.plist",
+            "/System/Library/Frameworks/Foundation.framework/Resources/en.lproj",
+            "/System/Library/Frameworks/Foundation.framework/Resources/Base.lproj",
+            "/System/Library/Frameworks/Foundation.framework/Resources/en_US.lproj",
+            "/System/Library/Frameworks/Foundation.framework/en.lproj",
+            "/System/Library/Frameworks/Foundation.framework/Base.lproj",
+            "/System/Library/Frameworks/Foundation.framework/en_US.lproj",
+            "/System/Library/Frameworks/Foundation.framework/Resources/en.lproj/Undo.strings",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Resources",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Resources/Info.plist",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Resources/English.lproj",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Resources/Base.lproj",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/English.lproj",
+            "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Base.lproj",
+            "/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Resources/English.lproj",
+            "/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Resources/Base.lproj",
+            "/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Resources/English.lproj/StandardMenus.nib/objects.aib",
+            "/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Resources/English.lproj/StandardMenus.nib/objects.xib",
+            "/System/Library/PrivateFrameworks/login.framework/login",
+            "/System/Library/PrivateFrameworks/login.framework/Versions/Current",
+            "/System/Library/Frameworks/AppKit.framework/Resources/English.lproj/Ruler.strings",
+            "/Users/user1/Library/Saved Application State/www.dtleader.skord.savedState/window_2.data",
+            "/Users/user1/Library/Saved Application State/www.dtleader.skord.savedState/window_1.data",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/T/assistantd/TemporaryItems/(A Document Being Saved By assistantd)/sync_flagcom.apple.siri.applications",
+            "/var/setup/.AppleSetupUser",
+            "/System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support",
+            "/System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/en.lproj",
+            "/System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/Base.lproj",
+            "/System/Library/Frameworks/Foundation.framework/Resources/en.lproj/Document.strings",
+            "/private/var/db/uuidtext/15",
+            "/private/var/db/uuidtext/77",
+            "/private/var/db/uuidtext/12",
+            "/private/var/db/uuidtext/44",
+            "/private/var/db/uuidtext/1A",
+            "/private/var/db/uuidtext/75",
+            "/private/var/db/uuidtext/C0",
+            "/private/var/db/uuidtext/14",
+            "/private/var/db/uuidtext/72",
+            "/private/var/db/uuidtext/FB",
+            "/private/var/db/uuidtext/A2",
+            "/private/var/db/uuidtext/A5",
+            "/private/var/db/uuidtext/4C",
+            "/private/var/db/uuidtext/E2",
+            "/private/var/db/uuidtext/D0",
+            "/private/var/db/uuidtext/0A",
+            "/private/var/db/uuidtext/86",
+            "/private/var/db/uuidtext/F3",
+            "/private/var/db/uuidtext/D8",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/TrustedCTLogs.plist",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/AnalyticsSamplingRates.plist",
+            "/System/Library/Security/Certificates.bundle/Contents/Resources/AppleCertificateAuthorities.plist",
+            "/var/folders/zz/zyxvpxvq6csfxvn_n00000b400002s/C/com.apple.trustd/ocspcache.sqlite3-wal",
+            "/var/folders/zz/zyxvpxvq6csfxvn_n00000b400002s/C/com.apple.trustd/ocspcache.sqlite3-shm",
+            "/var/folders/zz/zyxvpxvq6csfxvn_n00000b400002s/C/com.apple.trustd/Analytics/trust_analytics.db",
+            "/var/folders/zz/zyxvpxvq6csfxvn_n00000b400002s/C/com.apple.trustd/Analytics/trust_analytics.db-wal",
+            "/var/folders/zz/zyxvpxvq6csfxvn_n00000b400002s/C/com.apple.trustd/Analytics/trust_analytics.db-shm",
+            "/Library/Keychains/pinningrules.sqlite3",
+            "/Library/Keychains/crls/valid.sqlite3",
+            "/var/folders/zz/zyxvpxvq6csfxvn_n00000b400002s/C/com.apple.trustd/ocspcache.sqlite3",
+            "/dev/urandom",
+            "/Users/user1/Library/Caches/.dat.nosync015a.IdyPfa"
+        ],
+        "processes_created": [
+            "/usr/libexec/xpcproxy",
+            "/usr/libexec/apfsd /usr/libexec/apfsd ",
+            "/Volumes/skord/skord.app/Contents/MacOS/skord /Volumes/skord/skord.app/Contents/MacOS/skord ",
+            "/usr/libexec/trustd /usr/libexec/trustd --agent ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Comments.acroplugin/Contents/MacOS/Comments'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Comments.acroplugin/Contents/MacOS/Comments",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Comments.acroplugin/Contents/MacOS/Comments ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/DVA.acroplugin/Contents/MacOS/DVA' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DVA.acroplugin/Contents/MacOS/DVA'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/DVA.acroplugin/Contents/MacOS/DVA /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DVA.acroplugin/Contents/MacOS/DVA",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/DVA.acroplugin/Contents/MacOS/DVA /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DVA.acroplugin/Contents/MacOS/DVA ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DVA.acroplugin/Contents/MacOS/DVA'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DVA.acroplugin/Contents/MacOS/DVA",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DVA.acroplugin/Contents/MacOS/DVA ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DVA.acroplugin/Contents/MacOS/DVA'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DVA.acroplugin/Contents/MacOS/DVA",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DVA.acroplugin/Contents/MacOS/DVA ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/DigSig.acroplugin/Contents/MacOS/DigSig' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DigSig.acroplugin/Contents/MacOS/DigSig'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/DigSig.acroplugin/Contents/MacOS/DigSig /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DigSig.acroplugin/Contents/MacOS/DigSig",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/DigSig.acroplugin/Contents/MacOS/DigSig /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DigSig.acroplugin/Contents/MacOS/DigSig ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DigSig.acroplugin/Contents/MacOS/DigSig'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DigSig.acroplugin/Contents/MacOS/DigSig",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DigSig.acroplugin/Contents/MacOS/DigSig ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DigSig.acroplugin/Contents/MacOS/DigSig'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DigSig.acroplugin/Contents/MacOS/DigSig",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DigSig.acroplugin/Contents/MacOS/DigSig ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/DropboxStorage.acroplugin/Contents/MacOS/DropboxStorage' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DropboxStorage.acroplugin/Contents/MacOS/DropboxStorage'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/DropboxStorage.acroplugin/Contents/MacOS/DropboxStorage /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DropboxStorage.acroplugin/Contents/MacOS/DropboxStorage",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/DropboxStorage.acroplugin/Contents/MacOS/DropboxStorage /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DropboxStorage.acroplugin/Contents/MacOS/DropboxStorage ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DropboxStorage.acroplugin/Contents/MacOS/DropboxStorage'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DropboxStorage.acroplugin/Contents/MacOS/DropboxStorage",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DropboxStorage.acroplugin/Contents/MacOS/DropboxStorage ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DropboxStorage.acroplugin/Contents/MacOS/DropboxStorage'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DropboxStorage.acroplugin/Contents/MacOS/DropboxStorage",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DropboxStorage.acroplugin/Contents/MacOS/DropboxStorage ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/EFS.acroplugin/Contents/MacOS/EFS' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EFS.acroplugin/Contents/MacOS/EFS'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/EFS.acroplugin/Contents/MacOS/EFS /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EFS.acroplugin/Contents/MacOS/EFS",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/EFS.acroplugin/Contents/MacOS/EFS /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EFS.acroplugin/Contents/MacOS/EFS ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EFS.acroplugin/Contents/MacOS/EFS'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EFS.acroplugin/Contents/MacOS/EFS",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EFS.acroplugin/Contents/MacOS/EFS ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EFS.acroplugin/Contents/MacOS/EFS'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EFS.acroplugin/Contents/MacOS/EFS",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EFS.acroplugin/Contents/MacOS/EFS ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/EScript.acroplugin/Contents/MacOS/EScript' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EScript.acroplugin/Contents/MacOS/EScript'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/EScript.acroplugin/Contents/MacOS/EScript /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EScript.acroplugin/Contents/MacOS/EScript",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/EScript.acroplugin/Contents/MacOS/EScript /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EScript.acroplugin/Contents/MacOS/EScript ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EScript.acroplugin/Contents/MacOS/EScript'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EScript.acroplugin/Contents/MacOS/EScript",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EScript.acroplugin/Contents/MacOS/EScript ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EScript.acroplugin/Contents/MacOS/EScript'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EScript.acroplugin/Contents/MacOS/EScript",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EScript.acroplugin/Contents/MacOS/EScript ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/MakeAccessible.acroplugin/Contents/MacOS/MakeAccessible' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/MakeAccessible.acroplugin/Contents/MacOS/MakeAccessible'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/MakeAccessible.acroplugin/Contents/MacOS/MakeAccessible /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/MakeAccessible.acroplugin/Contents/MacOS/MakeAccessible",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/MakeAccessible.acroplugin/Contents/MacOS/MakeAccessible /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/MakeAccessible.acroplugin/Contents/MacOS/MakeAccessible ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/MakeAccessible.acroplugin/Contents/MacOS/MakeAccessible'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/MakeAccessible.acroplugin/Contents/MacOS/MakeAccessible",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/MakeAccessible.acroplugin/Contents/MacOS/MakeAccessible ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/MakeAccessible.acroplugin/Contents/MacOS/MakeAccessible'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/MakeAccessible.acroplugin/Contents/MacOS/MakeAccessible",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/MakeAccessible.acroplugin/Contents/MacOS/MakeAccessible ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/FlashMPP.mpp/Contents/MacOS/FlashMPP' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/FlashMPP.mpp/Contents/MacOS/FlashMPP'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/FlashMPP.mpp/Contents/MacOS/FlashMPP /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/FlashMPP.mpp/Contents/MacOS/FlashMPP",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/FlashMPP.mpp/Contents/MacOS/FlashMPP /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/FlashMPP.mpp/Contents/MacOS/FlashMPP ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/FlashMPP.mpp/Contents/MacOS/FlashMPP'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/FlashMPP.mpp/Contents/MacOS/FlashMPP",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/FlashMPP.mpp/Contents/MacOS/FlashMPP ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/FlashMPP.mpp/Contents/MacOS/FlashMPP'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/FlashMPP.mpp/Contents/MacOS/FlashMPP",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/FlashMPP.mpp/Contents/MacOS/FlashMPP ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/QuickTimeMPP.mpp/Contents/MacOS/QuickTimeMPP' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/QuickTimeMPP.mpp/Contents/MacOS/QuickTimeMPP'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/QuickTimeMPP.mpp/Contents/MacOS/QuickTimeMPP /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/QuickTimeMPP.mpp/Contents/MacOS/QuickTimeMPP",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/QuickTimeMPP.mpp/Contents/MacOS/QuickTimeMPP /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/QuickTimeMPP.mpp/Contents/MacOS/QuickTimeMPP ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/QuickTimeMPP.mpp/Contents/MacOS/QuickTimeMPP'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/QuickTimeMPP.mpp/Contents/MacOS/QuickTimeMPP",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/QuickTimeMPP.mpp/Contents/MacOS/QuickTimeMPP ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/QuickTimeMPP.mpp/Contents/MacOS/QuickTimeMPP'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/QuickTimeMPP.mpp/Contents/MacOS/QuickTimeMPP",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/QuickTimeMPP.mpp/Contents/MacOS/QuickTimeMPP ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/Multimedia' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/Multimedia'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/Multimedia /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/Multimedia",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/Multimedia /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/Multimedia ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/Multimedia'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/Multimedia",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/Multimedia ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/Multimedia'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/Multimedia",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/Multimedia ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/PDDom.acroplugin/Contents/MacOS/PDDom' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PDDom.acroplugin/Contents/MacOS/PDDom'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/PDDom.acroplugin/Contents/MacOS/PDDom /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PDDom.acroplugin/Contents/MacOS/PDDom",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/PDDom.acroplugin/Contents/MacOS/PDDom /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PDDom.acroplugin/Contents/MacOS/PDDom ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PDDom.acroplugin/Contents/MacOS/PDDom'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PDDom.acroplugin/Contents/MacOS/PDDom",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PDDom.acroplugin/Contents/MacOS/PDDom ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PDDom.acroplugin/Contents/MacOS/PDDom'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PDDom.acroplugin/Contents/MacOS/PDDom",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PDDom.acroplugin/Contents/MacOS/PDDom ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/PPKLite.acroplugin/Contents/MacOS/PPKLite' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PPKLite.acroplugin/Contents/MacOS/PPKLite'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/PPKLite.acroplugin/Contents/MacOS/PPKLite /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PPKLite.acroplugin/Contents/MacOS/PPKLite",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/PPKLite.acroplugin/Contents/MacOS/PPKLite /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PPKLite.acroplugin/Contents/MacOS/PPKLite ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PPKLite.acroplugin/Contents/MacOS/PPKLite'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PPKLite.acroplugin/Contents/MacOS/PPKLite",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PPKLite.acroplugin/Contents/MacOS/PPKLite ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PPKLite.acroplugin/Contents/MacOS/PPKLite'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PPKLite.acroplugin/Contents/MacOS/PPKLite",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PPKLite.acroplugin/Contents/MacOS/PPKLite ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/ReadOutLoud.acroplugin/Contents/MacOS/ReadOutLoud' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/ReadOutLoud.acroplugin/Contents/MacOS/ReadOutLoud'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/ReadOutLoud.acroplugin/Contents/MacOS/ReadOutLoud /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/ReadOutLoud.acroplugin/Contents/MacOS/ReadOutLoud",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/ReadOutLoud.acroplugin/Contents/MacOS/ReadOutLoud /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/ReadOutLoud.acroplugin/Contents/MacOS/ReadOutLoud ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/ReadOutLoud.acroplugin/Contents/MacOS/ReadOutLoud'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/ReadOutLoud.acroplugin/Contents/MacOS/ReadOutLoud",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/ReadOutLoud.acroplugin/Contents/MacOS/ReadOutLoud ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/ReadOutLoud.acroplugin/Contents/MacOS/ReadOutLoud'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/ReadOutLoud.acroplugin/Contents/MacOS/ReadOutLoud",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/ReadOutLoud.acroplugin/Contents/MacOS/ReadOutLoud ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Reflow.acroplugin/Contents/MacOS/Reflow' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Reflow.acroplugin/Contents/MacOS/Reflow'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Reflow.acroplugin/Contents/MacOS/Reflow /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Reflow.acroplugin/Contents/MacOS/Reflow",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Reflow.acroplugin/Contents/MacOS/Reflow /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Reflow.acroplugin/Contents/MacOS/Reflow ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Reflow.acroplugin/Contents/MacOS/Reflow'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Reflow.acroplugin/Contents/MacOS/Reflow",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Reflow.acroplugin/Contents/MacOS/Reflow ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Reflow.acroplugin/Contents/MacOS/Reflow'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Reflow.acroplugin/Contents/MacOS/Reflow",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Reflow.acroplugin/Contents/MacOS/Reflow ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/SaveAsRTF.acroplugin/Contents/MacOS/SaveAsRTF' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SaveAsRTF.acroplugin/Contents/MacOS/SaveAsRTF'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/SaveAsRTF.acroplugin/Contents/MacOS/SaveAsRTF /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SaveAsRTF.acroplugin/Contents/MacOS/SaveAsRTF",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/SaveAsRTF.acroplugin/Contents/MacOS/SaveAsRTF /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SaveAsRTF.acroplugin/Contents/MacOS/SaveAsRTF ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SaveAsRTF.acroplugin/Contents/MacOS/SaveAsRTF'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SaveAsRTF.acroplugin/Contents/MacOS/SaveAsRTF",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SaveAsRTF.acroplugin/Contents/MacOS/SaveAsRTF ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SaveAsRTF.acroplugin/Contents/MacOS/SaveAsRTF'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SaveAsRTF.acroplugin/Contents/MacOS/SaveAsRTF",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SaveAsRTF.acroplugin/Contents/MacOS/SaveAsRTF ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Search.acroplugin/Contents/MacOS/Search' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Search.acroplugin/Contents/MacOS/Search'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Search.acroplugin/Contents/MacOS/Search /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Search.acroplugin/Contents/MacOS/Search",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Search.acroplugin/Contents/MacOS/Search /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Search.acroplugin/Contents/MacOS/Search ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Search.acroplugin/Contents/MacOS/Search'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Search.acroplugin/Contents/MacOS/Search",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Search.acroplugin/Contents/MacOS/Search ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Search.acroplugin/Contents/MacOS/Search'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Search.acroplugin/Contents/MacOS/Search",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Search.acroplugin/Contents/MacOS/Search ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/SendMail.acroplugin/Contents/MacOS/SendMail' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SendMail.acroplugin/Contents/MacOS/SendMail'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/SendMail.acroplugin/Contents/MacOS/SendMail /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SendMail.acroplugin/Contents/MacOS/SendMail",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/SendMail.acroplugin/Contents/MacOS/SendMail /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SendMail.acroplugin/Contents/MacOS/SendMail ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SendMail.acroplugin/Contents/MacOS/SendMail'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SendMail.acroplugin/Contents/MacOS/SendMail",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SendMail.acroplugin/Contents/MacOS/SendMail ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SendMail.acroplugin/Contents/MacOS/SendMail'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SendMail.acroplugin/Contents/MacOS/SendMail",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SendMail.acroplugin/Contents/MacOS/SendMail ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Spelling.acroplugin/Contents/MacOS/Spelling' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Spelling.acroplugin/Contents/MacOS/Spelling'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Spelling.acroplugin/Contents/MacOS/Spelling /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Spelling.acroplugin/Contents/MacOS/Spelling",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Spelling.acroplugin/Contents/MacOS/Spelling /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Spelling.acroplugin/Contents/MacOS/Spelling ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Spelling.acroplugin/Contents/MacOS/Spelling'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Spelling.acroplugin/Contents/MacOS/Spelling",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Spelling.acroplugin/Contents/MacOS/Spelling ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Spelling.acroplugin/Contents/MacOS/Spelling'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Spelling.acroplugin/Contents/MacOS/Spelling",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Spelling.acroplugin/Contents/MacOS/Spelling ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/StorageConnectors.acroplugin/Contents/MacOS/StorageConnectors' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/StorageConnectors.acroplugin/Contents/MacOS/StorageConnectors'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/StorageConnectors.acroplugin/Contents/MacOS/StorageConnectors /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/StorageConnectors.acroplugin/Contents/MacOS/StorageConnectors",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/StorageConnectors.acroplugin/Contents/MacOS/StorageConnectors /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/StorageConnectors.acroplugin/Contents/MacOS/StorageConnectors ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/StorageConnectors.acroplugin/Contents/MacOS/StorageConnectors'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/StorageConnectors.acroplugin/Contents/MacOS/StorageConnectors",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/StorageConnectors.acroplugin/Contents/MacOS/StorageConnectors ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/StorageConnectors.acroplugin/Contents/MacOS/StorageConnectors'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/StorageConnectors.acroplugin/Contents/MacOS/StorageConnectors",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/StorageConnectors.acroplugin/Contents/MacOS/StorageConnectors ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Updater.acroplugin/Contents/MacOS/Updater' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Updater.acroplugin/Contents/MacOS/Updater'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Updater.acroplugin/Contents/MacOS/Updater /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Updater.acroplugin/Contents/MacOS/Updater",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/Updater.acroplugin/Contents/MacOS/Updater /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Updater.acroplugin/Contents/MacOS/Updater ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Updater.acroplugin/Contents/MacOS/Updater'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Updater.acroplugin/Contents/MacOS/Updater",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Updater.acroplugin/Contents/MacOS/Updater ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Updater.acroplugin/Contents/MacOS/Updater'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Updater.acroplugin/Contents/MacOS/Updater",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Updater.acroplugin/Contents/MacOS/Updater ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/WebLink.acroplugin/Contents/MacOS/WebLink' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/WebLink.acroplugin/Contents/MacOS/WebLink'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/WebLink.acroplugin/Contents/MacOS/WebLink /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/WebLink.acroplugin/Contents/MacOS/WebLink",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/WebLink.acroplugin/Contents/MacOS/WebLink /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/WebLink.acroplugin/Contents/MacOS/WebLink ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/WebLink.acroplugin/Contents/MacOS/WebLink'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/WebLink.acroplugin/Contents/MacOS/WebLink",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/WebLink.acroplugin/Contents/MacOS/WebLink ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/WebLink.acroplugin/Contents/MacOS/WebLink'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/WebLink.acroplugin/Contents/MacOS/WebLink",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/WebLink.acroplugin/Contents/MacOS/WebLink ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/eBook.acroplugin/Contents/MacOS/eBook' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/eBook.acroplugin/Contents/MacOS/eBook'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/eBook.acroplugin/Contents/MacOS/eBook /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/eBook.acroplugin/Contents/MacOS/eBook",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Plugins/eBook.acroplugin/Contents/MacOS/eBook /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/eBook.acroplugin/Contents/MacOS/eBook ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/eBook.acroplugin/Contents/MacOS/eBook'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/eBook.acroplugin/Contents/MacOS/eBook",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/eBook.acroplugin/Contents/MacOS/eBook ",
+            "/bin/sh -c /bin/chmod -h 775 '/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/eBook.acroplugin/Contents/MacOS/eBook'",
+            "/bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/eBook.acroplugin/Contents/MacOS/eBook",
+            "/bin/chmod /bin/chmod -h 775 /Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/eBook.acroplugin/Contents/MacOS/eBook ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHS/FillSign.aapp' '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHS/FillSign.aapp'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHS/FillSign.aapp /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHS/FillSign.aapp",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHS/FillSign.aapp /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHS/FillSign.aapp ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHS/FillSign.aapp'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHS/FillSign.aapp",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHS/FillSign.aapp ",
+            "/bin/sh -c /bin/chmod -h 664 '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHS/FillSign.aapp'",
+            "/bin/chmod -h 664 /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHS/FillSign.aapp",
+            "/bin/chmod /bin/chmod -h 664 /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHS/FillSign.aapp ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHT/FillSign.aapp' '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHT/FillSign.aapp'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHT/FillSign.aapp /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHT/FillSign.aapp",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHT/FillSign.aapp /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHT/FillSign.aapp ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHT/FillSign.aapp'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHT/FillSign.aapp",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHT/FillSign.aapp ",
+            "/bin/sh -c /bin/chmod -h 664 '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHT/FillSign.aapp'",
+            "/bin/chmod -h 664 /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHT/FillSign.aapp",
+            "/bin/chmod /bin/chmod -h 664 /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHT/FillSign.aapp ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CZE/FillSign.aapp' '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CZE/FillSign.aapp'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CZE/FillSign.aapp /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CZE/FillSign.aapp",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CZE/FillSign.aapp /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CZE/FillSign.aapp ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CZE/FillSign.aapp'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CZE/FillSign.aapp",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CZE/FillSign.aapp ",
+            "/bin/sh -c /bin/chmod -h 664 '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CZE/FillSign.aapp'",
+            "/bin/chmod -h 664 /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CZE/FillSign.aapp",
+            "/bin/chmod /bin/chmod -h 664 /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CZE/FillSign.aapp ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DAN/FillSign.aapp' '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DAN/FillSign.aapp'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DAN/FillSign.aapp /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DAN/FillSign.aapp",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DAN/FillSign.aapp /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DAN/FillSign.aapp ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DAN/FillSign.aapp'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DAN/FillSign.aapp",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DAN/FillSign.aapp ",
+            "/bin/sh -c /bin/chmod -h 664 '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DAN/FillSign.aapp'",
+            "/bin/chmod -h 664 /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DAN/FillSign.aapp",
+            "/bin/chmod /bin/chmod -h 664 /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DAN/FillSign.aapp ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DEU/FillSign.aapp' '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DEU/FillSign.aapp'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DEU/FillSign.aapp /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DEU/FillSign.aapp",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DEU/FillSign.aapp /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DEU/FillSign.aapp ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DEU/FillSign.aapp'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DEU/FillSign.aapp",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DEU/FillSign.aapp ",
+            "/bin/sh -c /bin/chmod -h 664 '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DEU/FillSign.aapp'",
+            "/bin/chmod -h 664 /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DEU/FillSign.aapp",
+            "/bin/chmod /bin/chmod -h 664 /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DEU/FillSign.aapp ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/FillSign.aapp' '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/FillSign.aapp'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/FillSign.aapp /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/FillSign.aapp",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/FillSign.aapp /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/FillSign.aapp ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/FillSign.aapp'",
+            "/usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/FillSign.aapp",
+            "/usr/sbin/chown /usr/sbin/chown -h root:wheel /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/FillSign.aapp ",
+            "/bin/sh -c /bin/chmod -h 664 '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/FillSign.aapp'",
+            "/bin/chmod -h 664 /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/FillSign.aapp",
+            "/bin/chmod /bin/chmod -h 664 /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/FillSign.aapp ",
+            "/bin/sh -c /usr/bin/ditto --rsrc '/tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/FillSign.aapp' '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/FillSign.aapp'",
+            "/usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/FillSign.aapp /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/FillSign.aapp",
+            "/usr/bin/ditto /usr/bin/ditto --rsrc /tmp/com.adobe.acrobat.updater/patchstore/MUI/Application/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/FillSign.aapp /Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/FillSign.aapp ",
+            "/bin/sh -c /usr/sbin/chown -h 'root':'wheel' '/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/FillSign.aapp'"
+        ],
+        "files_written": [
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DVA.acroplugin/Contents/MacOS/.BC.T_DCJiBw",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DigSig.acroplugin/Contents/MacOS/.BC.T_DKDuBF",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DropboxStorage.acroplugin/Contents/MacOS/.BC.T_dRDOXY",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EFS.acroplugin/Contents/MacOS/.BC.T_xDfHsi",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EScript.acroplugin/Contents/MacOS/.BC.T_d5zLTk",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/MakeAccessible.acroplugin/Contents/MacOS/.BC.T_syxa3J",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/.BC.T_ZhPqCR",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/FlashMPP.mpp/Contents/MacOS/.BC.T_M0r4Ob",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/QuickTimeMPP.mpp/Contents/MacOS/.BC.T_zrHmLf",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PDDom.acroplugin/Contents/MacOS/.BC.T_8RPOH5",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PPKLite.acroplugin/Contents/MacOS/.BC.T_66B2Ye",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/ReadOutLoud.acroplugin/Contents/MacOS/.BC.T_iJpelb",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Reflow.acroplugin/Contents/MacOS/.BC.T_Tv3CGA",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SaveAsRTF.acroplugin/Contents/MacOS/.BC.T_lKrnVe",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Search.acroplugin/Contents/MacOS/.BC.T_DXJyvI",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SendMail.acroplugin/Contents/MacOS/.BC.T_doNgYJ",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Spelling.acroplugin/Contents/MacOS/.BC.T_AtvKkn",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/StorageConnectors.acroplugin/Contents/MacOS/.BC.T_VXt40Q",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Updater.acroplugin/Contents/MacOS/.BC.T_44v62k",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/WebLink.acroplugin/Contents/MacOS/.BC.T_uatqmD",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/eBook.acroplugin/Contents/MacOS/.BC.T_wJn4d9",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHS/.BC.T_JR8Zjb",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CHT/.BC.T_St2tdM",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/CZE/.BC.T_yU3up9",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DAN/.BC.T_POl9q7",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/DEU/.BC.T_cmlOfa",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ENU/.BC.T_jmr5OJ",
+            "/Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp/ESP/.BC.T_3lj3u4",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/com.apple.trustd/mds/mdsDirectory.db_",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/com.apple.trustd/mds/mdsObject.db_",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/mds/mdsDirectory.db_",
+            "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/mds/mdsObject.db_",
+            "/Users/user1/Library/Saved Application State/www.dtleader.skord.savedState/windows.plist",
+            "/Users/user1/Library/Saved Application State/www.dtleader.skord.savedState/data.data",
+            "/Users/user1/Library/Caches/.dat.nosync015a.IdyPfa"
+        ],
+        "tls": [
+            {
+                "subject": {
+                    "ST": "California",
+                    "O": "Apple Inc.",
+                    "C": "US"
+                },
+                "issuer": {
+                    "ST": "California",
+                    "O": "Apple Inc.",
+                    "C": "US"
+                },
+                "serial_number": "1a509dadead985f22813ef4d77a004c1",
+                "thumbprint": "a9c4c3901c07b86aaad7f97b23830baf90d18965",
+                "version": "TLS 1.2",
+                "sni": "gspe1-ssl.ls.apple.com",
+                "ja3": "a69708a64f853c3bcc214c2c5faf84f3",
+                "ja3s": "d93a04e792b59c119912bd0f60915165"
+            },
+            {
+                "subject": {
+                    "ST": "California",
+                    "L": "Cupertino",
+                    "CN": "itunes.apple.com",
+                    "O": "Apple Inc.",
+                    "C": "US"
+                },
+                "issuer": {
+                    "O": "Apple Inc.",
+                    "C": "US"
+                },
+                "serial_number": "5631eede346a43ce6ad39408f083a16c",
+                "thumbprint": "0b0ff36dcf6623256f914fc28f266afa73c40947",
+                "version": "TLS 1.2",
+                "sni": "configuration.apple.com",
+                "ja3": "a69708a64f853c3bcc214c2c5faf84f3",
+                "ja3s": "d93a04e792b59c119912bd0f60915165"
+            }
+        ],
+        "ja3_digests": [
+            "a69708a64f853c3bcc214c2c5faf84f3"
+        ],
+        "dns_lookups": [
+            {
+                "hostname": "gateway.fe.apple-dns.net",
+                "resolved_ips": [
+                    "17.248.241.205",
+                    "17.248.241.197",
+                    "17.248.241.241",
+                    "17.248.241.238",
+                    "17.248.185.199",
+                    "17.248.241.230",
+                    "17.248.185.237",
+                    "17.248.241.145",
+                    "17.248.241.171",
+                    "17.248.185.229",
+                    "17.248.241.175",
+                    "17.248.241.169",
+                    "17.248.241.147",
+                    "17.248.241.242",
+                    "17.248.188.165",
+                    "17.248.188.142",
+                    "17.248.188.137",
+                    "17.248.188.143",
+                    "17.248.188.168",
+                    "17.248.188.167",
+                    "17.248.188.81",
+                    "17.248.188.172",
+                    "17.248.185.204",
+                    "17.248.241.75",
+                    "17.248.241.76",
+                    "17.248.185.202",
+                    "17.248.241.143",
+                    "17.248.185.197"
+                ]
+            },
+            {
+                "hostname": "a1441.g4.akamai.net",
+                "resolved_ips": [
+                    "23.37.230.26",
+                    "23.37.230.18"
+                ]
+            },
+            {
+                "hostname": "cs9.wac.phicdn.net",
+                "resolved_ips": [
+                    "72.21.91.29"
+                ]
+            },
+            {
+                "hostname": "a1996.dscg2.akamai.net",
+                "resolved_ips": [
+                    "23.37.230.16",
+                    "23.37.230.43"
+                ]
+            },
+            {
+                "hostname": "e6858.dscx.akamaiedge.net",
+                "resolved_ips": [
+                    "23.37.224.233"
+                ]
+            },
+            {
+                "hostname": "e6987.dsce9.akamaiedge.net",
+                "resolved_ips": [
+                    "23.37.224.236"
+                ]
+            },
+            {
+                "hostname": "e673.dsce9.akamaiedge.net",
+                "resolved_ips": [
+                    "23.37.224.47"
+                ]
+            },
+            {
+                "hostname": "apple.com",
+                "resolved_ips": [
+                    "17.253.144.10"
+                ]
+            }
+        ],
+        "http_conversations": [
+            {
+                "url": "http://init-p01st.push.apple.com/bag",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mac OS X/10.13.4 (17E202)",
+                    "Host": "init-p01st.push.apple.com"
+                },
+                "response_headers": {
+                    "Content-Length": "4894",
+                    "Content-Type": "application/x-apple-plist"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://www.apple.com/appleca/root.crl",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "ocspd/1.0.3",
+                    "Host": "www.apple.com"
+                },
+                "response_headers": {
+                    "Content-Length": "468",
+                    "Content-Type": "application/pkix-crl"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://ocsp.digicert.com/MFYwVKADAgEAME0wSzBJMAkGBSsOAwIaBQAEFN+qEuMosQlBk+KfQoLOR0BClVijBBSxPsNpA/i/RwHUmCYaCALvY2QrwwIQBxd5EQBdImf2iJL2j4tQWA==",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "trustd (unknown version) CFNetwork/897.15 Darwin/17.5.0 (x86_64)",
+                    "Host": "ocsp.digicert.com"
+                },
+                "response_headers": {
+                    "Content-Length": "471",
+                    "Content-Type": "application/ocsp-response"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://crl.apple.com/appleserverauthca1.crl",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "ocspd/1.0.3",
+                    "Host": "crl.apple.com"
+                },
+                "response_headers": {
+                    "Content-Length": "952",
+                    "Content-Type": "application/pkix-crl"
+                },
+                "response_status_code": 200
+            },
+            {
+                "url": "http://crl.apple.com/root.crl",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "ocspd/1.0.3",
+                    "Host": "crl.apple.com"
+                },
+                "response_headers": {
+                    "Content-Length": "468",
+                    "Content-Type": "application/pkix-crl"
+                },
+                "response_status_code": 200
+            }
+        ],
+        "files_dropped": [
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DVA.acroplugin/Contents/MacOS/.BC.T_DCJiBw",
+                "sha256": "A33571A44C890AA0AFCDA4EF35EFF4012D6FD639039844D03A29F350970B7DEB",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DigSig.acroplugin/Contents/MacOS/.BC.T_DKDuBF",
+                "sha256": "C9D9CF435EFDDA1C25ADEE2644529A0A8557E0E0E28ADD18252A0F7570B660FE",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DropboxStorage.acroplugin/Contents/MacOS/.BC.T_dRDOXY",
+                "sha256": "7EE5B023B7EC7360372368985E0CF440B63D3BB1FF22F0424DCDC54DA4808AA7",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EFS.acroplugin/Contents/MacOS/.BC.T_xDfHsi",
+                "sha256": "EB7B940EE60BA20A650158AD492AEBAFE361BADC0D297E12B66798A43E6851CE",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EScript.acroplugin/Contents/MacOS/.BC.T_d5zLTk",
+                "sha256": "BBBA88933419E2AB194A57685D6BF87DEC6B6124DDE555F616F3D8163CE4361B",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/MakeAccessible.acroplugin/Contents/MacOS/.BC.T_syxa3J",
+                "sha256": "C37CCB50B019C4A5C96AC7FD1C0DF188D6CAC6F0E150C5201B9219CEE2C180EB",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/.BC.T_ZhPqCR",
+                "sha256": "4C45289F1EDA106630ADF383B76D81A9A17993F5A10F9D9F7F78FA33CA2CB708",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/FlashMPP.mpp/Contents/MacOS/.BC.T_M0r4Ob",
+                "sha256": "A7EDE1C14B2EB7051B3412F1307B41191E0F967B710F1614DB2890745CBF82F7",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin/Contents/MacOS/MPP/QuickTimeMPP.mpp/Contents/MacOS/.BC.T_zrHmLf",
+                "sha256": "9FCE877634F49C65F28368C95BCECD284289181FEA7EA6081A58AEE1B65BF56A",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PDDom.acroplugin/Contents/MacOS/.BC.T_8RPOH5",
+                "sha256": "3C8EF7FAB571B9384FB084EC0BE3ABE1A1F59238892B58A6CB1FAC6A8F856151",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PPKLite.acroplugin/Contents/MacOS/.BC.T_66B2Ye",
+                "sha256": "018AD8D9A1B58CEBEBEB3EDAEBF8BD331A07245BB65F339B6543728CC4260290",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/ReadOutLoud.acroplugin/Contents/MacOS/.BC.T_iJpelb",
+                "sha256": "9457F41492FE64D47E78162B2DDDDCB0233065597A1B8A86773CEF5C87F63448",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Reflow.acroplugin/Contents/MacOS/.BC.T_Tv3CGA",
+                "sha256": "6A4ADA1B298A50297AB8210B8DD8F7BFEB6A46010CF06893EAC9DCC289916AED",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SaveAsRTF.acroplugin/Contents/MacOS/.BC.T_lKrnVe",
+                "sha256": "65C4C0E5A3647F02556774283707AD0270EE59EEC952B3D38E677C8EE3991007",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Search.acroplugin/Contents/MacOS/.BC.T_DXJyvI",
+                "sha256": "97FEA1299DDCB7E0A9C92C705381BE098B51AC38EA8BD31492B4F5613DD8C8EC",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SendMail.acroplugin/Contents/MacOS/.BC.T_doNgYJ",
+                "sha256": "D2F3AA32AC52FB51BAACD0450E8332F725E245D52275D559457E4673BB7A3DEC",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Spelling.acroplugin/Contents/MacOS/.BC.T_AtvKkn",
+                "sha256": "844EBC131B398804087F2ACE29A98D7EAB30A6460E989945C0DE96A89B237182",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/StorageConnectors.acroplugin/Contents/MacOS/.BC.T_VXt40Q",
+                "sha256": "9BE39B6CFFC860EF4ECC549234ED15A8E61A04EB8B81B60D7D69E1A7621400B6",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Updater.acroplugin/Contents/MacOS/.BC.T_44v62k",
+                "sha256": "F13D03CF19891B8F8F4085F485B742F66CEFF5769D59CD0808B9F79162325F34",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/WebLink.acroplugin/Contents/MacOS/.BC.T_uatqmD",
+                "sha256": "9D9EBB2B9DB01C93511F6B350FFFE34629C997C65EA804DAC70C0BD952841834",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/eBook.acroplugin/Contents/MacOS/.BC.T_wJn4d9",
+                "sha256": "FDBE02C4E81E8FD4915EC1CC7572CD6E08571959B4D39A8086FE442BBF279CB0",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/skord/skord.app/Contents/MacOS/skord",
+                "sha256": "277f5006fc4579e15c095d3340ddce1937cd3d979e011472049c1337005ea4f5",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/skord/skord.app/Contents/Frameworks/libswiftAppKit.dylib",
+                "sha256": "040557541f2c5920c0733b38284f0415bd953f0efb46c07275d66e41ce6abac0",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/skord/skord.app/Contents/Frameworks/libswiftCoreImage.dylib",
+                "sha256": "0a639d4cb460e796110e95334c1d0a17b79e0ad324571ebbfcc3b2325d5d53e1",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/skord/skord.app/Contents/Frameworks/libswiftObjectiveC.dylib",
+                "sha256": "55f1fed27c76ce88c35ee851ea1cae619bf2f70fdc220113378469f33850aa37",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/skord/skord.app/Contents/Frameworks/libswiftXPC.dylib",
+                "sha256": "4a2be6600e51154ed6dc53418514e05e8f408eed84f0c77f3ff3f1cf15758f03",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/skord/skord.app/Contents/Frameworks/libswiftCore.dylib",
+                "sha256": "7f37b956954e61b4dd4f61bec4c85ebdc95aac9628a9a553fe970d53b7bfa124",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/skord/skord.app/Contents/Frameworks/libswiftCoreGraphics.dylib",
+                "sha256": "fe454ea06d89259cc637c37e90c9d933bd73718145bbca8b5f952a4e8e8e5908",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/skord/skord.app/Contents/Frameworks/libswiftMetal.dylib",
+                "sha256": "44bb2d604e596bc0cbb8aeee37ba282667b04413ef6e8c4d72b4ba53f6961be2",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/skord/skord.app/Contents/Frameworks/libswiftCoreData.dylib",
+                "sha256": "fdcf6420afc3175c2b3b5cb242cae169b926422494239f73b6e7c584693d98fb",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/skord/skord.app/Contents/Frameworks/libswiftDispatch.dylib",
+                "sha256": "02cfca7fc8d10695b4440d48f9e16616a5bc6d2c99548bfdf0449e505776e3a2",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/skord/skord.app/Contents/Frameworks/libswiftos.dylib",
+                "sha256": "a2efd1e006704bc5e9ef9b4aaa7d9447381c509f637a6016325ecdcf10cffb62",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/skord/skord.app/Contents/Frameworks/libswiftCoreFoundation.dylib",
+                "sha256": "ae58fba52683c5aa79f5bc7d9f7c10a90a8189e5abe141308961ac1e992c2f95",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/skord/skord.app/Contents/Frameworks/libswiftDarwin.dylib",
+                "sha256": "8c3a0c48eba049fe7f543a1c9d68879192cf29abb8a925e2818bf2415d2b4f41",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/skord/skord.app/Contents/Frameworks/libswiftQuartzCore.dylib",
+                "sha256": "7a603e35b6b312af514593be19cc40266e39ae57e52a2715a4391033ed9c2abf",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/skord/skord.app/Contents/Frameworks/libswiftIOKit.dylib",
+                "sha256": "e2162b92610070f8c12bacf8687c392f974837725eaa875bf0b35ca80aacc692",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/skord/skord.app/Contents/Frameworks/Charts.framework/Versions/A/Charts",
+                "sha256": "ec224647ba0f9da988e515fc6e3c807a0458122676fa2bbea08b7cb5eb1f42c5",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/Volumes/skord/skord.app/Contents/Frameworks/libswiftFoundation.dylib",
+                "sha256": "e318591e2dcaf9856967030462eea765758743fd1ed3b9f6aa7581f59115cb6e",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/PrivateFrameworks/CoreUI.framework/CoreUI",
+                "sha256": "45118529f6e66ede4601034cfb2b13aca7327b2dc89b5fe6a6bd9cfcf1c30005",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/HIServices",
+                "sha256": "db94118f4b2948df9067be5065ad1720f1d20e8cc9d768cb919077e6b7f538fb",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/HIToolbox",
+                "sha256": "a218802a5aa79bc7014c9a0dde1e5895c21d922c2fb4d8da57194a53eb7e5f23",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/DiskArbitration.framework/DiskArbitration",
+                "sha256": "5bd631387a9db6b9b8c02599a5cdfac0fe759299083e67416851e40c0aea4621",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/PrivateFrameworks/CoreServicesInternal.framework/CoreServicesInternal",
+                "sha256": "4f1b14b686b51589e07d1f0290029b3c95c7d2214b4cebe4f2671f917ba63ad3",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration",
+                "sha256": "f2fc47887ba5c26fe17a8378a0da31236ad978bcaf60d393eb57c5f6f594dec6",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/CoreText.framework/CoreText",
+                "sha256": "7733ee1d543e225b1fde7285d08df9c492bd5dcd977bea6bbd1a8cf767439205",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/LaunchServices",
+                "sha256": "2d9fb09f6058f4cded6326c00111ab578ab7b764bd89934bbca0e9491c936f5a",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics",
+                "sha256": "20d17bc53bd666568d6c128a81dc5654f2ff34ca307da6afbe75f9f621b3f2f5",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/AppKit.framework/AppKit",
+                "sha256": "0b2934cdfe6d369507124ac05a337f83d98cf3cd225d9f7cfb3a1787e62a359b",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/PrivateFrameworks/AppleFSCompression.framework/AppleFSCompression",
+                "sha256": "d0da5c90454697272f33f1aa85c045a3da39b944a99d16e229d59403169b4bd9",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SharedFileList.framework/SharedFileList",
+                "sha256": "d1469217c47e8334f28d77b4e2735957dc422d41fe4d24ec32b98dee171a5f8e",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/PrivateFrameworks/login.framework/login",
+                "sha256": "be73625ec2745112146f73fa70a91339371615a55f0cffe537e0bc9293c13039",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/ColorSync.framework/ColorSync",
+                "sha256": "7a7c635ef9fa28cf61805d39c2d992f5eba52ebba88057864092a5cd4be56f4f",
+                "type": "MACH_O"
+            }
+        ],
+        "files_copied": [
+            {
+                "source": "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/com.apple.trustd//mds/mdsObject.db_",
+                "destination": "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/com.apple.trustd//mds/mdsObject.db"
+            },
+            {
+                "source": "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/com.apple.trustd//mds/mdsDirectory.db_",
+                "destination": "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C/com.apple.trustd//mds/mdsDirectory.db"
+            },
+            {
+                "source": "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C//mds/mdsObject.db_",
+                "destination": "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C//mds/mdsObject.db"
+            },
+            {
+                "source": "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C//mds/mdsDirectory.db_",
+                "destination": "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/C//mds/mdsDirectory.db"
+            },
+            {
+                "source": "/var/folders/4c/2j7t8wj96cngjk55x3sm1t2c0000gn/T/assistantd/TemporaryItems/(A Document Being Saved By assistantd)/sync_flagcom.apple.siri.applications",
+                "destination": "/Users/user1/Library/Assistant/sync_flagcom.apple.siri.applications"
+            },
+            {
+                "source": "/Users/user1/Library/Caches/.dat.nosync015a.IdyPfa",
+                "destination": "/Users/user1/Library/Caches/com.apple.nsservicescache.plist"
+            }
+        ],
+        "verdicts": [
+            "EVADER"
+        ],
+        "ip_traffic": [
+            {
+                "destination_ip": "17.249.25.246",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.253.21.208",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.142.171.7",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "184.28.221.112",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "23.194.118.240",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.167.194.224",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "23.194.118.47",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.253.21.204",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.248.241.205",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "23.223.201.33",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "173.223.193.88",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.248.241.171",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "184.28.221.105",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.248.188.165",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.253.21.206",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.248.241.230",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "255.255.255.255",
+                "destination_port": 67,
+                "transport_layer_protocol": "UDP"
+            },
+            {
+                "destination_ip": "23.37.230.26",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "23.37.224.233",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "72.21.91.29",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "23.37.230.16",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "23.208.144.213",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "23.37.224.236",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "23.37.224.47",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            }
+        ]
+    }
+}

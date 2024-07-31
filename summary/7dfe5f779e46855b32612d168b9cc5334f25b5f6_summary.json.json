@@ -1,0 +1,1103 @@
+{
+    "data": {
+        "processes_tree": [
+            {
+                "process_id": "2632",
+                "name": "\"${SamplePath}\\91dfd9ef7d61ef1c1c20bf0dd29fd0e1862f02d94758d454cd7265d2171b8c88.exe\" ",
+                "children": [
+                    {
+                        "process_id": "3436",
+                        "name": "\"C:\\Windows\\system32\\werfault.exe\"",
+                        "time_offset": 10782
+                    }
+                ]
+            },
+            {
+                "process_id": "3480",
+                "name": "%WINDIR%\\explorer.exe",
+                "children": [
+                    {
+                        "process_id": "3636",
+                        "name": "%SAMPLEPATH%\\91dfd9ef7d61ef1c1c20bf0dd29fd0e1862f02d94758d454cd7265d2171b8c88.exe",
+                        "children": [
+                            {
+                                "process_id": "2460",
+                                "name": "C:\\Windows\\SysWOW64\\WerFault.exe"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "process_id": "616",
+                "name": "C:\\Windows\\System32\\svchost.exe",
+                "children": [
+                    {
+                        "process_id": "2260",
+                        "name": "C:\\Windows\\System32\\wuapihost.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "1896",
+                "name": "****.exe"
+            },
+            {
+                "process_id": "1308",
+                "name": "****.exe"
+            },
+            {
+                "process_id": "2464",
+                "name": "91dfd9ef7d61ef1c1c20bf0dd29fd0e1862f02d94758d454cd7265d2171b8c88.exe",
+                "children": [
+                    {
+                        "process_id": "1248",
+                        "name": "C:\\Windows\\system32\\werfault.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "6764",
+                "name": "\"C:\\Users\\user\\Desktop\\executable.exe\" ",
+                "children": [
+                    {
+                        "process_id": "3248",
+                        "name": "C:\\Windows\\SysWOW64\\WerFault.exe C:\\Windows\\system32\\werfault.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "5572",
+                "name": "C:\\Windows\\System32\\sihost.exe sihost.exe"
+            },
+            {
+                "process_id": "6484",
+                "name": "C:\\Windows\\System32\\sihost.exe sihost.exe"
+            },
+            {
+                "process_id": "5212",
+                "name": "C:\\Windows\\System32\\sihost.exe sihost.exe"
+            },
+            {
+                "process_id": "4088",
+                "name": "C:\\Windows\\System32\\sihost.exe sihost.exe"
+            },
+            {
+                "process_id": "6908",
+                "name": "C:\\Windows\\System32\\sihost.exe sihost.exe"
+            },
+            {
+                "process_id": "6084",
+                "name": "C:\\Windows\\System32\\sihost.exe sihost.exe"
+            }
+        ],
+        "ip_traffic": [
+            {
+                "destination_ip": "20.99.133.109",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "20.99.184.37",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "192.229.211.108",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            }
+        ],
+        "processes_created": [
+            "${SamplePath}\\91dfd9ef7d61ef1c1c20bf0dd29fd0e1862f02d94758d454cd7265d2171b8c88.exe",
+            "C:\\Windows\\SysWOW64\\werfault.exe",
+            "%SAMPLEPATH%\\91dfd9ef7d61ef1c1c20bf0dd29fd0e1862f02d94758d454cd7265d2171b8c88.exe",
+            "C:\\Windows\\SysWOW64\\WerFault.exe",
+            "C:\\Windows\\System32\\wuapihost.exe",
+            "C:\\Windows\\system32\\werfault.exe"
+        ],
+        "processes_terminated": [
+            "${SamplePath}\\91dfd9ef7d61ef1c1c20bf0dd29fd0e1862f02d94758d454cd7265d2171b8c88.exe",
+            "C:\\Windows\\SysWOW64\\werfault.exe",
+            "%SAMPLEPATH%\\91dfd9ef7d61ef1c1c20bf0dd29fd0e1862f02d94758d454cd7265d2171b8c88.exe",
+            "C:\\Windows\\System32\\wuapihost.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe"
+        ],
+        "tags": [
+            "DIRECT_CPU_CLOCK_ACCESS",
+            "RUNTIME_MODULES",
+            "PERSISTENCE",
+            "LONG_SLEEPS"
+        ],
+        "verdict_confidence": 64,
+        "files_dropped": [
+            {
+                "path": "D:\\OWKJILEFRAAMDIGPNPUUHGXPQNJWJMWAXXMNSNHHLQQRZUDLTFZOTCJTNZXUGLSDSMZCNOCKVFAJFRMXOTHOWKBJZWUCWLJFRIMPMYHCHZR",
+                "sha256": "f5bbb58a2828a21376eaee3439eadcb239550f76542a44abe43294a2da24afef"
+            },
+            {
+                "path": "D:\\BFQMKIMWZOBIWYBXDUUNFSKSRSRTEKMQDCYZJEEUHMSRQCOZIJIPF",
+                "sha256": "386fb417d6252d4f4afd78de527443ddbdbc41cda78ff6ad8568ffa71e4786f1"
+            },
+            {
+                "path": "D:\\PLJVRVIPYAMYEHWQNQRQPMXUJJLOOVAOWUX",
+                "sha256": "386fb417d6252d4f4afd78de527443ddbdbc41cda78ff6ad8568ffa71e4786f1"
+            },
+            {
+                "path": "D:\\WFNFOZVSRTKJPREPGGXRPNRVYSTMWCYSYYCQ",
+                "sha256": "f5bbb58a2828a21376eaee3439eadcb239550f76542a44abe43294a2da24afef"
+            },
+            {
+                "path": "D:\\PHQGHUMEAYLNLFDXFIRCVSCXGGBWKFNQDUX",
+                "sha256": "c9418bf5e679ba56351835439a6773f83fd43d2dcf7ac6145dcb1b41da87a388"
+            },
+            {
+                "path": "D:\\PUNKDMBPPWEQTGJOPARMOWZDQYOXYTJBBHAWDYDCPRJBXPHOOHPKWQYUHRQZHNBNFUVQNQQLRZJPXIOGVLIEXDZUZOSRKRUSVOJBRZMWZP",
+                "sha256": "9f730c8b64884c1eff41d347c4f2ea1992944c3be60c38961e01727ec02300ec"
+            },
+            {
+                "path": "D:\\KUFNUXXZRZBMNMGQOOKETLYHNKOAUGZQRCDDIUTEIOJWAYYZPVSCM",
+                "sha256": "2a75127ece52fe758432133b7ecfbf66e12b77af24d772a8c141e2070155ce4b"
+            },
+            {
+                "path": "D:\\PSFADPOOEFXZBCOEJUVPVABOYGPOEYLFPBN",
+                "sha256": "46986a0b44840b0dc92f571ea3d627f61d6eeb9ab339e35a7ca4ac42cd6c926b"
+            },
+            {
+                "path": "D:\\ANFETCUKEPZSHKLJUGGGEKJDQZJENPEVQGXIEPJSRDZJAZUJLLCHH",
+                "sha256": "46986a0b44840b0dc92f571ea3d627f61d6eeb9ab339e35a7ca4ac42cd6c926b"
+            },
+            {
+                "path": "D:\\PEVIKEFFMZNIMKKASVWSRENZKYCXFXTLSGY",
+                "sha256": "569f0a30d8272981123de44512d4f217abef46b67c19c3b556946c9422626154"
+            },
+            {
+                "path": "D:\\IONEEDDPSZRNAVYMMTATBDZQSOEMUVNPPPSUACBAZUXMHECTHLEGR",
+                "sha256": "46986a0b44840b0dc92f571ea3d627f61d6eeb9ab339e35a7ca4ac42cd6c926b"
+            },
+            {
+                "path": "C:\\Windows\\System32\\spp\\store\\2.0\\data.dat.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERFCA.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERFCA.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER1019.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER1019.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER1095.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER1095.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER10A5.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER10A5.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER10D5.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER10D6.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER10D5.tmp.txt"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER10D6.tmp.txt"
+            },
+            {
+                "path": "C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF220.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF220.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF2CC.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF2CC.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF2FC.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF2FC.tmp.txt"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER294D.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER294D.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER295F.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER295F.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER296F.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER296F.tmp.txt"
+            },
+            {
+                "path": "\\Device\\Harddisk0\\DR0",
+                "sha256": "d82ad1081dfe2e318b6d888666acf1f5edde7d6dfbfebfc53ffaf52dcff90a0b"
+            }
+        ],
+        "files_opened": [
+            "C:\\WINDOWS\\system32\\winime32.dll",
+            "C:\\WINDOWS\\system32\\ws2_32.dll",
+            "C:\\WINDOWS\\system32\\ws2help.dll",
+            "C:\\WINDOWS\\system32\\psapi.dll",
+            "C:\\WINDOWS\\system32\\imm32.dll",
+            "C:\\WINDOWS\\system32\\lpk.dll",
+            "C:\\WINDOWS\\system32\\usp10.dll",
+            "C:\\Windows\\system32\\apphelp.dll",
+            "\\SystemRoot\\AppPatch\\sysmain.sdb",
+            "C:\\Windows\\system32\\",
+            "C:\\Windows\\",
+            "C:\\Windows\\system32\\WerFault.exe",
+            "C:\\Windows\\Fonts\\staticcache.dat",
+            "C:\\Windows\\system32\\ole32.dll",
+            "C:\\$SysReset\\",
+            "C:\\$SysReset\\AppxLogs\\",
+            "C:\\$SysReset\\CloudImage\\",
+            "C:\\$SysReset\\Logs\\",
+            "C:\\$SysReset\\Logs\\PHQGHUMEAYLNLFDXFIR",
+            "C:\\$SysReset\\Logs\\PushButtonReset.etl",
+            "C:\\Users\\user\\Desktop\\executable.exe",
+            "C:\\Windows\\AppPatch\\sysmain.sdb",
+            "C:\\Windows\\Globalization\\Sorting\\sortdefault.nls",
+            "C:\\Windows\\SYSTEM32\\ntmarta.dll",
+            "C:\\Windows\\SYSTEM32\\user32.dll",
+            "C:\\Windows\\SysWOW64\\GDI32.dll",
+            "C:\\Windows\\SysWOW64\\IMM32.DLL",
+            "C:\\Windows\\SysWOW64\\KERNEL32.DLL",
+            "C:\\Windows\\SysWOW64\\KERNELBASE.dll",
+            "C:\\Windows\\SysWOW64\\USER32.dll",
+            "C:\\Windows\\SysWOW64\\apphelp.dll",
+            "C:\\Windows\\SysWOW64\\gdi32full.dll",
+            "C:\\Windows\\SysWOW64\\msvcp_win.dll",
+            "C:\\Windows\\SysWOW64\\ntdll.dll",
+            "C:\\Windows\\SysWOW64\\ucrtbase.dll",
+            "C:\\Windows\\SysWOW64\\win32u.dll",
+            "C:\\Windows\\system32\\IMM32.DLL",
+            "C:\\Windows\\system32\\rpcss.dll",
+            "PhysicalDrive0",
+            "PhysicalDrive1",
+            "PhysicalDrive2",
+            "PhysicalDrive3",
+            "PhysicalDrive4",
+            "\\Device\\Harddisk0\\DR0",
+            "c:\\windows\\system32\\CoreMessaging.dll"
+        ],
+        "windows_hidden": [
+            "C:\\Windows\\SysWOW64\\werfault.exe"
+        ],
+        "files_written": [
+            "D:\\PHQGHUMEAYLNLFDXFIRCVSCXGGBWKFNQDUX",
+            "D:\\WFNFOZVSRTKJPREPGGXRPNRVYSTMWCYSYYCQ",
+            "D:\\PEVIKEFFMZNIMKKASVWSRENZKYCXFXTLSGY",
+            "D:\\PSFADPOOEFXZBCOEJUVPVABOYGPOEYLFPBN",
+            "D:\\PLJVRVIPYAMYEHWQNQRQPMXUJJLOOVAOWUX",
+            "D:\\WHMSNCBXCOKSFZKVATXDKNLYJYHFIXJSWNK",
+            "D:\\KUFNUXXZRZBMNMGQOOKETLYHNKOAUGZQRCDDIUTEIOJWAYYZPVSCM",
+            "D:\\PSAJLFVGUBFAAOVLZYLNTRKDCPWSRTESJWHDIZCOBZCNFWLQIJTVDW",
+            "D:\\VXHRCBLDVGYLWGBUSBMBORXTLHCSMPXOHGMGNKEUFDXOTOGBGXPEY",
+            "D:\\ANFETCUKEPZSHKLJUGGGEKJDQZJENPEVQGXIEPJSRDZJAZUJLLCHH",
+            "D:\\BFQMKIMWZOBIWYBXDUUNFSKSRSRTEKMQDCYZJEEUHMSRQCOZIJIPF",
+            "D:\\IONEEDDPSZRNAVYMMTATBDZQSOEMUVNPPPSUACBAZUXMHECTHLEGR",
+            "D:\\PUNKDMBPPWEQTGJOPARMOWZDQYOXYTJBBHAWDYDCPRJBXPHOOHPKWQYUHRQZHNBNFUVQNQQLRZJPXIOGVLIEXDZUZOSRKRUSVOJBRZMWZP",
+            "D:\\OWKJILEFRAAMDIGPNPUUHGXPQNJWJMWAXXMNSNHHLQQRZUDLTFZOTCJTNZXUGLSDSMZCNOCKVFAJFRMXOTHOWKBJZWUCWLJFRIMPMYHCHZR",
+            "C:\\Windows\\ServiceProfiles\\LocalService\\AppData\\Roaming\\Microsoft\\UPnP Device Host\\upnphost\\udhisapi.dll",
+            "C:\\$SysReset\\Logs\\PHQGHUMEAYLNLFDXFIR",
+            "\\Device\\Harddisk0\\DR0"
+        ],
+        "registry_keys_opened": [
+            "\\Registry\\Machine\\System\\CurrentControlSet\\Services\\FileInfo\\INSTANCES",
+            "\\Registry\\Machine\\System\\CurrentControlSet\\Services\\FileInfo\\INSTANCES\\FileInfo",
+            "\\Registry\\Machine\\System\\CurrentControlSet\\Services\\whales\\INSTANCES",
+            "\\Registry\\Machine\\System\\CurrentControlSet\\Services\\whales\\INSTANCES\\whlflt",
+            "\\Registry\\Machine\\System\\CurrentControlSet\\Services\\luafv\\INSTANCES",
+            "\\Registry\\Machine\\System\\CurrentControlSet\\Services\\luafv\\INSTANCES\\luafv",
+            "\\Registry\\Machine\\System\\CurrentControlSet\\Control\\ComputerName\\ActiveComputerName",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\996E.exe",
+            "\\Registry\\MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\TransparentEnabled",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\REGISTRY\\MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\996E.exe\\RpcThreadPoolThrottle",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Rpc",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontLink\\SystemLink",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\DataStore_V1.0",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\DataStore_V1.0\\Disable",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\DataStore_V1.0\\DataFilePath",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Tahoma",
+            "HKEY_CURRENT_USER\\Software\\Classes\\Local Settings",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+            "HKEY_CURRENT_USER_Classes\\Local Settings\\Software\\Microsoft",
+            "HKEY_CURRENT_USER_Classes\\Local Settings\\Software\\Microsoft\\Ole",
+            "HKEY_CURRENT_USER_Classes\\Local Settings\\Software\\Microsoft\\Ole\\FeatureDevelopmentProperties",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\AppModel\\Lookaside\\Packages",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLE",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\executable.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\sihost.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\werfault.exe",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages\\en-US",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Nls\\CustomLocale",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Segment Heap",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Policies\\Microsoft\\Cryptography\\Configuration",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\OLE\\Tracing",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole\\FeatureDevelopmentProperties",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Rpc",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Rpc\\Extensions",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Disable8And16BitMitigation",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Wow64\\x86",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Wow64\\x86\\xtajit",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Rpc",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Display",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\SideBySide",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\MUI\\Settings",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows\\Display",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\ComputerName\\ActiveComputerName",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Error Message Instrument\\",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\FileSystem\\",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FipsAlgorithmPolicy",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\Settings\\LanguageConfiguration",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\UILanguages",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\UILanguages\\PendingDelete",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\NLS\\Language",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Sorting\\Versions",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\AppCertDlls",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Srp\\GP\\DLL",
+            "HKEY_LOCAL_MACHINE\\System\\Setup"
+        ],
+        "mitre_attack_techniques": [
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "write process memory",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "write process memory"
+                    }
+                ]
+            },
+            {
+                "id": "T1129",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "link function at runtime on Windows",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "link function at runtime on Windows"
+                    }
+                ]
+            },
+            {
+                "id": "T1055.012",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "use process replacement",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "use process replacement"
+                    }
+                ]
+            },
+            {
+                "id": "T1620",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "use process replacement",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "use process replacement"
+                    }
+                ]
+            },
+            {
+                "id": "T1129",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "parse PE header",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "parse PE header"
+                    }
+                ]
+            },
+            {
+                "id": "T1129",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "link many functions at runtime",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "link many functions at runtime"
+                    }
+                ]
+            },
+            {
+                "id": "T1057",
+                "severity": "IMPACT_SEVERITY_LOW",
+                "signature_description": "snapshot process"
+            },
+            {
+                "id": "T1565",
+                "severity": "IMPACT_SEVERITY_MEDIUM",
+                "signature_description": "delete directory"
+            },
+            {
+                "id": "T1070.004",
+                "severity": "IMPACT_SEVERITY_MEDIUM",
+                "signature_description": "delete directory"
+            },
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_HIGH",
+                "signature_description": "inject other processes by exist thread"
+            },
+            {
+                "id": "T1529",
+                "severity": "IMPACT_SEVERITY_MEDIUM",
+                "signature_description": "restart or logoff the computer"
+            },
+            {
+                "id": "T1005",
+                "severity": "IMPACT_SEVERITY_MEDIUM",
+                "signature_description": "read the memory information of the process"
+            },
+            {
+                "id": "T1518",
+                "severity": "IMPACT_SEVERITY_MEDIUM",
+                "signature_description": "traverse process"
+            },
+            {
+                "id": "T1542.003",
+                "severity": "IMPACT_SEVERITY_LOW",
+                "signature_description": "Infects the bootmgr code of the hard disk"
+            },
+            {
+                "id": "T1542.003",
+                "severity": "IMPACT_SEVERITY_LOW",
+                "signature_description": "Infects the boot sector of the hard disk"
+            },
+            {
+                "id": "T1542.003",
+                "severity": "IMPACT_SEVERITY_LOW",
+                "signature_description": "Writes directly to the primary disk partition (DR0)"
+            },
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Spawns processes"
+            },
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Creates a process in suspended mode (likely to inject code)"
+            },
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_LOW",
+                "signature_description": "Injects a PE file into a foreign processes"
+            },
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_LOW",
+                "signature_description": "Writes to foreign memory regions"
+            },
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_LOW",
+                "signature_description": "Allocates memory in foreign processes"
+            },
+            {
+                "id": "T1497",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Contains long sleeps (>= 3 min)"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Reads software policies"
+            }
+        ],
+        "files_deleted": [
+            "E:\\$RECYCLE.BIN\\S-1-5-21-870151485-863566166-2146164720-1000",
+            "F:\\$RECYCLE.BIN\\S-1-5-21-870151485-863566166-2146164720-1000",
+            "D:\\$RECYCLE.BIN\\S-1-5-21-870151485-863566166-2146164720-1000",
+            "D:\\PHQGHUMEAYLNLFDXFIRCVSCXGGBWKFNQDUX",
+            "D:\\WFNFOZVSRTKJPREPGGXRPNRVYSTMWCYSYYCQ",
+            "D:\\PEVIKEFFMZNIMKKASVWSRENZKYCXFXTLSGY",
+            "D:\\PSFADPOOEFXZBCOEJUVPVABOYGPOEYLFPBN",
+            "D:\\PLJVRVIPYAMYEHWQNQRQPMXUJJLOOVAOWUX",
+            "D:\\WHMSNCBXCOKSFZKVATXDKNLYJYHFIXJSWNK",
+            "D:\\KUFNUXXZRZBMNMGQOOKETLYHNKOAUGZQRCDDIUTEIOJWAYYZPVSCM",
+            "D:\\PSAJLFVGUBFAAOVLZYLNTRKDCPWSRTESJWHDIZCOBZCNFWLQIJTVDW",
+            "D:\\VXHRCBLDVGYLWGBUSBMBORXTLHCSMPXOHGMGNKEUFDXOTOGBGXPEY",
+            "D:\\ANFETCUKEPZSHKLJUGGGEKJDQZJENPEVQGXIEPJSRDZJAZUJLLCHH",
+            "D:\\BFQMKIMWZOBIWYBXDUUNFSKSRSRTEKMQDCYZJEEUHMSRQCOZIJIPF",
+            "D:\\IONEEDDPSZRNAVYMMTATBDZQSOEMUVNPPPSUACBAZUXMHECTHLEGR",
+            "D:\\PUNKDMBPPWEQTGJOPARMOWZDQYOXYTJBBHAWDYDCPRJBXPHOOHPKWQYUHRQZHNBNFUVQNQQLRZJPXIOGVLIEXDZUZOSRKRUSVOJBRZMWZP",
+            "D:\\OWKJILEFRAAMDIGPNPUUHGXPQNJWJMWAXXMNSNHHLQQRZUDLTFZOTCJTNZXUGLSDSMZCNOCKVFAJFRMXOTHOWKBJZWUCWLJFRIMPMYHCHZR",
+            "D:\\Work",
+            "%SAMPLEPATH%\\CXGGBWKFNQDUXWFNFOZVSRTKJPREPGGXRPNRVYSTMWCYSYYCQPEVIKEFFMZNIMKK",
+            "%SAMPLEPATH%\\ASVWSRENZKYCXFXTLSGYPSFADPOOEFXZBCOEJUVPVABOYGPOEYLFPBNPLJVRVIPYAMYE",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERFCA.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER1019.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER1095.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER10A5.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER10D6.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER10D5.tmp.txt",
+            "C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat",
+            "C:\\Boot\\XFIRCVSCXGGB",
+            "%USERPROFILE%\\AppData\\Local\\Adobe\\Acrobat\\DC\\NARAEWKEGJCCV",
+            "%USERPROFILE%\\AppData\\Local\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\HHRJVB",
+            "%USERPROFILE%\\AppData\\Local\\Adobe\\AcroCef\\DC\\Acrobat\\Cache\\JTSQD",
+            "%USERPROFILE%\\AppData\\Local\\Adobe\\Color\\Profiles\\JOOTGPKNFP",
+            "%USERPROFILE%\\AppData\\Local\\Comms\\UnistoreDB\\FYCGFIEOW",
+            "%USERPROFILE%\\AppData\\Local\\Comms\\UnistoreDB\\QRWWWPZ",
+            "%USERPROFILE%\\AppData\\Local\\Comms\\UnistoreDB\\SQMETOGEPSPXNVJ",
+            "%USERPROFILE%\\AppData\\Local\\Comms\\UnistoreDB\\IUPALYYNMKMNUVK",
+            "%USERPROFILE%\\AppData\\Local\\Comms\\UnistoreDB\\LHSECDWRAC",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\GFMZKGIPDFODKJMJQWI",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\QPUOQH",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\IMVFVU",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\ZWYVIJ",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\GFULLKJD",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\UHSJAFBT",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\LKMFQRMY",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\JFJNHHSS",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\QCTYDTEA",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\MDCJBPRH",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\TNEGYIWX",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\GCJWLGRS",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\MEAEARWT",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\VJSJBAOI",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\OJLWHYPN",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\VRUIHOSW",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\KIFYGTYD",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\HACWYHSG",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\EWZMTGON",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\ZLTJHGAU",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache\\HNIHR",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extensions\\ghbmnnjooekpmoecnnnilnnbdlolhkhi\\1.7_0\\resources\\EQGJFWKJSMTPJHAEF",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extensions\\ghbmnnjooekpmoecnnnilnnbdlolhkhi\\1.7_0\\resources\\QZAAULDRCHJCCDYRFV",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extensions\\nmmhkkegccagdldgiimedpiccmgmieda\\1.0.0.4_0\\images\\VRIVUYEEGFI",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extensions\\pkedcjkdefgpdelpbcmbmeomcjbeemfm\\6417.1211.0.0_0\\VDRCYGURQDREDAKUBNFGUPR",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\OQYLOBC",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Service Worker\\CacheStorage\\28da9c56fde4021055a681112c092453f74d8dd8\\624214c3-5638-44c0-a37e-3bed8ffe11cf\\WQXKZMAUSJGMHCMHGD",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\NMPHNQKAMHURK",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\TRFFACLV",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\EVWhitelist\\7\\_platform_specific\\all\\GRZKKLDACLLTEOJOMONXRQY",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\JZGINRNNZWA",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\pnacl\\0.57.44.2492\\_platform_specific\\x86_64\\CXXAEDRWUDXZRFUSEWJTBOXVYNF",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\pnacl\\0.57.44.2492\\_platform_specific\\x86_64\\HKSTCENAUMNDDXFDMVZCAUTDCCKX",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\pnacl\\0.57.44.2492\\_platform_specific\\x86_64\\AAYDZSXTTOBBGQNGVVPJGOJOGLMKXGBFCP",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\pnacl\\0.57.44.2492\\_platform_specific\\x86_64\\YPCKQCHBDDZWRXBZMQRLXVOBTWHXGINFG",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\recovery\\101.3.33.21\\FRCCLMZNMJUGWWBSQF",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\CIHUBSJOLLMSQSGHMCP",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\HELSOTFLBGSFNPCUZSRUPCHYNVZHCP",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\QUGRIWNIQXDFJPWPXFBLKPNPEEL",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\FJMTKUQPZOMWNLMBUPMKTL",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\PTNDMPDSYDSGVFPENEMWBORIFSUQHCESK",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\MKHSSMVNONWAFXWHGBIBABVQOPQFOV",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\IUSSQFQWEHTXDZUJTLNTXM",
+            "%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data\\RJXXWTLGGKYTBIOLYDNILQADOJSKKVFXA",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\FORMS\\HHJMBOCLJARI",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\Media Player\\WYYOJUOTHWMLVRGLFZDZDBTU",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\Media Player\\BXUOFFVNCRSWSAZ",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\af\\NMOIJOIVVGOBQPNCKWVNHKEBMTDHVYGKJIS",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\am-et\\UXHATMUUDQBHMKNHFXAXQXKJLZZQTSJFAEE",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\ar\\DFUUJKOLXJOQKDVFEPVLHVHRWTFDUKXFFJP",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\as-in\\SSWYXLIJJHEVRYXOZBAFPFMOWGRGONUATDQ",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\LAHYGGYLJDDJHMLTE",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\az-latn-az\\DZLODSRKEUTGTNKNTARJKPXINOVGZDTHUNW",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\be\\OOXVJJMPSVKNHKWJOPMMLEBKSUCVZQLYQNW",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\bg\\CMBVBHRMLOWPJBWYVWTGTOQNMICXAPZARKN",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\bn-bd\\NXTUUFARZROSDQWSMTCJGHECQUDOSRTJXYA",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\bn-in\\AYKQRXYCRXUWJXNPQJNBKCPDMOKALXAPEMV",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\bs-latn-ba\\BQLZSVXZKUTAPPWGZPDPYZKZCVBNTCVFXSX",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\ca\\PJAOXTFHVXXYTGOKRCXAETAUQGNDMPHWZYI",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\ca-es-valencia\\AYABJRQGEPPXYJSTTYZUVLDVYBSUXKBMFZV",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\cs\\RTNOVIDZNPGHOZVAFMSNSNQIVMVUBCWTFSR",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\QTMKNEPBHOWEJA",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\ZHKWCMMTPIXXXL",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\ZQYSXTWWTAIDYAXYQL",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\is\\EPRXIBEXXYFVSDDYGTHCUYYFWPJSFYBGLGZ",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\it\\MBINTATTNHODTONPYZWOTKGNGUPHPKXEATO",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\ja\\WZABSDNVQHKFCMOFISFRFQGVPMVORPJFZSL",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\ka\\ZMPJJNEHRYKXJZUBUACCLFKCYZOBGHTUOXR",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\kk\\AJVPRECWGXXPSWCGMMVEDEWDMFNQWCUQDSC",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\km-kh\\ILIQECIHLUILGMFCSWTWKKXLCBHQKVCSWJE",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\kn\\BKRJLPGFGRATZBSGUVZIFNHYXWJSJAVWAUX",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\ko\\PANNAMXJDVZUHNACZYHEPWZOLHUSLRKVWPN",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\kok\\VGZMIIZWUDWDFZLKTBQDXGYYIUDSJVEZKME",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\ku-arab\\SBJLKYERTAHNEXHUQMJICBMUSQDKLASOLWJ",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\ky\\XPTXXEUMZFWYUCPABQSEFFUNQPKFNNBECBB",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\lb-lu\\CJPDYJLIBITLLPLXELRDKEXDTQUVPTTEYHT",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\lt\\LQLBBBVOQOZKYNAYYRBAQMYJHZXNDSIYFSE",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\lv\\XWBIOEWQVQRTCDLPQMVJIFVGYMKGOTZJMNZ",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\mi-nz\\QTMRPNDEVNMTHJITSSPAQNJRDOYJWPYATML",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\mk\\EYQSVKPAMSVBMVXRLLIVFEDKJIGAVYXJVEQ",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6816.0313\\ml-in\\VRBACUIGAIPYHBBXIPBZNCWHRBLIRIZXOQP",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF220.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF2CC.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF2FC.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER294D.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER295F.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER296F.tmp.txt",
+            "C:\\$SysReset\\AppxLogs",
+            "C:\\$SysReset\\CloudImage"
+        ],
+        "signature_matches": [
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "create process suspended",
+                "description": "host-interaction/process/create",
+                "authors": [
+                    "william.ballenthin@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: create process suspended\n    namespace: host-interaction/process/create\n    authors:\n      - william.ballenthin@mandiant.com\n    scope: basic block\n    mbc:\n      - Process::Create Process::Create Suspended Process [C0017.003]\n    examples:\n      - Practical Malware Analysis Lab 03-03.exe_:0x4010EA\n  features:\n    - and:\n      - or:\n        - number: 0x08000004 = CREATE_NO_WINDOW | CREATE_SUSPENDED\n        - number: 4 = CREATE_SUSPENDED\n      - or:\n        - api: kernel32.CreateProcess\n        - api: advapi32.CreateProcessAsUser\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "create process on Windows",
+                "description": "host-interaction/process/create",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: create process on Windows\n    namespace: host-interaction/process/create\n    authors:\n      - moritz.raabe@mandiant.com\n    scope: basic block\n    mbc:\n      - Process::Create Process [C0017]\n    examples:\n      - 9324D1A8AE37A36AE560C37448C9705A:0x406DB0\n      - Practical Malware Analysis Lab 01-04.exe_:0x4011FC\n      - 692f7fd6d198e804d6af98eb9e390d61:0x6000003\n  features:\n    - or:\n      - api: kernel32.WinExec\n      - api: kernel32.CreateProcess\n      - api: shell32.ShellExecute\n      - api: shell32.ShellExecuteEx\n      - api: advapi32.CreateProcessAsUser\n      - api: advapi32.CreateProcessWithLogon\n      - api: advapi32.CreateProcessWithToken\n      - api: kernel32.CreateProcessInternal\n      - api: ntdll.NtCreateUserProcess\n      - api: ntdll.NtCreateProcess\n      - api: ntdll.NtCreateProcessEx\n      - api: ntdll.ZwCreateProcess\n      - api: ZwCreateProcessEx\n      - api: ntdll.ZwCreateUserProcess\n      - api: ntdll.RtlCreateUserProcess\n      - api: System.Diagnostics.Process::Start\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "reference absolute stream path on Windows",
+                "description": "host-interaction/file-system",
+                "authors": [
+                    "blas.kojusner@mandiant.com",
+                    "william.ballenthin@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: reference absolute stream path on Windows\n    namespace: host-interaction/file-system\n    authors:\n      - blas.kojusner@mandiant.com\n      - william.ballenthin@mandiant.com\n    scope: basic block\n    references:\n      - https://learn.microsoft.com/en-us/windows/win32/fileio/file-streams\n    examples:\n      - 51828683DC26BFABD3994494099AE97D:0x11A9\n  features:\n    - and:\n      - string: /^(..\\?\\\\)?([\\w]\\:|\\\\)(\\\\+((?![\\<\\>\\\"\\/\\|\\*\\?\\:\\\\])[\\x20-\\x5B\\x5D-\\x7E])+)+(\\:\\$?([a-zA-Z0-9_]+))?/\n        # ^(..\\?\\\\)? -> Check for path starting with \"\\\\?\\\"\n        # ([\\w]\\:|\\\\) -> Check for absolute path beginning\n        # (\\\\+((?![\\<\\>\\\"\\/\\|\\*\\?\\:\\\\])[\\x20-\\x5B\\x5D-\\x7E])+)+ -> Check for valid path and filename\n        #   \\\\+ -> Check for at least one backslash path separator\n        #   (?![\\<\\>\\\"\\/\\|\\*\\?\\:\\\\]) -> path component must not start with <, >, \", ...\n        #   [\\x20-\\x5B\\x5D-\\x7E] -> path component must be printable ASCII, except backslash path separator\n        # : -> Check for start of stream filename\n        # \\$?([a-zA-Z0-9_]+))? -> Check for valid stream filename\n        ### Example Matches:\n        ### \\\\\\\\server\\share\\\\file:stream\n        ### \\\\\\\\server\\share\\dir.ext\\\\file.ext:stream \n        ### \\\\\\\\server\\share\\dir.ext\\\\file.tar.gz:stream\n        ### \\\\\\\\server\\share\\dir.ext\\\\file:stream.tar.gz\n        ### \\\\\\\\server\\share\\dir\\\\file.ext:stream.ext\n        ### \\\\\\\\?\\C:\\dir1\\dir2\\\\file:stream\n        ### C:\\dir\\\\file:stream.ext\n        ### C:\\dir\\\\file:}{+,.';[]-=-0987654321`~!@#$%^&()_+-.ext\n",
+                "refs": [
+                    {
+                        "ref": "https://learn.microsoft.com/en-us/windows/win32/fileio/file-streams"
+                    }
+                ]
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "allocate memory",
+                "authors": [
+                    "0x534a@mailbox.org"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: allocate memory\n    authors:\n      - 0x534a@mailbox.org\n    lib: true\n    scope: basic block\n    mbc:\n      - Memory::Allocate Memory [C0007]\n    examples:\n      - Practical Malware Analysis Lab 03-03.exe_:0x4010EA\n      # ntdll\n      - 563653399B82CD443F120ECEFF836EA3678D4CF11D9B351BB737573C2D856299:0x140001ABA\n  features:\n    - or:\n      - api: kernel32.VirtualAlloc\n      - api: kernel32.VirtualAllocEx\n      - api: kernel32.VirtualAllocExNuma\n      - api: kernel32.VirtualProtect\n      - api: kernel32.VirtualProtectEx\n      - api: NtAllocateVirtualMemory\n      - api: ZwAllocateVirtualMemory\n      - api: NtMapViewOfSection\n      - api: ZwMapViewOfSection\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "allocate RW memory",
+                "authors": [
+                    "0x534a@mailbox.org"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: allocate RW memory\n    authors:\n      - 0x534a@mailbox.org\n    lib: true\n    scope: basic block\n    mbc:\n      - Memory::Allocate Memory [C0007]\n    examples:\n      - Practical Malware Analysis Lab 17-02.dll_:0x1000D10D\n  features:\n    - and:\n      - match: allocate memory\n      - number: 0x4 = PAGE_READWRITE\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "allocate RWX memory",
+                "description": "host-interaction/process/inject",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: allocate RWX memory\n    namespace: host-interaction/process/inject\n    authors:\n      - moritz.raabe@mandiant.com\n    scope: basic block\n    mbc:\n      - Memory::Allocate Memory [C0007]\n    examples:\n      - Practical Malware Analysis Lab 03-03.exe_:0x4010EA\n      # ntdll\n      - 563653399B82CD443F120ECEFF836EA3678D4CF11D9B351BB737573C2D856299:0x140001ABA\n  features:\n    - and:\n      - match: allocate memory\n      - number: 0x40 = PAGE_EXECUTE_READWRITE\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "resume thread",
+                "description": "host-interaction/thread/resume",
+                "authors": [
+                    "0x534a@mailbox.org",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: resume thread\n    namespace: host-interaction/thread/resume\n    authors:\n      - 0x534a@mailbox.org\n      - anushka.virgaonkar@mandiant.com\n    scope: basic block\n    mbc:\n      - Process::Resume Thread [C0054]\n    examples:\n      - Practical Malware Analysis Lab 12-02.exe_:0x4010EA\n      - 787cbc8a6d1bc58ea169e51e1ad029a637f22560660cc129ab8a099a745bd50e:0x4044C7\n  features:\n    - or:\n      - api: kernel32.ResumeThread\n      - api: ntdll.NtResumeThread\n      - api: ntdll.ZwResumeThread\n      - api: System.Threading.Thread::Resume\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "contain loop",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: contain loop\n    authors:\n      - moritz.raabe@mandiant.com\n    lib: true\n    scope: function\n    examples:\n      - 08AC667C65D36D6542917655571E61C8:0x406EAA\n  features:\n    - or:\n      - characteristic: loop\n      - characteristic: tight loop\n      - characteristic: recursive call\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "write process memory",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: write process memory\n    authors:\n      - moritz.raabe@mandiant.com\n    lib: true\n    scope: function\n    att&ck:\n      - Defense Evasion::Process Injection [T1055]\n    examples:\n      - 2D3EDC218A90F03089CC01715A9F047F:0x4027CF\n  features:\n    - or:\n      - api: kernel32.WriteProcessMemory\n      - api: ntdll.NtWriteVirtualMemory\n      - api: ntdll.ZwWriteVirtualMemory\n      - api: NtWow64WriteVirtualMemory64\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "terminate process",
+                "description": "host-interaction/process/terminate",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "michael.hunhoff@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: terminate process\n    namespace: host-interaction/process/terminate\n    authors:\n      - moritz.raabe@mandiant.com\n      - michael.hunhoff@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scope: function\n    mbc:\n      - Process::Terminate Process [C0018]\n    examples:\n      - C91887D861D9BD4A5872249B641BC9F9:0x401A77\n      - 9B7CCAA2AE6A5B96E3110EBCBC4311F6:0x10010307\n  features:\n    - or:\n      - api: System.Diagnostics.Process::Kill\n      - api: System.Diagnostics.Process::WaitForExit\n      - api: System.Diagnostics.Process::WaitForExitAsync\n      - api: System.Environment::Exit\n      - api: System.Windows.Forms.Application::Exit\n      - and:\n        - optional:\n          - match: open process\n        - or:\n          - api: kernel32.TerminateProcess\n          - api: ntdll.NtTerminateProcess\n          - api: kernel32.ExitProcess\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "link function at runtime on Windows",
+                "description": "linking/runtime-linking",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: link function at runtime on Windows\n    namespace: linking/runtime-linking\n    authors:\n      - moritz.raabe@mandiant.com\n      - michael.hunhoff@mandiant.com\n    scope: function\n    att&ck:\n      - Execution::Shared Modules [T1129]\n    examples:\n      - 9324D1A8AE37A36AE560C37448C9705A:0x404130\n      - Practical Malware Analysis Lab 01-04.exe_:0x401350\n  features:\n    - and:\n      - os: windows\n      - or:\n        - api: kernel32.GetProcAddress\n        - api: ntdll.LdrGetProcedureAddress\n      - optional:\n        - characteristic: indirect call\n        - api: kernel32.LoadLibrary\n        - api: kernel32.GetModuleHandle\n        - api: kernel32.GetModuleHandleEx\n        - api: ntdll.LdrLoadDll\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "use process replacement",
+                "description": "host-interaction/process/inject",
+                "authors": [
+                    "william.ballenthin@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: use process replacement\n    namespace: host-interaction/process/inject\n    authors:\n      - william.ballenthin@mandiant.com\n    scope: function\n    att&ck:\n      - Defense Evasion::Process Injection::Process Hollowing [T1055.012]\n      - Defense Evasion::Reflective Code Loading [T1620]\n    references:\n      - http://www.autosectools.com/process-hollowing.pdf\n      - https://www.andreafortuna.org/2017/10/09/understanding-process-hollowing/\n    examples:\n      - Practical Malware Analysis Lab 12-02.exe_:0x4010EA\n  features:\n    - and:\n      - match: create process suspended\n      - match: write process memory\n      - match: resume thread\n",
+                "refs": [
+                    {
+                        "ref": "http://www.autosectools.com/process-hollowing.pdf"
+                    },
+                    {
+                        "ref": "https://www.andreafortuna.org/2017/10/09/understanding-process-hollowing/"
+                    }
+                ]
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "parse PE header",
+                "description": "load-code/pe",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: parse PE header\n    namespace: load-code/pe\n    authors:\n      - moritz.raabe@mandiant.com\n    scope: function\n    att&ck:\n      - Execution::Shared Modules [T1129]\n    examples:\n      - 9324D1A8AE37A36AE560C37448C9705A:0x403DD0\n  features:\n    - and:\n      - os: windows\n      - and:\n        - mnemonic: cmp\n        - or:\n          - number: 0x4550 = IMAGE_NT_SIGNATURE (PE)\n          - and:\n            - number: 0x50\n            - number: 0x45\n        - or:\n          - number: 0x5A4D = IMAGE_DOS_SIGNATURE (MZ)\n          - and:\n            - number: 0x4D\n            - number: 0x5A\n        - optional:\n          - and:\n            - operand[1].offset: 0x3C = IMAGE_DOS_HEADER.e_lfanew\n            - or:\n              - and:\n                - arch: i386\n                - operand[1].offset: 0x50 = IMAGE_NT_HEADERS.OptionalHeader.SizeOfImage\n                - operand[1].offset: 0x34 = IMAGE_NT_HEADERS.OptionalHeader.ImageBase\n              - and:\n                - arch: amd64\n                - operand[1].offset: 0x50 = IMAGE_NT_HEADERS64.OptionalHeader.SizeOfImage\n                - operand[1].offset: 0x30 = IMAGE_NT_HEADERS64.OptionalHeader.ImageBase\n          - basic block:\n            - and:\n              - operand[1].offset: 0x3C = IMAGE_DOS_HEADER.e_lfanew\n              - 3 or more:\n                - operand[1].offset: 0x4 = IMAGE_NT_HEADERS.FileHeader.Machine\n                - operand[1].offset: 0x6 = IMAGE_NT_HEADERS.FileHeader.NumberOfSections\n                - operand[1].offset: 0x14 = IMAGE_NT_HEADERS.FileHeader.SizeOfOptionalHeader\n                - operand[1].offset: 0x16 = IMAGE_NT_HEADERS.FileHeader.Characteristics\n                - operand[1].offset: 0x28 = IMAGE_NT_HEADERS.OptionalHeader.AddressOfEntryPoint  # for 32 and 64 bit\n                - or:\n                  - and:\n                    - arch: i386\n                    - operand[1].offset: 0x34 = IMAGE_NT_HEADERS.OptionalHeader.ImageBase\n                    - operand[1].offset: 0x50 = IMAGE_NT_HEADERS.OptionalHeader.SizeOfImage\n                  - and:\n                    - arch: amd64\n                    - operand[1].offset: 0x30 = IMAGE_NT_HEADERS.OptionalHeader.ImageBase\n                    - operand[1].offset: 0x50 = IMAGE_NT_HEADERS64.OptionalHeader.SizeOfImage\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "allocate thread local storage",
+                "description": "host-interaction/process",
+                "authors": [
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: allocate thread local storage\n    namespace: host-interaction/process\n    authors:\n      - michael.hunhoff@mandiant.com\n    scope: function\n    mbc:\n      - Process::Allocate Thread Local Storage [C0040]\n    examples:\n      - 03B236B23B1EC37C663527C1F53AF3FE:0x18000ADF6\n  features:\n    - or:\n      - api: kernel32.TlsAlloc\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "link many functions at runtime",
+                "description": "linking/runtime-linking",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "joakim@intezer.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: link many functions at runtime\n    namespace: linking/runtime-linking\n    authors:\n      - moritz.raabe@mandiant.com\n      - joakim@intezer.com\n    scope: function\n    att&ck:\n      - Execution::Shared Modules [T1129]\n    examples:\n      - b7b5e1253710d8927cbe07d52d2d2e10:0x401000\n  features:\n    - or:\n      - and:\n        - os: windows\n        - match: link function at runtime on Windows\n        - or:\n          - count(api(kernel32.GetProcAddress)): 5 or more\n          - count(api(ntdll.LdrGetProcedureAddress)): 5 or more\n      - and:\n        - os: linux\n        - match: link function at runtime on Linux\n        - or:\n          - count(api(dlsym)): 5 or more\n          - count(api(dlvsym)): 5 or more\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "contain an embedded PE file",
+                "description": "executable/subfile/pe",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: contain an embedded PE file\n    namespace: executable/subfile/pe\n    authors:\n      - moritz.raabe@mandiant.com\n    scope: file\n    mbc:\n      - Execution::Install Additional Program [B0023]\n    examples:\n      - Practical Malware Analysis Lab 01-04.exe_:0x4060\n  features:\n    - or:\n      - count(characteristic(embedded pe)): 1 or more\n      - count(string(This program cannot be run in DOS mode.)): 2 or more\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "contain a resource (.rsrc) section",
+                "description": "executable/pe/section/rsrc",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: contain a resource (.rsrc) section\n    namespace: executable/pe/section/rsrc\n    authors:\n      - moritz.raabe@mandiant.com\n    scope: file\n    examples:\n      - A933A1A402775CFA94B6BEE0963F4B46:0x41fd25\n  features:\n    - section: .rsrc\n"
+            }
+        ],
+        "registry_keys_set": [
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows Media Player NSS\\3.0\\Servers\\D8B548F0-E306-4B2B-BD82-25DAC3208786\\FriendlyName",
+                "value": "AZURE-PC: azure:"
+            }
+        ],
+        "text_highlighted": [
+            "b"
+        ],
+        "calls_highlighted": [
+            "GetTickCount"
+        ],
+        "modules_loaded": [
+            "${SamplePath}\\91dfd9ef7d61ef1c1c20bf0dd29fd0e1862f02d94758d454cd7265d2171b8c88.exe",
+            "C:\\Windows\\System32\\ntdll.dll",
+            "C:\\Windows\\SysWOW64\\ntdll.dll",
+            "C:\\Windows\\System32\\wow64.dll",
+            "C:\\Windows\\System32\\wow64win.dll",
+            "C:\\Windows\\System32\\wow64cpu.dll",
+            "C:\\Windows\\System32\\kernel32.dll",
+            "C:\\Windows\\SysWOW64\\kernel32.dll",
+            "C:\\Windows\\System32\\user32.dll",
+            "C:\\Windows\\SysWOW64\\KernelBase.dll",
+            "C:\\Windows\\SysWOW64\\user32.dll",
+            "C:\\Windows\\SysWOW64\\gdi32.dll",
+            "C:\\Windows\\SysWOW64\\lpk.dll",
+            "C:\\Windows\\SysWOW64\\usp10.dll",
+            "C:\\Windows\\SysWOW64\\msvcrt.dll",
+            "C:\\Windows\\SysWOW64\\advapi32.dll",
+            "C:\\Windows\\SysWOW64\\sechost.dll",
+            "C:\\Windows\\SysWOW64\\rpcrt4.dll",
+            "C:\\Windows\\SysWOW64\\sspicli.dll",
+            "C:\\Windows\\SysWOW64\\cryptbase.dll",
+            "C:\\Windows\\SysWOW64\\imm32.dll",
+            "C:\\Windows\\SysWOW64\\msctf.dll",
+            "C:\\Windows\\SysWOW64\\shell32.dll",
+            "C:\\Windows\\SysWOW64\\shlwapi.dll",
+            "C:\\Windows\\SysWOW64\\ole32.dll",
+            "C:\\Windows\\winsxs\\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.24203_none_5c030043a0118fbf\\GdiPlus.dll",
+            "C:\\Windows\\SysWOW64\\dbghelp.dll",
+            "C:\\Windows\\SysWOW64\\ws2_32.dll",
+            "C:\\Windows\\SysWOW64\\nsi.dll",
+            "C:\\Windows\\SysWOW64\\psapi.dll",
+            "C:\\Windows\\SysWOW64\\oleaut32.dll",
+            "C:\\Windows\\SysWOW64\\setupapi.dll",
+            "C:\\Windows\\SysWOW64\\cfgmgr32.dll",
+            "C:\\Windows\\SysWOW64\\devobj.dll",
+            "C:\\Windows\\SysWOW64\\IPHLPAPI.DLL",
+            "C:\\Windows\\SysWOW64\\winnsi.dll",
+            "C:\\Windows\\SysWOW64\\api-ms-win-core-synch-l1-2-0.DLL",
+            "C:\\Windows\\SysWOW64\\imagehlp.dll",
+            "C:\\Windows\\SysWOW64\\version.dll",
+            "C:\\Windows\\SysWOW64\\apphelp.dll",
+            "C:\\Windows\\SysWOW64\\WerFault.exe",
+            "%SAMPLEPATH%\\91dfd9ef7d61ef1c1c20bf0dd29fd0e1862f02d94758d454cd7265d2171b8c88.exe",
+            "rpcrt4.dll",
+            "ADVAPI32.dll"
+        ],
+        "verdicts": [
+            "MALWARE",
+            "EVADER"
+        ],
+        "files_copied": [
+            {
+                "source": "D:\\Company Q3 work plan-top secret.doc",
+                "destination": "D:\\PHQGHUMEAYLNLFDXFIRCVSCXGGBWKFNQDUX"
+            },
+            {
+                "source": "D:\\Company Q3 work plan-top secret.docx",
+                "destination": "D:\\WFNFOZVSRTKJPREPGGXRPNRVYSTMWCYSYYCQ"
+            },
+            {
+                "source": "D:\\Company Q3 work plan-top secret.pdf",
+                "destination": "D:\\PEVIKEFFMZNIMKKASVWSRENZKYCXFXTLSGY"
+            },
+            {
+                "source": "D:\\Company Q3 work plan-top secret.rtf",
+                "destination": "D:\\PSFADPOOEFXZBCOEJUVPVABOYGPOEYLFPBN"
+            },
+            {
+                "source": "D:\\Company Q3 work plan-top secret.txt",
+                "destination": "D:\\PLJVRVIPYAMYEHWQNQRQPMXUJJLOOVAOWUX"
+            },
+            {
+                "source": "D:\\Company Q3 work plan-top secret.wps",
+                "destination": "D:\\WHMSNCBXCOKSFZKVATXDKNLYJYHFIXJSWNK"
+            },
+            {
+                "source": "D:\\Important confidential documents within the group.doc",
+                "destination": "D:\\KUFNUXXZRZBMNMGQOOKETLYHNKOAUGZQRCDDIUTEIOJWAYYZPVSCM"
+            },
+            {
+                "source": "D:\\Important confidential documents within the group.docx",
+                "destination": "D:\\PSAJLFVGUBFAAOVLZYLNTRKDCPWSRTESJWHDIZCOBZCNFWLQIJTVDW"
+            },
+            {
+                "source": "D:\\Important confidential documents within the group.pdf",
+                "destination": "D:\\VXHRCBLDVGYLWGBUSBMBORXTLHCSMPXOHGMGNKEUFDXOTOGBGXPEY"
+            },
+            {
+                "source": "D:\\Important confidential documents within the group.rtf",
+                "destination": "D:\\ANFETCUKEPZSHKLJUGGGEKJDQZJENPEVQGXIEPJSRDZJAZUJLLCHH"
+            },
+            {
+                "source": "D:\\Important confidential documents within the group.txt",
+                "destination": "D:\\BFQMKIMWZOBIWYBXDUUNFSKSRSRTEKMQDCYZJEEUHMSRQCOZIJIPF"
+            },
+            {
+                "source": "D:\\Important confidential documents within the group.wps",
+                "destination": "D:\\IONEEDDPSZRNAVYMMTATBDZQSOEMUVNPPPSUACBAZUXMHECTHLEGR"
+            },
+            {
+                "source": "D:\\Legal Affairs-Provisions of the Company's Personal Information Management Measures-Notice-Announcement.doc",
+                "destination": "D:\\PUNKDMBPPWEQTGJOPARMOWZDQYOXYTJBBHAWDYDCPRJBXPHOOHPKWQYUHRQZHNBNFUVQNQQLRZJPXIOGVLIEXDZUZOSRKRUSVOJBRZMWZP"
+            },
+            {
+                "source": "D:\\Legal Affairs-Provisions of the Company's Personal Information Management Measures-Notice-Announcement.docx",
+                "destination": "D:\\OWKJILEFRAAMDIGPNPUUHGXPQNJWJMWAXXMNSNHHLQQRZUDLTFZOTCJTNZXUGLSDSMZCNOCKVFAJFRMXOTHOWKBJZWUCWLJFRIMPMYHCHZR"
+            }
+        ],
+        "command_executions": [
+            "\"${SamplePath}\\91dfd9ef7d61ef1c1c20bf0dd29fd0e1862f02d94758d454cd7265d2171b8c88.exe\" ",
+            "\"C:\\Windows\\system32\\werfault.exe\"",
+            "\"%SAMPLEPATH%\\91dfd9ef7d61ef1c1c20bf0dd29fd0e1862f02d94758d454cd7265d2171b8c88.exe\" ",
+            "C:\\Windows\\System32\\wuapihost.exe -Embedding"
+        ],
+        "attack_techniques": {
+            "T1055": [
+                {
+                    "severity": "INFO",
+                    "description": "write process memory"
+                },
+                {
+                    "severity": "HIGH",
+                    "description": "inject other processes by exist thread"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Spawns processes"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Creates a process in suspended mode (likely to inject code)"
+                },
+                {
+                    "severity": "LOW",
+                    "description": "Injects a PE file into a foreign processes"
+                },
+                {
+                    "severity": "LOW",
+                    "description": "Writes to foreign memory regions"
+                },
+                {
+                    "severity": "LOW",
+                    "description": "Allocates memory in foreign processes"
+                }
+            ],
+            "T1129": [
+                {
+                    "severity": "INFO",
+                    "description": "link function at runtime on Windows"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "parse PE header"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "link many functions at runtime"
+                }
+            ],
+            "T1055.012": [
+                {
+                    "severity": "INFO",
+                    "description": "use process replacement"
+                }
+            ],
+            "T1620": [
+                {
+                    "severity": "INFO",
+                    "description": "use process replacement"
+                }
+            ],
+            "T1057": [
+                {
+                    "severity": "LOW",
+                    "description": "snapshot process"
+                }
+            ],
+            "T1565": [
+                {
+                    "severity": "MEDIUM",
+                    "description": "delete directory"
+                }
+            ],
+            "T1070.004": [
+                {
+                    "severity": "MEDIUM",
+                    "description": "delete directory"
+                }
+            ],
+            "T1529": [
+                {
+                    "severity": "MEDIUM",
+                    "description": "restart or logoff the computer"
+                }
+            ],
+            "T1005": [
+                {
+                    "severity": "MEDIUM",
+                    "description": "read the memory information of the process"
+                }
+            ],
+            "T1518": [
+                {
+                    "severity": "MEDIUM",
+                    "description": "traverse process"
+                }
+            ],
+            "T1542.003": [
+                {
+                    "severity": "LOW",
+                    "description": "Infects the bootmgr code of the hard disk"
+                },
+                {
+                    "severity": "LOW",
+                    "description": "Infects the boot sector of the hard disk"
+                },
+                {
+                    "severity": "LOW",
+                    "description": "Writes directly to the primary disk partition (DR0)"
+                }
+            ],
+            "T1497": [
+                {
+                    "severity": "INFO",
+                    "description": "Contains long sleeps (>= 3 min)"
+                }
+            ],
+            "T1082": [
+                {
+                    "severity": "INFO",
+                    "description": "Reads software policies"
+                }
+            ]
+        }
+    }
+}

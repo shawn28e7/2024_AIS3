@@ -1,0 +1,687 @@
+{
+    "data": {
+        "modules_loaded": [
+            "kernel32",
+            "kernel32.dll",
+            "MSVCRT.dll",
+            "WS2_32.dll",
+            "advapi32.dll",
+            "comctl32.dll",
+            "KERNEL32",
+            "SHLWAPI.dll",
+            "DnsMulticastQueryTimeouts",
+            "KERNEL32.dll",
+            "USER32.dll",
+            "ADVAPI32.dll",
+            "ntdll.dll",
+            "rpcrt4.dll",
+            "msvcrt.dll",
+            "ws2_32.dll",
+            "wininet.dll",
+            "shlwapi.dll",
+            "dnsapi.dll",
+            "user32.dll",
+            "msvcr100.dll",
+            "c:\\windows\\system32\\mswsock.dll",
+            "c:\\windows\\system32\\winrnr.dll",
+            "rasadhlp.dll",
+            "hnetcfg.dll",
+            "c:\\windows\\system32\\wshtcpip.dll",
+            "api-ms-win-core-synch-l1-2-0",
+            "api-ms-win-core-fibers-l1-1-1",
+            "api-ms-win-core-localization-l1-2-1"
+        ],
+        "mutexes_created": [
+            "406968",
+            "IESQMMUTEX_0_208",
+            "Local\\!IETld!Mutex",
+            "Local\\WininetProxyRegistryMutex",
+            "Local\\WininetStartupMutex",
+            "Local\\_!MSFTHISTORY!_",
+            "Local\\c:!users!administrator!appdata!local!microsoft!windows!history!history.ie5!",
+            "Local\\c:!users!administrator!appdata!local!microsoft!windows!temporary internet files!content.ie5!",
+            "Local\\c:!users!administrator!appdata!roaming!microsoft!windows!cookies!",
+            "RasPbFile"
+        ],
+        "registry_keys_set": [
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Connections\\DefaultConnectionSettings"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Connections\\SavedLegacySettings"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ProxyEnable",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\52-54-00-e8-7d-69\\WpadDecision",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\52-54-00-e8-7d-69\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\52-54-00-e8-7d-69\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{00500DB7-8AE2-4C00-ABCA-A187A771BACA}\\WpadDecision",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{00500DB7-8AE2-4C00-ABCA-A187A771BACA}\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{00500DB7-8AE2-4C00-ABCA-A187A771BACA}\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{00500DB7-8AE2-4C00-ABCA-A187A771BACA}\\WpadNetworkName",
+                "value": "\u7f51\u7edc  9"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569626682_RASAPI32\\ConsoleTracingMask",
+                "value": "4294901760"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569626682_RASAPI32\\EnableConsoleTracing",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569626682_RASAPI32\\EnableFileTracing",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569626682_RASAPI32\\FileDirectory",
+                "value": "%windir%\\tracing"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569626682_RASAPI32\\FileTracingMask",
+                "value": "4294901760"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569626682_RASAPI32\\MaxFileSize",
+                "value": "1048576"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569626682_RASMANCS\\ConsoleTracingMask",
+                "value": "4294901760"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569626682_RASMANCS\\EnableConsoleTracing",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569626682_RASMANCS\\EnableFileTracing",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569626682_RASMANCS\\FileDirectory",
+                "value": "%windir%\\tracing"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569626682_RASMANCS\\FileTracingMask",
+                "value": "4294901760"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569626682_RASMANCS\\MaxFileSize",
+                "value": "1048576"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\WpadLastNetwork",
+                "value": "{00500DB7-8AE2-4C00-ABCA-A187A771BACA}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\AutoDetect",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\UNCAsIntranet",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{DA8DD4F2-8376-4741-B5FA-CF13710CF936}\\WpadDecision",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{DA8DD4F2-8376-4741-B5FA-CF13710CF936}\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{DA8DD4F2-8376-4741-B5FA-CF13710CF936}\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{DA8DD4F2-8376-4741-B5FA-CF13710CF936}\\WpadNetworkName",
+                "value": "\u7f51\u7edc  9"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569853853_RASAPI32\\ConsoleTracingMask",
+                "value": "4294901760"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569853853_RASAPI32\\EnableConsoleTracing",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569853853_RASAPI32\\EnableFileTracing",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569853853_RASAPI32\\FileDirectory",
+                "value": "%windir%\\tracing"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569853853_RASAPI32\\FileTracingMask",
+                "value": "4294901760"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569853853_RASAPI32\\MaxFileSize",
+                "value": "1048576"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569853853_RASMANCS\\ConsoleTracingMask",
+                "value": "4294901760"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569853853_RASMANCS\\EnableConsoleTracing",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569853853_RASMANCS\\EnableFileTracing",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569853853_RASMANCS\\FileDirectory",
+                "value": "%windir%\\tracing"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569853853_RASMANCS\\FileTracingMask",
+                "value": "4294901760"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569853853_RASMANCS\\MaxFileSize",
+                "value": "1048576"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\WpadLastNetwork",
+                "value": "{DA8DD4F2-8376-4741-B5FA-CF13710CF936}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\52-54-00-3c-4c-27\\WpadDecision",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\52-54-00-3c-4c-27\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\52-54-00-3c-4c-27\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{4913B536-88FC-4453-AAC2-6B2DDD0F06BC}\\WpadDecision",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{4913B536-88FC-4453-AAC2-6B2DDD0F06BC}\\WpadDecisionReason",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{4913B536-88FC-4453-AAC2-6B2DDD0F06BC}\\WpadDecisionTime"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{4913B536-88FC-4453-AAC2-6B2DDD0F06BC}\\WpadNetworkName",
+                "value": "\u7f51\u7edc  9"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1574216053_RASAPI32\\ConsoleTracingMask",
+                "value": "4294901760"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1574216053_RASAPI32\\EnableConsoleTracing",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1574216053_RASAPI32\\EnableFileTracing",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1574216053_RASAPI32\\FileDirectory",
+                "value": "%windir%\\tracing"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1574216053_RASAPI32\\FileTracingMask",
+                "value": "4294901760"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1574216053_RASAPI32\\MaxFileSize",
+                "value": "1048576"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1574216053_RASMANCS\\ConsoleTracingMask",
+                "value": "4294901760"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1574216053_RASMANCS\\EnableConsoleTracing",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1574216053_RASMANCS\\EnableFileTracing",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1574216053_RASMANCS\\FileDirectory",
+                "value": "%windir%\\tracing"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1574216053_RASMANCS\\FileTracingMask",
+                "value": "4294901760"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1574216053_RASMANCS\\MaxFileSize",
+                "value": "1048576"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\WpadLastNetwork",
+                "value": "{4913B536-88FC-4453-AAC2-6B2DDD0F06BC}"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\SharedAccess\\Parameters\\FirewallPolicy\\StandardProfile\\AuthorizedApplications\\List\\C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe",
+                "value": "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe:*:Enabled:21950034\u0000"
+            }
+        ],
+        "dns_lookups": [
+            {
+                "hostname": "alt3.gmail-smtp-in.l.google.com",
+                "resolved_ips": [
+                    "64.233.177.27"
+                ]
+            },
+            {
+                "hostname": "cxr.mx.a.cloudfilter.net",
+                "resolved_ips": [
+                    "18.209.118.139",
+                    "52.73.137.222",
+                    "34.212.80.54",
+                    "35.162.106.154"
+                ]
+            },
+            {
+                "hostname": "dnvrco-cmedge02.email.rr.com",
+                "resolved_ips": [
+                    "69.134.155.136"
+                ]
+            },
+            {
+                "hostname": "eur.olc.protection.outlook.com",
+                "resolved_ips": [
+                    "104.47.13.33",
+                    "104.47.12.33"
+                ]
+            },
+            {
+                "hostname": "hotmail-com.olc.protection.outlook.com",
+                "resolved_ips": [
+                    "104.47.126.33",
+                    "104.47.124.33"
+                ]
+            },
+            {
+                "hostname": "mail.efty.com",
+                "resolved_ips": [
+                    "159.8.40.50"
+                ]
+            },
+            {
+                "hostname": "mail.global.frontbridge.com",
+                "resolved_ips": [
+                    "104.47.47.36",
+                    "104.47.39.36"
+                ]
+            },
+            {
+                "hostname": "msn-com.olc.protection.outlook.com",
+                "resolved_ips": [
+                    "104.47.6.33",
+                    "104.47.5.33"
+                ]
+            },
+            {
+                "hostname": "mta5.am0.yahoodns.net",
+                "resolved_ips": [
+                    "67.195.228.109",
+                    "67.195.204.72",
+                    "98.136.96.74",
+                    "98.136.96.75",
+                    "67.195.228.106",
+                    "67.195.204.73",
+                    "67.195.228.94",
+                    "67.195.204.74",
+                    "67.195.204.79",
+                    "67.195.228.111",
+                    "98.136.96.76",
+                    "67.195.228.110"
+                ]
+            },
+            {
+                "hostname": "mx-aol.mail.gm0.yahoodns.net",
+                "resolved_ips": [
+                    "67.195.228.84",
+                    "67.195.204.75",
+                    "98.136.96.92",
+                    "67.195.228.86",
+                    "67.195.204.80",
+                    "98.136.96.93"
+                ]
+            },
+            {
+                "hostname": "mx9.earthlink.net",
+                "resolved_ips": [
+                    "207.69.189.232"
+                ]
+            },
+            {
+                "hostname": "spambuster.epsb.net",
+                "resolved_ips": [
+                    "199.185.95.70"
+                ]
+            },
+            {
+                "hostname": "mta6.am0.yahoodns.net",
+                "resolved_ips": [
+                    "98.136.96.77",
+                    "98.136.96.76",
+                    "98.136.96.91",
+                    "67.195.228.110",
+                    "67.195.228.106",
+                    "98.136.96.74",
+                    "67.195.204.73",
+                    "67.195.204.72"
+                ]
+            },
+            {
+                "hostname": "yahoo.com",
+                "resolved_ips": [
+                    "98.137.246.8"
+                ]
+            },
+            {
+                "hostname": "mta7.am0.yahoodns.net",
+                "resolved_ips": [
+                    "67.195.228.110"
+                ]
+            }
+        ],
+        "http_conversations": [
+            {
+                "url": "http://185.176.27.132/x3/1104.txt",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://185.176.27.132/x3/n.txt",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://icanhazip.com/",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://185.176.27.132/x3/398.txt",
+                "request_method": "GET"
+            }
+        ],
+        "files_deleted": [
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\icanhazip_com[1].txt",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\n[1].txt",
+            "C:\\f6de9b434cf08bdab93f25f14e1dff7f84afbc65f8bc44b3a7c249352b0014a4:Zone.Identifier"
+        ],
+        "files_opened": [
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\8988449816895134.jpg",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\1104[1].txt",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\icanhazip_com[1].txt",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\n[1].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@icanhazip[1].txt",
+            "\\??\\Nsi",
+            "\\DEVICE\\NETBT_TCPIP_{CA8FCF09-3454-4A77-8B0B-C56C1488303C}",
+            "\\DEVICE\\NETBT_TCPIP_{D5CD48D7-B0F7-4C10-89F8-4DF45C40E31E}",
+            "\\DEVICE\\NETBT_TCPIP_{DCF5E7D8-4DB5-460B-B10A-62818BEB69E8}",
+            "\\DEVICE\\NETBT_TCPIP_{E29AC6C2-7037-11DE-816D-806E6F6E6963}",
+            "\\Device\\Afd\\AsyncConnectHlp",
+            "\\Device\\Afd\\Endpoint",
+            "\\Device\\NetBT_Tcpip6_{CA8FCF09-3454-4A77-8B0B-C56C1488303C}",
+            "\\Device\\NetBT_Tcpip6_{D5CD48D7-B0F7-4C10-89F8-4DF45C40E31E}",
+            "\\Device\\NetBT_Tcpip6_{DCF5E7D8-4DB5-460B-B10A-62818BEB69E8}",
+            "\\Device\\NetBT_Tcpip_{D5CD48D7-B0F7-4C10-89F8-4DF45C40E31E}",
+            "\\Device\\RasAcd",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\286110534175410506.jpg",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\398[1].txt",
+            "C:\\WINDOWS\\system32\\winime32.dll",
+            "C:\\WINDOWS\\system32\\ws2_32.dll",
+            "C:\\WINDOWS\\system32\\ws2help.dll",
+            "C:\\WINDOWS\\system32\\psapi.dll",
+            "C:\\WINDOWS\\system32\\imm32.dll",
+            "C:\\WINDOWS\\system32\\lpk.dll",
+            "C:\\WINDOWS\\system32\\usp10.dll",
+            "C:\\WINDOWS\\system32\\wininet.dll",
+            "C:\\WINDOWS\\WinSxS\\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\\comctl32.dll",
+            "C:\\WINDOWS\\WindowsShell.Manifest",
+            "C:\\WINDOWS\\system32\\dnsapi.dll",
+            "C:\\WINDOWS\\system32\\msvcr100.dll"
+        ],
+        "mutexes_opened": [
+            "406968"
+        ],
+        "files_written": [
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\History\\History.IE5",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\8988449816895134.jpg",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\1104[1].txt",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\icanhazip_com[1].txt",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\n[1].txt",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Cookies\\administrator@icanhazip[1].txt",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\286110534175410506.jpg",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.IE5\\JLX5XHEV\\398[1].txt"
+        ],
+        "registry_keys_opened": [
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\52-54-00-e8-7d-69",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{00500DB7-8AE2-4C00-ABCA-A187A771BACA}",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{00500DB7-8AE2-4C00-ABCA-A187A771BACA}\\52-54-00-e8-7d-69",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569626682_RASAPI32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569626682_RASMANCS",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{DA8DD4F2-8376-4741-B5FA-CF13710CF936}",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{DA8DD4F2-8376-4741-B5FA-CF13710CF936}\\52-54-00-e8-7d-69",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569853853_RASAPI32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1569853853_RASMANCS",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\52-54-00-3c-4c-27",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{4913B536-88FC-4453-AAC2-6B2DDD0F06BC}",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Wpad\\{4913B536-88FC-4453-AAC2-6B2DDD0F06BC}\\52-54-00-3c-4c-27",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1574216053_RASAPI32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\1574216053_RASMANCS",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\996E.exe",
+            "\\Registry\\MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\TransparentEnabled",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\MSASN1.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\CRYPT32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ole32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\OLEAUT32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WININET.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\comctl32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ntdll.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\KERNEL32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\GDI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USER32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\Secur32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\RPCRT4.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ADVAPI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\msvcrt.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WS2HELP.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WS2_32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SHLWAPI.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\PSAPI.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\winime32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\IMM32.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USP10.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\LPK.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DNSAPI.dll",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\DnsClient",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\msvcr100.dll",
+            "\\REGISTRY\\MACHINE\\System\\CurrentControlSet\\Services\\WinSock2\\Parameters",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\WinSock_Registry_Version",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Serial_Access_Num",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\00000007",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Next_Catalog_Entry_ID",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Num_Catalog_Entries",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000001",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000001\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000002",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000002\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000003",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000003\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000004",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000004\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000005",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000005\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000006",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000006\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000007",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000007\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000008",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000008\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000009",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000009\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000010",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000010\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000011",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000011\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000012",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000012\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000013",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000013\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000014",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000014\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000015",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000015\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Serial_Access_Num",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\00000004",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Num_Catalog_Entries",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\LibraryPath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\DisplayString",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\ProviderId",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\AddressFamily",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\SupportedNameSpace",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\Enabled",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\Version",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\StoresServiceClassInfo",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\LibraryPath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\DisplayString",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\ProviderId",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\AddressFamily",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\SupportedNameSpace",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\Enabled",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\Version",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\StoresServiceClassInfo",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\LibraryPath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\DisplayString",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\ProviderId",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\AddressFamily",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\SupportedNameSpace",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\Enabled",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\Version",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\StoresServiceClassInfo",
+            "\\REGISTRY\\MACHINE\\System\\CurrentControlSet\\Services\\Winsock2\\Parameters",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Ws2_32NumHandleBuckets",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Ws2_32SpinCount",
+            "\\REGISTRY\\MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\996E.exe\\RpcThreadPoolThrottle",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Rpc"
+        ],
+        "text_highlighted": [
+            "C:\\Windows\\system32\\cmd.exe"
+        ],
+        "processes_terminated": [
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe"
+        ],
+        "command_executions": [
+            " "
+        ],
+        "ip_traffic": [
+            {
+                "destination_ip": "104.20.17.242",
+                "destination_port": 80
+            },
+            {
+                "destination_ip": "104.47.126.33",
+                "destination_port": 25
+            },
+            {
+                "destination_ip": "104.47.13.33",
+                "destination_port": 25
+            },
+            {
+                "destination_ip": "104.47.47.36",
+                "destination_port": 25
+            },
+            {
+                "destination_ip": "104.47.6.33",
+                "destination_port": 25
+            },
+            {
+                "destination_ip": "159.8.40.50",
+                "destination_port": 25
+            },
+            {
+                "destination_ip": "18.209.118.139",
+                "destination_port": 25
+            },
+            {
+                "destination_ip": "185.176.27.132",
+                "destination_port": 80
+            },
+            {
+                "destination_ip": "199.185.95.70",
+                "destination_port": 25
+            },
+            {
+                "destination_ip": "207.69.189.232",
+                "destination_port": 25
+            },
+            {
+                "destination_ip": "64.233.177.27",
+                "destination_port": 25
+            },
+            {
+                "destination_ip": "67.195.228.109",
+                "destination_port": 25
+            },
+            {
+                "destination_ip": "67.195.228.84",
+                "destination_port": 25
+            },
+            {
+                "destination_ip": "69.134.155.136",
+                "destination_port": 25
+            },
+            {
+                "destination_ip": "104.20.16.242",
+                "destination_port": 80
+            },
+            {
+                "destination_ip": "98.136.96.77",
+                "destination_port": 25
+            },
+            {
+                "destination_ip": "67.195.204.79",
+                "destination_port": 25
+            }
+        ]
+    }
+}

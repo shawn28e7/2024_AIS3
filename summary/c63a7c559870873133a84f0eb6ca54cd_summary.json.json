@@ -1,0 +1,1318 @@
+{
+    "data": {
+        "registry_keys_opened": [
+            "HKLM/System/CurrentControlSet/Control/SafeBoot/Option",
+            "HKLM/System/CurrentControlSet/Control/Nls/ExtendedLocale",
+            "HKLM/Software/Microsoft/Windows NT/CurrentVersion/Diagnostics",
+            "HKLM/Software/Microsoft/Windows NT/CurrentVersion/Compatibility32",
+            "HKLM/System/CurrentControlSet/Control/Srp/GP/DLL",
+            "HKU/S-1-5-21-470376811-3006406624-3672060426-1000/Software/Policies/Microsoft/Windows/Safer/CodeIdentifiers",
+            "HKLM/System/CurrentControlSet/Control/Nls/CustomLocale",
+            "HKLM/Software/Microsoft/Windows NT/CurrentVersion/IME Compatibility",
+            "HKLM/Software/Microsoft/Windows NT/CurrentVersion/Windows",
+            "HKLM/Software/Policies/Microsoft/Windows/Safer/CodeIdentifiers",
+            "HKLM",
+            "HKLM/Software/Microsoft/OLE/Tracing",
+            "HKLM/System/CurrentControlSet/Control/Nls/Sorting/Versions",
+            "HKLM/SOFTWARE/Microsoft/OLE",
+            "HKLM/System/CurrentControlSet/Control/Error Message Instrument",
+            "HKLM/System/CurrentControlSet/Control/Session Manager",
+            "HKLM/Software/Microsoft/Windows NT/CurrentVersion/GRE_Initialize",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\996E.exe",
+            "\\Registry\\MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\TransparentEnabled",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\MSIMG32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SHELL32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\comctl32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ntdll.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\KERNEL32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\GDI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USER32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\Secur32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\RPCRT4.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ADVAPI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\msvcrt.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WS2HELP.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WS2_32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SHLWAPI.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\PSAPI.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ole32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\OLEAUT32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\winime32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\IMM32.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USP10.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\LPK.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\MSASN1.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\CRYPT32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WININET.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\VERSION.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\urlmon.dll",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Security_HKLM_only",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains\\",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains\\",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Ranges\\",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Ranges\\",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\msvcr100.dll",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\",
+            "\\Registry\\MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\AppCertDlls",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\Apphelp.dll",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\AuthenticodeEnabled",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\LevelObjects",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\Levels",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths\\{dda3f824-d8cb-441b-834d-be2efd2c1a33}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths\\{dda3f824-d8cb-441b-834d-be2efd2c1a33}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths\\{dda3f824-d8cb-441b-834d-be2efd2c1a33}\\SaferFlags",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}\\SaferFlags",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}\\SaferFlags",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}\\SaferFlags",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}\\SaferFlags",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}\\SaferFlags",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\UrlZones",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Paths",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Hashes",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\UrlZones",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Paths",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Hashes",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\UrlZones",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Paths",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Hashes",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\UrlZones",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Paths",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Hashes",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\UrlZones",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\DefaultLevel",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\PolicyScope",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Cache",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\LogFileName",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\winsvcs.exe",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows Defender",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\Svc",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\MSCTF.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\COMRes.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\CLBCATQ.DLL",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\policies\\Explorer\\NoInternetIcon",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoInternetIcon",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\policies\\Explorer\\NoControlPanel",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoControlPanel",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\policies\\Explorer\\NoSetFolders",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoSetFolders",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SETUPAPI.dll",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\System\\DNSclient",
+            "\\REGISTRY\\MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\winsvcs.exe\\RpcThreadPoolThrottle",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Rpc",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\Hidden",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\HideFileExt",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\ShowSuperHidden",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Personal",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Common Documents",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Desktop",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Common Desktop",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500_CLASSES\\.exe",
+            "\\Registry\\Machine\\Software\\Classes\\.exe",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500_Classes\\.exe",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\LINKINFO.dll",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Classes\\Network\\SharingHandler\\",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ATL.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\NETAPI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USERENV.dll",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Local Settings",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows\\System",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ntshrui.dll",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Desktop\\NameSpace\\{1f4de370-d627-11d1-ba4f-00a0c91eedba}\\SuppressionPolicy",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Desktop\\NameSpace\\{450D8FBA-AD25-11D0-98A8-0800361B1103}\\SuppressionPolicy",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Desktop\\NameSpace\\{645FF040-5081-101B-9F08-00AA002F954E}\\SuppressionPolicy",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Desktop\\NameSpace\\{e17d4fc0-5564-11d1-83f2-00a0c90dc849}\\SuppressionPolicy",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\appHelp.dll",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\EnableHttp1_1",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ProxyHttp1.1",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\IMAGEHLP.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WINTRUST.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WLDAP32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\CRYPTUI.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\RichEd20.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\shdocvw.dll",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Cache",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Cookies",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\History",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Start Menu",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Common Start Menu",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\Common AppData",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\AppData",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\My Pictures",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\wsock32.dll",
+            "\\REGISTRY\\MACHINE\\System\\CurrentControlSet\\Services\\WinSock2\\Parameters",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\WinSock_Registry_Version",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Serial_Access_Num",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\00000007",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\CommonPictures",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Next_Catalog_Entry_ID",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Num_Catalog_Entries",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000001",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000001\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000002",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000002\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000003",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000003\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000004",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000004\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000005",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000005\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000006",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000006\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000007",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000007\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000008",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000008\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000009",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000009\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000010",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000010\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\CommonMusic",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000011",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000011\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000012",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000012\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000013",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000013\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000014",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000014\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000015",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000015\\PackedCatalogItem",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Serial_Access_Num",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\00000004",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Num_Catalog_Entries",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\LibraryPath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\DisplayString",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders\\CommonVideo",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\ProviderId",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\AddressFamily",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\SupportedNameSpace",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\Enabled",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\Version",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001\\StoresServiceClassInfo",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\LibraryPath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\DisplayString",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\ProviderId",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\AddressFamily",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\SupportedNameSpace",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\Enabled",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\Version",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002\\StoresServiceClassInfo",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\LibraryPath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\DisplayString",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\ProviderId",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\AddressFamily",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\SupportedNameSpace",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\Enabled",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\Version",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003\\StoresServiceClassInfo",
+            "\\REGISTRY\\MACHINE\\System\\CurrentControlSet\\Services\\Winsock2\\Parameters",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Ws2_32NumHandleBuckets",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\WinSock2\\Parameters\\Ws2_32SpinCount",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\rasman.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\rtutils.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WINMM.dll",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\wave",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\wave1",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\wave2",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\wave3",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\wave4",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\wave5",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\wave6",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\wave7",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\wave8",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\wave9",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\midi",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\midi1",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\midi2",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\midi3",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\midi4",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\midi5",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\midi6",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\midi7",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\midi8",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\midi9",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\aux",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\aux1",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\aux2",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\aux3",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\aux4",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\aux5",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\aux6",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\aux7",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\aux8",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\aux9",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\mixer",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\mixer1",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\mixer2",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\mixer3",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\mixer4",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\mixer5",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\mixer6",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\mixer7",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\mixer8",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Drivers32\\mixer9",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\TAPI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\RASAPI32.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\sensapi.dll",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ProxySettingsPerUser",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ProxyServer",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\AutoConfigURL",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0"
+        ],
+        "processes_tree": [
+            {
+                "process_id": "636",
+                "name": "****.exe",
+                "children": [
+                    {
+                        "process_id": "1676",
+                        "name": "winsvcs.exe",
+                        "children": [
+                            {
+                                "process_id": "2436",
+                                "name": "2488620999.exe"
+                            },
+                            {
+                                "process_id": "2456",
+                                "name": "2708435286.exe"
+                            },
+                            {
+                                "process_id": "2472",
+                                "name": "4237213285.exe"
+                            },
+                            {
+                                "process_id": "2500",
+                                "name": "2970333172.exe"
+                            },
+                            {
+                                "process_id": "2536",
+                                "name": "4000914966.exe"
+                            },
+                            {
+                                "process_id": "2620",
+                                "name": "1506323212.exe"
+                            },
+                            {
+                                "process_id": "2764",
+                                "name": "1976430306.exe"
+                            },
+                            {
+                                "process_id": "2852",
+                                "name": "4028538910.exe"
+                            },
+                            {
+                                "process_id": "2864",
+                                "name": "1805032794.exe"
+                            },
+                            {
+                                "process_id": "2940",
+                                "name": "1328940644.exe"
+                            },
+                            {
+                                "process_id": "2956",
+                                "name": "1627517458.exe"
+                            },
+                            {
+                                "process_id": "2964",
+                                "name": "2049738480.exe"
+                            },
+                            {
+                                "process_id": "2976",
+                                "name": "1756616019.exe"
+                            },
+                            {
+                                "process_id": "3036",
+                                "name": "3220625979.exe"
+                            },
+                            {
+                                "process_id": "3088",
+                                "name": "3873735664.exe"
+                            },
+                            {
+                                "process_id": "3132",
+                                "name": "2317223487.exe"
+                            },
+                            {
+                                "process_id": "3152",
+                                "name": "3440440266.exe"
+                            },
+                            {
+                                "process_id": "3180",
+                                "name": "2409725704.exe"
+                            },
+                            {
+                                "process_id": "3204",
+                                "name": "3141730684.exe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "memory_pattern_domains": [
+            "schemas.microsoft.com"
+        ],
+        "files_attribute_changed": [
+            "C:\\WINDOWS\\50875404056804506\\winsvcs.exe",
+            "C:\\DiskX\\_\\DeviceManager.exe"
+        ],
+        "services_opened": [
+            "RASMAN"
+        ],
+        "files_opened": [
+            "C:\\Windows\\50875404056804506",
+            "C:\\Windows\\50875404056804506\\winsvcs.exe",
+            "\\SystemRoot\\AppPatch\\sysmain.sdb",
+            "C:\\",
+            "C:\\Windows\\SYSTEM32\\sechost.dll",
+            "C:\\Windows\\system32\\MSIMG32.dll",
+            "C:\\Windows\\system32\\IMM32.DLL",
+            "C:\\WINDOWS\\system32\\winime32.dll",
+            "C:\\WINDOWS\\system32\\ws2_32.dll",
+            "C:\\WINDOWS\\system32\\ws2help.dll",
+            "C:\\WINDOWS\\system32\\psapi.dll",
+            "C:\\WINDOWS\\system32\\imm32.dll",
+            "C:\\WINDOWS\\system32\\lpk.dll",
+            "C:\\WINDOWS\\system32\\usp10.dll",
+            "C:\\WINDOWS\\system32\\msimg32.dll",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe",
+            "C:\\WINDOWS\\system32\\shell32.dll",
+            "C:\\WINDOWS\\WinSxS\\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\\comctl32.dll",
+            "C:\\WINDOWS\\WindowsShell.Manifest",
+            "C:\\WINDOWS\\system32\\comctl32.dll",
+            "C:\\WINDOWS\\system32\\wininet.dll",
+            "C:\\WINDOWS\\system32\\urlmon.dll",
+            "C:\\WINDOWS\\system32\\msvcr100.dll",
+            "C:\\WINDOWS\\50875404056804506",
+            "C:\\WINDOWS\\50875404056804506\\winsvcs.exe",
+            "C:\\WINDOWS\\system32\\apphelp.dll",
+            "C:\\WINDOWS\\AppPatch\\sysmain.sdb",
+            "C:\\DiskD",
+            "C:\\WINDOWS\\system32\\rpcss.dll",
+            "C:\\WINDOWS\\system32\\MSCTF.dll",
+            "C:\\WINDOWS\\system32\\clbcatq.dll",
+            "C:\\WINDOWS\\system32\\comres.dll",
+            "C:\\WINDOWS\\Registration\\R000000000007.clb",
+            "C:\\WINDOWS\\system32\\setupapi.dll",
+            "C:\\Documents and Settings\\Administrator\\My Documents\\desktop.ini",
+            "C:\\Documents and Settings\\All Users\\Documents\\desktop.ini",
+            "C:\\WINDOWS\\system32\\linkinfo.dll",
+            "C:\\WINDOWS\\system32\\ntshrui.dll",
+            "C:\\WINDOWS\\system32\\atl.dll",
+            "C:\\WINDOWS\\system32\\cmd.exe",
+            "C:\\WINDOWS\\system32",
+            "C:\\WINDOWS\\system32\\shdocvw.dll",
+            "C:\\WINDOWS\\system32\\riched20.dll",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files",
+            "C:\\Documents and Settings\\Administrator\\\u300c\u5f00\u59cb\u300d\u83dc\u5355\\desktop.ini",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\History",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5",
+            "C:\\Documents and Settings\\All Users\\\u300c\u5f00\u59cb\u300d\u83dc\u5355\\desktop.ini",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\index.dat",
+            "C:\\Documents and Settings\\Administrator\\Cookies",
+            "C:\\Documents and Settings\\Administrator\\Cookies\\index.dat",
+            "C:\\Documents and Settings\\All Users\\Application Data\\desktop.ini",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\History\\History.IE5",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\History\\History.IE5\\index.dat",
+            "C:\\Documents and Settings\\Administrator\\Application Data\\desktop.ini",
+            "C:\\Documents and Settings\\Administrator\\My Documents\\My Pictures\\Desktop.ini",
+            "C:\\WINDOWS\\system32\\wsock32.dll",
+            "C:\\Documents and Settings\\All Users\\Documents\\My Pictures\\Desktop.ini",
+            "C:\\Documents and Settings\\All Users\\Documents\\My Music\\Desktop.ini",
+            "C:\\WINDOWS\\system32\\rasapi32.dll",
+            "C:\\WINDOWS\\system32\\rasman.dll",
+            "C:\\WINDOWS\\system32\\tapi32.dll",
+            "C:\\WINDOWS\\system32\\rtutils.dll",
+            "C:\\WINDOWS\\system32\\winmm.dll",
+            "C:\\WINDOWS\\system32\\sensapi.dll",
+            "C:\\DiskX\\.lnk",
+            "C:\\DiskX\\_",
+            "C:\\AUTOEXEC.BAT",
+            "C:\\WINDOWS\\system32\\mswsock.dll",
+            "C:\\WINDOWS\\system32\\hnetcfg.dll",
+            "C:\\DiskX\\_\\DeviceManager.exe",
+            "C:\\WINDOWS\\system32\\wshtcpip.dll",
+            "C:\\WINDOWS\\system32\\update.exe",
+            "C:\\DiskX",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\3[2].exe",
+            "C:\\WINDOWS\\system32\\mlang.dll",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2488620999.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2708435286.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\4237213285.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2970333172.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1627517458.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1976430306.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\4000914966.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3873735664.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3220625979.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1805032794.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1506323212.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2049738480.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\4028538910.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2317223487.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1756616019.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3440440266.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1328940644.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2409725704.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\4089423733.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3141730684.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\3[5].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\4260821245.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3528916265.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2625513773.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3357418753.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\3[1].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3863734624.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3635910905.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\1[1].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3205215284.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\2[1].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3174023477.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\2[3].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3906028457.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3295217723.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1526540775.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2326836959.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1125327937.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3946120449.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\4[3].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\4077425969.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2440414590.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1848825550.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1344041237.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\1[2].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\4[1].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\2[2].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3769025581.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\5[4].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\3[3].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\4[2].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\1[4].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2886310804.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\5[1].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1501229040.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3905818355.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2238721142.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3020929388.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2899735142.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1077834682.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\3[4].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2047741887.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2320216214.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2109622581.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2636017997.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2006338807.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3803137633.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2815319824.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3597528070.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1235840757.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3891823867.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2454834798.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1067010254.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\4172312743.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\4[4].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3611838042.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1012823774.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\5[2].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2838640216.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2283437286.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3440340531.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\5[3].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2708435551.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\1[3].exe"
+        ],
+        "mutexes_opened": [
+            "ShimCacheMutex",
+            "_!MSFTHISTORY!_",
+            "c:!documents and settings!administrator!local settings!temporary internet files!content.ie5!",
+            "c:!documents and settings!administrator!cookies!",
+            "c:!documents and settings!administrator!local settings!history!history.ie5!",
+            "WininetStartupMutex",
+            "WininetConnectionMutex",
+            "WininetProxyRegistryMutex",
+            "RasPbFile"
+        ],
+        "command_executions": [
+            "C:\\Windows\\50875404056804506\\winsvcs.exe",
+            " "
+        ],
+        "files_copied": [
+            {
+                "source": "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe ",
+                "destination": "C:\\WINDOWS\\50875404056804506\\winsvcs.exe "
+            },
+            {
+                "source": "C:\\WINDOWS\\50875404056804506\\winsvcs.exe ",
+                "destination": "X:\\\\_\\DeviceManager.exe "
+            }
+        ],
+        "modules_loaded": [
+            "imm32.dll",
+            "gdi32.dll",
+            "kernel32.dll",
+            "advapi32.dll",
+            "msimg32.dll",
+            "ole32.dll",
+            "shell32.dll",
+            "user32.dll",
+            "comctl32.dll",
+            "KERNEL32.DLL",
+            "ADVAPI32.dll",
+            "GDI32.dll",
+            "MSIMG32.dll",
+            "SHELL32.dll",
+            "USER32.dll",
+            "MSVCRT.dll",
+            "KERNEL32",
+            "DisableImprovedZoneCheck",
+            "SHLWAPI.dll",
+            "KERNEL32.dll",
+            "ntdll.dll",
+            "C:\\WINDOWS\\system32\\MSCTF.dll",
+            "NTDLL.DLL",
+            "C:\\WINDOWS\\system32\\SHELL32.dll",
+            "rpcrt4.dll",
+            "ntshrui.dll",
+            "Secur32.dll",
+            "Comctl32.dll",
+            "C:\\WINDOWS\\system32\\shdocvw.dll",
+            "RPCRT4.dll",
+            "ws2_32",
+            "RASAPI32.DLL",
+            "RasPbFile",
+            "RTUTILS.DLL",
+            "netapi32.dll",
+            "WS2HELP.dll",
+            "hnetcfg.dll",
+            "C:\\WINDOWS\\System32\\wshtcpip.dll",
+            "C:\\WINDOWS\\system32\\urlmon.dll",
+            "C:\\WINDOWS\\system32\\cmd.exe"
+        ],
+        "processes_created": [
+            "C:\\Windows\\50875404056804506\\winsvcs.exe",
+            "C:\\a63319d913f2b94614303acdcac4d60fc35456c40e9fc73436a9f4ad430b0149.exe"
+        ],
+        "registry_keys_deleted": [
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ProxyServer",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ProxyOverride",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\AutoConfigURL"
+        ],
+        "mutexes_created": [
+            "446080477707",
+            "ZonesCounterMutex",
+            "ZonesCacheCounterMutex",
+            "ZonesLockedCacheCounterMutex",
+            "CTF.LBES.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.Compart.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.Asm.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.Layouts.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.TMD.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.TimListCache.FMPDefaultS-1-5-21-1482476501-1645522239-1417001333-500MUTEX.DefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "RasPbFile"
+        ],
+        "permissions_requested": [
+            "SE_LOAD_DRIVER_PRIVILEGE"
+        ],
+        "files_written": [
+            "C:\\Windows\\50875404056804506",
+            "C:\\Windows\\50875404056804506\\winsvcs.exe",
+            "C:\\WINDOWS\\50875404056804506\\winsvcs.exe",
+            "C:\\DiskX\\.lnk",
+            "C:\\DiskX\\_\\DeviceManager.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2488620999.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2708435286.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\4237213285.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\4000914966.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2970333172.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\4028538910.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3220625979.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1976430306.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1805032794.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1627517458.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2049738480.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1506323212.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3873735664.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3440440266.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3141730684.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2317223487.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1328940644.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1756616019.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2409725704.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\4089423733.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3528916265.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2625513773.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3357418753.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\4260821245.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3863734624.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1610631060.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3635910905.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3205215284.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1526540775.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3174023477.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3295217723.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3906028457.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3946120449.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1125327937.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2326836959.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\4077425969.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1848825550.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2440414590.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1344041237.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3172614552.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3769025581.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2886310804.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3597528070.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1077834682.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2047741887.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2109622581.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3020929388.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2006338807.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1501229040.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2899735142.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2320216214.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3803137633.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3905818355.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2238721142.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2636017997.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2815319824.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1235840757.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3891823867.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1067010254.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2454834798.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\4172312743.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1012823774.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3611838042.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2838640216.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2283437286.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3440340531.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2708435551.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1859832826.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1127927846.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2583330439.exe"
+        ],
+        "dns_lookups": [
+            {
+                "hostname": "ouhfuosuoosrhfzgow.su"
+            },
+            {
+                "hostname": "eouhoeufhhghufzgow.su"
+            },
+            {
+                "hostname": "ehaofehofhuhffzgow.su"
+            },
+            {
+                "hostname": "euaoufhaheghffzgow.su"
+            },
+            {
+                "hostname": "ouaoueouefnuffzgow.su"
+            },
+            {
+                "hostname": "uohouefhoahfufzgow.su"
+            },
+            {
+                "hostname": "oanfoenuoanfufzgow.su"
+            },
+            {
+                "hostname": "ionfneonoigidfzgow.su"
+            },
+            {
+                "hostname": "ouhfuosuoosrhfzgag.su"
+            },
+            {
+                "hostname": "eouhoeufhhghufzgag.su"
+            },
+            {
+                "hostname": "uandnuaoegognfzgow.su"
+            },
+            {
+                "hostname": "ehaofehofhuhffzgag.su"
+            },
+            {
+                "hostname": "euaoufhaheghffzgag.su"
+            },
+            {
+                "hostname": "ouaoueouefnuffzgag.su"
+            },
+            {
+                "hostname": "ionfneonoigidfzgag.su"
+            },
+            {
+                "hostname": "uohouefhoahfufzgag.su"
+            },
+            {
+                "hostname": "oanfoenuoanfufzgag.su"
+            }
+        ],
+        "processes_terminated": [
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2488620999.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2708435286.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2970333172.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\4237213285.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\4000914966.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1976430306.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1506323212.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\4028538910.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1805032794.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1627517458.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1328940644.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\2049738480.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\1756616019.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\3220625979.exe"
+        ],
+        "files_deleted": [
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\3[2].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\3[1].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\3[5].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\1[1].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\2[1].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\2[3].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\4[3].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\1[2].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\4[1].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\2[2].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\5[4].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\3[3].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\4[2].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\1[4].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\5[1].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\3[4].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\4[4].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\5[2].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\5[3].exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temporary Internet Files\\Content.IE5\\C1OS62RY\\1[3].exe"
+        ],
+        "registry_keys_set": [
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Services",
+                "value": "C:\\Windows\\50875404056804506\\winsvcs.exe"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Services",
+                "value": "C:\\Windows\\50875404056804506\\winsvcs.exe"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Services",
+                "value": "C:\\WINDOWS\\50875404056804506\\winsvcs.exe\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Services",
+                "value": "C:\\WINDOWS\\50875404056804506\\winsvcs.exe\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\SharedAccess\\Parameters\\FirewallPolicy\\StandardProfile\\AuthorizedApplications\\List\\C:\\WINDOWS\\50875404056804506\\winsvcs.exe",
+                "value": "C:\\WINDOWS\\50875404056804506\\winsvcs.exe:*:Enabled:Microsoft Windows Services\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\AntiVirusOverride",
+                "value": "01000000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\UpdatesOverride",
+                "value": "01000000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\FirewallOverride",
+                "value": "01000000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\AntiVirusDisableNotify",
+                "value": "01000000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\UpdatesDisableNotify",
+                "value": "01000000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\AutoUpdateDisableNotify",
+                "value": "01000000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Security Center\\FirewallDisableNotify",
+                "value": "01000000"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Connections\\SavedLegacySettings",
+                "value": "3C0000003800000001000000000000000000000000000000010000000000000090B1E438DC92C60101000000C0A871FA0000000000000000"
+            }
+        ],
+        "memory_pattern_ips": [
+            "6.0.0.0",
+            "5.1.0.0"
+        ],
+        "ip_traffic": [
+            {
+                "destination_ip": "218.85.157.99",
+                "destination_port": 53,
+                "transport_layer_protocol": "UDP"
+            },
+            {
+                "destination_ip": "114.114.114.114",
+                "destination_port": 53,
+                "transport_layer_protocol": "UDP"
+            },
+            {
+                "destination_ip": "92.63.197.153",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            }
+        ],
+        "http_conversations": [
+            {
+                "url": "http://ouhfuosuoosrhfzgow.su/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://92.63.197.153/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://92.63.197.153/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://92.63.197.153/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://eouhoeufhhghufzgow.su/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ouhfuosuoosrhfzgow.su/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ouhfuosuoosrhfzgow.su/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ouhfuosuoosrhfzgow.su/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ouhfuosuoosrhfzgow.su/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://eouhoeufhhghufzgow.su/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://92.63.197.153/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://eouhoeufhhghufzgow.su/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://eouhoeufhhghufzgow.su/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://eouhoeufhhghufzgow.su/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ehaofehofhuhffzgow.su/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ehaofehofhuhffzgow.su/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ehaofehofhuhffzgow.su/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ehaofehofhuhffzgow.su/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ehaofehofhuhffzgow.su/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://euaoufhaheghffzgow.su/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://euaoufhaheghffzgow.su/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://euaoufhaheghffzgow.su/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://euaoufhaheghffzgow.su/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://euaoufhaheghffzgow.su/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ouaoueouefnuffzgow.su/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ouaoueouefnuffzgow.su/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ouaoueouefnuffzgow.su/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ouaoueouefnuffzgow.su/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://uohouefhoahfufzgow.su/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://uohouefhoahfufzgow.su/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://uohouefhoahfufzgow.su/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://uohouefhoahfufzgow.su/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://uohouefhoahfufzgow.su/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://oanfoenuoanfufzgow.su/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://oanfoenuoanfufzgow.su/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://oanfoenuoanfufzgow.su/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://oanfoenuoanfufzgow.su/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://oanfoenuoanfufzgow.su/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ionfneonoigidfzgow.su/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ionfneonoigidfzgow.su/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://uandnuaoegognfzgow.su/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ionfneonoigidfzgow.su/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://uandnuaoegognfzgow.su/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://uandnuaoegognfzgow.su/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ionfneonoigidfzgow.su/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://uandnuaoegognfzgow.su/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ouhfuosuoosrhfzgag.su/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ouhfuosuoosrhfzgag.su/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ouhfuosuoosrhfzgag.su/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ouhfuosuoosrhfzgag.su/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ouhfuosuoosrhfzgag.su/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ionfneonoigidfzgow.su/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://uandnuaoegognfzgow.su/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://eouhoeufhhghufzgag.su/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://eouhoeufhhghufzgag.su/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://eouhoeufhhghufzgag.su/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://eouhoeufhhghufzgag.su/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ehaofehofhuhffzgag.su/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://eouhoeufhhghufzgag.su/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ehaofehofhuhffzgag.su/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ehaofehofhuhffzgag.su/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ehaofehofhuhffzgag.su/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ehaofehofhuhffzgag.su/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://euaoufhaheghffzgag.su/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://euaoufhaheghffzgag.su/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://euaoufhaheghffzgag.su/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://euaoufhaheghffzgag.su/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://euaoufhaheghffzgag.su/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ouaoueouefnuffzgag.su/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ouaoueouefnuffzgag.su/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ouaoueouefnuffzgag.su/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ouaoueouefnuffzgag.su/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ouaoueouefnuffzgag.su/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://uohouefhoahfufzgag.su/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://uohouefhoahfufzgag.su/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://uohouefhoahfufzgag.su/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://uohouefhoahfufzgag.su/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://uohouefhoahfufzgag.su/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://oanfoenuoanfufzgag.su/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://oanfoenuoanfufzgag.su/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://oanfoenuoanfufzgag.su/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://oanfoenuoanfufzgag.su/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ionfneonoigidfzgag.su/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://oanfoenuoanfufzgag.su/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ionfneonoigidfzgag.su/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ionfneonoigidfzgag.su/3.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://uandnuaoegognfzgag.su/1.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ionfneonoigidfzgag.su/5.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://uandnuaoegognfzgag.su/2.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://ionfneonoigidfzgag.su/4.exe",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://92.63.197.153/3.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://92.63.197.153/1.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://92.63.197.153/2.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://92.63.197.153/4.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            },
+            {
+                "url": "http://92.63.197.153/5.exe",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"
+                }
+            }
+        ]
+    }
+}

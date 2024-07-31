@@ -1,0 +1,185 @@
+{
+    "data": {
+        "processes_tree": [
+            {
+                "process_id": "607",
+                "name": "/Users/user1/Desktop/file /Users/user1/Desktop/file ",
+                "children": [
+                    {
+                        "process_id": "608",
+                        "name": "/Users/user1/Desktop/file",
+                        "children": [
+                            {
+                                "process_id": "609",
+                                "name": "/usr/bin/sw_vers sw_vers "
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "process_id": "608",
+                "name": "/Users/user1/Desktop/file",
+                "children": [
+                    {
+                        "process_id": "609",
+                        "name": "/usr/bin/sw_vers sw_vers "
+                    }
+                ]
+            }
+        ],
+        "ip_traffic": [
+            {
+                "destination_ip": "160.153.235.20",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "184.28.221.115",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "23.47.207.24",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "17.248.185.74",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            }
+        ],
+        "files_dropped": [
+            {
+                "path": "/Users/user1/Library/Passes/WebServiceTasks",
+                "sha256": "f152a1a59868729b50b50eb642c7dc3aa3e1535fce4ce6af479ec2d259887d5e",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/PrivateFrameworks/Heimdal.framework/Heimdal",
+                "sha256": "5e00f2844e5325fa81ebc53bcef89b63c1bbbf3aa127c4a858876f5ca79b9dc3",
+                "type": "MACH_O"
+            },
+            {
+                "path": "/System/Library/Frameworks/GSS.framework/GSS",
+                "sha256": "044d1670a6e020dd838b1acd4640df31f73c09da7623531732d8a3490181ef8e",
+                "type": "MACH_O"
+            }
+        ],
+        "files_opened": [
+            "/System/Library/CoreServices/ServerVersion.plist",
+            "/System/Library/CoreServices/SystemVersion.bundle",
+            "/System/Library/CoreServices/SystemVersion.bundle/",
+            "/System/Library/CoreServices/SystemVersion.bundle//Base.lproj",
+            "/System/Library/CoreServices/SystemVersion.bundle//English.lproj",
+            "/System/Library/CoreServices/SystemVersion.bundle/English.lproj/SystemVersion.strings",
+            "/System/Library/CoreServices/SystemVersion.plist",
+            "/Users/user1/Desktop/file",
+            "/etc/master.passwd",
+            "/etc/ssl/cert.pem",
+            "/private/etc/ssl/openssl.cnf",
+            "/usr/bin/sw_vers",
+            "/usr/share/icu/icudt59l.dat",
+            "/var/db/timezone/zoneinfo/UTC",
+            "/var/db/timezone/zoneinfo/posixrules",
+            "/Library/Preferences/com.apple.security.plist",
+            "/System/Library/Frameworks/CFNetwork.framework/Resources/CFNetworkCoreTypes-Info.plist",
+            "/var/folders/zz/zyxvpxvq6csfxvn_n00000y800007k/0/com.apple.nsurlsessiond/E9212A19021CA201C088F817871E6655AAA579B9/4B3DCC907D170D9B88EEE5CFB9F619791CDF0FA4/.dat.nosync00a0.5qi0X7",
+            "/var/folders/zz/zyxvpxvq6csfxvn_n00000y800007k/0/com.apple.nsurlsessiond/E9212A19021CA201C088F817871E6655AAA579B9/4B3DCC907D170D9B88EEE5CFB9F619791CDF0FA4/.dat.nosync00a0.hKcNxP",
+            "/var/folders/zz/zyxvpxvq6csfxvn_n00000y800007k/0/com.apple.nsurlsessiond/E9212A19021CA201C088F817871E6655AAA579B9/4B3DCC907D170D9B88EEE5CFB9F619791CDF0FA4/.dat.nosync00a0.knTrDb",
+            "/Users/user1/client/tmp/dced1acbbe11db2b9e7ae44a617f3c12d6613a8188f6a1ece0451e4cd4205156/sample.bin",
+            "/Library/Preferences/com.apple.networkd.plist",
+            "/Users/user1/Library/Passes/WebServiceTasks",
+            "/System/Library/CoreServices/SystemVersion.bundle/English.lproj",
+            "/System/Library/CoreServices/SystemVersion.bundle/Base.lproj",
+            "/tmp",
+            "/private/tmp/CommCenter.KeepAlive.Enabled",
+            "/private/tmp",
+            "/System/Library/Keychains/SystemRootCertificates.keychain",
+            "/Library/Keychains/crls/update-current",
+            "/private/var/db/mds/system/mds.lock",
+            "/private/var/db/mds/system/mdsObject.db",
+            "/System/Library/Security",
+            "/private/var/db/mds/system/mdsDirectory.db",
+            "/Library/Keychains/System.keychain",
+            "/Library/Keychains/crls/valid.sqlite3-journal",
+            "/Library/Keychains/crls",
+            "/private/var/db/uuidtext/AA",
+            "/private/var/db/uuidtext/F3",
+            "/private/var/db/uuidtext/D8",
+            "/System/Library/CoreServices/FolderActionsDispatcher.app",
+            "/System/Library/CoreServices/FolderActionsDispatcher.app/Contents",
+            "/System/Library/CoreServices/FolderActionsDispatcher.app/Contents/Info.plist",
+            "/System/Library/CoreServices/FolderActionsDispatcher.app/Contents/MacOS/FolderActionsDispatcher",
+            "/System/Library/CoreServices/FolderActionsDispatcher.app/Contents/_CodeSignature/CodeRequirements-1",
+            "/System/Library/CoreServices/System Events.app",
+            "/System/Library/CoreServices/System Events.app/Contents",
+            "/System/Library/CoreServices/System Events.app/Contents/Info.plist",
+            "/System/Library/CoreServices/System Events.app/Contents/MacOS/System Events",
+            "/System/Library/CoreServices/System Events.app/Contents/_CodeSignature/CodeRequirements-1",
+            "/System/Library/PrivateFrameworks/Heimdal.framework/Heimdal",
+            "/System/Library/PrivateFrameworks/Heimdal.framework/Versions/Current",
+            "/System/Library/Frameworks/GSS.framework/GSS",
+            "/System/Library/Frameworks/GSS.framework/Versions/Current",
+            "/Users/user1/Library/LaunchAgents/com.applex.services.agent.agent.plist",
+            "/Users/user1/.CFUserTextEncoding"
+        ],
+        "files_written": [
+            "/Library/LaunchDaemons/com.applex.services.agent.agent.plist",
+            "/var/folders/zz/zyxvpxvq6csfxvn_n00000y800007k/0/com.apple.nsurlsessiond/E9212A19021CA201C088F817871E6655AAA579B9/4B3DCC907D170D9B88EEE5CFB9F619791CDF0FA4/.dat.nosync00a0.5qi0X7",
+            "/var/folders/zz/zyxvpxvq6csfxvn_n00000y800007k/0/com.apple.nsurlsessiond/E9212A19021CA201C088F817871E6655AAA579B9/4B3DCC907D170D9B88EEE5CFB9F619791CDF0FA4/.dat.nosync00a0.hKcNxP",
+            "/var/folders/zz/zyxvpxvq6csfxvn_n00000y800007k/0/com.apple.nsurlsessiond/E9212A19021CA201C088F817871E6655AAA579B9/4B3DCC907D170D9B88EEE5CFB9F619791CDF0FA4/.dat.nosync00a0.knTrDb",
+            "/Users/user1/Library/Passes/WebServiceTasks",
+            "/Library/Keychains/crls/update-current",
+            "/Users/user1/Library/LaunchAgents/com.applex.services.agent.agent.plist"
+        ],
+        "files_copied": [
+            {
+                "source": "/var/folders/zz/zyxvpxvq6csfxvn_n00000y800007k/0/com.apple.nsurlsessiond/E9212A19021CA201C088F817871E6655AAA579B9/4B3DCC907D170D9B88EEE5CFB9F619791CDF0FA4/.dat.nosync00a0.5qi0X7",
+                "destination": "/var/folders/zz/zyxvpxvq6csfxvn_n00000y800007k/0/com.apple.nsurlsessiond/E9212A19021CA201C088F817871E6655AAA579B9/4B3DCC907D170D9B88EEE5CFB9F619791CDF0FA4/tasks.plist"
+            },
+            {
+                "source": "/var/folders/zz/zyxvpxvq6csfxvn_n00000y800007k/0/com.apple.nsurlsessiond/E9212A19021CA201C088F817871E6655AAA579B9/4B3DCC907D170D9B88EEE5CFB9F619791CDF0FA4/.dat.nosync00a0.hKcNxP",
+                "destination": "/var/folders/zz/zyxvpxvq6csfxvn_n00000y800007k/0/com.apple.nsurlsessiond/E9212A19021CA201C088F817871E6655AAA579B9/4B3DCC907D170D9B88EEE5CFB9F619791CDF0FA4/tasks.plist"
+            },
+            {
+                "source": "/var/folders/zz/zyxvpxvq6csfxvn_n00000y800007k/0/com.apple.nsurlsessiond/E9212A19021CA201C088F817871E6655AAA579B9/4B3DCC907D170D9B88EEE5CFB9F619791CDF0FA4/.dat.nosync00a0.knTrDb",
+                "destination": "/var/folders/zz/zyxvpxvq6csfxvn_n00000y800007k/0/com.apple.nsurlsessiond/E9212A19021CA201C088F817871E6655AAA579B9/4B3DCC907D170D9B88EEE5CFB9F619791CDF0FA4/tasks.plist"
+            }
+        ],
+        "processes_created": [
+            "/Users/user1/Desktop/file /Users/user1/Desktop/file ",
+            "/Users/user1/Desktop/file",
+            "sw_vers",
+            "/usr/bin/sw_vers sw_vers "
+        ],
+        "tags": [
+            "PERSISTENCE"
+        ],
+        "ja3_digests": [
+            "2a26b1a62e40d25d4de3babc9d532f30"
+        ],
+        "dns_lookups": [
+            {
+                "hostname": "sche-eg.org",
+                "resolved_ips": [
+                    "160.153.235.20"
+                ]
+            },
+            {
+                "hostname": "gateway.fe.apple-dns.net",
+                "resolved_ips": [
+                    "17.248.185.74",
+                    "17.248.131.230",
+                    "17.248.185.73",
+                    "17.248.131.171",
+                    "17.248.131.57",
+                    "17.248.131.148",
+                    "17.248.131.24",
+                    "17.248.185.135"
+                ]
+            }
+        ]
+    }
+}

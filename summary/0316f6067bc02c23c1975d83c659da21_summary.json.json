@@ -1,0 +1,360 @@
+{
+    "data": {
+        "registry_keys_opened": [
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Word\\Resiliency",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Word\\Resiliency\\StartupItems",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Export",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Export\\Works2001",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Import",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Import\\Recover",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Import\\WordPerfect6x",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Import\\Works2001",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Import\\WrdPrfctDos"
+        ],
+        "files_written": [
+            "C:\\PROGRA~2\\MICROS~1\\OFFICE\\DATA\\opa12.dat",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF25F15A066CE371C6.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF8687B00D9EAF2943.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF912405B9A08191EB.TMP",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRD0000.doc",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRD0001.doc",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{68E1F9CB-92E3-45DD-915A-6041AF38D794}.tmp",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{E29A3DC6-35DB-4F5C-99E9-94B404D1FED9}.tmp",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Templates\\~$Normal.dotm",
+            "C:\\analyse\\~$40832010.55891_a37aa1da-e09c-42c9-aa6f-1fdc6ea34c15",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF0E9EDEBB0B3E591D.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF3B5EFAAC5073CF69.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF5C4DF03EF5F0501B.TMP",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{C9FF34B9-493E-4465-B400-A2B564E3C79A}.tmp",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{F1C806BD-7C31-441F-86F2-604074A7AE57}.tmp",
+            "C:\\analyse\\~$40982034.794427_cedb9541-3bb1-4bfa-a649-3e3b58bfb744",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF3EB2546255BC6836.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF8226CC71C138742F.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF956740F73129429D.TMP",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{86BAB7C4-7D26-4465-B4F3-BE01AA498633}.tmp",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{F5922109-EE77-4320-8BD0-EE44668B6413}.tmp",
+            "C:\\analyse\\~$42077793.5639966_43a845fe-467c-4def-a6f7-f17aae0cf705",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DFADF44BE8F260632D.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DFB1CB10D0E0447CD3.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DFF3D7F29A0F5409C7.TMP",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{78C6B098-24D9-4796-88FE-E7B5532414BD}.tmp",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{9D63827B-3DFE-4407-855A-3B7627CC748A}.tmp",
+            "C:\\analyse\\~$42945751.7055676_89557f55-198d-4588-af44-7d17e0351534",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DFAE9C3F836FC9A375.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DFC30E00AB2E88F22D.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DFE6DE151634798F05.TMP",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{3F22B931-9318-4935-9703-F8A48090B8CB}.tmp",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{A3363CC5-7C56-4E4D-B7BD-E716BC2FBC45}.tmp",
+            "C:\\analyse\\~$45088036.8026986_b30db744-ab92-48e2-83bb-1c151740f1e7",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF24DB010783D3B19A.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF881EC07DA34D6ACA.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DFB8801B1A27CB1860.TMP",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{AD9E3DD3-AE58-4227-981B-8D0614546004}.tmp",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{FC0FAD65-55DE-4491-9D0D-FA96A793752C}.tmp",
+            "C:\\analyse\\~$54434236.2408357_3a731a33-f08c-4ef1-8e93-f0ba0cc2bd92",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF18D58F55B22CB27A.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DFA3A3611581BE1CEC.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DFDF808F2392EA15EF.TMP",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{4BB624A7-4187-4953-AECA-EBF6FB036C5C}.tmp",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{5C690EAB-B54E-4FBE-AA07-50D7B3B4CDE1}.tmp",
+            "C:\\analyse\\~$55823940.3196344_e3b646fe-980a-46da-81e4-8f9fff729bd8",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF3B8412F9B55644A0.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF46CCA0143AE45DC1.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF7929A3CD039DD790.TMP",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{B564FB42-2D6F-49EA-9653-5FE3E4A85C5E}.tmp",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{E0C17610-55AE-42E1-8E25-A71CCEE9BF5D}.tmp",
+            "C:\\analyse\\~$63805599.826705_39725b50-fb3a-4b60-8394-8e52bdfe4b03"
+        ],
+        "windows_searched": [
+            "AgentAnim",
+            "MSOBALLOON",
+            "MsoHelp10",
+            "mspim_wnd32"
+        ],
+        "files_opened": [
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF25F15A066CE371C6.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF8687B00D9EAF2943.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF912405B9A08191EB.TMP",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRD0000.doc",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRD0001.doc",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{68E1F9CB-92E3-45DD-915A-6041AF38D794}.tmp",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{E29A3DC6-35DB-4F5C-99E9-94B404D1FED9}.tmp",
+            "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Templates\\~$Normal.dotm",
+            "C:\\analyse\\~$40832010.55891_a37aa1da-e09c-42c9-aa6f-1fdc6ea34c15",
+            "\\??\\MountPointManager",
+            "\\SystemRoot\\AppPatch\\sysmain.sdb",
+            "C:\\",
+            "c:\\",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF0E9EDEBB0B3E591D.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF3B5EFAAC5073CF69.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF5C4DF03EF5F0501B.TMP",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{C9FF34B9-493E-4465-B400-A2B564E3C79A}.tmp",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{F1C806BD-7C31-441F-86F2-604074A7AE57}.tmp",
+            "C:\\analyse\\~$40982034.794427_cedb9541-3bb1-4bfa-a649-3e3b58bfb744",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF3EB2546255BC6836.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF8226CC71C138742F.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF956740F73129429D.TMP",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{86BAB7C4-7D26-4465-B4F3-BE01AA498633}.tmp",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{F5922109-EE77-4320-8BD0-EE44668B6413}.tmp",
+            "C:\\analyse\\~$42077793.5639966_43a845fe-467c-4def-a6f7-f17aae0cf705",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DFADF44BE8F260632D.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DFB1CB10D0E0447CD3.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DFF3D7F29A0F5409C7.TMP",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{78C6B098-24D9-4796-88FE-E7B5532414BD}.tmp",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{9D63827B-3DFE-4407-855A-3B7627CC748A}.tmp",
+            "C:\\analyse\\~$42945751.7055676_89557f55-198d-4588-af44-7d17e0351534",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DFAE9C3F836FC9A375.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DFC30E00AB2E88F22D.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DFE6DE151634798F05.TMP",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{3F22B931-9318-4935-9703-F8A48090B8CB}.tmp",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{A3363CC5-7C56-4E4D-B7BD-E716BC2FBC45}.tmp",
+            "C:\\analyse\\~$45088036.8026986_b30db744-ab92-48e2-83bb-1c151740f1e7",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF24DB010783D3B19A.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF881EC07DA34D6ACA.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DFB8801B1A27CB1860.TMP",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{AD9E3DD3-AE58-4227-981B-8D0614546004}.tmp",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{FC0FAD65-55DE-4491-9D0D-FA96A793752C}.tmp",
+            "C:\\analyse\\~$54434236.2408357_3a731a33-f08c-4ef1-8e93-f0ba0cc2bd92",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF18D58F55B22CB27A.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DFA3A3611581BE1CEC.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DFDF808F2392EA15EF.TMP",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{4BB624A7-4187-4953-AECA-EBF6FB036C5C}.tmp",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{5C690EAB-B54E-4FBE-AA07-50D7B3B4CDE1}.tmp",
+            "C:\\analyse\\~$55823940.3196344_e3b646fe-980a-46da-81e4-8f9fff729bd8",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF3B8412F9B55644A0.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF46CCA0143AE45DC1.TMP",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~DF7929A3CD039DD790.TMP",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{B564FB42-2D6F-49EA-9653-5FE3E4A85C5E}.tmp",
+            "C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files\\Content.Word\\~WRS{E0C17610-55AE-42E1-8E25-A71CCEE9BF5D}.tmp",
+            "C:\\analyse\\~$63805599.826705_39725b50-fb3a-4b60-8394-8e52bdfe4b03"
+        ],
+        "command_executions": [
+            "  c:/analyse/1540832010.55891_a37aa1da-e09c-42c9-aa6f-1fdc6ea34c15",
+            "  c:/analyse/1540982034.794427_cedb9541-3bb1-4bfa-a649-3e3b58bfb744",
+            "  c:/analyse/1542077793.5639966_43a845fe-467c-4def-a6f7-f17aae0cf705",
+            "  c:/analyse/1542945751.7055676_89557f55-198d-4588-af44-7d17e0351534",
+            "  c:/analyse/1545088036.8026986_b30db744-ab92-48e2-83bb-1c151740f1e7",
+            "  c:/analyse/1554434236.2408357_3a731a33-f08c-4ef1-8e93-f0ba0cc2bd92",
+            "  c:/analyse/1555823940.3196344_e3b646fe-980a-46da-81e4-8f9fff729bd8",
+            "  c:/analyse/1563805599.826705_39725b50-fb3a-4b60-8394-8e52bdfe4b03"
+        ],
+        "registry_keys_set": [
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Word\\MTTT"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Word\\Resiliency\\StartupItems\\10,"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Word\\Resiliency\\StartupItems\\96,"
+            },
+            {
+                "value": "wtf",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Export\\Works2001\\Extensions"
+            },
+            {
+                "value": "Works 7.0",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Export\\Works2001\\Name"
+            },
+            {
+                "value": "C:\\Program Files\\Common Files\\Microsoft Shared\\TextConv\\Works632.cnv",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Export\\Works2001\\Path"
+            },
+            {
+                "value": "*",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Import\\Recover\\Extensions"
+            },
+            {
+                "value": "\u6062\u590d\u4efb\u4f55\u6587\u4ef6\u4e2d\u7684\u6587\u5b57",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Import\\Recover\\Name"
+            },
+            {
+                "value": "C:\\Program Files\\Common Files\\Microsoft Shared\\TextConv\\RECOVR32.CNV",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Import\\Recover\\Path"
+            },
+            {
+                "value": "wpd doc",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Import\\WordPerfect6x\\Extensions"
+            },
+            {
+                "value": "WordPerfect 6.x - 7.0",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Import\\WordPerfect6x\\Name"
+            },
+            {
+                "value": "C:\\Program Files\\Common Files\\Microsoft Shared\\TextConv\\WPFT632.CNV",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Import\\WordPerfect6x\\Path"
+            },
+            {
+                "value": "wtf",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Import\\Works2001\\Extensions"
+            },
+            {
+                "value": "Works 7.0",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Import\\Works2001\\Name"
+            },
+            {
+                "value": "C:\\Program Files\\Common Files\\Microsoft Shared\\TextConv\\Works632.cnv",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Import\\Works2001\\Path"
+            },
+            {
+                "value": "doc",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Import\\WrdPrfctDos\\Extensions"
+            },
+            {
+                "value": "WordPerfect 5.x",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Import\\WrdPrfctDos\\Name"
+            },
+            {
+                "value": "C:\\Program Files\\Common Files\\Microsoft Shared\\TextConv\\WPFT532.CNV",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Office\\12.0\\Word\\Text Converters\\Import\\WrdPrfctDos\\Path"
+            },
+            {
+                "value": "Off",
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Common\\LanguageResources\\EnabledLanguages\\1033"
+            },
+            {
+                "value": "On",
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Common\\LanguageResources\\EnabledLanguages\\2052"
+            },
+            {
+                "value": "1297023024",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\EXCELFiles"
+            },
+            {
+                "value": "1297023015",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\ProductFiles"
+            },
+            {
+                "value": "1297023045",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\WORDFiles"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Word\\Resiliency\\StartupItems\\08("
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Word\\Resiliency\\StartupItems\\|0("
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\EXCELFiles",
+                "value": "1297416240"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\ProductFiles",
+                "value": "1297416231"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\WORDFiles",
+                "value": "1297416261"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Word\\Resiliency\\StartupItems\\/\"%"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Word\\Resiliency\\StartupItems\\s9%"
+            },
+            {
+                "value": "1297940528",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\EXCELFiles"
+            },
+            {
+                "value": "1297940519",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\ProductFiles"
+            },
+            {
+                "value": "1297940549",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\WORDFiles"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Word\\Resiliency\\StartupItems\\i #"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Word\\Resiliency\\StartupItems\\s9#"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\EXCELFiles",
+                "value": "1296564272"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\ProductFiles",
+                "value": "1296564263"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\WORDFiles",
+                "value": "1296564293"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Word\\Resiliency\\StartupItems\\!5("
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Word\\Resiliency\\StartupItems\\`-("
+            },
+            {
+                "value": "1300627504",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\EXCELFiles"
+            },
+            {
+                "value": "1300627495",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\ProductFiles"
+            },
+            {
+                "value": "1300627525",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\WORDFiles"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Word\\Resiliency\\StartupItems\\!z#"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Word\\Resiliency\\StartupItems\\cf#"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\EXCELFiles",
+                "value": "1316290608"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\ProductFiles",
+                "value": "1316290599"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\WORDFiles",
+                "value": "1316290629"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Word\\Resiliency\\StartupItems\\+0%"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Word\\Resiliency\\StartupItems\\5>%"
+            },
+            {
+                "value": "1317666864",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\EXCELFiles"
+            },
+            {
+                "value": "1317666855",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\ProductFiles"
+            },
+            {
+                "value": "1317666885",
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\WORDFiles"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Word\\Resiliency\\StartupItems\\`+#"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Office\\12.0\\Word\\Resiliency\\StartupItems\\o5#"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\EXCELFiles",
+                "value": "1324744752"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\ProductFiles",
+                "value": "1324744743"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\S-1-5-18\\Products\\00002109110000000000000000F01FEC\\Usage\\WORDFiles",
+                "value": "1324744773"
+            }
+        ]
+    }
+}

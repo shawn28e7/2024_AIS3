@@ -1,0 +1,2669 @@
+{
+    "data": {
+        "files_opened": [
+            "C:\\Windows\\222062792",
+            "C:\\Windows\\222062792\\syssszw.exe",
+            "\\SystemRoot\\AppPatch\\sysmain.sdb",
+            "C:\\",
+            "C:\\Windows\\109326490",
+            "C:\\Windows\\109326490\\sysyuur.exe",
+            "C:\\Windows\\217577044",
+            "C:\\Windows\\217577044\\sysmwgn.exe",
+            "C:\\Windows\\303226150",
+            "C:\\Windows\\303226150\\sysnmcp.exe",
+            "C:\\Windows\\2745916996",
+            "C:\\Windows\\2745916996\\syszvmt.exe",
+            "C:\\Windows\\239122824",
+            "C:\\Windows\\239122824\\sysbdzs.exe",
+            "C:\\Windows\\2881627024",
+            "C:\\Windows\\2881627024\\sysqbmc.exe",
+            "C:\\Windows\\174814473",
+            "C:\\Windows\\174814473\\sysudxy.exe",
+            "C:\\Windows\\1326429649",
+            "C:\\Windows\\1326429649\\systnut.exe",
+            "\\??\\WMIDataDevice",
+            "\\??\\pipe\\PIPE_EVENTROOT\\CIMV2PROVIDERSUBSYSTEM",
+            "C:\\WINDOWS\\system32\\winime32.dll",
+            "C:\\WINDOWS\\system32\\ws2_32.dll",
+            "C:\\WINDOWS\\system32\\ws2help.dll",
+            "C:\\WINDOWS\\system32\\psapi.dll",
+            "C:\\WINDOWS\\system32\\imm32.dll",
+            "C:\\WINDOWS\\system32\\lpk.dll",
+            "C:\\WINDOWS\\system32\\usp10.dll",
+            "C:\\WINDOWS\\system32\\winspool.drv",
+            "C:\\WINDOWS\\system32\\oledlg.dll",
+            "C:\\WINDOWS\\system32\\olepro32.dll",
+            "C:\\WINDOWS\\system32\\comctl32.dll",
+            "C:\\WINDOWS\\system32\\shell32.dll",
+            "C:\\WINDOWS\\WinSxS\\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\\comctl32.dll",
+            "C:\\WINDOWS\\WindowsShell.Manifest",
+            "C:\\WINDOWS\\system32\\rpcss.dll",
+            "C:\\WINDOWS\\system32\\MSCTF.dll",
+            "C:\\WINDOWS\\system32\\mspaint.exe",
+            "C:\\WINDOWS\\system32\\wininet.dll",
+            "C:\\WINDOWS\\system32\\urlmon.dll",
+            "C:\\WINDOWS\\system32\\rsaenh.dll",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe",
+            "C:\\WINDOWS\\1368612950",
+            "C:\\WINDOWS\\1368612950\\sysfhuy.exe",
+            "C:\\WINDOWS\\system32\\apphelp.dll",
+            "C:\\WINDOWS\\AppPatch\\sysmain.sdb",
+            "C:\\WINDOWS\\system32\\winsock.dll",
+            "C:\\cfa7edc52cb8289ea0822520adf2c116c879c522af81a8aea35e9421a9019535",
+            "\\\\.\\PIPE\\lsarpc",
+            "C:\\WINDOWS\\system32\\drwtsn32.exe",
+            "C:\\Documents and Settings\\All Users\\Application Data\\Microsoft\\Dr Watson\\drwtsn32.log",
+            "\\Device\\KsecDD",
+            "C:\\Windows\\system32sppsvc.exe",
+            "C:\\Windows\\system32\\mspaint.exe",
+            "C:\\Windows\\system32\\version.DLL",
+            "C:\\Windows\\system32\\CRYPTSP.dll",
+            "C:\\Windows\\system32\\rsaenh.dll",
+            "C:\\Users\\<USER>\\Downloads\\sample.exe:Zone.Identifier",
+            "C:\\Windows\\1304726701",
+            "C:\\Users\\<USER>\\Downloads\\sample.exe",
+            "C:\\Windows\\1304726701\\syswerh.exe",
+            "C:\\Windows\\system32\\apphelp.dll",
+            "C:\\Windows\\1304726701\\",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\WIKWAFRE",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\WIKWAFRE\\t[1].htm",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\WIKWAFRE\\t[1].php",
+            "C:\\Users\\user\\Desktop\\program.exe",
+            "C:\\Users\\user\\Desktop\\program.exe:Zone.Identifier",
+            "C:\\Windows\\298418843",
+            "C:\\Windows\\298418843\\",
+            "C:\\Windows\\298418843\\sysildp.exe",
+            "C:\\Windows\\298418843\\sysildp.exe:Zone.Identifier",
+            "C:\\Windows\\AppPatch\\sysmain.sdb",
+            "C:\\Windows\\Globalization\\Sorting\\sortdefault.nls",
+            "C:\\Windows\\SysWOW64\\ADVAPI32.dll",
+            "C:\\Windows\\SysWOW64\\CRYPTBASE.dll",
+            "C:\\Windows\\SysWOW64\\CRYPTSP.dll",
+            "C:\\Windows\\SysWOW64\\Crypt32.dll",
+            "C:\\Windows\\SysWOW64\\DNSAPI.dll",
+            "C:\\Windows\\SysWOW64\\FLTLIB.DLL",
+            "C:\\Windows\\SysWOW64\\GDI32.dll",
+            "C:\\Windows\\SysWOW64\\IMM32.DLL",
+            "C:\\Windows\\SysWOW64\\IPHLPAPI.DLL",
+            "C:\\Windows\\SysWOW64\\KERNEL32.DLL",
+            "C:\\Windows\\SysWOW64\\KERNELBASE.dll",
+            "C:\\Windows\\SysWOW64\\MSASN1.dll",
+            "C:\\Windows\\SysWOW64\\NSI.dll",
+            "C:\\Windows\\SysWOW64\\OLEAUT32.dll",
+            "C:\\Windows\\SysWOW64\\OLEPRO32.DLL",
+            "C:\\Windows\\SysWOW64\\PROPSYS.dll",
+            "C:\\Windows\\SysWOW64\\RPCRT4.dll",
+            "C:\\Windows\\SysWOW64\\SHELL32.dll",
+            "C:\\Windows\\SysWOW64\\SHLWAPI.dll",
+            "C:\\Windows\\SysWOW64\\SspiCli.dll",
+            "C:\\Windows\\SysWOW64\\USER32.dll",
+            "C:\\Windows\\SysWOW64\\WININET.dll",
+            "C:\\Windows\\SysWOW64\\WINNSI.DLL",
+            "C:\\Windows\\SysWOW64\\WINSPOOL.DRV",
+            "C:\\Windows\\SysWOW64\\WS2_32.dll",
+            "C:\\Windows\\SysWOW64\\apphelp.dll",
+            "C:\\Windows\\SysWOW64\\bcrypt.dll",
+            "C:\\Windows\\SysWOW64\\bcryptPrimitives.dll",
+            "C:\\Windows\\SysWOW64\\cfgmgr32.dll",
+            "C:\\Windows\\SysWOW64\\combase.dll",
+            "C:\\Windows\\SysWOW64\\comdlg32.dll",
+            "C:\\Windows\\SysWOW64\\dhcpcsvc.DLL",
+            "C:\\Windows\\SysWOW64\\dhcpcsvc6.DLL",
+            "C:\\Windows\\SysWOW64\\en-US\\mswsock.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\wshqos.dll.mui",
+            "C:\\Windows\\SysWOW64\\fwpuclnt.dll",
+            "C:\\Windows\\SysWOW64\\gdi32full.dll",
+            "C:\\Windows\\SysWOW64\\iertutil.dll",
+            "C:\\Windows\\SysWOW64\\kernel.appcore.dll",
+            "C:\\Windows\\SysWOW64\\mspaint.exe",
+            "C:\\Windows\\SysWOW64\\msvcp_win.dll",
+            "C:\\Windows\\SysWOW64\\msvcrt.dll",
+            "C:\\Windows\\SysWOW64\\mswsock.dll",
+            "C:\\Windows\\SysWOW64\\ntdll.dll",
+            "C:\\Windows\\SysWOW64\\ntmarta.dll",
+            "C:\\Windows\\SysWOW64\\ole32.dll",
+            "C:\\Windows\\SysWOW64\\oledlg.dll",
+            "C:\\Windows\\SysWOW64\\ondemandconnroutehelper.dll",
+            "C:\\Windows\\SysWOW64\\powrprof.dll",
+            "C:\\Windows\\SysWOW64\\profapi.dll",
+            "C:\\Windows\\SysWOW64\\rasadhlp.dll",
+            "C:\\Windows\\SysWOW64\\rsaenh.dll",
+            "C:\\Windows\\SysWOW64\\sechost.dll",
+            "C:\\Windows\\SysWOW64\\shcore.dll",
+            "C:\\Windows\\SysWOW64\\ucrtbase.dll",
+            "C:\\Windows\\SysWOW64\\urlmon.dll",
+            "C:\\Windows\\SysWOW64\\uxtheme.dll",
+            "C:\\Windows\\SysWOW64\\win32u.dll",
+            "C:\\Windows\\SysWOW64\\windows.storage.dll",
+            "C:\\Windows\\SysWOW64\\winhttp.dll",
+            "C:\\Windows\\SysWOW64\\wshqos.dll",
+            "C:\\Windows\\System32\\drivers\\etc\\hosts",
+            "C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.17134.1304_none_9d23a7c03adb3d0b",
+            "C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.17134.1304_none_9d23a7c03adb3d0b\\COMCTL32.dll",
+            "C:\\Windows\\system32\\drivers\\etc\\hosts",
+            "Nsi",
+            "\\DEVICE\\NETBT_TCPIP_{3882A85B-858A-11EB-B9E1-806E6F6E6963}",
+            "\\DEVICE\\NETBT_TCPIP_{92904508-F335-4574-A127-534547B20089}",
+            "\\Device\\Afd\\Endpoint",
+            "\\Device\\RasAcd"
+        ],
+        "permissions_requested": [
+            "SE_DEBUG_PRIVILEGE"
+        ],
+        "verdicts": [
+            "MALWARE",
+            "TROJAN",
+            "EVADER"
+        ],
+        "files_written": [
+            "C:\\Windows\\222062792",
+            "C:\\Windows\\222062792\\syssszw.exe",
+            "C:\\Windows\\109326490",
+            "C:\\Windows\\109326490\\sysyuur.exe",
+            "C:\\Windows\\217577044",
+            "C:\\Windows\\217577044\\sysmwgn.exe",
+            "C:\\Windows\\303226150",
+            "C:\\Windows\\303226150\\sysnmcp.exe",
+            "C:\\Windows\\2745916996",
+            "C:\\Windows\\2745916996\\syszvmt.exe",
+            "C:\\Windows\\239122824",
+            "C:\\Windows\\239122824\\sysbdzs.exe",
+            "C:\\Windows\\2881627024",
+            "C:\\Windows\\2881627024\\sysqbmc.exe",
+            "C:\\Windows\\174814473",
+            "C:\\Windows\\174814473\\sysudxy.exe",
+            "C:\\Windows\\1326429649",
+            "C:\\Windows\\1326429649\\systnut.exe",
+            "C:\\WINDOWS\\1368612950\\sysfhuy.exe",
+            "C:\\Documents and Settings\\All Users\\Application Data\\Microsoft\\Dr Watson\\drwtsn32.log",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\History",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\WIKWAFRE\\t[1].htm",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\WIKWAFRE\\t[1].php",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCookies",
+            "C:\\Users\\user\\AppData\\Roaming\\winsvcs.txt",
+            "C:\\Windows\\298418843",
+            "C:\\Windows\\298418843\\sysildp.exe"
+        ],
+        "ip_traffic": [
+            {
+                "destination_ip": "193.32.161.73",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "a83f:8110:0:0:2000:0:0:0",
+                "destination_port": 53,
+                "transport_layer_protocol": "UDP"
+            },
+            {
+                "destination_ip": "20.99.186.246",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "13.107.4.50",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "192.229.211.108",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "23.198.146.35",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "3.141.96.53",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "3.141.96.53",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "35.225.160.245",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "63.251.126.10",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "155.138.235.68",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "35.205.61.67",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "206.189.61.126",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "63.251.235.76",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "69.16.231.57",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "173.231.184.122",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "206.191.152.58",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "107.6.74.76",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            }
+        ],
+        "files_deleted": [
+            "C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCookies\\851WKIJP.cookie",
+            "%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCookies\\RRTHT5FC.cookie",
+            "C:\\Users\\<USER>\\Downloads\\sample.exe:Zone.Identifier",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\WIKWAFRE\\t[1].htm",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\WIKWAFRE\\t[1].php",
+            "C:\\Users\\user\\Desktop\\program.exe:Zone.Identifier"
+        ],
+        "mbc": [
+            {
+                "id": "E1027.m02",
+                "objective": "Defense Evasion",
+                "behavior": "Obfuscated Files or Information",
+                "method": "Encoding-Standard Algorithm",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "encode data using XOR"
+                    }
+                ]
+            },
+            {
+                "id": "C0026.002",
+                "objective": "Data",
+                "behavior": "Encode Data",
+                "method": "XOR",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "encode data using XOR"
+                    }
+                ]
+            },
+            {
+                "id": "C0008",
+                "objective": "Memory",
+                "behavior": "Change Memory Protection",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "change memory protection"
+                    }
+                ]
+            },
+            {
+                "id": "C0007",
+                "objective": "Memory",
+                "behavior": "Allocate Memory",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "allocate or change RWX memory"
+                    }
+                ]
+            },
+            {
+                "id": "B0003.003",
+                "objective": "Anti-Behavioral Analysis",
+                "behavior": "Dynamic Analysis Evasion",
+                "method": "Delayed Execution",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "delay execution"
+                    }
+                ]
+            },
+            {
+                "id": "C0039",
+                "objective": "Process",
+                "behavior": "Terminate Thread",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "terminate thread"
+                    }
+                ]
+            },
+            {
+                "id": "C0038",
+                "objective": "Process",
+                "behavior": "Create Thread",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "create thread"
+                    }
+                ]
+            },
+            {
+                "id": "C0017",
+                "objective": "Process",
+                "behavior": "Create Process",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "create process on Windows"
+                    }
+                ]
+            },
+            {
+                "id": "C0036.004",
+                "objective": "Operating System",
+                "behavior": "Registry",
+                "method": "Create Registry Key",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "create or open registry key"
+                    }
+                ]
+            },
+            {
+                "id": "C0036.003",
+                "objective": "Operating System",
+                "behavior": "Registry",
+                "method": "Open Registry Key",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "create or open registry key"
+                    }
+                ]
+            },
+            {
+                "id": "C0007",
+                "objective": "Memory",
+                "behavior": "Allocate Memory",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "execute shellcode via indirect call"
+                    }
+                ]
+            },
+            {
+                "id": "C0018",
+                "objective": "Process",
+                "behavior": "Terminate Process",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "terminate process"
+                    }
+                ]
+            },
+            {
+                "id": "C0003.001",
+                "objective": "Communication",
+                "behavior": "Interprocess Communication",
+                "method": "Create Pipe",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "create pipe"
+                    }
+                ]
+            },
+            {
+                "id": "C0017",
+                "objective": "Process",
+                "behavior": "Create Process",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "create a process with modified I/O handles and window"
+                    }
+                ]
+            },
+            {
+                "id": "C0051",
+                "objective": "File System",
+                "behavior": "Read File",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "read file on Windows"
+                    }
+                ]
+            },
+            {
+                "id": "C0052",
+                "objective": "File System",
+                "behavior": "Writes File",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "write file on Windows"
+                    }
+                ]
+            },
+            {
+                "id": "F0002.001",
+                "objective": "Collection",
+                "behavior": "Keylogging",
+                "method": "Application Hook",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "log keystrokes via application hook"
+                    }
+                ]
+            },
+            {
+                "id": "E1010",
+                "objective": "Discovery",
+                "behavior": "Application Window Discovery",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "get graphical window text"
+                    }
+                ]
+            },
+            {
+                "id": "C0036.006",
+                "objective": "Operating System",
+                "behavior": "Registry",
+                "method": "Query Registry Value",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "query or enumerate registry value"
+                    }
+                ]
+            },
+            {
+                "id": "C0051",
+                "objective": "File System",
+                "behavior": "Read File",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "read .ini file"
+                    }
+                ]
+            },
+            {
+                "id": "B0013.001",
+                "objective": "Discovery",
+                "behavior": "Analysis Tool Discovery",
+                "method": "Process detection",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "reference analysis tools strings"
+                    }
+                ]
+            }
+        ],
+        "mutexes_opened": [
+            "ShimCacheMutex",
+            "Local\\c:!documents and settings!miller!cookies!",
+            "Local\\WininetConnectionMutex",
+            "Local\\_!MSFTHISTORY!_",
+            "RasPbFile",
+            "Local\\c:!documents and settings!miller!ietldcache!",
+            "Local\\WininetStartupMutex",
+            "Local\\c:!documents and settings!miller!local settings!history!history.ie5!",
+            "Local\\WininetProxyRegistryMutex",
+            "Local\\c:!documents and settings!miller!local settings!temporary internet files!content.ie5!",
+            "Local\\!IETld!Mutex"
+        ],
+        "processes_terminated": [
+            "C:\\Windows\\System32\\wuapihost.exe",
+            "%SAMPLEPATH%\\QuickWin.EXE",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe"
+        ],
+        "mutexes_created": [
+            "5070867",
+            "CTF.Compart.MutexDefaultS-1-5-21-1229272821-1563985344-1801674531-1003",
+            "CTF.TMD.MutexDefaultS-1-5-21-1229272821-1563985344-1801674531-1003",
+            "CTF.Layouts.MutexDefaultS-1-5-21-1229272821-1563985344-1801674531-1003",
+            "CTF.Asm.MutexDefaultS-1-5-21-1229272821-1563985344-1801674531-1003",
+            "CTF.TimListCache.FMPDefaultS-1-5-21-1229272821-1563985344-1801674531-1003MUTEX.DefaultS-1-5-21-1229272821-1563985344-1801674531-1003",
+            "CTF.LBES.MutexDefaultS-1-5-21-1229272821-1563985344-1801674531-1003",
+            "Local\\ZonesCounterMutex",
+            "Local\\ZonesLockedCacheCounterMutex",
+            "RasPbFile",
+            "Local\\ZoneAttributeCacheCounterMutex",
+            "Local\\c:!documents and settings!miller!ietldcache!",
+            "Local\\ZonesCacheCounterMutex",
+            "Global\\ADAP_WMI_ENTRY",
+            "Global\\RefreshRA_Mutex",
+            "Global\\RefreshRA_Mutex_Flag",
+            "Global\\RefreshRA_Mutex_Lib",
+            "CTF.LBES.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.Compart.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.Asm.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.Layouts.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.TMD.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.TimListCache.FMPDefaultS-1-5-21-1482476501-1645522239-1417001333-500MUTEX.DefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "ZonesCounterMutex",
+            "ZonesCacheCounterMutex",
+            "ZonesLockedCacheCounterMutex",
+            "ShimCacheMutex",
+            "\\Sessions\\1\\BaseNamedObjects\\5070867",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\ZonesCacheCounterMutex",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\ZonesLockedCacheCounterMutex"
+        ],
+        "registry_keys_deleted": [
+            "HKU\\S-1-5-21-1229272821-1563985344-1801674531-1003\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS"
+        ],
+        "services_started": [
+            "RASMAN"
+        ],
+        "modules_loaded": [
+            "c:\\windows\\system32\\wininet.dll",
+            "c:\\windows\\system32\\imm32.dll",
+            "c:\\windows\\system32\\msctf.dll",
+            "c:\\windows\\system32\\comctl32.dll",
+            "c:\\windows\\system32\\rsaenh.dll",
+            "c:\\windows\\system32\\ole32.dll",
+            "c:\\windows\\system32\\uxtheme.dll",
+            "c:\\windows\\system32\\apphelp.dll",
+            "c:\\windows\\system32\\olepro32.dll",
+            "c:\\windows\\system32\\secur32.dll",
+            "c:\\windows\\system32\\comdlg32.dll",
+            "c:\\windows\\system32\\msvcrt.dll",
+            "c:\\windows\\system32\\msasn1.dll",
+            "c:\\windows\\system32\\urlmon.dll",
+            "c:\\windows\\system32\\shlwapi.dll",
+            "c:\\windows\\system32\\oledlg.dll",
+            "c:\\windows\\system32\\winspool.drv",
+            "c:\\windows\\system32\\gdi32.dll",
+            "c:\\windows\\system32\\kernel32.dll",
+            "c:\\windows\\system32\\normaliz.dll",
+            "c:\\windows\\system32\\rpcrt4.dll",
+            "c:\\windows\\system32\\oleaut32.dll",
+            "c:\\windows\\system32\\user32.dll",
+            "c:\\windows\\system32\\shell32.dll",
+            "c:\\windows\\system32\\ntdll.dll",
+            "c:\\windows\\system32\\advapi32.dll",
+            "c:\\windows\\system32\\crypt32.dll",
+            "c:\\windows\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\\comctl32.dll",
+            "c:\\windows\\system32\\iertutil.dll",
+            "c:\\windows\\system32\\ntshrui.dll",
+            "c:\\windows\\system32\\clbcatq.dll",
+            "c:\\windows\\system32\\rtutils.dll",
+            "c:\\windows\\system32\\dnsapi.dll",
+            "c:\\windows\\system32\\ws2help.dll",
+            "c:\\windows\\system32\\linkinfo.dll",
+            "c:\\windows\\system32\\xpsp2res.dll",
+            "c:\\windows\\system32\\wshtcpip.dll",
+            "c:\\windows\\system32\\rasadhlp.dll",
+            "c:\\windows\\system32\\winmm.dll",
+            "c:\\windows\\system32\\rasapi32.dll",
+            "c:\\windows\\system32\\netapi32.dll",
+            "c:\\windows\\system32\\sensapi.dll",
+            "c:\\windows\\system32\\actxprxy.dll",
+            "c:\\windows\\system32\\comres.dll",
+            "c:\\windows\\system32\\hnetcfg.dll",
+            "c:\\windows\\system32\\version.dll",
+            "c:\\windows\\system32\\setupapi.dll",
+            "c:\\windows\\system32\\msv1_0.dll",
+            "c:\\windows\\system32\\userenv.dll",
+            "c:\\windows\\system32\\iphlpapi.dll",
+            "c:\\windows\\system32\\ws2_32.dll",
+            "c:\\windows\\system32\\tapi32.dll",
+            "c:\\windows\\system32\\mswsock.dll",
+            "c:\\windows\\system32\\atl.dll",
+            "c:\\windows\\system32\\rasman.dll",
+            "imm32.dll",
+            "comctl32.dll",
+            "C:\\WINDOWS\\system32\\MSCTF.dll",
+            "advapi32.dll",
+            "kernel32.dll",
+            "Global\\crypt32LogoffEvent",
+            "MSVCRT.dll",
+            "KERNEL32",
+            "DisableImprovedZoneCheck",
+            "SHLWAPI.dll",
+            "KERNEL32.dll",
+            "USER32.dll",
+            "ADVAPI32.dll",
+            "SHELL32.dll",
+            "ole32.dll",
+            "C:\\WINDOWS\\system32\\rsaenh.dll",
+            "rpcrt4.dll",
+            "shlwapi.dll",
+            "version.dll",
+            "shell32.dll",
+            "ntdll.dll",
+            "c:\\windows\\system32\\dbghelp.dll",
+            "c:\\windows\\system32\\exts.dll",
+            "c:\\windows\\system32\\ntsdexts.dll",
+            "api-ms-win-downlevel-advapi32-l1-1-0.dll",
+            "CRYPTSP.dll",
+            "CRYPTBASE.dll"
+        ],
+        "http_conversations": [
+            {
+                "url": "http://roiriorisiorotr.cc/t.php",
+                "request_method": "GET",
+                "response_headers": {
+                    "Status-Line": "HTTP/1.1 404",
+                    "Date": "Wed, 04 Mar 2020 14:56:32 GMT",
+                    "Server": "nginx/1.10.3 (Ubuntu)",
+                    "Content-Length": "178",
+                    "Content-Type": "text/html",
+                    "Connection": "keep-alive"
+                },
+                "response_status_code": 404
+            },
+            {
+                "url": "http://oeoaoueuoeuoatr.cc/t.php",
+                "request_method": "GET",
+                "response_headers": {
+                    "Status-Line": "HTTP/1.1 404",
+                    "Date": "Wed, 04 Mar 2020 14:56:40 GMT",
+                    "Server": "Apache/2.4.18 (Ubuntu)",
+                    "Content-Length": "280",
+                    "Content-Type": "text/html; charset=iso-8859-1"
+                },
+                "response_status_code": 404
+            },
+            {
+                "url": "http://gshrghirhgsgrla.co/t.php?new=1",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+                    "Host": "gshrghirhgsgrla.co"
+                },
+                "response_headers": {
+                    "Content-Length": "280",
+                    "Content-Type": "text/html"
+                },
+                "response_status_code": 404,
+                "response_body_filetype": "HTML"
+            },
+            {
+                "url": "http://ouhgousgoahutla.co/t.php?new=1",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+                    "Host": "ouhgousgoahutla.co"
+                },
+                "response_headers": {
+                    "Content-Length": "162",
+                    "Content-Type": "text/html"
+                },
+                "response_status_code": 404,
+                "response_body_filetype": "HTML"
+            },
+            {
+                "url": "http://eiiiaoihoaerula.co/t.php?new=1",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+                    "Host": "eiiiaoihoaerula.co"
+                },
+                "response_headers": {
+                    "Content-Length": "3",
+                    "Content-Type": "text/html"
+                },
+                "response_status_code": 200,
+                "response_body_filetype": "HTML"
+            },
+            {
+                "url": "http://aefhuoaeudofrla.co/t.php?new=1",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+                    "Host": "aefhuoaeudofrla.co"
+                },
+                "response_headers": {
+                    "Content-Length": "3",
+                    "Content-Type": "text/html"
+                },
+                "response_status_code": 200,
+                "response_body_filetype": "HTML"
+            },
+            {
+                "url": "http://hehfaofiehgggla.co/t.php?new=1",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+                    "Host": "hehfaofiehgggla.co"
+                },
+                "response_headers": {
+                    "Content-Length": "280",
+                    "Content-Type": "text/html"
+                },
+                "response_status_code": 404,
+                "response_body_filetype": "HTML"
+            },
+            {
+                "url": "http://rguaouhouaefela.co/t.php?new=1",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+                    "Host": "rguaouhouaefela.co"
+                },
+                "response_headers": {
+                    "Content-Type": "text/plain"
+                },
+                "response_status_code": 200,
+                "response_body_filetype": "TEXT"
+            },
+            {
+                "url": "http://eiiiaoihoaerutr.cc/t.php?new=1",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+                    "Host": "eiiiaoihoaerutr.cc"
+                },
+                "response_headers": {
+                    "Content-Length": "280",
+                    "Content-Type": "text/html"
+                },
+                "response_status_code": 404,
+                "response_body_filetype": "HTML"
+            },
+            {
+                "url": "http://infineinfinigtr.cc/t.php?new=1",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+                    "Host": "infineinfinigtr.cc"
+                },
+                "response_headers": {
+                    "Content-Length": "3",
+                    "Content-Type": "text/html"
+                },
+                "response_status_code": 200,
+                "response_body_filetype": "HTML"
+            },
+            {
+                "url": "http://plporsiszsgetla.co/1",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+                    "Host": "plporsiszsgetla.co"
+                },
+                "response_headers": {
+                    "Content-Type": "text/html"
+                },
+                "response_status_code": 302,
+                "response_body_filetype": "HTML"
+            },
+            {
+                "url": "http://aaaeieiiioffftr.cc/t.php?new=1",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+                    "Host": "aaaeieiiioffftr.cc"
+                },
+                "response_headers": {
+                    "Content-Length": "3",
+                    "Content-Type": "text/html"
+                },
+                "response_status_code": 200,
+                "response_body_filetype": "HTML"
+            },
+            {
+                "url": "http://aaauuwiifoogetr.cc/t.php?new=1",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+                    "Host": "aaauuwiifoogetr.cc"
+                },
+                "response_headers": {
+                    "Content-Length": "3",
+                    "Content-Type": "text/html"
+                },
+                "response_status_code": 200,
+                "response_body_filetype": "HTML"
+            },
+            {
+                "url": "http://aaaeieiiiofffzt.io/t.php?new=1",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+                    "Host": "aaaeieiiiofffzt.io"
+                },
+                "response_headers": {
+                    "Content-Length": "3",
+                    "Content-Type": "text/html"
+                },
+                "response_status_code": 200,
+                "response_body_filetype": "HTML"
+            },
+            {
+                "url": "http://plporsiszsgetla.co/t.php?new=1",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+                    "Host": "plporsiszsgetla.co"
+                },
+                "response_headers": {
+                    "Content-Type": "text/html"
+                },
+                "response_status_code": 302,
+                "response_body_filetype": "HTML"
+            },
+            {
+                "url": "http://roiriorisiorotr.cc/t.php?new=1",
+                "request_method": "GET",
+                "request_headers": {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+                    "Host": "roiriorisiorotr.cc"
+                }
+            }
+        ],
+        "command_executions": [
+            "C:\\DOCUME~1\\Miller\\LOCALS~1\\Temp\\1.exe",
+            "C:\\WINDOWS\\641625010\\sysjpxy.exe",
+            "\"%SAMPLEPATH%\\QuickWin.EXE\" ",
+            "C:\\Windows\\233913586\\systhjf.exe",
+            "C:\\Windows\\222062792\\syssszw.exe",
+            " ",
+            "C:\\Windows\\109326490\\sysyuur.exe",
+            "C:\\Windows\\217577044\\sysmwgn.exe",
+            "C:\\Windows\\303226150\\sysnmcp.exe",
+            "C:\\Windows\\2745916996\\syszvmt.exe",
+            "C:\\Windows\\239122824\\sysbdzs.exe",
+            "C:\\Windows\\System32\\svchost.exe -k WerSvcGroup",
+            "C:\\Windows\\2881627024\\sysqbmc.exe",
+            "C:\\Windows\\174814473\\sysudxy.exe",
+            "C:\\Windows\\1326429649\\systnut.exe",
+            "C:\\Windows\\system32\\wbem\\wmiprvse.exe -Embedding",
+            "wmiadap.exe /F /T /R"
+        ],
+        "dns_lookups": [
+            {
+                "hostname": "fgeauhfouehurla.co"
+            },
+            {
+                "hostname": "aefoguaeoueorla.co"
+            },
+            {
+                "hostname": "soghrrsoeuhugzt.io"
+            },
+            {
+                "hostname": "hehfaofiehgggzt.io"
+            },
+            {
+                "hostname": "ghaueouahfuohla.co"
+            },
+            {
+                "hostname": "ghofhauofeofhla.co"
+            },
+            {
+                "hostname": "plporsiszsgetao.to",
+                "resolved_ips": [
+                    "127.0.0.1"
+                ]
+            },
+            {
+                "hostname": "eobbeaubfeuuepn.su"
+            },
+            {
+                "hostname": "eveezueigohehla.co"
+            },
+            {
+                "hostname": "eiiiaoihoaeruzt.io"
+            },
+            {
+                "hostname": "aaauuwiifoogepn.su"
+            },
+            {
+                "hostname": "gshrghirhgsgrla.co",
+                "resolved_ips": [
+                    "35.225.160.245"
+                ]
+            },
+            {
+                "hostname": "oeeoeuueueuuela.co",
+                "resolved_ips": [
+                    "34.143.166.163"
+                ]
+            },
+            {
+                "hostname": "aaaeieiiiofffpn.su"
+            },
+            {
+                "hostname": "plporsiszsgettr.cc"
+            },
+            {
+                "hostname": "baoefubfbfigopn.su"
+            },
+            {
+                "hostname": "infineinfinigpn.su"
+            },
+            {
+                "hostname": "eobbeaubfeuuela.co"
+            },
+            {
+                "hostname": "oeeoeuueueuueao.to",
+                "resolved_ips": [
+                    "127.0.0.1"
+                ]
+            },
+            {
+                "hostname": "aiaizzzezeezeao.to",
+                "resolved_ips": [
+                    "127.0.0.1"
+                ]
+            },
+            {
+                "hostname": "hehfaofiehgggla.co",
+                "resolved_ips": [
+                    "35.225.160.245"
+                ]
+            },
+            {
+                "hostname": "eiiiaoihoaerupn.su"
+            },
+            {
+                "hostname": "rguaouhouaefela.co",
+                "resolved_ips": [
+                    "206.189.61.126"
+                ]
+            },
+            {
+                "hostname": "aaauuwiifoogetr.cc",
+                "resolved_ips": [
+                    "206.191.152.58"
+                ]
+            },
+            {
+                "hostname": "feoanoanednuela.co"
+            },
+            {
+                "hostname": "plporsiszsgetpn.su"
+            },
+            {
+                "hostname": "roiriorisiorotr.cc",
+                "resolved_ips": [
+                    "208.100.26.245",
+                    "69.16.231.57"
+                ]
+            },
+            {
+                "hostname": "lpliouhzieuaela.co"
+            },
+            {
+                "hostname": "eobbeaubfeuuetr.cc"
+            },
+            {
+                "hostname": "soghrrsoeuhugla.co"
+            },
+            {
+                "hostname": "eveezueigohehtr.cc"
+            },
+            {
+                "hostname": "b0t.to"
+            },
+            {
+                "hostname": "eiiiaoihoaerutr.cc",
+                "resolved_ips": [
+                    "35.225.160.245"
+                ]
+            },
+            {
+                "hostname": "infineinfinigla.co"
+            },
+            {
+                "hostname": "guaouehdaouehla.co"
+            },
+            {
+                "hostname": "ouhgousgoahuttr.cc"
+            },
+            {
+                "hostname": "rugeaofhefhugla.co"
+            },
+            {
+                "hostname": "nehfauheudhuela.co"
+            },
+            {
+                "hostname": "aaauuwiifoogeao.to",
+                "resolved_ips": [
+                    "127.0.0.1"
+                ]
+            },
+            {
+                "hostname": "bnioooarubgzdtr.cc"
+            },
+            {
+                "hostname": "gouarhofhrufhla.co"
+            },
+            {
+                "hostname": "oeeoeuueueuuetr.cc"
+            },
+            {
+                "hostname": "ouauooaoaoeeutr.cc"
+            },
+            {
+                "hostname": "baoefubfbfigoao.to",
+                "resolved_ips": [
+                    "127.0.0.1"
+                ]
+            },
+            {
+                "hostname": "baoefubfbfigola.co"
+            },
+            {
+                "hostname": "hohigoirjgrijla.co"
+            },
+            {
+                "hostname": "eiiiaoihoaerula.co",
+                "resolved_ips": [
+                    "63.251.126.10"
+                ]
+            },
+            {
+                "hostname": "ouauooaoaoeeuao.to",
+                "resolved_ips": [
+                    "127.0.0.1"
+                ]
+            },
+            {
+                "hostname": "plporsiszsgetla.co",
+                "resolved_ips": [
+                    "35.205.61.67"
+                ]
+            },
+            {
+                "hostname": "aaaeieiiiofffla.co"
+            },
+            {
+                "hostname": "aiaizzzezeezetr.cc"
+            },
+            {
+                "hostname": "oeoaoueuoeuoaao.to",
+                "resolved_ips": [
+                    "127.0.0.1"
+                ]
+            },
+            {
+                "hostname": "gshrghirhgsgrao.to",
+                "resolved_ips": [
+                    "127.0.0.1"
+                ]
+            },
+            {
+                "hostname": "soghrrsoeuhugao.to",
+                "resolved_ips": [
+                    "127.0.0.1"
+                ]
+            },
+            {
+                "hostname": "aauaaaeieiieezt.io"
+            },
+            {
+                "hostname": "aiuauuaaanggila.co"
+            },
+            {
+                "hostname": "aauaaaeieiieetr.cc"
+            },
+            {
+                "hostname": "infineinfinigao.to",
+                "resolved_ips": [
+                    "127.0.0.1"
+                ]
+            },
+            {
+                "hostname": "roiriorisioroao.to",
+                "resolved_ips": [
+                    "127.0.0.1"
+                ]
+            },
+            {
+                "hostname": "eiiiaoihoaeruao.to",
+                "resolved_ips": [
+                    "127.0.0.1"
+                ]
+            },
+            {
+                "hostname": "hehfaofiehgggao.to",
+                "resolved_ips": [
+                    "127.0.0.1"
+                ]
+            },
+            {
+                "hostname": "aaauuwiifoogela.co"
+            },
+            {
+                "hostname": "ghosrurruheudla.co"
+            },
+            {
+                "hostname": "gshrghirhgsgrzt.io"
+            },
+            {
+                "hostname": "aaaeieiiiofffzt.io",
+                "resolved_ips": [
+                    "107.6.74.76"
+                ]
+            },
+            {
+                "hostname": "aefeohaueajdula.co"
+            },
+            {
+                "hostname": "ouhgousgoahutzt.io"
+            },
+            {
+                "hostname": "bnioooarubgzdla.co",
+                "resolved_ips": [
+                    "34.174.78.212"
+                ]
+            },
+            {
+                "hostname": "eveezueigohehpn.su"
+            },
+            {
+                "hostname": "oeoaoueuoeuoatr.cc",
+                "resolved_ips": [
+                    "35.225.160.245"
+                ]
+            },
+            {
+                "hostname": "infineinfinigzt.io"
+            },
+            {
+                "hostname": "gshrghirhgsgrpn.su"
+            },
+            {
+                "hostname": "roiriorisiorozt.io"
+            },
+            {
+                "hostname": "oeoaoueuoeuoala.co"
+            },
+            {
+                "hostname": "hehfaofiehgggpn.su"
+            },
+            {
+                "hostname": "baoefubfbfigozt.io"
+            },
+            {
+                "hostname": "oeoaoueuoeuoazt.io"
+            },
+            {
+                "hostname": "aaaeieiiioffftr.cc",
+                "resolved_ips": [
+                    "63.251.235.76"
+                ]
+            },
+            {
+                "hostname": "ouhgousgoahutao.to",
+                "resolved_ips": [
+                    "127.0.0.1"
+                ]
+            },
+            {
+                "hostname": "ouhgousgoahutla.co",
+                "resolved_ips": [
+                    "155.138.235.68"
+                ]
+            },
+            {
+                "hostname": "aiaizzzezeezezt.io"
+            },
+            {
+                "hostname": "soghrrsoeuhugpn.su"
+            },
+            {
+                "hostname": "eobbeaubfeuueao.to",
+                "resolved_ips": [
+                    "127.0.0.1"
+                ]
+            },
+            {
+                "hostname": "aauaaaeieiieepn.su"
+            },
+            {
+                "hostname": "ouauooaoaoeeuzt.io"
+            },
+            {
+                "hostname": "aiaizzzezeezela.co"
+            },
+            {
+                "hostname": "oeeoeuueueuuezt.io"
+            },
+            {
+                "hostname": "roiriorisioropn.su"
+            },
+            {
+                "hostname": "ouauooaoaoeeula.co"
+            },
+            {
+                "hostname": "ouhgousgoahutpn.su"
+            },
+            {
+                "hostname": "baoefubfbfigotr.cc"
+            },
+            {
+                "hostname": "oeeoeuueueuuepn.su"
+            },
+            {
+                "hostname": "infineinfinigtr.cc",
+                "resolved_ips": [
+                    "173.231.184.122"
+                ]
+            },
+            {
+                "hostname": "eobbeaubfeuuezt.io"
+            },
+            {
+                "hostname": "query.prod.cms.rt.microsoft.com",
+                "resolved_ips": [
+                    "23.198.146.35"
+                ]
+            },
+            {
+                "hostname": "aauaaaeieiieeao.to"
+            },
+            {
+                "hostname": "aaaeieiiiofffao.to"
+            },
+            {
+                "hostname": "roiriorisiorola.co",
+                "resolved_ips": [
+                    "3.141.96.53",
+                    "3.20.137.44"
+                ]
+            },
+            {
+                "hostname": "x1.c.lencr.org",
+                "resolved_ips": [
+                    "104.97.45.70"
+                ]
+            },
+            {
+                "hostname": "aefhuoaeudofrla.co",
+                "resolved_ips": [
+                    "63.251.235.76"
+                ]
+            },
+            {
+                "hostname": "68.235.138.155.in-addr.arpa"
+            },
+            {
+                "hostname": "58.152.191.206.in-addr.arpa"
+            },
+            {
+                "hostname": "14.110.152.52.in-addr.arpa"
+            },
+            {
+                "hostname": "122.184.231.173.in-addr.arpa"
+            },
+            {
+                "hostname": "76.74.6.107.in-addr.arpa"
+            },
+            {
+                "hostname": "126.61.189.206.in-addr.arpa"
+            },
+            {
+                "hostname": "76.235.251.63.in-addr.arpa"
+            },
+            {
+                "hostname": "67.61.205.35.in-addr.arpa"
+            },
+            {
+                "hostname": "buaeaefuueofhla.co"
+            },
+            {
+                "hostname": "245.160.225.35.in-addr.arpa"
+            },
+            {
+                "hostname": "57.231.16.69.in-addr.arpa"
+            },
+            {
+                "hostname": "208.85.33.23.in-addr.arpa"
+            },
+            {
+                "hostname": "10.126.251.63.in-addr.arpa"
+            },
+            {
+                "hostname": "img-prod-cms-rt-microsoft-com.akamaized.net",
+                "resolved_ips": [
+                    "23.33.85.217",
+                    "23.33.85.208"
+                ]
+            },
+            {
+                "hostname": "bueoueoaoeoadla.co"
+            }
+        ],
+        "calls_highlighted": [
+            "SetWindowsHookExA",
+            "IsDebuggerPresent"
+        ],
+        "sigma_analysis_results": [
+            {
+                "match_context": [
+                    {
+                        "values": {
+                            "EventID": "13",
+                            "Details": "DWORD (0x00000001)",
+                            "EventType": "SetValue",
+                            "TargetObject": "HKLM\\SOFTWARE\\Policies\\Microsoft\\Windows Defender\\DisableAntiSpyware"
+                        }
+                    }
+                ],
+                "rule_level": "high",
+                "rule_id": "387844917f76d926b5dde6a796bcdb423a54d6df4ab736e7752fb73dc931e400",
+                "rule_source": "Sigma Integrated Rule Set (GitHub)",
+                "rule_title": "Disable Windows Defender Functionalities Via Registry Keys",
+                "rule_description": "Detects when attackers or tools disable Windows Defender functionalities via the Windows registry",
+                "rule_author": "AlertIQ, J\u00e1n Tren\u010dansk\u00fd, frack113, Nasreddine Bencherchali, Swachchhanda Shrawan Poudel"
+            },
+            {
+                "match_context": [
+                    {
+                        "values": {
+                            "EventID": "13",
+                            "Details": "C:\\Windows\\233913586\\systhjf.exe",
+                            "EventType": "SetValue",
+                            "TargetObject": "HKLM\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver"
+                        }
+                    }
+                ],
+                "rule_level": "medium",
+                "rule_id": "18842e32896dd83b8aca4d5e1ac78c1f66b1d252479c0023cdd02f108c42c8cd",
+                "rule_source": "Sigma Integrated Rule Set (GitHub)",
+                "rule_title": "Wow6432Node CurrentVersion Autorun Keys Modification",
+                "rule_description": "Detects modification of autostart extensibility point (ASEP) in registry.",
+                "rule_author": "Victor Sergeev, Daniil Yugoslavskiy, Gleb Sukhodolskiy, Timur Zinniatullin, oscd.community, Tim Shelton, frack113 (split)"
+            },
+            {
+                "match_context": [
+                    {
+                        "values": {
+                            "EventID": "13",
+                            "Details": "C:\\Windows\\233913586\\systhjf.exe",
+                            "EventType": "SetValue",
+                            "TargetObject": "HKU\\%SID%\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver"
+                        }
+                    }
+                ],
+                "rule_level": "medium",
+                "rule_id": "8b5db9da5732dc549b0e8b56fe5933d7c95ed760f3ac20568ab95347ef8c5bcc",
+                "rule_source": "Sigma Integrated Rule Set (GitHub)",
+                "rule_title": "CurrentVersion Autorun Keys Modification",
+                "rule_description": "Detects modification of autostart extensibility point (ASEP) in registry.",
+                "rule_author": "Victor Sergeev, Daniil Yugoslavskiy, Gleb Sukhodolskiy, Timur Zinniatullin, oscd.community, Tim Shelton, frack113 (split)"
+            }
+        ],
+        "processes_injected": [
+            "dwwin.exe"
+        ],
+        "tags": [
+            "DETECT_DEBUG_ENVIRONMENT"
+        ],
+        "processes_tree": [
+            {
+                "process_id": "1972",
+                "name": "C:\\DOCUME~1\\Miller\\LOCALS~1\\Temp\\1.exe"
+            },
+            {
+                "process_id": "808",
+                "name": "C:\\WINDOWS\\641625010\\sysjpxy.exe"
+            },
+            {
+                "process_id": "3380",
+                "name": "%WINDIR%\\explorer.exe",
+                "children": [
+                    {
+                        "process_id": "3200",
+                        "name": "%SAMPLEPATH%\\QuickWin.EXE",
+                        "children": [
+                            {
+                                "process_id": "692",
+                                "name": "C:\\Windows\\233913586\\systhjf.exe"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "process_id": "1036",
+                "name": "****.exe",
+                "children": [
+                    {
+                        "process_id": "2220",
+                        "name": "sysfhuy.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "2760",
+                "name": "sample.exe",
+                "children": [
+                    {
+                        "process_id": "1084",
+                        "name": "C:\\Windows\\1304726701\\syswerh.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "1028",
+                "name": "'C:\\Users\\user\\Desktop\\program.exe' ",
+                "children": [
+                    {
+                        "process_id": "2052",
+                        "name": "C:\\Windows\\298418843\\sysildp.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "2052",
+                "name": "C:\\Windows\\298418843\\sysildp.exe"
+            },
+            {
+                "process_id": "5588",
+                "name": "'C:\\Windows\\298418843\\sysildp.exe' "
+            },
+            {
+                "process_id": "3040",
+                "name": "'C:\\Windows\\298418843\\sysildp.exe' "
+            },
+            {
+                "process_id": "3944",
+                "name": "'C:\\Windows\\298418843\\sysildp.exe' "
+            }
+        ],
+        "signature_matches": [
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "encode data using XOR",
+                "description": "data-manipulation/encoding/xor",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: encode data using XOR\n    namespace: data-manipulation/encoding/xor\n    authors:\n      - moritz.raabe@mandiant.com\n    scopes:\n      static: basic block\n      dynamic: unsupported  # requires characteristic, Not features\n    att&ck:\n      - Defense Evasion::Obfuscated Files or Information [T1027]\n    mbc:\n      - Defense Evasion::Obfuscated Files or Information::Encoding-Standard Algorithm [E1027.m02]\n      - Data::Encode Data::XOR [C0026.002]\n    examples:\n      - 2D3EDC218A90F03089CC01715A9F047F:0x403D7E\n  features:\n    - and:\n      - characteristic: tight loop\n      - characteristic: nzxor\n      - not:\n        - description: filter for potential false positives\n        - or:\n          - or:\n            - description: unsigned bitwise negation operation (~i)\n            - number: 0xFFFFFFFF = bitwise negation for unsigned 32 bits\n            - number: 0xFFFFFFFFFFFFFFFF = bitwise negation for unsigned 64 bits\n          - or:\n            - description: signed bitwise negation operation (~i)\n            - number: 0x0FFFFFFF = bitwise negation for signed 32 bits\n            - number: 0x0FFFFFFFFFFFFFFF = bitwise negation for signed 64 bits\n          - or:\n            - description: Magic constants used in the implementation of strings functions.\n            # such as `strlen` and `strcat` in the Windows standard library:\n            # (((i - 0x81010101) ^ ~i) & 0x81010100)\n            ## 32 bits\n            - number: 0x7EFEFEFF = optimized string constant for 32 bits\n            - number: 0x81010101 = -0x81010101 = 0x7EFEFEFF\n            - number: 0x81010100 = 0x81010100 = ~0x7EFEFEFF\n            ## 64 bits\n            - number: 0x7EFEFEFEFEFEFEFF = optimized string constant for 64 bits\n            - number: 0x8101010101010101 = -0x8101010101010101 = 0x7EFEFEFEFEFEFEFF\n            - number: 0x8101010101010100 = 0x8101010101010100 = ~0x7EFEFEFEFEFEFEFF\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "change memory protection",
+                "authors": [
+                    "@mr-tz"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: change memory protection\n    authors:\n      - \"@mr-tz\"\n    lib: true\n    scopes:\n      static: basic block\n      dynamic: call\n    mbc:\n      - Memory::Change Memory Protection [C0008]\n    examples:\n      - Practical Malware Analysis Lab 11-02.dll_:0x10001203\n  features:\n    - or:\n      - api: kernel32.VirtualProtect\n      - api: kernel32.VirtualProtectEx\n      - api: NtProtectVirtualMemory\n      - api: ZwProtectVirtualMemory\n      - and:\n        - match: link function at runtime on Windows\n        - or:\n          - string: \"VirtualProtect\"\n          - string: \"VirtualProtectEx\"\n          - string: \"NtProtectVirtualMemory\"\n          - string: \"ZwProtectVirtualMemory\"\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "allocate or change RWX memory",
+                "description": "host-interaction/process/inject",
+                "authors": [
+                    "@mr-tz"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: allocate or change RWX memory\n    namespace: host-interaction/process/inject\n    authors:\n      - \"@mr-tz\"\n    scopes:\n      static: basic block\n      dynamic: thread\n    mbc:\n      - Memory::Allocate Memory [C0007]\n    examples:\n      - Practical Malware Analysis Lab 03-03.exe_:0x4010EA\n      # ntdll\n      - 563653399B82CD443F120ECEFF836EA3678D4CF11D9B351BB737573C2D856299:0x140001ABA\n  features:\n    - and:\n      - or:\n        - match: allocate memory\n        - match: change memory protection\n      - or:\n        - number: 0x40 = PAGE_EXECUTE_READWRITE\n        # lea     r9d, [rcx+40h]  ; flProtect\n        # call    cs:VirtualAlloc\n        - instruction:\n          - mnemonic: lea\n          - offset: 0x40 = PAGE_EXECUTE_READWRITE\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "delay execution",
+                "authors": [
+                    "michael.hunhoff@mandiant.com",
+                    "@ramen0x3f"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: delay execution\n    authors:\n      - michael.hunhoff@mandiant.com\n      - \"@ramen0x3f\"\n    lib: true\n    scopes:\n      static: basic block\n      dynamic: call\n    mbc:\n      - Anti-Behavioral Analysis::Dynamic Analysis Evasion::Delayed Execution [B0003.003]\n    references:\n      - https://docs.microsoft.com/en-us/windows/win32/sync/wait-functions\n      - https://github.com/LordNoteworthy/al-khaser/blob/master/al-khaser/TimingAttacks/timing.cpp\n    examples:\n      - al-khaser_x86.exe_:0x449770\n      - B5F85C26D7AA5A1FB4AF5821B6B5AB9B:0x402FA6\n  features:\n    - or:\n      - and:\n        - os: windows\n        - or:\n          - api: kernel32.Sleep\n          - api: kernel32.SleepEx\n          - api: kernel32.WaitForSingleObject\n          - api: kernel32.SignalObjectAndWait\n          - api: kernel32.WaitForSingleObjectEx\n          - api: kernel32.WaitForMultipleObjects\n          - api: kernel32.WaitForMultipleObjectsEx\n          - api: kernel32.RegisterWaitForSingleObject\n          - api: WaitOnAddress\n          - api: user32.MsgWaitForMultipleObjects\n          - api: user32.MsgWaitForMultipleObjectsEx\n          - api: NtDelayExecution\n          - api: KeWaitForSingleObject\n          - api: KeDelayExecutionThread\n      - and:\n        - os: linux\n        - or:\n          - api: sleep\n          - api: usleep\n",
+                "refs": [
+                    {
+                        "ref": "https://docs.microsoft.com/en-us/windows/win32/sync/wait-functions"
+                    },
+                    {
+                        "ref": "https://github.com/LordNoteworthy/al-khaser/blob/master/al-khaser/TimingAttacks/timing.cpp"
+                    }
+                ]
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "terminate thread",
+                "description": "host-interaction/thread/terminate",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "michael.hunhoff@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: terminate thread\n    namespace: host-interaction/thread/terminate\n    authors:\n      - moritz.raabe@mandiant.com\n      - michael.hunhoff@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scopes:\n      static: basic block\n      dynamic: call\n    mbc:\n      - Process::Terminate Thread [C0039]\n    examples:\n      - Practical Malware Analysis Lab 03-02.dll_:0x10003286\n      - B5F85C26D7AA5A1FB4AF5821B6B5AB9B:0x407E90\n  features:\n    - or:\n      - api: kernel32.TerminateThread\n      - api: PsTerminateSystemThread\n      - api: System.Threading.Thread.Abort\n      - api: pthread_terminate\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "create thread",
+                "description": "host-interaction/thread/create",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "michael.hunhoff@mandiant.com",
+                    "joakim@intezer.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: create thread\n    namespace: host-interaction/thread/create\n    authors:\n      - moritz.raabe@mandiant.com\n      - michael.hunhoff@mandiant.com\n      - joakim@intezer.com\n      - anushka.virgaonkar@mandiant.com\n    scopes:\n      static: basic block\n      dynamic: thread\n    mbc:\n      - Process::Create Thread [C0038]\n    examples:\n      - 946A99F36A46D335DEC080D9A4371940:0x10001DA0\n      - B5F85C26D7AA5A1FB4AF5821B6B5AB9B:0x408020\n  features:\n    - or:\n      - and:\n        - os: windows\n        - or:\n          - api: kernel32.CreateThread\n          - api: _beginthread\n          - api: _beginthreadex\n          - api: PsCreateSystemThread\n          - api: SHCreateThread\n          - api: SHCreateThreadWithHandle\n          - api: kernel32.CreateRemoteThread\n          - api: kernel32.CreateRemoteThreadEx\n          - api: RtlCreateUserThread\n          - api: ntdll.NtCreateThread\n          - api: ntdll.NtCreateThreadEx\n          - api: ntdll.ZwCreateThread\n          - api: ntdll.ZwCreateThreadEx\n      - and:\n        - os: linux\n        - api: pthread_create\n      - and:\n        - api: System.Threading.Thread::Start\n        - optional:\n          - api: System.Threading.Thread::ctor\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "create process on Windows",
+                "description": "host-interaction/process/create",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: create process on Windows\n    namespace: host-interaction/process/create\n    authors:\n      - moritz.raabe@mandiant.com\n    scopes:\n      static: basic block\n      dynamic: call\n    mbc:\n      - Process::Create Process [C0017]\n    examples:\n      - 9324D1A8AE37A36AE560C37448C9705A:0x406DB0\n      - Practical Malware Analysis Lab 01-04.exe_:0x4011FC\n      - 692f7fd6d198e804d6af98eb9e390d61:0x6000003\n  features:\n    - or:\n      - api: kernel32.WinExec\n      - api: kernel32.CreateProcess\n      - api: shell32.ShellExecute\n      - api: shell32.ShellExecuteEx\n      - api: advapi32.CreateProcessAsUser\n      - api: advapi32.CreateProcessWithLogon\n      - api: advapi32.CreateProcessWithToken\n      - api: kernel32.CreateProcessInternal\n      - api: ntdll.NtCreateUserProcess\n      - api: ntdll.NtCreateProcess\n      - api: ntdll.NtCreateProcessEx\n      - api: ntdll.ZwCreateProcess\n      - api: ZwCreateProcessEx\n      - api: ntdll.ZwCreateUserProcess\n      - api: ntdll.RtlCreateUserProcess\n      - api: System.Diagnostics.Process::Start\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "create or open registry key",
+                "authors": [
+                    "michael.hunhoff@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: create or open registry key\n    authors:\n      - michael.hunhoff@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    lib: true\n    scopes:\n      static: basic block\n      dynamic: call\n    mbc:\n      - Operating System::Registry::Create Registry Key [C0036.004]\n      - Operating System::Registry::Open Registry Key [C0036.003]\n    examples:\n      - Practical Malware Analysis Lab 03-02.dll_:0x10004706\n      - Practical Malware Analysis Lab 11-01.exe_:0x401000\n      - 493167E85E45363D09495D0841C30648:0x404D60\n      - B5F85C26D7AA5A1FB4AF5821B6B5AB9B:0x4045F2\n      - B5F85C26D7AA5A1FB4AF5821B6B5AB9B:0x40433E\n      - 692f7fd6d198e804d6af98eb9e390d61:0x6000003\n  features:\n    - or:\n      - api: advapi32.RegOpenKey\n      - api: advapi32.RegOpenKeyEx\n      - api: advapi32.RegCreateKey\n      - api: advapi32.RegCreateKeyEx\n      - api: advapi32.RegOpenCurrentUser\n      - api: advapi32.RegOpenKeyTransacted\n      - api: advapi32.RegOpenUserClassesRoot\n      - api: advapi32.RegCreateKeyTransacted\n      - api: ZwOpenKey\n      - api: ZwOpenKeyEx\n      - api: ZwCreateKey\n      - api: ZwOpenKeyTransacted\n      - api: ZwOpenKeyTransactedEx\n      - api: ZwCreateKeyTransacted\n      - api: NtOpenKey\n      - api: NtCreateKey\n      - api: SHRegOpenUSKey\n      - api: SHRegCreateUSKey\n      - api: RtlCreateRegistryKey\n      - api: Microsoft.Win32.RegistryKey::OpenSubKey\n      - api: Microsoft.Win32.RegistryKey::OpenBaseKey\n      - api: Microsoft.Win32.RegistryKey::OpenRemoteBaseKey\n      - api: Microsoft.Win32.RegistryKey::CreateSubKey\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "contain loop",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: contain loop\n    authors:\n      - moritz.raabe@mandiant.com\n    lib: true\n    scopes:\n      static: function\n      dynamic: unsupported  # requires characteristic features\n    examples:\n      - 08AC667C65D36D6542917655571E61C8:0x406EAA\n  features:\n    - or:\n      - characteristic: loop\n      - characteristic: tight loop\n      - characteristic: recursive call\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "execute shellcode via indirect call",
+                "description": "load-code/shellcode",
+                "authors": [
+                    "ronnie.salomonsen@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: execute shellcode via indirect call\n    namespace: load-code/shellcode\n    authors:\n      - ronnie.salomonsen@mandiant.com\n    scopes:\n      static: function\n      dynamic: unsupported  # requires characteristic features\n    mbc:\n      - Memory::Allocate Memory [C0007]\n  features:\n    - and:\n      - match: allocate or change RWX memory\n      - or:\n        - characteristic: indirect call\n        - characteristic: cross section flow\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "get OS version",
+                "authors": [
+                    "@mr-tz"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: get OS version\n    authors:\n      - \"@mr-tz\"\n    lib: true\n    scopes:\n      static: function\n      dynamic: call\n    examples:\n      - 493167E85E45363D09495D0841C30648:0x401000\n      - 5f66b82558ca92e54e77f216ef4c066c:0x44580A\n  features:\n    - or:\n      - api: RtlGetVersion\n      - api: ntoskrnl.PsGetVersion\n      - api: GetVersion\n      - api: GetVersionEx\n      - api: VerifyVersionInfo\n      - api: VerSetConditionMask\n      - api: RtlGetNtVersionNumbers\n      - api: GetProductInfo\n      - and:\n        - match: PEB access\n        - or:\n          - and:\n            - arch: i386\n            - or:\n              - offset: 0xA4 = PEB->OSMajorVersion\n              - offset: 0xA8 = PEB->OSMinorVersion\n              - offset: 0xAC = PEB->OSBuildNumber\n          - and:\n            - arch: amd64\n            - or:\n              - offset: 0x118 = PEB->OSMajorVersion\n              - offset: 0x11C = PEB->OSMinorVersion\n              - offset: 0x120 = PEB->OSBuildNumber\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "terminate process",
+                "description": "host-interaction/process/terminate",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "michael.hunhoff@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: terminate process\n    namespace: host-interaction/process/terminate\n    authors:\n      - moritz.raabe@mandiant.com\n      - michael.hunhoff@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scopes:\n      static: function\n      dynamic: thread\n    mbc:\n      - Process::Terminate Process [C0018]\n    examples:\n      - C91887D861D9BD4A5872249B641BC9F9:0x401A77\n      - 9B7CCAA2AE6A5B96E3110EBCBC4311F6:0x10010307\n  features:\n    - or:\n      - api: System.Diagnostics.Process::Kill\n      - api: System.Diagnostics.Process::WaitForExit\n      - api: System.Diagnostics.Process::WaitForExitAsync\n      - api: System.Environment::Exit\n      - api: System.Windows.Forms.Application::Exit\n      - api: exit\n      - api: Exit\n      - and:\n        - optional:\n          - match: open process\n        - or:\n          - api: kernel32.TerminateProcess\n          - api: ntdll.NtTerminateProcess\n          - api: kernel32.ExitProcess\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "create pipe",
+                "description": "communication/named-pipe/create",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: create pipe\n    namespace: communication/named-pipe/create\n    authors:\n      - moritz.raabe@mandiant.com\n      - michael.hunhoff@mandiant.com\n    scopes:\n      static: function\n      dynamic: call\n    mbc:\n      - Communication::Interprocess Communication::Create Pipe [C0003.001]\n    examples:\n      - Practical Malware Analysis Lab 03-02.dll_:0x10003a13\n  features:\n    - or:\n      - api: kernel32.CreatePipe\n      - api: kernel32.CreateNamedPipe\n      - api: System.IO.Pipes.AnonymousPipeClientStream::ctor\n      - api: System.IO.Pipes.NamedPipeClientStream::ctor\n      - api: System.IO.Pipes.AnonymousPipeServerStream::ctor\n      - api: System.IO.Pipes.AnonymousPipeServerStreamAcl::Create\n      - api: System.IO.Pipes.NamedPipeServerStream::ctor\n      - api: System.IO.Pipes.NamedPipeServerStreamAcl::Create\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "create a process with modified I/O handles and window",
+                "description": "host-interaction/process/create",
+                "authors": [
+                    "matthew.williams@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: create a process with modified I/O handles and window\n    namespace: host-interaction/process/create\n    authors:\n      - matthew.williams@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scopes:\n      static: function\n      dynamic: unsupported  # requires property features\n    mbc:\n      - Process::Create Process [C0017]\n    references:\n      - https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/ns-processthreadsapi-startupinfoa\n    examples:\n      - Practical Malware Analysis Lab 14-02.exe_:0x4011C0\n  features:\n    - or:\n      - and:\n        - or:\n          - description: API functions that accept a pointer to a STARTUPINFO structure\n          - api: kernel32.CreateProcess\n          - api: kernel32.CreateProcessInternal\n          - api: advapi32.CreateProcessAsUser\n          - api: advapi32.CreateProcessWithLogon\n          - api: advapi32.CreateProcessWithToken\n        - number: 0x101 = STARTF_USESTDHANDLES | STARTF_USESHOWWINDOW\n          # STARTF_USESTDHANDLES indicates the hStdInput, hStdOutput, and hStdError members contain additional information\n          # STARTF_USESHOWWINDOW indicates the wShowWindow member contains additional information\n        - or:\n          - and:\n            - arch: i386\n            - number: 0x44 = StartupInfo.cb (size)\n          - and:\n            - arch: amd64\n            - number: 0x68 = StartupInfo.cb (size)\n          # STARTUPINFOEX size values not currently supported by this rule.\n        - optional:\n          - api: kernel32.GetStartupInfo\n      - and:\n        - api: System.Diagnostics.Process::Start\n        - or:\n          - property/write: System.Diagnostics.ProcessStartInfo::UseShellExecute\n          - property/write: System.Diagnostics.ProcessStartInfo::Verb\n          - property/write: System.Diagnostics.ProcessStartInfo::WindowStyle\n          - property/write: System.Diagnostics.ProcessStartInfo::WorkingDirectory\n          - property/write: System.Diagnostics.ProcessStartInfo::FileName\n          - property/write: System.Diagnostics.ProcessStartInfo::Arguments\n          - property/write: System.Diagnostics.ProcessStartInfo::CreateNoWindow\n          - property/write: System.Diagnostics.ProcessStartInfo::RedirectStandardOutput\n          - property/write: System.Diagnostics.ProcessStartInfo::RedirectStandardInput\n          - property/read: System.Diagnostics.Process::StandardOutput\n          - property/read: System.Diagnostics.Process::StandardInput\n",
+                "refs": [
+                    {
+                        "ref": "https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/ns-processthreadsapi-startupinfoa"
+                    }
+                ]
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "read file on Windows",
+                "description": "host-interaction/file-system/read",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: read file on Windows\n    namespace: host-interaction/file-system/read\n    authors:\n      - moritz.raabe@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scopes:\n      static: function\n      dynamic: thread\n    mbc:\n      - File System::Read File [C0051]\n    examples:\n      - BFB9B5391A13D0AFD787E87AB90F14F5:0x1314567B\n  features:\n    - or:\n      - and:\n        - os: windows\n        - optional:\n          - and:\n            - number: 0x80000000 = GENERIC_READ\n            - match: create or open file\n        - or:\n          - api: kernel32.ReadFile\n          - api: ReadFileEx\n          - api: NtReadFile\n          - api: ZwReadFile\n          - api: LZRead\n          - api: _read\n          - api: fread\n      - api: System.IO.File::ReadAllBytes\n      - api: System.IO.File::ReadAllBytesAsync\n      - api: System.IO.File::ReadAllLines\n      - api: System.IO.File::ReadAllLinesAsync\n      - api: System.IO.File::ReadAllText\n      - api: System.IO.File::ReadAllTextAsync\n      - api: System.IO.File::ReadLines\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "write file on Windows",
+                "description": "host-interaction/file-system/write",
+                "authors": [
+                    "william.ballenthin@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: write file on Windows\n    namespace: host-interaction/file-system/write\n    authors:\n      - william.ballenthin@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scopes:\n      static: function\n      dynamic: thread\n    mbc:\n      - File System::Writes File [C0052]\n    examples:\n      - Practical Malware Analysis Lab 01-04.exe_:0x4011FC\n      # ntdll\n      - 563653399B82CD443F120ECEFF836EA3678D4CF11D9B351BB737573C2D856299:0x1400025C4\n  features:\n    - or:\n      - and:\n        - os: windows\n        - optional:\n          - basic block:\n            - or:\n              - number: 0x40000000 = GENERIC_WRITE\n              - number: 0x2 = FILE_WRITE_DATA\n              - match: create or open file\n          - call:\n            - or:\n              - number: 0x40000000 = GENERIC_WRITE\n              - number: 0x2 = FILE_WRITE_DATA\n              - match: create or open file\n        - or:\n          - api: kernel32.WriteFile\n          - api: kernel32.WriteFileEx\n          - api: NtWriteFile\n          - api: ZwWriteFile\n          - api: _fwrite\n          - api: fwrite\n      - api: System.IO.File::WriteAllBytes\n      - api: System.IO.File::WriteAllBytesAsync\n      - api: System.IO.File::WriteAllLines\n      - api: System.IO.File::WriteAllLinesAsync\n      - api: System.IO.File::WriteAllText\n      - api: System.IO.File::WriteAllTextAsync\n      - api: System.IO.File::AppendAllLines\n      - api: System.IO.File::AppendAllLinesAsync\n      - api: System.IO.File::AppendAllText\n      - api: System.IO.File::AppendAllTextAsync\n      - api: System.IO.File::AppendText\n      - api: System.IO.FileInfo::AppendText\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "set application hook",
+                "description": "host-interaction/gui",
+                "authors": [
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: set application hook\n    namespace: host-interaction/gui\n    authors:\n      - michael.hunhoff@mandiant.com\n    scopes:\n      static: function\n      dynamic: thread\n    examples:\n      - Practical Malware Analysis Lab 12-03.exe_:0x401000\n  features:\n    - and:\n      - or:\n        - api: user32.SetWindowsHookEx\n        - api: user32.UnhookWindowsHookEx\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "log keystrokes via application hook",
+                "description": "collection/keylog",
+                "authors": [
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: log keystrokes via application hook\n    namespace: collection/keylog\n    authors:\n      - michael.hunhoff@mandiant.com\n    scopes:\n      static: function\n      dynamic: call\n    att&ck:\n      - Collection::Input Capture::Keylogging [T1056.001]\n    mbc:\n      - Collection::Keylogging::Application Hook [F0002.001]\n    examples:\n      - Practical Malware Analysis Lab 12-03.exe_:0x401000\n  features:\n    - and:\n      - match: set application hook\n      - or:\n        - number: 13 = WH_KEYBOARD_LL\n        - number: 2  = WH_KEYBOARD\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "get graphical window text",
+                "description": "host-interaction/gui/window/get-text",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: get graphical window text\n    namespace: host-interaction/gui/window/get-text\n    authors:\n      - moritz.raabe@mandiant.com\n    scopes:\n      static: function\n      dynamic: thread\n    mbc:\n      - Discovery::Application Window Discovery [E1010]\n    examples:\n      - B7841B9D5DC1F511A93CC7576672EC0C:0x10007A50\n      - Practical Malware Analysis Lab 11-03.dll_:0x10001000\n  features:\n    - or:\n      - and:\n        - optional:\n          - api: user32.IsWindowVisible\n        - or:\n          - basic block:\n            - and:\n              - number: 0xD = WM_GETTEXT\n              - api: user32.SendMessage\n          - call:\n            - and:\n              - number: 0xD = WM_GETTEXT\n              - api: user32.SendMessage\n      - and:\n        - optional:\n          - api: user32.GetForegroundWindow\n        - api: user32.GetWindowText\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "link function at runtime on Windows",
+                "description": "linking/runtime-linking",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: link function at runtime on Windows\n    namespace: linking/runtime-linking\n    authors:\n      - moritz.raabe@mandiant.com\n      - michael.hunhoff@mandiant.com\n    scopes:\n      static: function\n      dynamic: unsupported  # requires characteristic features\n    att&ck:\n      - Execution::Shared Modules [T1129]\n    examples:\n      - 9324D1A8AE37A36AE560C37448C9705A:0x404130\n      - Practical Malware Analysis Lab 01-04.exe_:0x401350\n  features:\n    - and:\n      - os: windows\n      - or:\n        - api: kernel32.GetProcAddress\n        - api: ntdll.LdrGetProcedureAddress\n      - optional:\n        - characteristic: indirect call\n        - api: kernel32.LoadLibrary\n        - api: kernel32.GetModuleHandle\n        - api: kernel32.GetModuleHandleEx\n        - api: ntdll.LdrLoadDll\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "extract resource via kernel32 functions",
+                "description": "executable/resource",
+                "authors": [
+                    "william.ballenthin@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: extract resource via kernel32 functions\n    namespace: executable/resource\n    authors:\n      - william.ballenthin@mandiant.com\n    scopes:\n      static: function\n      dynamic: thread\n    examples:\n      - BF88E1BD4A3BDE10B419A622278F1FF7:0x401000\n      - Practical Malware Analysis Lab 01-04.exe_:0x4011FC\n      # ntdll\n      - 563653399B82CD443F120ECEFF836EA3678D4CF11D9B351BB737573C2D856299:0x140001ABA\n  features:\n    - or:\n      - and:\n        - or:\n          - api: kernel32.LoadResource\n          - api: kernel32.LockResource\n          - api: LdrAccessResource\n        - optional:\n          - api: kernel32.GetModuleHandle\n          # may occur in parent function, see 0664B09A86EC2DF7DFE01A93E184A1FA23DF66EA82CAB39000944E418EC1F7B2\n          - or:\n            - api: kernel32.FindResource\n            - api: kernel32.FindResourceEx\n            - api: LdrFindResource_U\n            - api: LdrFindResourceEx_U\n          - api: kernel32.SizeofResource\n          - api: kernel32.FreeResource\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "query or enumerate registry value",
+                "description": "host-interaction/registry",
+                "authors": [
+                    "william.ballenthin@mandiant.com",
+                    "michael.hunhoff@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: query or enumerate registry value\n    namespace: host-interaction/registry\n    authors:\n      - william.ballenthin@mandiant.com\n      - michael.hunhoff@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scopes:\n      static: function\n      dynamic: thread\n    att&ck:\n      - Discovery::Query Registry [T1012]\n    mbc:\n      - Operating System::Registry::Query Registry Value [C0036.006]\n    examples:\n      - BFB9B5391A13D0AFD787E87AB90F14F5:0x13145B5A\n      - Practical Malware Analysis Lab 03-02.dll_:0x100047AD\n  features:\n    - and:\n      - optional:\n        - match: create or open registry key\n      - or:\n        - api: advapi32.RegGetValue\n        - api: advapi32.RegEnumValue\n        - api: advapi32.RegQueryValue\n        - api: advapi32.RegQueryValueEx\n        - api: advapi32.RegQueryMultipleValues\n        - api: ZwQueryValueKey\n        - api: ZwEnumerateValueKey\n        - api: NtQueryValueKey\n        - api: NtEnumerateValueKey\n        - api: RtlQueryRegistryValues\n        - api: SHGetValue\n        - api: SHEnumValue\n        - api: SHRegGetInt\n        - api: SHRegGetPath\n        - api: SHRegGetValue\n        - api: SHQueryValueEx\n        - api: SHRegGetUSValue\n        - api: SHOpenRegStream\n        - api: SHRegEnumUSValue\n        - api: SHOpenRegStream2\n        - api: SHRegQueryUSValue\n        - api: SHRegGetBoolUSValue\n        - api: SHRegGetValueFromHKCUHKLM\n        - api: SHRegGetBoolValueFromHKCUHKLM\n        - api: Microsoft.Win32.RegistryKey::GetValue\n        - api: Microsoft.Win32.RegistryKey::GetValueKind\n        - api: Microsoft.Win32.RegistryKey::GetValueNames\n        - api: Microsoft.Win32.Registry::GetValue\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "read .ini file",
+                "description": "host-interaction/file-system/read",
+                "authors": [
+                    "@_re_fox",
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: read .ini file\n    namespace: host-interaction/file-system/read\n    authors:\n      - \"@_re_fox\"\n      - michael.hunhoff@mandiant.com\n    scopes:\n      static: function\n      dynamic: thread\n    mbc:\n      - File System::Read File [C0051]\n    examples:\n      - 1d8fd13c890060464019c0f07b928b1a:0x401070\n      - E6234FB98F17201C232F4502015B47B3:0x701312FA\n  features:\n    - and:\n      - or:\n        - api: GetPrivateProfileInt\n        - api: GetPrivateProfileString\n        - api: GetPrivateProfileStruct\n        - api: GetPrivateProfileSection\n        - api: GetPrivateProfileSectionNames\n      - optional:\n        - string: /\\.ini/i\n        - api: GetFullPathName\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "get thread local storage value",
+                "description": "host-interaction/process",
+                "authors": [
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: get thread local storage value\n    namespace: host-interaction/process\n    authors:\n      - michael.hunhoff@mandiant.com\n    scopes:\n      static: function\n      dynamic: call\n  features:\n    - and:\n      - api: kernel32.TlsGetValue\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "resolve function by parsing PE exports",
+                "description": "load-code/pe",
+                "authors": [
+                    "sara-rn"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: resolve function by parsing PE exports\n    namespace: load-code/pe\n    authors:\n      - sara-rn\n    scopes:\n      static: function\n      dynamic: unsupported  # requires characteristic, offset, mnemonic features\n    examples:\n      - 73CE04892E5F39EC82B00C02FC04C70F:0x406BA1\n  features:\n    - and:\n      - os: windows\n      - or:\n        - characteristic: loop\n        - mnemonic: movzx\n      - and:\n        - offset: 0x3C = IMAGE_DOS_HEADER.PE.e_lfanew\n        - or:\n          - and:\n            - arch: i386\n            - offset: 0x78 = offset to IMAGE_DATA_DIRECTORY[IMAGE_DIRECTORY_ENTRY_EXPORT]\n          - and:\n            - arch: amd64\n            - offset: 0x88 = offset to IMAGE_DATA_DIRECTORY[IMAGE_DIRECTORY_ENTRY_EXPORT]\n        - 3 or more:\n          - offset: 0x14 = IMAGE_EXPORT_DIRECTORY.NumberOfFunctions\n          - offset: 0x24 = IMAGE_EXPORT_DIRECTORY.AddressOfNameOrdinals\n          - offset: 0x20 = IMAGE_EXPORT_DIRECTORY.AddressOfNames\n          - offset: 0x18 = IMAGE_EXPORT_DIRECTORY.NumberOfNames\n          - offset: 0x1C = IMAGE_EXPORT_DIRECTORY.AddressOfFunctions\n      - optional:\n        - or:\n          - api: LoadLibrary\n          - api: strcmp\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "reference analysis tools strings",
+                "description": "anti-analysis",
+                "authors": [
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: reference analysis tools strings\n    namespace: anti-analysis\n    authors:\n      - michael.hunhoff@mandiant.com\n    scopes:\n      static: file\n      dynamic: file\n    mbc:\n      - Discovery::Analysis Tool Discovery::Process detection [B0013.001]\n    references:\n      - https://github.com/LordNoteworthy/al-khaser/blob/master/al-khaser/AntiAnalysis/process.cpp\n    examples:\n      - al-khaser_x86.exe_\n  features:\n    - or:\n      - string: /ollydbg(\\.exe)?/i\n      - string: /ProcessHacker(\\.exe)?/i\n      - string: /tcpview(\\.exe)?/i\n      - string: /autoruns(\\.exe)?/i\n      - string: /autorunsc(\\.exe)?/i\n      - string: /filemon(\\.exe)?/i\n      - string: /procmon(\\.exe)?/i\n      - string: /regmon(\\.exe)?/i\n      - string: /procexp(\\.exe)?/i\n      - string: /(?<!\\w)ida[gqtuw]?(\\.exe)?$/i\n      - string: /ida[gqtuw]?64(\\.exe)?$/i\n      - string: /ImmunityDebugger(\\.exe)?/i\n      - string: /Wireshark(\\.exe)?/i\n      - string: /dumpcap(\\.exe)?/i\n      - string: /HookExplorer(\\.exe)?/i\n      - string: /ImportREC(\\.exe)?/i\n      - string: /PETools(\\.exe)?/i\n      - string: /LordPE(\\.exe)?/i\n      - string: /SysInspector(\\.exe)?/i\n      - string: /proc_analyzer(\\.exe)?/i\n      - string: /sysAnalyzer(\\.exe)?/i\n      - string: /sniff_hit(\\.exe)?/i\n      - string: /windbg(\\.exe)?/i\n      - string: /joeboxcontrol(\\.exe)?/i\n      - string: /joeboxserver(\\.exe)?/i\n      - string: /ResourceHacker(\\.exe)?/i\n      - string: /x32dbg(\\.exe)?/i\n      - string: /x64dbg(\\.exe)?/i\n      - string: /Fiddler(\\.exe)?/i\n      - string: /httpdebugger(\\.exe)?/i\n      - string: /fakenet(\\.exe)?/i\n      - string: /netmon(\\.exe)?/i\n      - string: /WPE PRO(\\.exe)?/i\n      - string: /decompile(\\.exe)?/i\n      - string: /scylla/i\n      - string: /megadumper/i\n",
+                "refs": [
+                    {
+                        "ref": "https://github.com/LordNoteworthy/al-khaser/blob/master/al-khaser/AntiAnalysis/process.cpp"
+                    }
+                ]
+            }
+        ],
+        "ids_alerts": [
+            {
+                "rule_msg": "ET DNS Query for .to TLD",
+                "rule_category": "Potentially Bad Traffic",
+                "rule_id": "1:2027757",
+                "alert_severity": "medium",
+                "rule_source": "Proofpoint Emerging Threats Open",
+                "alert_context": {
+                    "dest_ip": "8.8.8.8",
+                    "dest_port": 53
+                },
+                "rule_url": "https://rules.emergingthreats.net/",
+                "rule_raw": "alert dns $HOME_NET any -> any any (msg:\"ET DNS Query for .to TLD\"; dns.query; content:\".to\"; endswith; fast_pattern; classtype:bad-unknown; sid:2027757; rev:5; metadata:affected_product Any, attack_target Client_Endpoint, created_at 2019_07_26, deployment Perimeter, former_category DNS, signature_severity Minor, updated_at 2020_09_17;)"
+            },
+            {
+                "rule_msg": "ET MALWARE Phorpiex CnC Domain in DNS Lookup",
+                "rule_category": "Malware Command and Control Activity Detected",
+                "rule_id": "1:2027756",
+                "alert_severity": "high",
+                "rule_source": "Proofpoint Emerging Threats Open",
+                "alert_context": {
+                    "dest_ip": "8.8.8.8",
+                    "dest_port": 53
+                },
+                "rule_url": "https://rules.emergingthreats.net/",
+                "rule_raw": "alert dns $HOME_NET any -> any any (msg:\"ET MALWARE Phorpiex CnC Domain in DNS Lookup\"; dns.query; content:\"b0t.to\"; depth:6; nocase; endswith; classtype:command-and-control; sid:2027756; rev:3; metadata:affected_product Web_Browsers, attack_target Client_Endpoint, created_at 2019_07_24, deployment Perimeter, former_category MALWARE, signature_severity Major, updated_at 2020_09_17;)"
+            },
+            {
+                "rule_msg": "ET MALWARE Possible Compromised Host AnubisNetworks Sinkhole Cookie Value Snkz",
+                "rule_category": "A Network Trojan was detected",
+                "rule_id": "1:2018141",
+                "alert_severity": "high",
+                "rule_source": "Proofpoint Emerging Threats Open",
+                "alert_context": {
+                    "src_ip": "63.251.126.10",
+                    "src_port": 80,
+                    "hostname": "eiiiaoihoaerula.co",
+                    "url": "http://eiiiaoihoaerula.co/t.php?new=1"
+                },
+                "rule_url": "https://rules.emergingthreats.net/",
+                "rule_raw": "alert http $EXTERNAL_NET any -> $HOME_NET any (msg:\"ET MALWARE Possible Compromised Host AnubisNetworks Sinkhole Cookie Value Snkz\"; flow:established,to_client; http.cookie; content:\"snkz=\"; pcre:\"/^\\d{1,3}\\x2E\\d{1,3}\\x2E\\d{1,3}\\x2E\\d{1,3}/R\"; classtype:trojan-activity; sid:2018141; rev:5; metadata:created_at 2014_02_14, former_category TROJAN, updated_at 2020_09_13;)"
+            },
+            {
+                "rule_msg": "ET DNS Query for .cc TLD",
+                "rule_category": "Potentially Bad Traffic",
+                "rule_id": "1:2027758",
+                "alert_severity": "medium",
+                "rule_source": "Proofpoint Emerging Threats Open",
+                "alert_context": {
+                    "dest_ip": "8.8.8.8",
+                    "dest_port": 53
+                },
+                "rule_url": "https://rules.emergingthreats.net/",
+                "rule_raw": "alert dns $HOME_NET any -> any any (msg:\"ET DNS Query for .cc TLD\"; dns.query; content:\".cc\"; endswith; fast_pattern; classtype:bad-unknown; sid:2027758; rev:5; metadata:affected_product Any, attack_target Client_Endpoint, created_at 2019_07_26, deployment Perimeter, former_category DNS, signature_severity Minor, updated_at 2020_09_17;)"
+            },
+            {
+                "rule_msg": "ET DNS Query for .su TLD (Soviet Union) Often Malware Related",
+                "rule_category": "Potentially Bad Traffic",
+                "rule_id": "1:2014169",
+                "alert_severity": "medium",
+                "rule_source": "Proofpoint Emerging Threats Open",
+                "alert_context": {
+                    "dest_ip": "8.8.8.8",
+                    "dest_port": 53
+                },
+                "rule_url": "https://rules.emergingthreats.net/",
+                "rule_references": [
+                    "https://www.abuse.ch/?p=3581"
+                ],
+                "rule_raw": "alert dns $HOME_NET any -> any any (msg:\"ET DNS Query for .su TLD (Soviet Union) Often Malware Related\"; dns.query; content:\".su\"; nocase; endswith; reference:url,www.abuse.ch/?p=3581; classtype:bad-unknown; sid:2014169; rev:4; metadata:created_at 2012_01_31, updated_at 2020_09_14;)"
+            }
+        ],
+        "registry_keys_set": [
+            {
+                "key": "HKU\\S-1-5-21-1229272821-1563985344-1801674531-1003\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\RUN",
+                "value": "Microsoft Windows Driver"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\CURRENTCONTROLSET\\SERVICES\\SHAREDACCESS\\PARAMETERS\\FIREWALLPOLICY\\STANDARDPROFILE\\AUTHORIZEDAPPLICATIONS\\LIST",
+                "value": "C:\\WINDOWS\\641625010\\sysjpxy.exe"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\RUN",
+                "value": "Microsoft Windows Driver"
+            },
+            {
+                "key": "HKU\\S-1-5-21-1229272821-1563985344-1801674531-1003\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS",
+                "value": "ProxyEnable"
+            },
+            {
+                "key": "HKU\\S-1-5-21-1229272821-1563985344-1801674531-1003\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\CONNECTIONS",
+                "value": "SavedLegacySettings"
+            },
+            {
+                "key": "HKU\\S-1-5-21-1229272821-1563985344-1801674531-1003\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\MOUNTPOINTS2\\{A7A58125-718B-11E3-95AC-806D6172696F}",
+                "value": "BaseClass"
+            },
+            {
+                "key": "HKU\\S-1-5-21-1229272821-1563985344-1801674531-1003\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\MOUNTPOINTS2\\{D69D9AA6-445C-11E9-8806-806D6172696F}",
+                "value": "BaseClass"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\MICROSOFT\\SECURITY CENTER",
+                "value": "UpdatesDisableNotify"
+            },
+            {
+                "key": "HKU\\S-1-5-21-1229272821-1563985344-1801674531-1003\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\ZONEMAP",
+                "value": "ProxyBypass"
+            },
+            {
+                "key": "HKU\\S-1-5-21-1229272821-1563985344-1801674531-1003\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\MOUNTPOINTS2\\{A7A58122-718B-11E3-95AC-806D6172696F}",
+                "value": "BaseClass"
+            },
+            {
+                "key": "HKU\\S-1-5-21-1229272821-1563985344-1801674531-1003\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\ZONEMAP",
+                "value": "IntranetName"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SHELL FOLDERS",
+                "value": "CommonVideo"
+            },
+            {
+                "key": "HKU\\S-1-5-21-1229272821-1563985344-1801674531-1003\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\ZONEMAP",
+                "value": "UNCAsIntranet"
+            },
+            {
+                "key": "HKU\\S-1-5-21-1229272821-1563985344-1801674531-1003\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\INTERNET SETTINGS\\ZONEMAP",
+                "value": "AutoDetect"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SHELL FOLDERS",
+                "value": "Common Desktop"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\MICROSOFT\\SECURITY CENTER",
+                "value": "AutoUpdateDisableNotify"
+            },
+            {
+                "key": "HKU\\S-1-5-21-1229272821-1563985344-1801674531-1003\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SHELL FOLDERS",
+                "value": "AppData"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SHELL FOLDERS",
+                "value": "Common Start Menu"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SHELL FOLDERS",
+                "value": "Common Documents"
+            },
+            {
+                "key": "HKU\\S-1-5-21-1229272821-1563985344-1801674531-1003\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SHELL FOLDERS",
+                "value": "Cookies"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\MICROSOFT\\SECURITY CENTER",
+                "value": "AntiVirusOverride"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\MICROSOFT\\SECURITY CENTER",
+                "value": "UpdatesOverride"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\MICROSOFT\\SECURITY CENTER",
+                "value": "FirewallOverride"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\MICROSOFT\\SECURITY CENTER",
+                "value": "AntiVirusDisableNotify"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SHELL FOLDERS",
+                "value": "CommonMusic"
+            },
+            {
+                "key": "HKU\\S-1-5-21-1229272821-1563985344-1801674531-1003\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SHELL FOLDERS",
+                "value": "My Pictures"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\MICROSOFT\\SECURITY CENTER",
+                "value": "FirewallDisableNotify"
+            },
+            {
+                "key": "HKU\\S-1-5-21-1229272821-1563985344-1801674531-1003\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SHELL FOLDERS",
+                "value": "Personal"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS NT\\CURRENTVERSION\\SYSTEMRESTORE",
+                "value": "DisableSR"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SHELL FOLDERS",
+                "value": "Common AppData"
+            },
+            {
+                "key": "HKU\\S-1-5-21-1229272821-1563985344-1801674531-1003\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SHELL FOLDERS",
+                "value": "History"
+            },
+            {
+                "key": "HKU\\S-1-5-21-1229272821-1563985344-1801674531-1003\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SHELL FOLDERS",
+                "value": "Start Menu"
+            },
+            {
+                "key": "HKU\\S-1-5-21-1229272821-1563985344-1801674531-1003\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SHELL FOLDERS",
+                "value": "Cache"
+            },
+            {
+                "key": "HKU\\S-1-5-21-1229272821-1563985344-1801674531-1003\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SHELL FOLDERS",
+                "value": "Desktop"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\MICROSOFT\\WINDOWS\\CURRENTVERSION\\EXPLORER\\SHELL FOLDERS",
+                "value": "CommonPictures"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows Defender\\DisableAntiSpyware",
+                "value": "DWORD (0x00000001)"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\233913586\\systhjf.exe"
+            },
+            {
+                "key": "HKEY_USERS\\%SID%\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\233913586\\systhjf.exe"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\222062792\\syssszw.exe"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\222062792\\syssszw.exe"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\109326490\\sysyuur.exe"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\109326490\\sysyuur.exe"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\217577044\\sysmwgn.exe"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\217577044\\sysmwgn.exe"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\303226150\\sysnmcp.exe"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\303226150\\sysnmcp.exe"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\2745916996\\syszvmt.exe"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\2745916996\\syszvmt.exe"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\239122824\\sysbdzs.exe"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\239122824\\sysbdzs.exe"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\2881627024\\sysqbmc.exe"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\2881627024\\sysqbmc.exe"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\174814473\\sysudxy.exe"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\174814473\\sysudxy.exe"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\1326429649\\systnut.exe"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\1326429649\\systnut.exe"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WBEM\\WDM\\C:\\Windows\\system32\\advapi32.dll[MofResourceName]",
+                "value": "LowDateTime:-1571866448,HighDateTime:30573362***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WBEM\\WDM\\IDE\\DiskQEMU_HARDDISK___________________________2.5+____\\5&2770a7af&0&0.0.0_0-{05901221-D566-11d1-B2F0-00A0C9062910}",
+                "value": "LowDateTime:803713417,HighDateTime:0***Binary mof compiled successfully"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\SharedAccess\\Parameters\\FirewallPolicy\\StandardProfile\\AuthorizedApplications\\List\\C:\\WINDOWS\\1368612950\\sysfhuy.exe",
+                "value": "C:\\WINDOWS\\1368612950\\sysfhuy.exe:*:Enabled:Microsoft Windows Driver\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\WINDOWS\\1368612950\\sysfhuy.exe\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\WINDOWS\\1368612950\\sysfhuy.exe\u0000"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\1304726701\\syswerh.exe"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\1304726701\\syswerh.exe"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Ouranos"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Ouranos\\QuickWin"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Ouranos\\QuickWin\\Recent File List"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Ouranos\\QuickWin\\Settings"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\298418843\\sysildp.exe"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\Microsoft Windows Driver",
+                "value": "C:\\Windows\\298418843\\sysildp.exe"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows Defender\\DisableAntiSpyware",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows Defender\\Real-Time Protection\\DisableScanOnRealtimeEnable",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows Defender\\Real-Time Protection\\DisableOnAccessProtection",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows Defender\\Real-Time Protection\\DisableBehaviorMonitoring",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Security Center\\AntiVirusOverride",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Security Center\\UpdatesOverride",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Security Center\\FirewallOverride",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Security Center\\AntiVirusDisableNotify",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Security Center\\UpdatesDisableNotify",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Security Center\\AutoUpdateDisableNotify",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Security Center\\FirewallDisableNotify",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\SystemRestore\\DisableSR",
+                "value": "1"
+            }
+        ],
+        "mitre_attack_techniques": [
+            {
+                "id": "T1027",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "encode data using XOR",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "encode data using XOR"
+                    }
+                ]
+            },
+            {
+                "id": "T1056.001",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "log keystrokes via application hook",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "log keystrokes via application hook"
+                    }
+                ]
+            },
+            {
+                "id": "T1129",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "link function at runtime on Windows",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "link function at runtime on Windows"
+                    }
+                ]
+            },
+            {
+                "id": "T1012",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "query or enumerate registry value",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "query or enumerate registry value"
+                    }
+                ]
+            }
+        ],
+        "processes_created": [
+            "C:\\DOCUME~1\\Miller\\LOCALS~1\\Temp\\1.exe",
+            "C:\\WINDOWS\\641625010\\sysjpxy.exe",
+            "%SAMPLEPATH%\\QuickWin.EXE",
+            "C:\\Windows\\233913586\\systhjf.exe",
+            "C:\\Windows\\222062792\\syssszw.exe",
+            "C:\\Windows\\109326490\\sysyuur.exe",
+            "C:\\Windows\\217577044\\sysmwgn.exe",
+            "C:\\Windows\\303226150\\sysnmcp.exe",
+            "C:\\Windows\\2745916996\\syszvmt.exe",
+            "C:\\Windows\\239122824\\sysbdzs.exe",
+            "C:\\Windows\\2881627024\\sysqbmc.exe",
+            "C:\\Windows\\174814473\\sysudxy.exe",
+            "C:\\Windows\\1326429649\\systnut.exe",
+            "C:\\WINDOWS\\system32\\drwtsn32 -p 1840 -e 184 -g",
+            "sample.exe",
+            "C:\\Windows\\1304726701\\syswerh.exe"
+        ],
+        "files_attribute_changed": [
+            "C:\\WINDOWS\\641625010\\sysjpxy.exe",
+            "C:\\WINDOWS\\641625010",
+            "C:\\WINDOWS\\system32\\cmd.exe",
+            "C:\\Documents and Settings\\Miller\\IETldCache\\index.dat",
+            "Z:\\__",
+            "C:\\Documents and Settings\\Miller\\Local Settings\\Temporary Internet Files\\Content.IE5\\index.dat",
+            "C:\\Documents and Settings\\Miller\\Local Settings\\Temporary Internet Files\\Content.IE5",
+            "Z:\\__\\DriveMgr.exe",
+            "C:\\Documents and Settings\\Miller\\Cookies\\index.dat",
+            "C:\\Documents and Settings\\Miller\\Local Settings\\History\\History.IE5\\index.dat",
+            "C:\\Documents and Settings\\Miller\\Local Settings\\History\\History.IE5",
+            "Z:\\.lnk",
+            "C:\\Documents and Settings\\Miller\\Cookies",
+            "C:\\Documents and Settings\\Miller\\Local Settings\\History",
+            "C:\\Documents and Settings\\Miller\\IETldCache\\",
+            "C:\\Documents and Settings\\Miller\\Local Settings\\Temporary Internet Files",
+            "C:\\WINDOWS\\1368612950\\sysfhuy.exe"
+        ],
+        "files_copied": [
+            {
+                "source": "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe ",
+                "destination": "C:\\WINDOWS\\1368612950\\sysfhuy.exe "
+            },
+            {
+                "source": "C:\\Users\\<USER>\\Downloads\\sample.exe",
+                "destination": "C:\\Windows\\1304726701\\syswerh.exe"
+            }
+        ],
+        "files_dropped": [
+            {
+                "path": "C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat"
+            },
+            {
+                "path": "C:\\Windows\\System32\\spp\\store\\2.0\\data.dat.tmp"
+            },
+            {
+                "path": "C:\\Windows\\233913586"
+            },
+            {
+                "path": "C:\\Windows\\233913586\\systhjf.exe"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Roaming\\winsvcs.txt"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\P3H6T8JU\\t[1].php"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCookies\\851WKIJP.cookie"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCookies\\QOZHZ3JI.cookie"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\CUZ97RYF\\t[1].htm"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCookies\\RRTHT5FC.cookie"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Microsoft\\Windows\\INetCookies\\612E8MU9.cookie"
+            },
+            {
+                "path": "C:\\Windows\\298418843\\sysildp.exe",
+                "sha256": "CFA7EDC52CB8289EA0822520ADF2C116C879C522AF81A8AEA35E9421A9019535",
+                "type": "PE_EXE"
+            },
+            {
+                "path": "/t.php",
+                "sha256": "c50e82c54b97c961f36c591a53baaf7477f7dedc3629461c9fb36730f1fc656c",
+                "type": "HTML",
+                "download_url": "http://hehfaofiehgggla.co/t.php?new=1"
+            },
+            {
+                "path": "/t.php",
+                "sha256": "21b53ee7c906116ed20b6036cd5d76f7ac0dffca0abeac80d3880a70ea697c0c",
+                "type": "HTML",
+                "download_url": "http://gshrghirhgsgrla.co/t.php?new=1"
+            },
+            {
+                "path": "/t.php",
+                "sha256": "340c8464c2007ce3f80682e15dfafa4180b641d53c14201b929906b7b0284d87",
+                "type": "HTML",
+                "download_url": "http://ouhgousgoahutla.co/t.php?new=1"
+            },
+            {
+                "path": "/t.php",
+                "sha256": "520e5c570dc9505b58dbb96a6f3085fa068a75f19e9604cdf60d160e84f9d115",
+                "type": "HTML",
+                "download_url": "http://eiiiaoihoaerutr.cc/t.php?new=1"
+            }
+        ],
+        "registry_keys_opened": [
+            "HKEY_CURRENT_USER\\Software\\Ouranos",
+            "HKEY_CURRENT_USER\\Software\\Ouranos\\QuickWin",
+            "HKEY_CURRENT_USER\\Software\\Ouranos\\QuickWin\\Recent File List",
+            "HKEY_CURRENT_USER\\Software\\Ouranos\\QuickWin\\Settings",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\996E.exe",
+            "\\Registry\\MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\TransparentEnabled",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\COMCTL32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SHELL32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\comctl32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ntdll.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\KERNEL32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\GDI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USER32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\Secur32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\RPCRT4.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ADVAPI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\msvcrt.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WS2HELP.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WS2_32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SHLWAPI.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\PSAPI.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ole32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\OLEAUT32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\winime32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\IMM32.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USP10.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\LPK.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\comdlg32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WINSPOOL.DRV",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\oledlg.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\OLEPRO32.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\MSCTF.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\MSASN1.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\Crypt32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WININET.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\VERSION.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\urlmon.dll",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Security_HKLM_only",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains\\",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains\\",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Ranges\\",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Ranges\\",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\rsaenh.dll",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Cryptography",
+            "\\REGISTRY\\MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\996E.exe\\RpcThreadPoolThrottle",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Rpc",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\",
+            "\\Registry\\MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\AppCertDlls",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\Apphelp.dll",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\AuthenticodeEnabled",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\LevelObjects",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\Levels",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths\\{dda3f824-d8cb-441b-834d-be2efd2c1a33}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths\\{dda3f824-d8cb-441b-834d-be2efd2c1a33}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths\\{dda3f824-d8cb-441b-834d-be2efd2c1a33}\\SaferFlags",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}\\SaferFlags",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}\\SaferFlags",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}\\SaferFlags",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}\\SaferFlags",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}\\SaferFlags",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\UrlZones",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Paths",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Hashes",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\UrlZones",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Paths",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Hashes",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\UrlZones",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Paths",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Hashes",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\UrlZones",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Paths",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Hashes",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\UrlZones",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\DefaultLevel",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\PolicyScope",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Cache",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\LogFileName",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\sysfhuy.exe",
+            "HKEY_CURRENT_USER\\software",
+            "HKEY_CURRENT_USER\\software\\Ouranos",
+            "HKEY_CURRENT_USER\\software\\Ouranos\\QuickWin",
+            "HKEY_CURRENT_USER\\software\\Ouranos\\QuickWin\\Recent File List",
+            "HKEY_CURRENT_USER\\software\\Ouranos\\QuickWin\\Settings",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\SharedAccess\\Parameters\\FirewallPolicy\\StandardProfile\\AuthorizedApplications\\List",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\",
+            "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+            "HKEY_CURRENT_USER\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+            "HKEY_CURRENT_USER\\Software",
+            "HKEY_CURRENT_USER\\Software\\Classes\\Local Settings",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Download",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_ALLOW_REVERSE_SOLIDUS_IN_USERINFO_KB932562",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_ALWAYS_USE_DNS_FOR_SPN_KB3022771",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_BUFFERBREAKING_818408",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_BYPASS_CACHE_FOR_CREDPOLICY_KB936611",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_COMPAT_USE_CONNECTION_BASED_NEGOTIATE_AUTH_KB2151543",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_DIGEST_NO_EXTRAS_IN_URI",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_DISABLE_NOTIFY_UNVERIFIED_SPN_KB2385266",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_DISABLE_UNICODE_HANDLE_CLOSING_CALLBACK",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_DISALLOW_NULL_IN_RESPONSE_HEADERS",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_ENABLE_TOKEN_BINDING",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_EXCLUDE_INVALID_CLIENT_CERT_KB929477",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_FIX_CHUNKED_PROXY_SCRIPT_DOWNLOAD_KB843289",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_HTTP_USERNAME_PASSWORD_DISABLE",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_IGNORE_MAPPINGS_FOR_CREDPOLICY",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_IGNORE_POLICIES_ZONEMAP_IF_ESC_ENABLED_KB918915",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_INCLUDE_PORT_IN_SPN_KB908209",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_LOCALMACHINE_LOCKDOWN",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_MIME_HANDLING",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_PERMIT_CACHE_FOR_AUTHENTICATED_FTP_KB910274",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_PRESERVE_SPACES_IN_FILENAMES_KB952730",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_RETURN_FAILED_CONNECT_CONTENT_KB942615",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_SCH_SEND_AUX_RECORD_KB_2618444",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_SKIP_POST_RETRY_ON_INTERNETWRITEFILE_KB895954",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_URI_DISABLECACHE",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_USE_CNAME_FOR_SPN_KB911149",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_USE_IETLDLIST_FOR_DOMAIN_DETERMINATION",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_USE_UTF8_FOR_BASIC_AUTH_KB967545",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_ZONES_CHECK_ZONEMAP_POLICY_KB941001",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_ZONE_ELEVATION",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\RETRY_HEADERONLYPOST_ONCONNECTIONRESET",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Security",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\SessionInfo\\1",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\SessionInfo\\1\\KnownFolders",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\Content",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\Cookies",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\Extensible Cache",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\5.0\\Cache\\History",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Lockdown_Zones\\",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Lockdown_Zones\\0",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Lockdown_Zones\\1",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Lockdown_Zones\\2",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Lockdown_Zones\\3",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Lockdown_Zones\\4",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\P3P\\History",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\P3P\\History\\aaaeieiiioffftr.cc",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\P3P\\History\\aaaeieiiiofffzt.io",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\P3P\\History\\aaauuwiifoogetr.cc",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\P3P\\History\\aefhuoaeudofrla.co",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\P3P\\History\\eiiiaoihoaerula.co",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\P3P\\History\\infineinfinigtr.cc",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\P3P\\History\\plporsiszsgetla.co",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\P3P\\History\\rguaouhouaefela.co",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains\\",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\ProtocolDefaults\\",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Ranges\\",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\windows\\CurrentVersion\\Internet Settings",
+            "HKEY_CURRENT_USER\\Software\\Policies",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Internet Explorer",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Internet Explorer\\Main",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Internet Explorer\\Security",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Lockdown_Zones\\",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Lockdown_Zones\\0",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Lockdown_Zones\\1",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Lockdown_Zones\\2",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Lockdown_Zones\\3",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Lockdown_Zones\\4",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains\\",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Explorer",
+            "HKEY_CURRENT_USER\\ZoneMap\\Ranges\\",
+            "HKEY_CURRENT_USER_Classes",
+            "HKEY_CURRENT_USER_Classes\\Local Settings\\Software\\Microsoft",
+            "HKEY_CURRENT_USER_Classes\\Local Settings\\Software\\Microsoft\\Ole",
+            "HKEY_CURRENT_USER_Classes\\Local Settings\\Software\\Microsoft\\Ole\\FeatureDevelopmentProperties",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\AppModel\\Lookaside\\Packages",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DllNXOptions",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\program.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\sysildp.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Internet Explorer\\Security",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Cryptography\\Defaults\\Provider Types\\Type 024",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Enhanced RSA and AES Cryptographic Provider",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_ALLOW_REVERSE_SOLIDUS_IN_USERINFO_KB932562",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_ALWAYS_USE_DNS_FOR_SPN_KB3022771",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_BUFFERBREAKING_818408",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_BYPASS_CACHE_FOR_CREDPOLICY_KB936611",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_COMPAT_USE_CONNECTION_BASED_NEGOTIATE_AUTH_KB2151543",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_DIGEST_NO_EXTRAS_IN_URI",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_DISABLE_NOTIFY_UNVERIFIED_SPN_KB2385266",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_DISABLE_UNICODE_HANDLE_CLOSING_CALLBACK",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_DISALLOW_NULL_IN_RESPONSE_HEADERS",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_ENABLE_PASSPORT_SESSION_STORE_KB948608",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_ENABLE_TOKEN_BINDING",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_EXCLUDE_INVALID_CLIENT_CERT_KB929477",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_FIX_CHUNKED_PROXY_SCRIPT_DOWNLOAD_KB843289",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_HTTP_USERNAME_PASSWORD_DISABLE",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_IGNORE_MAPPINGS_FOR_CREDPOLICY",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_IGNORE_POLICIES_ZONEMAP_IF_ESC_ENABLED_KB918915",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_INCLUDE_PORT_IN_SPN_KB908209",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_LOCALMACHINE_LOCKDOWN",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_MIME_HANDLING",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_PERMIT_CACHE_FOR_AUTHENTICATED_FTP_KB910274",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_PRESERVE_SPACES_IN_FILENAMES_KB952730",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_RETURN_FAILED_CONNECT_CONTENT_KB942615",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_SCH_SEND_AUX_RECORD_KB_2618444",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_SKIP_POST_RETRY_ON_INTERNETWRITEFILE_KB895954",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_URI_DISABLECACHE",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_USE_CNAME_FOR_SPN_KB911149",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_USE_IETLDLIST_FOR_DOMAIN_DETERMINATION",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_USE_UTF8_FOR_BASIC_AUTH_KB967545",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_ZONES_CHECK_ZONEMAP_POLICY_KB941001",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_ZONE_ELEVATION",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\RETRY_HEADERONLYPOST_ONCONNECTIONRESET",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\OLE",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\OLEAUT",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Security Center",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Security Center\\Svc",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\SystemRestore",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{2B0F765D-C0E9-4171-908E-08A611B84FF6}",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{2B0F765D-C0E9-4171-908E-08A611B84FF6}\\PropertyBag",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{352481E8-33BE-4251-BA85-6007CAEDCF9D}",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{352481E8-33BE-4251-BA85-6007CAEDCF9D}\\PropertyBag",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{5E6C858F-0E22-4760-9AFE-EA3317B67173}",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\\PropertyBag",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{D9DC8A3B-B784-432E-A781-5A1130A75963}",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{D9DC8A3B-B784-432E-A781-5A1130A75963}\\PropertyBag",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\\PropertyBag",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\WinHttp",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Run\\",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Policies\\Microsoft\\Windows Defender",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Policies\\Microsoft\\Windows Defender\\Real-Time Protection",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Policies\\Microsoft\\Windows NT\\DNSClient\\DnsPolicyConfig",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Policies\\Microsoft\\WindowsStore",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages\\en-US",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\Dnscache\\InterfaceSpecificParameters\\{92904508-F335-4574-A127-534547B20089}",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\Tcpip\\Parameters\\Interfaces\\{3882a85b-858a-11eb-b9e1-806e6f6e6963}",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\AppId_Catalog",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\AppId_Catalog\\233CBD6C",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\00000014",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000001",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000002",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000003",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000004",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000005",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries\\000000000006",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\00000007",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000001",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000002",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000003",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000004",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000005",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000006",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000007",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000008",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000009",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000010",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries\\000000000011"
+        ],
+        "attack_techniques": {
+            "T1027": [
+                {
+                    "severity": "INFO",
+                    "description": "encode data using XOR"
+                }
+            ],
+            "T1056.001": [
+                {
+                    "severity": "INFO",
+                    "description": "log keystrokes via application hook"
+                }
+            ],
+            "T1129": [
+                {
+                    "severity": "INFO",
+                    "description": "link function at runtime on Windows"
+                }
+            ],
+            "T1012": [
+                {
+                    "severity": "INFO",
+                    "description": "query or enumerate registry value"
+                }
+            ]
+        }
+    }
+}

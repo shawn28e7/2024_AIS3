@@ -1,0 +1,1533 @@
+{
+    "data": {
+        "processes_injected": [
+            "%USERPROFILE%\\AppData\\Local\\Temp\\SVCHOST.exe",
+            "C:\\Windows\\explorer.exe",
+            "(1364) C:\\Windows\\explorer.exe"
+        ],
+        "registry_keys_deleted": [
+            "\\REGISTRY\\USER\\.DEFAULT\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ProxyServer",
+            "\\REGISTRY\\USER\\.DEFAULT\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ProxyOverride",
+            "\\REGISTRY\\USER\\.DEFAULT\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\AutoConfigURL"
+        ],
+        "files_copied": [
+            {
+                "source": "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\~ER2.tmp ",
+                "destination": "C:\\WINDOWS\\system32\\msw32time.dll "
+            }
+        ],
+        "files_attribute_changed": [
+            "C:\\Windows\\System32\\msthemeservice.dll"
+        ],
+        "processes_tree": [
+            {
+                "process_id": "3024",
+                "name": "%WINDIR%\\explorer.exe",
+                "children": [
+                    {
+                        "process_id": "2444",
+                        "name": "%SAMPLEPATH%\\6724c041fe0df61a619006bf1df4a759f4f22a65e2afda32501760ebc9ebe25d.exe",
+                        "children": [
+                            {
+                                "process_id": "1952",
+                                "name": "%USERPROFILE%\\AppData\\Local\\Temp\\SVCHOST.exe"
+                            },
+                            {
+                                "process_id": "3596",
+                                "name": "C:\\Windows\\SysWOW64\\cmd.exe"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "process_id": "612",
+                "name": "C:\\Windows\\System32\\svchost.exe",
+                "children": [
+                    {
+                        "process_id": "1712",
+                        "name": "C:\\Windows\\System32\\dllhost.exe"
+                    },
+                    {
+                        "process_id": "4092",
+                        "name": "C:\\Windows\\System32\\wuapihost.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "2184",
+                "name": "C:\\Windows\\explorer.exe",
+                "children": [
+                    {
+                        "process_id": "2088",
+                        "name": "C:\\Windows\\System32\\Sysprep\\sysprep.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "1432",
+                "name": "****.exe",
+                "children": [
+                    {
+                        "process_id": "1488",
+                        "name": "svchost.exe",
+                        "children": [
+                            {
+                                "process_id": "2192",
+                                "name": "cmd.exe cmd /c ~rf3.bat"
+                            }
+                        ]
+                    },
+                    {
+                        "process_id": "2212",
+                        "name": "cmd.exe cmd /c ud.bat"
+                    }
+                ]
+            },
+            {
+                "process_id": "2072",
+                "name": "6724c041fe0df61a619006bf1df4a759f4f22a65e2afda32501760ebc9ebe25d.exe",
+                "children": [
+                    {
+                        "process_id": "2372",
+                        "name": "C:\\Users\\<USER>\\AppData\\Local\\Temp\\\\ud.bat",
+                        "time_offset": 2
+                    },
+                    {
+                        "process_id": "2256",
+                        "name": "C:\\Users\\<USER>\\AppData\\Local\\Temp\\SVCHOST.exe C:\\Users\\<USER>\\AppData\\Local\\Temp\\w7e89.tmp",
+                        "time_offset": 1
+                    }
+                ]
+            },
+            {
+                "process_id": "212",
+                "name": "\"C:\\Users\\user\\Desktop\\executable.exe\" ",
+                "children": [
+                    {
+                        "process_id": "1032",
+                        "name": "C:\\Users\\user\\AppData\\Local\\Temp\\SVCHOST.exe\" \"C:\\Users\\user\\AppData\\Local\\Temp\\w7e89.tmp",
+                        "children": [
+                            {
+                                "process_id": "4972",
+                                "name": "C:\\Windows\\explorer.exe C:\\Windows\\Explorer.EXE",
+                                "children": [
+                                    {
+                                        "process_id": "7760",
+                                        "name": "C:\\Windows\\System32\\Sysprep\\sysprep.exe C:\\Windows\\System32\\sysprep\\sysprep.exe\" \"\"C:\\Users\\user\\AppData\\Local\\Temp\\w7e89.tmp\"\" \"C:\\Windows\\system32\" \"*n/a"
+                                    },
+                                    {
+                                        "process_id": "7880",
+                                        "name": "C:\\Windows\\System32\\Sysprep\\sysprep.exe C:\\Windows\\System32\\sysprep\\sysprep.exe\" \"\"C:\\Users\\user\\AppData\\Local\\Temp\\w7e89.tmp\"\" \"C:\\Windows\\system32\" \"*n/a"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "process_id": "7932",
+                        "name": "C:\\Windows\\SysWOW64\\cmd.exe C:\\Windows\\system32\\cmd.exe /c C:\\Users\\user\\AppData\\Local\\Temp\\\\ud.bat",
+                        "children": [
+                            {
+                                "process_id": "7704",
+                                "name": "C:\\Windows\\System32\\conhost.exe C:\\Windows\\system32\\conhost.exe 0xffffffff -ForceV1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "mutexes_opened": [
+            "_!MSFTHISTORY!_",
+            "c:!documents and settings!localservice!local settings!temporary internet files!content.ie5!",
+            "c:!documents and settings!localservice!cookies!",
+            "c:!documents and settings!localservice!local settings!history!history.ie5!",
+            "WininetStartupMutex",
+            "WininetProxyRegistryMutex",
+            "RasPbFile"
+        ],
+        "verdict_labels": [
+            "Codoso Ghost",
+            "UACMe"
+        ],
+        "registry_keys_set": [
+            {
+                "key": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\W32Timekit\\Type",
+                "value": "20000000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\W32Timekit\\Parameters\\ServiceDll",
+                "value": "C:\\WINDOWS\\system32\\msw32time.dll\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\W32Timekit\\Parameters\\ServiceMain",
+                "value": "ServiceMain\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\SvcHost\\netsvcs",
+                "value": "6to4\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\Config\\CName",
+                "value": "cooname\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\Config\\Name",
+                "value": "co^0800277A0DD3[0]\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\Config\\Index",
+                "value": "00000000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Cache\\Paths\\Directory",
+                "value": "C:\\Documents and Settings\\LocalService\\Local Settings\\Temporary Internet Files\\Content.IE5\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Cache\\Paths\\path1\\CachePath",
+                "value": "C:\\Documents and Settings\\LocalService\\Local Settings\\Temporary Internet Files\\Content.IE5\\Cache1\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Cache\\Paths\\path2\\CachePath",
+                "value": "C:\\Documents and Settings\\LocalService\\Local Settings\\Temporary Internet Files\\Content.IE5\\Cache2\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Cache\\Paths\\path3\\CachePath",
+                "value": "C:\\Documents and Settings\\LocalService\\Local Settings\\Temporary Internet Files\\Content.IE5\\Cache3\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Cache\\Paths\\path4\\CachePath",
+                "value": "C:\\Documents and Settings\\LocalService\\Local Settings\\Temporary Internet Files\\Content.IE5\\Cache4\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\.DEFAULT\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Cookies",
+                "value": "C:\\Documents and Settings\\LocalService\\Cookies\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\.DEFAULT\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\History",
+                "value": "C:\\Documents and Settings\\LocalService\\Local Settings\\History\u0000"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\.DEFAULT\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ProxyEnable",
+                "value": "00000000"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\.DEFAULT\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Connections\\SavedLegacySettings",
+                "value": "3C000000010000000900000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\.DEFAULT\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Connections\\DefaultConnectionSettings",
+                "value": "3C0000000100000009000000000000000000000000000000040000001D000000687474703A2F2F3131302E3131302E3131302E312F777061642E64617460C88EB218D6D701000000000000000000000000"
+            },
+            {
+                "key": "HKLM\\System\\CurrentControlSet\\services\\Themeskit\\Start",
+                "value": "DWORD (0x00000002)"
+            },
+            {
+                "key": "HKLM\\System\\CurrentControlSet\\services\\Themeskit\\ImagePath",
+                "value": "%%SystemRoot%%\\System32\\svchost.exe -k netsvcs"
+            },
+            {
+                "key": "HKLM\\System\\CurrentControlSet\\services\\Themeskit\\Parameters\\ServiceDll",
+                "value": "%%SystemRoot%%\\system32\\msthemeservice.dll"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows Media Player NSS\\3.0\\Servers\\A70D59A1-8EAD-4F40-AAAB-FBFC460800A4\\FriendlyName",
+                "value": "WORK: admin:"
+            }
+        ],
+        "files_deleted": [
+            "%USERPROFILE%\\AppData\\Local\\Temp\\w7eD580.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF230.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF231.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF2BC.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF2ED.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF2EC.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF2FE.tmp.txt",
+            "%SAMPLEPATH%\\6724c041fe0df61a619006bf1df4a759f4f22a65e2afda32501760ebc9ebe25d.exe",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\ud.bat",
+            "C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\w7e23A1.tmp",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\ud.bat",
+            "C:\\analyse\\1541757314.7056446_03ba0e02-9e40-4983-8445-d452d556e80f",
+            "C:\\Documents and Settings\\LocalService\\Local Settings\\Temporary Internet Files\\Content.IE5\\0DQRCL6J\\login_ok[1].php",
+            "C:\\Documents and Settings\\LocalService\\Local Settings\\Temporary Internet Files\\Content.IE5\\0DQRCL6J\\wpad[1].dat",
+            "C:\\WINDOWS\\Temp\\~13785.tmp",
+            "\"C:\\Users\\<USER>\\AppData\\Local\\Temp\\SVCHOST.exe\" \"C:\\Users\\<USER>\\AppData\\Local\\Temp\\w7e89.tmp\"",
+            "C:\\Users\\<USER>\\Downloads\\6724c041fe0df61a619006bf1df4a759f4f22a65e2afda32501760ebc9ebe25d.exe",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\w7e58D.tmp"
+        ],
+        "services_opened": [
+            "W32Timekit",
+            "RASMAN"
+        ],
+        "processes_created": [
+            "%SAMPLEPATH%\\6724c041fe0df61a619006bf1df4a759f4f22a65e2afda32501760ebc9ebe25d.exe",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\SVCHOST.exe",
+            "C:\\Windows\\System32\\dllhost.exe",
+            "C:\\Windows\\System32\\Sysprep\\sysprep.exe",
+            "C:\\Windows\\System32\\wuapihost.exe",
+            "C:\\Windows\\SysWOW64\\cmd.exe",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\SVCHOST.exe",
+            "C:\\WINDOWS\\system32\\cmd.exe",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\SVCHOST.exe C:\\Users\\<USER>\\AppData\\Local\\Temp\\w7e89.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\\\ud.bat"
+        ],
+        "mutexes_created": [
+            "ZonesCounterMutex",
+            "ZonesCacheCounterMutex",
+            "ZonesLockedCacheCounterMutex",
+            "RasPbFile",
+            "\\Sessions\\1\\BaseNamedObjects\\SYSPREP-APP-5c9fbbd0-ee0e-11d2-9a21-0000f81edacc",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\WdsSetupLogInit",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\SetupLog"
+        ],
+        "services_created": [
+            "W32Timekit"
+        ],
+        "tags": [
+            "DETECT_DEBUG_ENVIRONMENT",
+            "SELF_DELETE",
+            "DIRECT_CPU_CLOCK_ACCESS",
+            "RUNTIME_MODULES",
+            "PERSISTENCE"
+        ],
+        "verdicts": [
+            "MALWARE",
+            "EVADER",
+            "TROJAN"
+        ],
+        "registry_keys_opened": [
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\996E.exe",
+            "\\Registry\\MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\TransparentEnabled",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\Registry\\MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\AppCertDlls",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\Apphelp.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ntdll.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\KERNEL32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\GDI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USER32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\Secur32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\RPCRT4.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ADVAPI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\msvcrt.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WS2HELP.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WS2_32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SHLWAPI.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\PSAPI.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ole32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\OLEAUT32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\winime32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\IMM32.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USP10.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\LPK.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\VERSION.dll",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\AuthenticodeEnabled",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\LevelObjects",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\Levels",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths\\{dda3f824-d8cb-441b-834d-be2efd2c1a33}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths\\{dda3f824-d8cb-441b-834d-be2efd2c1a33}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths\\{dda3f824-d8cb-441b-834d-be2efd2c1a33}\\SaferFlags",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}\\SaferFlags",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}\\SaferFlags",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}\\SaferFlags",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}\\SaferFlags",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}\\SaferFlags",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\UrlZones",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Paths",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Hashes",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\UrlZones",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Paths",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Hashes",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\UrlZones",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Paths",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Hashes",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\UrlZones",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Paths",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Hashes",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\UrlZones",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\DefaultLevel",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\PolicyScope",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Cache",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\LogFileName",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SVCHOST.exe",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Abiosdsk\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\abp480n5\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\ACPI\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\ACPI\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\ACPIEC\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\adpu160m\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\AFD\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\AFD\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\agp440\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\agp440\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Aha154x\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\aic78u2\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\aic78xx\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\ALG\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\ALG\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\AliIde\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\amsint\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\AppMgmt\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\AppMgmt\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\asc\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\asc3350p\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\asc3550\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\aspnet_state\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\aspnet_state\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\AsyncMac\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\AsyncMac\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\atapi\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\atapi\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Atdisk\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\AudioSrv\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\AudioSrv\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\audstub\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\audstub\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Beep\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\BITS\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\BITS\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Browser\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Browser\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\cbidf2k\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\cd20xrnt\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Cdaudio\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Cdfs\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Cdrom\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Cdrom\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Changer\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\ClipSrv\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\ClipSrv\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\clr_optimization_v2.0.50727_32\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\clr_optimization_v2.0.50727_32\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\clr_optimization_v4.0.30319_32\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\clr_optimization_v4.0.30319_32\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\CMB8100\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\CMB8100\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\CmBatt\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\CmBatt\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\CMBProtector\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\CMBProtector\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\CmdIde\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Compbatt\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Compbatt\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\COMSysApp\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\COMSysApp\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Cpqarray\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\CryptSvc\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\CryptSvc\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\dac2w2k\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\dac960nt\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\DcomLaunch\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\DcomLaunch\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Dhcp\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Dhcp\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Disk\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Disk\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\dmadmin\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\dmadmin\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\dmboot\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\dmboot\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\dmio\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\dmio\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\dmload\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\dmload\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\dmserver\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\dmserver\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Dnscache\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Dnscache\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Dot3svc\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Dot3svc\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\dpti2o\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\EapHost\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\EapHost\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Eventlog\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Eventlog\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\EventSystem\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\EventSystem\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Fastfat\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\FastUserSwitchingCompatibility\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\FastUserSwitchingCompatibility\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Fdc\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Fdc\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Fips\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Flpydisk\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Flpydisk\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\FltMgr\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\FltMgr\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\FontCache3.0.0.0\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\FontCache3.0.0.0\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\FsVga\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\FsVga\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Fs_Rec\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Ftdisk\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Ftdisk\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Gpc\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Gpc\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\HidServ\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\HidServ\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\hidusb\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\hidusb\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\hkmsvc\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\hkmsvc\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\hpn\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\HTTP\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\HTTP\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\HTTPFilter\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\HTTPFilter\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\i2omgmt\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\i2omp\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\i8042prt\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\i8042prt\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\idsvc\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\idsvc\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Imapi\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Imapi\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\ImapiService\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\ImapiService\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\ini910u\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\IntelIde\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\IntelIde\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\intelppm\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\intelppm\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Ip6Fw\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Ip6Fw\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\IpFilterDriver\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\IpFilterDriver\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\IpInIp\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\IpInIp\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\IpNat\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\IpNat\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\IPSec\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\IPSec\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\IRENUM\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\IRENUM\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\isapnp\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\isapnp\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Kbdclass\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Kbdclass\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\KSecDD\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\LanmanServer\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\LanmanServer\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\lanmanworkstation\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\lanmanworkstation\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\lbrtfdc\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\LmHosts\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\LmHosts\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Messenger\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Messenger\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\mnmdd\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\mnmsrvc\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\mnmsrvc\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Modem\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Mouclass\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Mouclass\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\mouhid\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\mouhid\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\MountMgr\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\mraid35x\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\MRxDAV\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\MRxDAV\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\MRxSmb\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\MRxSmb\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\MSDTC\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\MSDTC\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Msfs\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\MSIServer\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\MSIServer\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\mssmbios\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\mssmbios\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Mup\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\napagent\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\napagent\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\NDIS\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\NdisTapi\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\NdisTapi\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Ndisuio\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Ndisuio\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\NdisWan\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\NdisWan\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\NDProxy\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\NetBIOS\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\NetBIOS\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\NetBT\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\NetBT\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\NetDDE\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\NetDDE\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\NetDDEdsdm\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\NetDDEdsdm\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Netlogon\\Start",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Netlogon\\ImagePath",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet002\\Services\\Netman\\ImagePath",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\CTF\\DirectSwitchHotkeys",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Security",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\App Paths\\sysprep.exe",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\AllowedEnumeration",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\MountPoints2\\CPC\\Volume",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\MountPoints2\\CPC\\Volume\\{15734c0b-4aaa-4cbe-ad75-3e504f42acb3}\\",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\SessionInfo\\1",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\SessionInfo\\1\\ApplicationViewManagement\\W32:00000000001002C6",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\SessionInfo\\1\\UsersFiles\\NameSpace",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\SessionInfo\\1\\UsersFiles\\NameSpace\\DelegateFolders",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\UsersFiles\\NameSpace",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\UsersFiles\\NameSpace\\DelegateFolders",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Shell Extensions\\Blocked",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Shell Extensions\\Cached",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\AppCompat",
+            "HKEY_CURRENT_USER_Classes\\.exe",
+            "HKEY_CURRENT_USER_Classes\\Applications\\%1.exe",
+            "HKEY_CURRENT_USER_Classes\\Applications\\sysprep.exe",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{0E5AAE11-A475-4C5B-AB00-C66DE400274E}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{0E5AAE11-A475-4C5B-AB00-C66DE400274E}\\InProcServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{0E5AAE11-A475-4c5b-AB00-C66DE400274E}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{0E5AAE11-A475-4c5b-AB00-C66DE400274E}\\InProcServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{0E5AAE11-A475-4c5b-AB00-C66DE400274E}\\InprocHandler",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{0E5AAE11-A475-4c5b-AB00-C66DE400274E}\\InprocHandler32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{0E5AAE11-A475-4c5b-AB00-C66DE400274E}\\InprocServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{0E5AAE11-A475-4c5b-AB00-C66DE400274E}\\TreatAs",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{3AD05575-8857-4850-9277-11B85BDB8E09}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{3ad05575-8857-4850-9277-11b85bdb8e09}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{3ad05575-8857-4850-9277-11b85bdb8e09}\\InProcServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{3ad05575-8857-4850-9277-11b85bdb8e09}\\InprocHandler",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{3ad05575-8857-4850-9277-11b85bdb8e09}\\InprocHandler32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{3ad05575-8857-4850-9277-11b85bdb8e09}\\InprocServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{3ad05575-8857-4850-9277-11b85bdb8e09}\\TreatAs",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{4234D49B-0245-4DF3-B780-3893943456E1}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{4234D49B-0245-4DF3-B780-3893943456E1}\\InProcServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{4234D49B-0245-4DF3-B780-3893943456E1}\\Instance",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{4234D49B-0245-4DF3-B780-3893943456E1}\\ShellFolder",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{4234d49b-0245-4df3-b780-3893943456e1}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{4234d49b-0245-4df3-b780-3893943456e1}\\InProcServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{4234d49b-0245-4df3-b780-3893943456e1}\\InprocHandler",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{4234d49b-0245-4df3-b780-3893943456e1}\\InprocHandler32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{4234d49b-0245-4df3-b780-3893943456e1}\\InprocServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{4234d49b-0245-4df3-b780-3893943456e1}\\TreatAs",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{4DF0C730-DF9D-4AE3-9153-AA6B82E9795A}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{4df0c730-df9d-4ae3-9153-aa6b82e9795a}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{4df0c730-df9d-4ae3-9153-aa6b82e9795a}\\InProcServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{4df0c730-df9d-4ae3-9153-aa6b82e9795a}\\InprocHandler",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{4df0c730-df9d-4ae3-9153-aa6b82e9795a}\\InprocHandler32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{4df0c730-df9d-4ae3-9153-aa6b82e9795a}\\InprocServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{4df0c730-df9d-4ae3-9153-aa6b82e9795a}\\TreatAs",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{660B90C8-73A9-4B58-8CAE-355B7F55341B}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{660b90c8-73a9-4b58-8cae-355b7f55341b}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{660b90c8-73a9-4b58-8cae-355b7f55341b}\\InProcServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{660b90c8-73a9-4b58-8cae-355b7f55341b}\\InprocHandler",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{660b90c8-73a9-4b58-8cae-355b7f55341b}\\InprocHandler32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{660b90c8-73a9-4b58-8cae-355b7f55341b}\\InprocServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{660b90c8-73a9-4b58-8cae-355b7f55341b}\\TreatAs",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{76765B11-3F95-4AF2-AC9D-EA55D8994F1A}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{76765b11-3f95-4af2-ac9d-ea55d8994f1a}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{76765b11-3f95-4af2-ac9d-ea55d8994f1a}\\InProcServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{76765b11-3f95-4af2-ac9d-ea55d8994f1a}\\InprocHandler",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{76765b11-3f95-4af2-ac9d-ea55d8994f1a}\\InprocHandler32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{76765b11-3f95-4af2-ac9d-ea55d8994f1a}\\InprocServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{76765b11-3f95-4af2-ac9d-ea55d8994f1a}\\TreatAs",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{7B8A2D94-0AC9-11D1-896C-00C04FB6BFC4}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{7b8a2d94-0ac9-11d1-896c-00c04Fb6bfc4}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{7b8a2d94-0ac9-11d1-896c-00c04Fb6bfc4}\\InprocHandler",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{7b8a2d94-0ac9-11d1-896c-00c04Fb6bfc4}\\InprocHandler32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{7b8a2d94-0ac9-11d1-896c-00c04Fb6bfc4}\\InprocServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{7b8a2d94-0ac9-11d1-896c-00c04Fb6bfc4}\\TreatAs",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{9AC9FBE1-E0A2-4AD6-B4EE-E212013EA917}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{9ac9fbe1-e0a2-4ad6-b4ee-e212013ea917}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{9ac9fbe1-e0a2-4ad6-b4ee-e212013ea917}\\InProcServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{9ac9fbe1-e0a2-4ad6-b4ee-e212013ea917}\\InprocHandler",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{9ac9fbe1-e0a2-4ad6-b4ee-e212013ea917}\\InprocHandler32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{9ac9fbe1-e0a2-4ad6-b4ee-e212013ea917}\\InprocServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{9ac9fbe1-e0a2-4ad6-b4ee-e212013ea917}\\TreatAs",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{CDC82860-468D-4D4E-B7E7-C298FF23AB2C}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{CDC82860-468D-4d4e-B7E7-C298FF23AB2C}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{CDC82860-468D-4d4e-B7E7-C298FF23AB2C}\\InProcServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{CDC82860-468D-4d4e-B7E7-C298FF23AB2C}\\InprocHandler",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{CDC82860-468D-4d4e-B7E7-C298FF23AB2C}\\InprocHandler32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{CDC82860-468D-4d4e-B7E7-C298FF23AB2C}\\InprocServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{CDC82860-468D-4d4e-B7E7-C298FF23AB2C}\\TreatAs",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{DFFACDC5-679F-4156-8947-C5C76BC0B67F}\\Instance",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{DFFACDC5-679F-4156-8947-C5C76BC0B67F}\\Instance\\InitPropertyBag",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{ECABAFC6-7F19-11D2-978E-0000F8757E2A}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{F0AE1542-F497-484B-A175-A20DB09144BA}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{F324E4F9-8496-40B2-A1FF-9617C1C9AFFE}\\Instance",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{ecabafc6-7f19-11d2-978e-0000f8757e2a}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{ecabafc6-7f19-11d2-978e-0000f8757e2a}\\Elevation",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{ecabafc6-7f19-11d2-978e-0000f8757e2a}\\InprocHandler",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{ecabafc6-7f19-11d2-978e-0000f8757e2a}\\InprocHandler32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{ecabafc6-7f19-11d2-978e-0000f8757e2a}\\InprocServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{ecabafc6-7f19-11d2-978e-0000f8757e2a}\\LocalServer",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{ecabafc6-7f19-11d2-978e-0000f8757e2a}\\LocalServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{ecabafc6-7f19-11d2-978e-0000f8757e2a}\\TreatAs",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{f0ae1542-f497-484b-a175-a20db09144ba}",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{f0ae1542-f497-484b-a175-a20db09144ba}\\InProcServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{f0ae1542-f497-484b-a175-a20db09144ba}\\InprocHandler",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{f0ae1542-f497-484b-a175-a20db09144ba}\\InprocHandler32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{f0ae1542-f497-484b-a175-a20db09144ba}\\InprocServer32",
+            "HKEY_CURRENT_USER_Classes\\CLSID\\{f0ae1542-f497-484b-a175-a20db09144ba}\\TreatAs",
+            "HKEY_CURRENT_USER_Classes\\DelegateFolders",
+            "HKEY_CURRENT_USER_Classes\\Drive\\shellex\\FolderExtensions",
+            "HKEY_CURRENT_USER_Classes\\Drive\\shellex\\FolderExtensions\\{fbeb8a05-beee-4442-804e-409d6c4515e9}",
+            "HKEY_CURRENT_USER_Classes\\Interface\\{947AAB5F-0A5C-4C13-B4D6-4BF7836FC9F8}",
+            "HKEY_CURRENT_USER_Classes\\Interface\\{947AAB5F-0A5C-4C13-B4D6-4BF7836FC9F8}\\ProxyStubClsid32",
+            "HKEY_CURRENT_USER_Classes\\exefile",
+            "HKEY_CURRENT_USER_Classes\\exefile\\Application",
+            "HKEY_CURRENT_USER_Classes\\exefile\\CurVer",
+            "HKEY_CURRENT_USER_Classes\\exefile\\Progid",
+            "HKEY_CURRENT_USER_Classes\\exefile\\shell",
+            "HKEY_CURRENT_USER_Classes\\exefile\\shell\\open",
+            "HKEY_CURRENT_USER_Classes\\exefile\\shell\\open\\DropTarget",
+            "HKEY_CURRENT_USER_Classes\\exefile\\shell\\open\\command",
+            "HKEY_CURRENT_USER_Classes\\exefile\\shell\\open\\ddeexec",
+            "HKEY_CURRENT_USER_Classes\\new",
+            "HKEY_CURRENT_USER_Classes\\new\\CLSID",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{0E5AAE11-A475-4c5b-AB00-C66DE400274E}\\InprocHandler",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{0E5AAE11-A475-4c5b-AB00-C66DE400274E}\\InprocHandler32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{0E5AAE11-A475-4c5b-AB00-C66DE400274E}\\InprocServer32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{0E5AAE11-A475-4c5b-AB00-C66DE400274E}\\TreatAs",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{3ad05575-8857-4850-9277-11b85bdb8e09}\\InprocHandler",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{3ad05575-8857-4850-9277-11b85bdb8e09}\\InprocHandler32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{3ad05575-8857-4850-9277-11b85bdb8e09}\\InprocServer32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{3ad05575-8857-4850-9277-11b85bdb8e09}\\TreatAs",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{4234d49b-0245-4df3-b780-3893943456e1}\\InprocHandler",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{4234d49b-0245-4df3-b780-3893943456e1}\\InprocHandler32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{4234d49b-0245-4df3-b780-3893943456e1}\\InprocServer32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{4234d49b-0245-4df3-b780-3893943456e1}\\TreatAs",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{4df0c730-df9d-4ae3-9153-aa6b82e9795a}\\InprocHandler",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{4df0c730-df9d-4ae3-9153-aa6b82e9795a}\\InprocHandler32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{4df0c730-df9d-4ae3-9153-aa6b82e9795a}\\InprocServer32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{4df0c730-df9d-4ae3-9153-aa6b82e9795a}\\TreatAs",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{660b90c8-73a9-4b58-8cae-355b7f55341b}\\InprocHandler",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{660b90c8-73a9-4b58-8cae-355b7f55341b}\\InprocHandler32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{660b90c8-73a9-4b58-8cae-355b7f55341b}\\InprocServer32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{660b90c8-73a9-4b58-8cae-355b7f55341b}\\TreatAs",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{76765b11-3f95-4af2-ac9d-ea55d8994f1a}\\InprocHandler",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{76765b11-3f95-4af2-ac9d-ea55d8994f1a}\\InprocHandler32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{76765b11-3f95-4af2-ac9d-ea55d8994f1a}\\InprocServer32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{76765b11-3f95-4af2-ac9d-ea55d8994f1a}\\TreatAs",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{7b8a2d94-0ac9-11d1-896c-00c04Fb6bfc4}\\InprocHandler",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{7b8a2d94-0ac9-11d1-896c-00c04Fb6bfc4}\\InprocHandler32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{7b8a2d94-0ac9-11d1-896c-00c04Fb6bfc4}\\InprocServer32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{7b8a2d94-0ac9-11d1-896c-00c04Fb6bfc4}\\TreatAs",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{9ac9fbe1-e0a2-4ad6-b4ee-e212013ea917}\\InprocHandler",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{9ac9fbe1-e0a2-4ad6-b4ee-e212013ea917}\\InprocHandler32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{9ac9fbe1-e0a2-4ad6-b4ee-e212013ea917}\\InprocServer32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{9ac9fbe1-e0a2-4ad6-b4ee-e212013ea917}\\TreatAs",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{CDC82860-468D-4d4e-B7E7-C298FF23AB2C}\\InprocHandler",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{CDC82860-468D-4d4e-B7E7-C298FF23AB2C}\\InprocHandler32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{CDC82860-468D-4d4e-B7E7-C298FF23AB2C}\\InprocServer32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{CDC82860-468D-4d4e-B7E7-C298FF23AB2C}\\TreatAs",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{DFFACDC5-679F-4156-8947-C5C76BC0B67F}\\Instance\\InitPropertyBag",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{DFFACDC5-679F-4156-8947-C5C76BC0B67F}\\Instance\\NULL",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{ecabafc6-7f19-11d2-978e-0000f8757e2a}\\Elevation",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{ecabafc6-7f19-11d2-978e-0000f8757e2a}\\InprocHandler",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{ecabafc6-7f19-11d2-978e-0000f8757e2a}\\InprocHandler32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{ecabafc6-7f19-11d2-978e-0000f8757e2a}\\InprocServer32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{ecabafc6-7f19-11d2-978e-0000f8757e2a}\\LocalServer",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{ecabafc6-7f19-11d2-978e-0000f8757e2a}\\LocalServer32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{ecabafc6-7f19-11d2-978e-0000f8757e2a}\\TreatAs",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{f0ae1542-f497-484b-a175-a20db09144ba}\\InprocHandler",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{f0ae1542-f497-484b-a175-a20db09144ba}\\InprocHandler32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{f0ae1542-f497-484b-a175-a20db09144ba}\\InprocServer32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{f0ae1542-f497-484b-a175-a20db09144ba}\\TreatAs",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{947AAB5F-0A5C-4C13-B4D6-4BF7836FC9F8}\\ProxyStubClsid32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\Application",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\CurVer",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\NULL",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\Progid",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\shell",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\shell\\open",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\shell\\open\\DropTarget",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\shell\\open\\NULL",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\shell\\open\\command",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\exefile\\shell\\open\\ddeexec",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\new\\CLSID",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\AppModel\\Lookaside\\Packages",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\COM3",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\CTF\\Compatibility\\sysprep.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider Types\\Type 001",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Strong Cryptographic Provider",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLE",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLEAUT",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontLink\\SystemLink",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SVCHOST.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\cmd.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\executable.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\sysprep.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ud.bat",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\DataStore_V1.0"
+        ],
+        "text_highlighted": [
+            "Could Not Find C:\\Users\\<USER>\\Downloads\\6724c041fe",
+            "C:\\Windows\\system32\\cmd.exe"
+        ],
+        "verdict_confidence": 84,
+        "mitre_attack_techniques": [
+            {
+                "id": "T1064",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Executes batch files"
+            },
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_LOW",
+                "signature_description": "Allocates memory in foreign processes"
+            },
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Spawns processes"
+            },
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_LOW",
+                "signature_description": "Writes to foreign memory regions"
+            },
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_LOW",
+                "signature_description": "Injects code into the Windows Explorer (explorer.exe)"
+            },
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_LOW",
+                "signature_description": "Changes memory attributes in foreign processes to executable or writable"
+            },
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_LOW",
+                "signature_description": "Creates a thread in another existing process (thread injection)"
+            },
+            {
+                "id": "T1548.002",
+                "severity": "IMPACT_SEVERITY_LOW",
+                "signature_description": "Potential UAC bypass found (IFileOperation COM Object)"
+            },
+            {
+                "id": "T1036",
+                "severity": "IMPACT_SEVERITY_LOW",
+                "signature_description": "Drops PE files with benign system names"
+            },
+            {
+                "id": "T1057",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Queries a list of all running processes"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Queries the volume information (name, serial number etc) of a device"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Queries the cryptographic machine GUID"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Reads software policies"
+            }
+        ],
+        "modules_loaded": [
+            "%SAMPLEPATH%\\6724c041fe0df61a619006bf1df4a759f4f22a65e2afda32501760ebc9ebe25d.exe",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\SVCHOST.exe",
+            "NTDLL.DLL",
+            "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\SVCHOST.exe",
+            "advapi32.dll",
+            "Advapi32.dll",
+            "rpcrt4.dll",
+            "comctl32.dll",
+            "imm32.dll",
+            "NTMARTA.DLL",
+            "ole32.dll",
+            "xpsp2res.dll",
+            "c:\\windows\\system32\\msw32time.dll",
+            "kernel32.dll",
+            "KERNEL32",
+            "DisableImprovedZoneCheck",
+            "ws2_32.dll",
+            "Secur32.dll",
+            "USER32.dll",
+            "ws2_32",
+            "RASAPI32.DLL",
+            "RasPbFile",
+            "ADVAPI32.dll",
+            "ntdll.dll",
+            "WS2HELP.dll",
+            "hnetcfg.dll",
+            "C:\\WINDOWS\\System32\\wshtcpip.dll",
+            "DnsMulticastQueryTimeouts",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\ud.bat"
+        ],
+        "services_started": [
+            "LocalSystem"
+        ],
+        "sigma_analysis_results": [
+            {
+                "match_context": [
+                    {
+                        "values": {
+                            "RuleName": "-",
+                            "CurrentDirectory": "C:\\Users\\george\\Desktop\\",
+                            "LogonId": "240929",
+                            "OriginalFileName": "-",
+                            "UtcTime": "1665913333",
+                            "Description": "-",
+                            "User": "DESKTOP-B0T93D6\\george",
+                            "Hashes": "MD5=97166E20B921219020CF9B590804AFEA,SHA256=0DAAD03483CC6A13DD1435F7632F2E5A50C6808A62EE808251F5E9A6BF39F999,IMPHASH=01FE608CC45805D3F82CD32CB855CCC4",
+                            "ParentImage": "C:\\Users\\george\\Desktop\\executable.exe",
+                            "IntegrityLevel": "High",
+                            "TerminalSessionId": "1",
+                            "Image": "C:\\Users\\george\\AppData\\Local\\Temp\\SVCHOST.exe",
+                            "ParentProcessId": "212",
+                            "ParentProcessGuid": "{C784477D-D1F4-634B-4F06-000000004300}",
+                            "Product": "-",
+                            "LogonGuid": "C784477D-C924-62FD-21AD-030000000000",
+                            "EventID": "1",
+                            "ProcessGuid": "{C784477D-D1F5-634B-5006-000000004300}",
+                            "CommandLine": "\"C:\\Users\\george\\AppData\\Local\\Temp\\SVCHOST.exe\" \"C:\\Users\\george\\AppData\\Local\\Temp\\w7e89.tmp\"",
+                            "ParentCommandLine": "\"C:\\Users\\george\\Desktop\\executable.exe\" ",
+                            "ProcessId": "1032",
+                            "FileVersion": "-",
+                            "Company": "-"
+                        }
+                    }
+                ],
+                "rule_level": "high",
+                "rule_id": "25fc56c1bee673d7ff3edcf371e4d2a36c0af83222da348961b87735c8efa61f",
+                "rule_source": "Sigma Integrated Rule Set (GitHub)",
+                "rule_title": "System File Execution Location Anomaly",
+                "rule_description": "Detects a Windows program executable started from a suspicious folder",
+                "rule_author": "Florian Roth, Patrick Bareiss, Anton Kutepov, oscd.community, Nasreddine Bencherchali"
+            },
+            {
+                "match_context": [
+                    {
+                        "values": {
+                            "RuleName": "DLL",
+                            "CreationUtcTime": "1665913364",
+                            "UtcTime": "1665913364",
+                            "EventID": "11",
+                            "ProcessGuid": "{C784477D-D212-634B-5406-000000004300}",
+                            "ProcessId": "7408",
+                            "Image": "C:\\Windows\\system32\\DllHost.exe",
+                            "TargetFilename": "C:\\Windows\\System32\\Sysprep\\CRYPTBASE.dll"
+                        }
+                    }
+                ],
+                "rule_level": "high",
+                "rule_id": "31d928b4b0adc82d81a6490585e87953d808c285ed5d3b25bbe1a461234e37f6",
+                "rule_source": "Sigma Integrated Rule Set (GitHub)",
+                "rule_title": "UAC Bypass Using IDiagnostic Profile - File",
+                "rule_description": "Detects the creation of a file by \"dllhost.exe\" in System32 directory part of \"IDiagnosticProfileUAC\" UAC bypass technique",
+                "rule_author": "Nasreddine Bencherchali"
+            },
+            {
+                "match_context": [
+                    {
+                        "values": {
+                            "RuleName": "-",
+                            "CurrentDirectory": "C:\\Users\\george\\Desktop\\",
+                            "LogonId": "240929",
+                            "OriginalFileName": "-",
+                            "UtcTime": "1665913333",
+                            "Description": "-",
+                            "User": "DESKTOP-B0T93D6\\george",
+                            "Hashes": "MD5=97166E20B921219020CF9B590804AFEA,SHA256=0DAAD03483CC6A13DD1435F7632F2E5A50C6808A62EE808251F5E9A6BF39F999,IMPHASH=01FE608CC45805D3F82CD32CB855CCC4",
+                            "ParentImage": "C:\\Users\\george\\Desktop\\executable.exe",
+                            "IntegrityLevel": "High",
+                            "TerminalSessionId": "1",
+                            "Image": "C:\\Users\\george\\AppData\\Local\\Temp\\SVCHOST.exe",
+                            "ParentProcessId": "212",
+                            "ParentProcessGuid": "{C784477D-D1F4-634B-4F06-000000004300}",
+                            "Product": "-",
+                            "LogonGuid": "C784477D-C924-62FD-21AD-030000000000",
+                            "EventID": "1",
+                            "ProcessGuid": "{C784477D-D1F5-634B-5006-000000004300}",
+                            "CommandLine": "\"C:\\Users\\george\\AppData\\Local\\Temp\\SVCHOST.exe\" \"C:\\Users\\george\\AppData\\Local\\Temp\\w7e89.tmp\"",
+                            "ParentCommandLine": "\"C:\\Users\\george\\Desktop\\executable.exe\" ",
+                            "ProcessId": "1032",
+                            "FileVersion": "-",
+                            "Company": "-"
+                        }
+                    }
+                ],
+                "rule_level": "high",
+                "rule_id": "a0daa529834b3c5230b4524da005a6b6503e7cb061e298a8f74e0dc1fee0a008",
+                "rule_source": "Sigma Integrated Rule Set (GitHub)",
+                "rule_title": "Suspicious Svchost Process",
+                "rule_description": "Detects a suspicious svchost process start",
+                "rule_author": "Florian Roth"
+            },
+            {
+                "match_context": [
+                    {
+                        "values": {
+                            "RuleName": "-",
+                            "SourceProcessId": "1032",
+                            "SourceProcessGuid": "{C784477D-D1F5-634B-5006-000000004300}",
+                            "TargetProcessId": "4972",
+                            "StartFunction": "-",
+                            "SourceImage": "C:\\Users\\george\\AppData\\Local\\Temp\\SVCHOST.exe",
+                            "EventID": "8",
+                            "TargetProcessGuid": "{C784477D-C925-62FD-6900-000000004300}",
+                            "UtcTime": "1665913360",
+                            "StartModule": "-",
+                            "TargetImage": "C:\\Windows\\explorer.exe",
+                            "StartAddress": "86966272",
+                            "NewThreadId": "2196"
+                        }
+                    }
+                ],
+                "rule_level": "high",
+                "rule_id": "ea7ec9e92c165a4cef023fd658ef72279f03378ab53f4481eb973ecb2171b193",
+                "rule_source": "Sigma Integrated Rule Set (GitHub)",
+                "rule_title": "Remote Thread Creation in Suspicious Targets",
+                "rule_description": "Detects a remote thread creation in suspicious target images",
+                "rule_author": "Florian Roth"
+            },
+            {
+                "match_context": [
+                    {
+                        "values": {
+                            "RuleName": "-",
+                            "CurrentDirectory": "C:\\Users\\george\\Desktop\\",
+                            "LogonId": "240929",
+                            "OriginalFileName": "-",
+                            "UtcTime": "1665913333",
+                            "Description": "-",
+                            "User": "DESKTOP-B0T93D6\\george",
+                            "Hashes": "MD5=97166E20B921219020CF9B590804AFEA,SHA256=0DAAD03483CC6A13DD1435F7632F2E5A50C6808A62EE808251F5E9A6BF39F999,IMPHASH=01FE608CC45805D3F82CD32CB855CCC4",
+                            "ParentImage": "C:\\Users\\george\\Desktop\\executable.exe",
+                            "IntegrityLevel": "High",
+                            "TerminalSessionId": "1",
+                            "Image": "C:\\Users\\george\\AppData\\Local\\Temp\\SVCHOST.exe",
+                            "ParentProcessId": "212",
+                            "ParentProcessGuid": "{C784477D-D1F4-634B-4F06-000000004300}",
+                            "Product": "-",
+                            "LogonGuid": "C784477D-C924-62FD-21AD-030000000000",
+                            "EventID": "1",
+                            "ProcessGuid": "{C784477D-D1F5-634B-5006-000000004300}",
+                            "CommandLine": "\"C:\\Users\\george\\AppData\\Local\\Temp\\SVCHOST.exe\" \"C:\\Users\\george\\AppData\\Local\\Temp\\w7e89.tmp\"",
+                            "ParentCommandLine": "\"C:\\Users\\george\\Desktop\\executable.exe\" ",
+                            "ProcessId": "1032",
+                            "FileVersion": "-",
+                            "Company": "-"
+                        }
+                    }
+                ],
+                "rule_level": "low",
+                "rule_id": "afd546ea5eff265c454f77f6e7641ade6e5a791d79de155fa27d377be1581535",
+                "rule_source": "Sigma Integrated Rule Set (GitHub)",
+                "rule_title": "Windows Processes Suspicious Parent Directory",
+                "rule_description": "Detect suspicious parent processes of well-known Windows processes",
+                "rule_author": "vburov"
+            },
+            {
+                "match_context": [
+                    {
+                        "values": {
+                            "RuleName": "EXE",
+                            "CreationUtcTime": "1665913332",
+                            "UtcTime": "1665913332",
+                            "EventID": "11",
+                            "ProcessGuid": "{C784477D-D1F4-634B-4F06-000000004300}",
+                            "ProcessId": "212",
+                            "Image": "C:\\Users\\george\\Desktop\\executable.exe",
+                            "TargetFilename": "C:\\Users\\george\\AppData\\Local\\Temp\\SVCHOST.exe"
+                        }
+                    }
+                ],
+                "rule_level": "low",
+                "rule_id": "b5386a23355681c43cfbd2f2ccfe4b16ed45324d0d7b5583487a9f302ee1e427",
+                "rule_source": "Sigma Integrated Rule Set (GitHub)",
+                "rule_title": "Creation of an Executable by an Executable",
+                "rule_description": "Detects the creation of an executable by another executable",
+                "rule_author": "frack113"
+            }
+        ],
+        "files_opened": [
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\w7e23A1.tmp",
+            "\\??\\MountPointManager",
+            "C:\\",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\SVCHOST.exe",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\ud.bat",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\w7e89.tmp",
+            "\\SystemRoot\\AppPatch\\sysmain.sdb",
+            "C:\\WINDOWS\\system32\\winime32.dll",
+            "C:\\WINDOWS\\system32\\ws2_32.dll",
+            "C:\\WINDOWS\\system32\\ws2help.dll",
+            "C:\\WINDOWS\\system32\\psapi.dll",
+            "C:\\WINDOWS\\system32\\imm32.dll",
+            "C:\\WINDOWS\\system32\\lpk.dll",
+            "C:\\WINDOWS\\system32\\usp10.dll",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\SVCHOST.exe",
+            "C:\\WINDOWS\\system32\\apphelp.dll",
+            "C:\\WINDOWS\\AppPatch\\sysmain.sdb",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\~ER2.tmp",
+            "C:\\WINDOWS\\system32\\kernel32.dll",
+            "C:\\WINDOWS\\system32\\msw32time.dll",
+            "C:\\WINDOWS\\system32\\ntdll.dll",
+            "C:\\WINDOWS\\system32\\unicode.nls",
+            "C:\\WINDOWS\\system32\\locale.nls",
+            "C:\\WINDOWS\\system32\\sorttbls.nls",
+            "C:\\WINDOWS\\system32\\advapi32.dll",
+            "C:\\WINDOWS\\system32\\rpcrt4.dll",
+            "C:\\WINDOWS\\system32\\secur32.dll",
+            "C:\\WINDOWS\\system32\\shimeng.dll",
+            "C:\\WINDOWS\\AppPatch\\AcGenral.dll",
+            "C:\\WINDOWS\\system32\\user32.dll",
+            "C:\\WINDOWS\\system32\\gdi32.dll",
+            "C:\\WINDOWS\\system32\\winmm.dll",
+            "C:\\WINDOWS\\system32\\ole32.dll",
+            "C:\\WINDOWS\\system32\\msvcrt.dll",
+            "C:\\WINDOWS\\system32\\oleaut32.dll",
+            "C:\\WINDOWS\\system32\\msacm32.dll",
+            "C:\\WINDOWS\\system32\\version.dll",
+            "C:\\WINDOWS\\system32\\shell32.dll",
+            "C:\\WINDOWS\\system32\\shlwapi.dll",
+            "C:\\WINDOWS\\system32\\userenv.dll",
+            "C:\\WINDOWS\\system32\\uxtheme.dll",
+            "C:\\WINDOWS\\system32\\ctype.nls",
+            "C:\\WINDOWS\\system32\\svchost.exe",
+            "C:\\WINDOWS\\WinSxS\\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\\comctl32.dll",
+            "C:\\WINDOWS\\WINDOWSSHELL.MANIFEST",
+            "C:\\WINDOWS\\system32\\comctl32.dll",
+            "C:\\WINDOWS\\system32\\rpcss.dll",
+            "C:\\WINDOWS\\system32\\xpsp2res.dll",
+            "C:\\WINDOWS\\system32\\dnsapi.dll",
+            "C:\\WINDOWS\\system32\\iphlpapi.dll",
+            "C:\\WINDOWS\\system32\\wldap32.dll",
+            "C:\\WINDOWS\\system32\\ntmarta.dll",
+            "C:\\WINDOWS\\system32\\samlib.dll",
+            "C:\\WINDOWS\\system32\\winlogon.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\~RF3.bat",
+            "C:\\WINDOWS\\system32\\wininet.dll",
+            "C:\\WINDOWS\\system32\\urlmon.dll",
+            "C:\\Documents and Settings\\LocalService\\Local Settings\\Temporary Internet Files",
+            "C:\\Documents and Settings\\LocalService\\Local Settings\\History",
+            "C:\\WINDOWS\\system32\\cmd.exe",
+            "C:\\Documents and Settings\\LocalService\\Local Settings\\Temporary Internet Files\\Content.IE5",
+            "C:\\Documents and Settings\\LocalService\\Local Settings\\Temporary Internet Files\\Content.IE5\\index.dat",
+            "C:\\Documents and Settings\\LocalService\\Cookies",
+            "C:\\Documents and Settings\\LocalService\\Cookies\\index.dat",
+            "C:\\Documents and Settings\\LocalService\\Local Settings\\History\\History.IE5",
+            "C:\\Documents and Settings\\LocalService\\Local Settings\\History\\History.IE5\\index.dat",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\ud.bat",
+            "C:\\WINDOWS\\system32\\conime.exe",
+            "C:\\WINDOWS\\system32\\wsock32.dll",
+            "C:\\WINDOWS\\system32\\rasapi32.dll",
+            "C:\\WINDOWS\\system32\\rasman.dll",
+            "C:\\WINDOWS\\system32\\tapi32.dll",
+            "C:\\WINDOWS\\system32\\rtutils.dll",
+            "C:\\WINDOWS\\system32\\sensapi.dll",
+            "C:\\WINDOWS\\system32\\mswsock.dll",
+            "C:\\WINDOWS\\system32\\rasadhlp.dll",
+            "C:\\WINDOWS\\system32\\hnetcfg.dll",
+            "C:\\WINDOWS\\system32\\wshtcpip.dll",
+            "C:\\WINDOWS\\system32\\dhcpcsvc.dll",
+            "C:\\WINDOWS\\system32\\update.exe",
+            "C:\\Documents and Settings\\LocalService\\Local Settings\\Temporary Internet Files\\Content.IE5\\0DQRCL6J\\login_ok[1].php",
+            "C:\\Documents and Settings\\LocalService\\Local Settings\\Temporary Internet Files\\Content.IE5\\0DQRCL6J\\wpad[1].dat",
+            "C:\\WINDOWS\\system32\\jsproxy.dll",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe",
+            "C:\\WINDOWS\\Temp\\~13785.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\SVCHOST.exe",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\w7e89.tmp",
+            "C:\\Windows\\system32\\apphelp.dll",
+            "\\SystemRoot\\AppPatch\\AppPatch64\\sysmain.sdb",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\",
+            "C:\\Users\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\w7e6AC6.tmp",
+            "C:\\Users\\<USER>\\",
+            "C:\\Users\\<USER>\\AppData\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\",
+            "\"C:\\Users\\<USER>\\AppData\\Local\\Temp\\SVCHOST.exe\" \"C:\\Users\\<USER>\\AppData\\Local\\Temp\\w7e89.tmp\"",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\ud.bat",
+            "C:\\Users\\<USER>\\Downloads",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\ud.bat\\",
+            "C:\\Users\\<USER>\\AppData\\Local",
+            "C:\\Users\\<USER>\\AppData",
+            "C:\\Users\\admin",
+            "C:\\Users",
+            "MountPointManager",
+            "C:\\Users\\<USER>\\Downloads\\",
+            "C:\\Users\\<USER>\\Downloads\\6724c041fe0df61a619006bf1df4a759f4f22a65e2afda32501760ebc9ebe25d.exe",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\GameDVR\\KnownGameList.bin",
+            "C:\\Users\\user\\AppData\\Local\\Temp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\SVCHOST.exe",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\ud.bat",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\ud.bat\\",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\w7e58D.tmp",
+            "C:\\Users\\user\\Desktop\\C:\\Users\\user\\AppData\\Local\\Temp\\SVCHOST.exe\" \"C:\\Users\\user\\AppData\\Local\\Temp\\w7e89.tmp",
+            "C:\\Users\\user\\Desktop\\executable.exe",
+            "C:\\Windows\\AppPatch\\sysmain.sdb",
+            "C:\\Windows\\Globalization\\Sorting\\sortdefault.nls",
+            "C:\\Windows\\SYSTEM32\\CoreMessaging.dll",
+            "C:\\Windows\\SYSTEM32\\CoreUIComponents.dll",
+            "C:\\Windows\\SYSTEM32\\MPR.dll",
+            "C:\\Windows\\SYSTEM32\\TextInputFramework.dll",
+            "C:\\Windows\\SYSTEM32\\XmlLite.dll",
+            "C:\\Windows\\SYSTEM32\\apphelp.dll",
+            "C:\\Windows\\SYSTEM32\\dwmapi.dll",
+            "C:\\Windows\\SYSTEM32\\en-US\\imageres.dll.mui",
+            "C:\\Windows\\SYSTEM32\\imageres.dll",
+            "C:\\Windows\\SYSTEM32\\ntdll.dll",
+            "C:\\Windows\\SYSTEM32\\ntmarta.dll",
+            "C:\\Windows\\SYSTEM32\\ole32.dll",
+            "C:\\Windows\\SYSTEM32\\pcacli.dll",
+            "C:\\Windows\\SYSTEM32\\wintypes.dll",
+            "C:\\Windows\\SysWOW64\\AppLocker\\MDM",
+            "C:\\Windows\\SysWOW64\\GDI32.dll",
+            "C:\\Windows\\SysWOW64\\IMM32.DLL",
+            "C:\\Windows\\SysWOW64\\KERNEL32.DLL",
+            "C:\\Windows\\SysWOW64\\KERNELBASE.dll",
+            "C:\\Windows\\SysWOW64\\USER32.dll",
+            "C:\\Windows\\SysWOW64\\apphelp.dll",
+            "C:\\Windows\\SysWOW64\\cmdext.dll",
+            "C:\\Windows\\SysWOW64\\en-US\\cmd.exe.mui",
+            "C:\\Windows\\SysWOW64\\gdi32full.dll",
+            "C:\\Windows\\SysWOW64\\msvcp_win.dll",
+            "C:\\Windows\\SysWOW64\\ntdll.dll",
+            "C:\\Windows\\SysWOW64\\ucrtbase.dll",
+            "C:\\Windows\\SysWOW64\\win32u.dll",
+            "C:\\Windows\\System32",
+            "C:\\Windows\\System32\\",
+            "C:\\Windows\\System32\\ADVAPI32.dll",
+            "C:\\Windows\\System32\\KERNEL32.DLL",
+            "C:\\Windows\\System32\\KERNELBASE.dll",
+            "C:\\Windows\\System32\\RPCRT4.dll",
+            "C:\\Windows\\System32\\Sysprep",
+            "C:\\Windows\\System32\\Sysprep\\",
+            "C:\\Windows\\System32\\comsvcs.dll",
+            "C:\\Windows\\System32\\en-US\\USER32.dll.mui",
+            "C:\\Windows\\System32\\en-US\\user32.dll.mui",
+            "C:\\Windows\\System32\\msvcrt.dll",
+            "C:\\Windows\\System32\\sechost.dll",
+            "C:\\Windows\\System32\\sfc_os.dll",
+            "C:\\Windows\\System32\\smartscreenps.dll",
+            "C:\\Windows\\System32\\sysprep",
+            "C:\\Windows\\System32\\sysprep\\",
+            "C:\\Windows\\System32\\sysprep\\Panther\\diagerr.xml",
+            "C:\\Windows\\System32\\sysprep\\Panther\\diagwrn.xml",
+            "C:\\Windows\\System32\\sysprep\\Panther\\setupact.log",
+            "C:\\Windows\\System32\\sysprep\\Panther\\setuperr.log",
+            "C:\\Windows\\System32\\sysprep\\Panther\\setuplog.cfg",
+            "C:\\Windows\\System32\\sysprep\\en-US\\sysprep.exe.mui",
+            "C:\\Windows\\System32\\sysprep\\sysprep.exe",
+            "C:\\Windows\\WinSxS\\FileMaps\\$$_system32_sysprep_f7b45b8dfed1b768.cdf-ms",
+            "C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.1304_none_d3fbe61b7c93d9f0",
+            "C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.1304_none_d3fbe61b7c93d9f0\\COMCTL32.dll",
+            "C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.1304_none_d3fbe61b7c93d9f0\\comctl32.DLL",
+            "C:\\Windows\\system32\\",
+            "C:\\Windows\\system32\\IMM32.DLL",
+            "C:\\Windows\\system32\\Sysprep\\sysprep.exe",
+            "C:\\Windows\\system32\\actionqueue.dll",
+            "C:\\Windows\\system32\\cmd.exe",
+            "C:\\Windows\\system32\\conhost.exe",
+            "C:\\Windows\\system32\\dbgcore.dll",
+            "C:\\Windows\\system32\\dbghelp.dll",
+            "C:\\Windows\\system32\\dwmapi.dll",
+            "C:\\Windows\\system32\\en-US\\cmd.exe.mui",
+            "C:\\Windows\\system32\\en-US\\conhost.exe.mui",
+            "C:\\Windows\\system32\\rpcss.dll",
+            "C:\\Windows\\system32\\unattend.dll",
+            "C:\\Windows\\system32\\uxtheme.dll",
+            "C:\\Windows\\system32\\uxtheme.dll.Config",
+            "C:\\Windows\\system32\\wdscore.dll",
+            "\\Device\\ConDrv\\Server",
+            "\\Device\\ConDrv\\\\Input",
+            "\\Device\\ConDrv\\\\Output",
+            "\\Device\\ConDrv\\\\Reference"
+        ],
+        "calls_highlighted": [
+            "GetTickCount"
+        ],
+        "http_conversations": [
+            {
+                "url": "http://delmundo.kr/bbs/login_ok.php?no=0&id=co^0800277A0DD3[0]&sn=419640&sc=db6c69fff9211fe4251403873c870048",
+                "request_method": "GET"
+            },
+            {
+                "url": "http://110.110.110.1/wpad.dat",
+                "request_method": "GET"
+            }
+        ],
+        "command_executions": [
+            "\"%SAMPLEPATH%\\6724c041fe0df61a619006bf1df4a759f4f22a65e2afda32501760ebc9ebe25d.exe\" ",
+            "\"%USERPROFILE%\\AppData\\Local\\Temp\\SVCHOST.exe\" \"%USERPROFILE%\\AppData\\Local\\Temp\\w7e89.tmp\"",
+            "C:\\Windows\\system32\\DllHost.exe /Processid:{3AD05575-8857-4850-9277-11B85BDB8E09}",
+            "\"C:\\Windows\\System32\\sysprep\\sysprep.exe\" \"\"%USERPROFILE%\\AppData\\Local\\Temp\\w7e89.tmp\"\" \"C:\\Windows\\system32\" \"*n/a\"",
+            "C:\\Windows\\System32\\wuapihost.exe -Embedding",
+            "C:\\Windows\\system32\\cmd.exe /c %USERPROFILE%\\AppData\\Local\\Temp\\\\ud.bat",
+            "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\SVCHOST.exe\" \"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\w7e89.tmp\"",
+            "\\??\\C:\\Windows\\system32\\conhost.exe",
+            "cmd /c C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\ud.bat",
+            " ",
+            "cmd /c C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\~RF3.bat",
+            "cmd /c C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\\\ud.bat"
+        ],
+        "files_written": [
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\w7e23A1.tmp",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\SVCHOST.exe",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\ud.bat",
+            "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\w7e89.tmp",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\SVCHOST.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\~ER2.tmp",
+            "C:\\WINDOWS\\system32\\msw32time.dll",
+            "C:\\WINDOWS\\Temp\\~13785.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\SVCHOST.exe",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\w7e89.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\w7e6AC6.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\ud.bat",
+            "C:\\Windows\\System32\\sysprep\\CRYPTBASE.dll",
+            "C:\\Windows\\System32\\msthemeservice.dll",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\~RF73CF.bat",
+            "C:\\Windows\\ServiceProfiles\\LocalService\\AppData\\Roaming\\Microsoft\\UPnP Device Host\\upnphost\\udhisapi.dll",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\SVCHOST.exe",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\ud.bat",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\w7e58D.tmp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\w7e89.tmp",
+            "C:\\Windows\\System32\\Sysprep\\Panther\\diagerr.xml",
+            "C:\\Windows\\System32\\Sysprep\\Panther\\diagwrn.xml",
+            "C:\\Windows\\System32\\Sysprep\\Panther\\setupact.log",
+            "C:\\Windows\\System32\\Sysprep\\Panther\\setuperr.log",
+            "\\Device\\ConDrv\\\\Connect"
+        ],
+        "ip_traffic": [
+            {
+                "destination_ip": "20.99.184.37",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            }
+        ],
+        "files_dropped": [
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Temp\\SVCHOST.exe"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Temp\\w7e89.tmp"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Temp\\w7eD580.tmp"
+            },
+            {
+                "path": "C:\\Windows\\System32\\Sysprep\\CRYPTBASE.dll"
+            },
+            {
+                "path": "C:\\Windows\\System32\\spp\\store\\2.0\\data.dat.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF230.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF230.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF231.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF231.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF2BC.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF2BC.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF2EC.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF2EC.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF2ED.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF2ED.tmp.txt"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF2FE.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF2FE.tmp.txt"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Temp\\ud.bat"
+            },
+            {
+                "path": "C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat"
+            },
+            {
+                "path": "C:\\Users\\<USER>\\AppData\\Local\\Temp\\SVCHOST.exe",
+                "sha256": "0daad03483cc6a13dd1435f7632f2e5a50c6808a62ee808251f5e9a6bf39f999"
+            },
+            {
+                "path": "C:\\Users\\<USER>\\AppData\\Local\\Temp\\w7e89.tmp",
+                "sha256": "29167554471dbaf1bd317caca4ff382999893e35a4c4d3a1b7e4ffcb1efa42a9"
+            },
+            {
+                "path": "C:\\Users\\<USER>\\AppData\\Local\\Temp\\\\ud.bat",
+                "sha256": "fa5f5efcd5c78eaa1db68685e6ac64909d862be0c38ff2114c4d8b6129c942c1"
+            },
+            {
+                "path": "C:\\Users\\user\\AppData\\Local\\Temp\\SVCHOST.exe",
+                "sha256": "0daad03483cc6a13dd1435f7632f2e5a50c6808a62ee808251f5e9a6bf39f999",
+                "type": "PE_EXE"
+            },
+            {
+                "path": "C:\\Users\\user\\AppData\\Local\\Temp\\ud.bat",
+                "sha256": "70008627ef82c90afe4f77b01d1f7c3b1a365a48536182c437d119a93e6bdade",
+                "type": "SCRIPT"
+            },
+            {
+                "path": "C:\\Users\\user\\AppData\\Local\\Temp\\w7e58D.tmp",
+                "sha256": "7980d797d5caccf243579e7c4d47e252ec75937e3817eba270c0d25348c45916",
+                "type": "PE_EXE"
+            },
+            {
+                "path": "C:\\Users\\user\\AppData\\Local\\Temp\\w7e89.tmp",
+                "sha256": "29167554471dbaf1bd317caca4ff382999893e35a4c4d3a1b7e4ffcb1efa42a9",
+                "type": "PE_EXE"
+            }
+        ],
+        "processes_terminated": [
+            "%USERPROFILE%\\AppData\\Local\\Temp\\SVCHOST.exe",
+            "%SAMPLEPATH%\\6724c041fe0df61a619006bf1df4a759f4f22a65e2afda32501760ebc9ebe25d.exe",
+            "C:\\Windows\\SysWOW64\\cmd.exe",
+            "C:\\Windows\\System32\\conhost.exe",
+            "C:\\Windows\\System32\\wuapihost.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\SVCHOST.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\SVCHOST.exe C:\\Users\\<USER>\\AppData\\Local\\Temp\\w7e89.tmp",
+            "6724c041fe0df61a619006bf1df4a759f4f22a65e2afda32501760ebc9ebe25d.exe",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\\\ud.bat",
+            "2256 - \"C:\\Users\\admin\\AppData\\Local\\Temp\\SVCHOST.exe\" \"C:\\Users\\admin\\AppData\\Local\\Temp\\w7e89.tmp\"",
+            "2348 - \"C:\\Windows\\System32\\sysprep\\sysprep.exe\" \"\"C:\\Users\\admin\\AppData\\Local\\Temp\\w7e89.tmp\"\" \"C:\\Windows\\system32\" \"*n/a\"",
+            "2360 - *n/a",
+            "2372 - C:\\Windows\\system32\\cmd.exe /c C:\\Users\\admin\\AppData\\Local\\Temp\\\\ud.bat",
+            "2564 - C:\\Windows\\system32\\cmd.exe /c C:\\Users\\admin\\AppData\\Local\\Temp\\~RF73CF.bat",
+            "2668 - \"C:\\Program Files\\Windows Media Player\\wmpnetwk.exe\""
+        ],
+        "dns_lookups": [
+            {
+                "hostname": "delmundo.kr"
+            },
+            {
+                "hostname": "wpad"
+            }
+        ],
+        "attack_techniques": {
+            "T1064": [
+                {
+                    "severity": "INFO",
+                    "description": "Executes batch files"
+                }
+            ],
+            "T1055": [
+                {
+                    "severity": "LOW",
+                    "description": "Allocates memory in foreign processes"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Spawns processes"
+                },
+                {
+                    "severity": "LOW",
+                    "description": "Writes to foreign memory regions"
+                },
+                {
+                    "severity": "LOW",
+                    "description": "Injects code into the Windows Explorer (explorer.exe)"
+                },
+                {
+                    "severity": "LOW",
+                    "description": "Changes memory attributes in foreign processes to executable or writable"
+                },
+                {
+                    "severity": "LOW",
+                    "description": "Creates a thread in another existing process (thread injection)"
+                }
+            ],
+            "T1548.002": [
+                {
+                    "severity": "LOW",
+                    "description": "Potential UAC bypass found (IFileOperation COM Object)"
+                }
+            ],
+            "T1036": [
+                {
+                    "severity": "LOW",
+                    "description": "Drops PE files with benign system names"
+                }
+            ],
+            "T1057": [
+                {
+                    "severity": "INFO",
+                    "description": "Queries a list of all running processes"
+                }
+            ],
+            "T1082": [
+                {
+                    "severity": "INFO",
+                    "description": "Queries the volume information (name, serial number etc) of a device"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Queries the cryptographic machine GUID"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Reads software policies"
+                }
+            ]
+        }
+    }
+}

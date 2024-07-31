@@ -1,0 +1,574 @@
+{
+    "data": {
+        "text_highlighted": [
+            "\u786e\u5b9a",
+            "Installer integrity check has failed. Common causes include\nincomplete download and damaged media. Contact the\ninstaller\"s author to obtain a new copy.\n\nMore information at:\nhttp://nsis.sf.net/NSIS_Error",
+            "NSIS Error",
+            "Installer integrity check has failed. Common causes include\nincomplete download and damaged media. Contact the\ninstaller's author to obtain a new copy.\n\nMore information at:\nhttp://nsis.sf.net/NSIS_Er",
+            "C:\\Windows\\system32\\cmd.exe"
+        ],
+        "registry_keys_opened": [
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\996E.exe",
+            "\\Registry\\MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\TransparentEnabled",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SHELL32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\COMCTL32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\VERSION.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ntdll.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\KERNEL32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\GDI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USER32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\Secur32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\RPCRT4.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ADVAPI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\msvcrt.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WS2HELP.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WS2_32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SHLWAPI.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\PSAPI.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ole32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\OLEAUT32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\winime32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\IMM32.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USP10.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\LPK.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\MSCTF.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SHFOLDER.dll",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\policies\\Explorer\\NoInternetIcon",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoInternetIcon",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\policies\\Explorer\\NoControlPanel",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoControlPanel",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\policies\\Explorer\\NoSetFolders",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer\\NoSetFolders",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SETUPAPI.dll",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\System\\DNSclient",
+            "\\REGISTRY\\MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\996E.exe\\RpcThreadPoolThrottle",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Rpc",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\Hidden",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\HideFileExt",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced\\ShowSuperHidden",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\IMM\\Ime File",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\msctfime.ime",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\UxTheme.dll",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontLink\\SystemLink",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\DataStore_V1.0",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\DataStore_V1.0\\Disable",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\DataStore_V1.0\\DataFilePath",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Tahoma",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\CTF\\DirectSwitchHotkeys",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CLSID\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\ShellFolder",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\MountPoints2\\CPC\\Volume",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\MountPoints2\\CPC\\Volume\\{15734c0b-4aaa-4cbe-ad75-3e504f42acb3}\\",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\MountPoints2\\CPC\\Volume\\{3882a871-858a-11eb-b9e1-806e6f6e6963}\\",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\MountPoints2\\CPC\\Volume\\{3ad3197b-12d6-45c2-a036-8dbcc38b1f2e}\\",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\MountPoints2\\CPC\\Volume\\{fde94e26-51ac-4a3b-a031-293cbf326422}\\",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\NULL",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\SessionInfo\\1",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\SessionInfo\\1\\KnownFolders",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\NonEnum",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Explorer",
+            "HKEY_CURRENT_USER_Classes",
+            "HKEY_CURRENT_USER_Classes\\AllFilesystemObjects",
+            "HKEY_CURRENT_USER_Classes\\AllFilesystemObjects\\BrowseInPlace",
+            "HKEY_CURRENT_USER_Classes\\AllFilesystemObjects\\Clsid",
+            "HKEY_CURRENT_USER_Classes\\AllFilesystemObjects\\DocObject",
+            "HKEY_CURRENT_USER_Classes\\AllFilesystemObjects\\ShellEx\\IconHandler",
+            "HKEY_CURRENT_USER_Classes\\Directory",
+            "HKEY_CURRENT_USER_Classes\\Directory\\BrowseInPlace",
+            "HKEY_CURRENT_USER_Classes\\Directory\\Clsid",
+            "HKEY_CURRENT_USER_Classes\\Directory\\DocObject",
+            "HKEY_CURRENT_USER_Classes\\Directory\\ShellEx\\IconHandler",
+            "HKEY_CURRENT_USER_Classes\\Drive\\shellex\\FolderExtensions",
+            "HKEY_CURRENT_USER_Classes\\Drive\\shellex\\FolderExtensions\\{fbeb8a05-beee-4442-804e-409d6c4515e9}",
+            "HKEY_CURRENT_USER_Classes\\Folder",
+            "HKEY_CURRENT_USER_Classes\\Folder\\BrowseInPlace",
+            "HKEY_CURRENT_USER_Classes\\Folder\\Clsid",
+            "HKEY_CURRENT_USER_Classes\\Folder\\DocObject",
+            "HKEY_CURRENT_USER_Classes\\Folder\\ShellEx\\IconHandler",
+            "HKEY_CURRENT_USER_Classes\\WOW6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder",
+            "HKEY_CURRENT_USER_Classes\\WOW6432Node\\CLSID\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}",
+            "HKEY_CURRENT_USER_Classes\\WOW6432Node\\CLSID\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Instance",
+            "HKEY_CURRENT_USER_Classes\\WOW6432Node\\CLSID\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Instance\\InitPropertyBag",
+            "HKEY_CURRENT_USER_Classes\\WOW6432Node\\CLSID\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\ShellFolder",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\AllFilesystemObjects\\BrowseInPlace",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\AllFilesystemObjects\\Clsid",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\AllFilesystemObjects\\DocObject",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\AllFilesystemObjects\\ShellEx\\IconHandler",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Folder\\BrowseInPlace",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Folder\\Clsid",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Folder\\DocObject",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Folder\\ShellEx\\IconHandler",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{0E5AAE11-A475-4C5B-AB00-C66DE400274E}",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{0E5AAE11-A475-4c5b-AB00-C66DE400274E}\\Elevation",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{0E5AAE11-A475-4c5b-AB00-C66DE400274E}\\InprocHandler",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{0E5AAE11-A475-4c5b-AB00-C66DE400274E}\\InprocHandler32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{0E5AAE11-A475-4c5b-AB00-C66DE400274E}\\InprocServer32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{0E5AAE11-A475-4c5b-AB00-C66DE400274E}\\LocalServer",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{0E5AAE11-A475-4c5b-AB00-C66DE400274E}\\LocalServer32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{0E5AAE11-A475-4c5b-AB00-C66DE400274E}\\TreatAs",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{1F486A52-3CB1-48FD-8F50-B8DC300D9F9D}",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{1f486a52-3cb1-48fd-8f50-b8dc300d9f9d}\\Elevation",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{1f486a52-3cb1-48fd-8f50-b8dc300d9f9d}\\InprocHandler",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{1f486a52-3cb1-48fd-8f50-b8dc300d9f9d}\\InprocHandler32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{1f486a52-3cb1-48fd-8f50-b8dc300d9f9d}\\InprocServer32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{1f486a52-3cb1-48fd-8f50-b8dc300d9f9d}\\LocalServer",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{1f486a52-3cb1-48fd-8f50-b8dc300d9f9d}\\LocalServer32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{1f486a52-3cb1-48fd-8f50-b8dc300d9f9d}\\TreatAs",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Instance\\InitPropertyBag",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Instance\\NULL",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\AppModel\\Lookaside\\Packages",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontLink\\SystemLink",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DllNXOptions",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\jzzmInstaller.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\DataStore_V1.0",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Segoe UI",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\CTF\\",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\CTF\\Compatibility\\jzzmInstaller.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\OLE",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\OLEAUT",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{754AC886-DF64-4CBA-86B5-F7FBF4FBCEF5}",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{754AC886-DF64-4CBA-86B5-F7FBF4FBCEF5}\\PropertyBag",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\PropertyBag",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\OOBE",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\ShellCompatibility\\Applications\\jzzmInstaller.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Policies\\Microsoft\\WindowsStore",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages\\en-US",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Nls\\CustomLocale",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Segment Heap",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Policies\\Microsoft\\Cryptography\\Configuration",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\AllFilesystemObjects",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\Directory",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\Directory\\BrowseInPlace",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\Directory\\Clsid",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\Directory\\DocObject",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\Directory\\ShellEx\\IconHandler",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\Drive\\shellex\\FolderExtensions",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\Drive\\shellex\\FolderExtensions\\{fbeb8a05-beee-4442-804e-409d6c4515e9}",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\Folder",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\WOW6432Node\\CLSID\\{0E5AAE11-A475-4C5B-AB00-C66DE400274E}\\InProcServer32",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\WOW6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\InProcServer32",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\WOW6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\WOW6432Node\\CLSID\\{75847177-F077-4171-BD2C-A6BB2164FBD0}\\InProcServer32",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\WOW6432Node\\CLSID\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\WOW6432Node\\CLSID\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\InProcServer32",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\WOW6432Node\\CLSID\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\Instance",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\WOW6432Node\\CLSID\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\ShellFolder",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\COM3",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole\\FeatureDevelopmentProperties",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Disable8And16BitMitigation",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\OEM",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Wow64\\x86",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Input",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\LanguageOverlay\\OverlayPackages\\en-US",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\OLE",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\OLE\\Tracing",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Rpc",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Rpc\\Extensions",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\CLSID\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\\ShellFolder",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Desktop\\NameSpace",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\KnownFolderSettings",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\MyComputer\\NameSpace",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\MyComputer\\NameSpace\\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Policies\\NonEnum",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\SideBySide",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\SideBySide\\AssemblyStorageRoots",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\MUI\\Settings",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows NT\\Rpc",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows\\Display",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows\\Explorer",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\ComputerName\\ActiveComputerName",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\FileSystem\\",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FipsAlgorithmPolicy",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\Settings\\LanguageConfiguration",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\UILanguages",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\UILanguages\\PendingDelete",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\NLS\\Language",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\CustomLocale",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\ExtendedLocale",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Sorting\\Ids",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Sorting\\Versions",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Srp\\GP\\DLL",
+            "HKEY_LOCAL_MACHINE\\System\\Setup"
+        ],
+        "tags": [
+            "DIRECT_CPU_CLOCK_ACCESS",
+            "RUNTIME_MODULES",
+            "IDLE"
+        ],
+        "dns_lookups": [
+            {
+                "hostname": "245.50.188.52.in-addr.arpa"
+            },
+            {
+                "hostname": "126.10.238.8.in-addr.arpa"
+            },
+            {
+                "hostname": "www.msftconnecttest.com",
+                "resolved_ips": [
+                    "13.107.4.52"
+                ]
+            },
+            {
+                "hostname": "arc.msn.com",
+                "resolved_ips": [
+                    "20.49.157.6"
+                ]
+            },
+            {
+                "hostname": "16.152.214.23.in-addr.arpa"
+            },
+            {
+                "hostname": "29.220.184.93.in-addr.arpa"
+            }
+        ],
+        "mutexes_created": [
+            "CTF.LBES.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.Compart.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.Asm.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.Layouts.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.TMD.MutexDefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "CTF.TimListCache.FMPDefaultS-1-5-21-1482476501-1645522239-1417001333-500MUTEX.DefaultS-1-5-21-1482476501-1645522239-1417001333-500",
+            "MSCTF.Shared.MUTEX.EBH"
+        ],
+        "mutexes_opened": [
+            "ShimCacheMutex"
+        ],
+        "verdict_confidence": 2,
+        "permissions_requested": [
+            "SE_LOAD_DRIVER_PRIVILEGE"
+        ],
+        "files_deleted": [
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\nsh2.tmp",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\nsw2.tmp",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\nsr3.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\nsi8F84.tmp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\nsgDA1C.tmp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\nsj9211.tmp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\nsx909D.tmp"
+        ],
+        "files_written": [
+            "C:\\Windows\\ServiceProfiles\\LocalService\\AppData\\Roaming\\Microsoft\\UPnP Device Host\\upnphost\\udhisapi.dll",
+            "C:\\Windows\\System32\\Tasks\\Microsoft\\Windows\\DiskDiagnostic\\Microsoft-Windows-DiskDiagnosticDataCollector",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\nsgDA1C.tmp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\nsj9211.tmp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\nsx909D.tmp"
+        ],
+        "calls_highlighted": [
+            "GetTickCount"
+        ],
+        "registry_keys_set": [
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows Media Player NSS\\3.0\\Servers\\A70D59A1-8EAD-4F40-AAAB-FBFC460800A4\\FriendlyName",
+                "value": "WORK: admin:"
+            }
+        ],
+        "verdicts": [
+            "UNKNOWN_VERDICT",
+            "CLEAN"
+        ],
+        "command_executions": [
+            "\"%SAMPLEPATH%\\jzzmInstaller.exe\" "
+        ],
+        "mitre_attack_techniques": [
+            {
+                "id": "T1083",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Reads ini files"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Sample reads itself and does not show any behavior, likely it performs some host environment checks and compares to an embedded key"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Reads software policies"
+            },
+            {
+                "id": "T1095",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Performs DNS lookups"
+            },
+            {
+                "id": "T1071",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Performs DNS lookups"
+            }
+        ],
+        "processes_injected": [
+            "\\\\?\\C:\\Windows\\system32\\wbem\\WMIADAP.EXE"
+        ],
+        "files_opened": [
+            "C:\\WINDOWS\\system32\\winime32.dll",
+            "C:\\WINDOWS\\system32\\ws2_32.dll",
+            "C:\\WINDOWS\\system32\\ws2help.dll",
+            "C:\\WINDOWS\\system32\\psapi.dll",
+            "C:\\WINDOWS\\system32\\imm32.dll",
+            "C:\\WINDOWS\\system32\\lpk.dll",
+            "C:\\WINDOWS\\system32\\usp10.dll",
+            "C:\\WINDOWS\\WinSxS\\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\\comctl32.dll",
+            "C:\\WINDOWS\\system32\\shell32.dll",
+            "C:\\WINDOWS\\WindowsShell.Manifest",
+            "C:\\WINDOWS\\system32\\rpcss.dll",
+            "C:\\WINDOWS\\system32\\MSCTF.dll",
+            "C:\\WINDOWS\\system32\\shfolder.dll",
+            "C:\\WINDOWS\\system32\\setupapi.dll",
+            "C:\\DiskD",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\nsh2.tmp",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe",
+            "C:\\WINDOWS\\system32\\MSCTFIME.IME",
+            "C:\\WINDOWS\\system32\\uxtheme.dll",
+            "C:\\WINDOWS\\system32\\MSIMTF.dll",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\nsw2.tmp",
+            "C:\\c91e987ed659d6ca138e567ec1ee0aa77694a135efceb15c0df68d7efefa66e5",
+            "\\\\.\\PIPE\\lsarpc",
+            "\\\\.\\MountPointManager",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\nsr3.tmp",
+            "C:\\Windows\\system32\\SHFOLDER.DLL",
+            "C:\\Windows\\syswow64\\SHELL32.dll",
+            "C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d",
+            "MountPointManager",
+            "STORAGE#Volume#{cee3ec9c-5c2e-11ec-9523-806e6f6e6963}#0000000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}",
+            "STORAGE#Volume#{cee3ec9c-5c2e-11ec-9523-806e6f6e6963}#0000000006500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}",
+            "C:\\Windows\\system32\\propsys.dll",
+            "C:\\Users\\<USER>\\AppData\\Local\\Microsoft\\Windows\\Caches",
+            "C:\\Users\\<USER>\\AppData\\Local\\Microsoft\\Windows\\Caches\\cversions.1.db",
+            "C:\\Windows\\system32\\ntmarta.dll",
+            "C:\\Users\\<USER>\\AppData\\Local\\Microsoft\\Windows\\Caches\\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000012.db",
+            "C:\\Users\\desktop.ini",
+            "C:\\Users",
+            "C:\\Users\\admin",
+            "C:\\Users\\<USER>\\Downloads\\desktop.ini",
+            "C:\\Users\\<USER>\\Desktop\\desktop.ini",
+            "C:\\Users\\<USER>\\Searches\\desktop.ini",
+            "C:\\Users\\<USER>\\Videos\\desktop.ini",
+            "C:\\Users\\<USER>\\Pictures\\desktop.ini",
+            "C:\\Users\\<USER>\\Contacts\\desktop.ini",
+            "C:\\Users\\<USER>\\Favorites\\desktop.ini",
+            "C:\\Users\\<USER>\\Music\\desktop.ini",
+            "C:\\Users\\<USER>\\Documents\\desktop.ini",
+            "C:\\Users\\<USER>\\Links\\desktop.ini",
+            "C:\\Users\\<USER>\\Saved Games\\desktop.ini",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\nsi8F84.tmp",
+            "C:\\Users\\<USER>\\Downloads\\jzzmInstaller.exe",
+            "C:\\Windows\\Fonts\\staticcache.dat",
+            "C:\\Windows\\system32\\UxTheme.dll",
+            "C:\\Windows\\system32\\imageres.dll",
+            "C:\\Windows\\system32\\ole32.dll",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches\\cversions.1.db",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches\\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000026.db",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\nsgDA1C.tmp",
+            "C:\\Users\\user\\Desktop\\desktop.ini",
+            "C:\\Users\\user\\Desktop\\jzzmInstaller.exe",
+            "C:\\Windows\\AppPatch\\sysmain.sdb",
+            "C:\\Windows\\Globalization\\Sorting\\sortdefault.nls",
+            "C:\\Windows\\SysWOW64\\CRYPTBASE.dll",
+            "C:\\Windows\\SysWOW64\\CoreMessaging.dll",
+            "C:\\Windows\\SysWOW64\\CoreUIComponents.dll",
+            "C:\\Windows\\SysWOW64\\FLTLIB.DLL",
+            "C:\\Windows\\SysWOW64\\GDI32.dll",
+            "C:\\Windows\\SysWOW64\\IMM32.DLL",
+            "C:\\Windows\\SysWOW64\\KERNEL32.DLL",
+            "C:\\Windows\\SysWOW64\\KERNELBASE.dll",
+            "C:\\Windows\\SysWOW64\\MSCTF.dll",
+            "C:\\Windows\\SysWOW64\\OLEAUT32.dll",
+            "C:\\Windows\\SysWOW64\\RPCRT4.dll",
+            "C:\\Windows\\SysWOW64\\SHELL32.dll",
+            "C:\\Windows\\SysWOW64\\SHFOLDER.DLL",
+            "C:\\Windows\\SysWOW64\\SspiCli.dll",
+            "C:\\Windows\\SysWOW64\\TextInputFramework.dll",
+            "C:\\Windows\\SysWOW64\\USER32.dll",
+            "C:\\Windows\\SysWOW64\\VERSION.dll",
+            "C:\\Windows\\SysWOW64\\advapi32.dll",
+            "C:\\Windows\\SysWOW64\\apphelp.dll",
+            "C:\\Windows\\SysWOW64\\bcryptPrimitives.dll",
+            "C:\\Windows\\SysWOW64\\cfgmgr32.dll",
+            "C:\\Windows\\SysWOW64\\clbcatq.dll",
+            "C:\\Windows\\SysWOW64\\combase.dll",
+            "C:\\Windows\\SysWOW64\\dwmapi.dll",
+            "C:\\Windows\\SysWOW64\\en-US\\USER32.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\imageres.dll.mui",
+            "C:\\Windows\\SysWOW64\\gdi32full.dll",
+            "C:\\Windows\\SysWOW64\\imageres.dll",
+            "C:\\Windows\\SysWOW64\\kernel.appcore.dll",
+            "C:\\Windows\\SysWOW64\\msvcp_win.dll",
+            "C:\\Windows\\SysWOW64\\msvcrt.dll",
+            "C:\\Windows\\SysWOW64\\ntdll.dll",
+            "C:\\Windows\\SysWOW64\\ntmarta.dll",
+            "C:\\Windows\\SysWOW64\\ole32.dll",
+            "C:\\Windows\\SysWOW64\\oleaut32.dll",
+            "C:\\Windows\\SysWOW64\\powrprof.dll",
+            "C:\\Windows\\SysWOW64\\profapi.dll",
+            "C:\\Windows\\SysWOW64\\propsys.dll",
+            "C:\\Windows\\SysWOW64\\sechost.dll",
+            "C:\\Windows\\SysWOW64\\shcore.dll",
+            "C:\\Windows\\SysWOW64\\shlwapi.dll",
+            "C:\\Windows\\SysWOW64\\ucrtbase.dll",
+            "C:\\Windows\\SysWOW64\\uxtheme.dll",
+            "C:\\Windows\\SysWOW64\\win32u.dll",
+            "C:\\Windows\\SysWOW64\\windows.storage.dll",
+            "C:\\Windows\\SysWOW64\\wintypes.dll",
+            "C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.1304_none_1ba91cf2911002f6",
+            "C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.1304_none_1ba91cf2911002f6\\COMCTL32.dll",
+            "SCSI#CdRom&Ven_NECVMWar&Prod_VMware_SATA_CD00#5&354ae4d7&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}",
+            "STORAGE#Volume#{3882a85f-858a-11eb-b9e1-806e6f6e6963}#0000000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}",
+            "STORAGE#Volume#{3882a85f-858a-11eb-b9e1-806e6f6e6963}#000000001F400000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}",
+            "STORAGE#Volume#{3882a85f-858a-11eb-b9e1-806e6f6e6963}#0000000026700000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\nsj9211.tmp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\nsx909D.tmp"
+        ],
+        "processes_created": [
+            "%SAMPLEPATH%\\jzzmInstaller.exe"
+        ],
+        "processes_tree": [
+            {
+                "process_id": "2224",
+                "name": "%windir%\\System32\\svchost.exe -k WerSvcGroup"
+            },
+            {
+                "process_id": "2932",
+                "name": "wmiadap.exe /F /T /R"
+            },
+            {
+                "process_id": "2976",
+                "name": "%windir%\\system32\\wbem\\wmiprvse.exe"
+            },
+            {
+                "process_id": "2676",
+                "name": "%SAMPLEPATH%"
+            },
+            {
+                "process_id": "3532",
+                "name": "%WINDIR%\\explorer.exe",
+                "children": [
+                    {
+                        "process_id": "3736",
+                        "name": "%SAMPLEPATH%\\jzzmInstaller.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "1488",
+                "name": "****.exe"
+            },
+            {
+                "process_id": "4380",
+                "name": "'C:\\Users\\user\\Desktop\\jzzmInstaller.exe' "
+            }
+        ],
+        "modules_loaded": [
+            "comctl32.dll",
+            "C:\\WINDOWS\\system32\\MSCTF.dll",
+            "NTDLL.DLL",
+            "ole32.dll",
+            "C:\\WINDOWS\\system32\\SHELL32.dll",
+            "USER32.dll",
+            "rpcrt4.dll",
+            "SHELL32.dll",
+            "C:\\WINDOWS\\system32\\msctfime.ime",
+            "C:\\WINDOWS\\system32\\ole32.dll",
+            "C:\\WINDOWS\\system32\\Msctf.dll",
+            "shfolder",
+            "setupapi.dll",
+            "shell32.dll",
+            "API-MS-Win-Core-LocalRegistry-L1-1-0.dll",
+            "ADVAPI32.dll",
+            "propsys.dll",
+            "UxTheme.dll",
+            "imageres.dll"
+        ],
+        "ip_traffic": [
+            {
+                "destination_ip": "72.21.81.240",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "8.240.38.254",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            }
+        ],
+        "files_dropped": [
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Temp\\nszE261.tmp"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Temp\\nsx431.tmp"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Temp\\nsxEA7F.tmp"
+            }
+        ],
+        "processes_terminated": [
+            "%windir%\\System32\\svchost.exe -k WerSvcGroup",
+            "wmiadap.exe /F /T /R",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe",
+            "1952 - C:\\Windows\\system32\\sc.exe start w32time task_started",
+            "1004 - C:\\Windows\\system32\\rundll32.exe dfdts.dll,DfdGetDefaultPolicyAndSMART",
+            "2680 - taskhost.exe SYSTEM",
+            "2748 - taskhost.exe $(Arg0)",
+            "2772 - C:\\Windows\\system32\\schtasks.exe /delete /f /TN \"Microsoft\\Windows\\Customer Experience Improvement Program\\Uploader\""
+        ],
+        "attack_techniques": {
+            "T1083": [
+                {
+                    "severity": "INFO",
+                    "description": "Reads ini files"
+                }
+            ],
+            "T1082": [
+                {
+                    "severity": "INFO",
+                    "description": "Sample reads itself and does not show any behavior, likely it performs some host environment checks and compares to an embedded key"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Reads software policies"
+                }
+            ],
+            "T1095": [
+                {
+                    "severity": "INFO",
+                    "description": "Performs DNS lookups"
+                }
+            ],
+            "T1071": [
+                {
+                    "severity": "INFO",
+                    "description": "Performs DNS lookups"
+                }
+            ]
+        }
+    }
+}

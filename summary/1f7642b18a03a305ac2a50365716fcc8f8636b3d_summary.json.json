@@ -1,0 +1,1466 @@
+{
+    "data": {
+        "processes_tree": [
+            {
+                "process_id": "3652",
+                "name": "C:\\Windows\\System32\\loaddll32.exe loaddll32.exe 'C:\\Users\\user\\Desktop\\library.dll'",
+                "children": [
+                    {
+                        "process_id": "4048",
+                        "name": "C:\\Windows\\SysWOW64\\cmd.exe cmd.exe /C rundll32.exe 'C:\\Users\\user\\Desktop\\library.dll',#1",
+                        "children": [
+                            {
+                                "process_id": "1964",
+                                "name": "C:\\Windows\\SysWOW64\\rundll32.exe rundll32.exe  'C:\\Users\\user\\Desktop\\library.dll',#1",
+                                "children": [
+                                    {
+                                        "process_id": "3644",
+                                        "name": "C:\\Windows\\SysWOW64\\WerFault.exe -u -p 1964 -s 672"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "process_id": "1828",
+                        "name": "C:\\Windows\\SysWOW64\\regsvr32.exe regsvr32.exe /s C:\\Users\\user\\Desktop\\library.dll"
+                    },
+                    {
+                        "process_id": "2156",
+                        "name": "C:\\Program Files\\internet explorer\\iexplore.exe C:\\Program Files\\Internet Explorer\\iexplore.exe",
+                        "children": [
+                            {
+                                "process_id": "3600",
+                                "name": "C:\\Program Files (x86)\\Internet Explorer\\iexplore.exe 'C:\\Program Files (x86)\\Internet Explorer\\IEXPLORE.EXE' SCODEF:2156 CREDAT:17410 /prefetch:2"
+                            }
+                        ]
+                    },
+                    {
+                        "process_id": "5416",
+                        "name": "C:\\Windows\\SysWOW64\\rundll32.exe rundll32.exe C:\\Users\\user\\Desktop\\library.dll,DllRegisterServer",
+                        "children": [
+                            {
+                                "process_id": "2592",
+                                "name": "C:\\Windows\\SysWOW64\\WerFault.exe -u -p 5416 -s 664"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "mitre_attack_techniques": [
+            {
+                "signature_description": "Tries to load missing DLLs",
+                "id": "T1574.002",
+                "severity": "IMPACT_SEVERITY_INFO"
+            },
+            {
+                "signature_description": "Spawns processes",
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_INFO"
+            },
+            {
+                "signature_description": "Creates a process in suspended mode (likely to inject code)",
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_INFO"
+            },
+            {
+                "signature_description": "Registers a DLL",
+                "id": "T1218.010",
+                "severity": "IMPACT_SEVERITY_INFO"
+            },
+            {
+                "signature_description": "Creates files inside the system directory",
+                "id": "T1036",
+                "severity": "IMPACT_SEVERITY_INFO"
+            },
+            {
+                "signature_description": "Creates files inside the user directory",
+                "id": "T1036",
+                "severity": "IMPACT_SEVERITY_INFO"
+            },
+            {
+                "signature_description": "Checks if the current process is being debugged",
+                "id": "T1497",
+                "severity": "IMPACT_SEVERITY_INFO"
+            },
+            {
+                "signature_description": "Runs a DLL by calling functions",
+                "id": "T1218.011",
+                "severity": "IMPACT_SEVERITY_INFO"
+            },
+            {
+                "signature_description": "Tries to detect debuggers by setting the trap flag for special instructions",
+                "id": "T1518.001",
+                "severity": "IMPACT_SEVERITY_LOW"
+            },
+            {
+                "signature_description": "Checks if the current process is being debugged",
+                "id": "T1518.001",
+                "severity": "IMPACT_SEVERITY_INFO"
+            },
+            {
+                "signature_description": "Reads ini files",
+                "id": "T1083",
+                "severity": "IMPACT_SEVERITY_INFO"
+            },
+            {
+                "signature_description": "Queries the volume information (name, serial number etc) of a device",
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO"
+            },
+            {
+                "signature_description": "Tries to detect debuggers by setting the trap flag for special instructions",
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_LOW"
+            },
+            {
+                "signature_description": "Reads software policies",
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO"
+            },
+            {
+                "signature_description": "Reads the hosts file",
+                "id": "T1018",
+                "severity": "IMPACT_SEVERITY_INFO"
+            }
+        ],
+        "mutexes_created": [
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\!BrowserEmulation!SharedMemory!Mutex",
+            "!IECompat!Mutex",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\VERMGMTBlockListFileMutex",
+            "\\Sessions\\1\\BaseNamedObjects\\SmartScreen_AppRepSettings_Mutex",
+            "\\Sessions\\1\\BaseNamedObjects\\SmartScreen_ClientId_Mutex",
+            "\\Sessions\\1\\BaseNamedObjects\\CommunicationManager_Mutex",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\ZonesCacheCounterMutex",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\ZonesLockedCacheCounterMutex",
+            "\\Sessions\\1\\BaseNamedObjects\\IsoScope_86c_IE_EarlyTabStart_0x1d4_Mutex",
+            "\\Sessions\\1\\BaseNamedObjects\\{5312EE61-79E3-4A24-BFE1-132B85B23C3A}",
+            "\\Sessions\\1\\BaseNamedObjects\\{66D0969A-1E86-44CF-B4EC-3806DDDA3B5D}",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\TraceLogStorageMutex",
+            "\\Sessions\\1\\BaseNamedObjects\\UpdatingNewTabPageData",
+            "\\Sessions\\1\\BaseNamedObjects\\_!SHMSFTHISTORY!_",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\InternetShortcutMutex",
+            "!IEFileUpdater!Mutex",
+            "!PrivacIE!SharedMem!Mutex",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\MSIMGSIZECacheMutex",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\WERReportingForProcess1964",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\AmiProviderMutex_InventoryApplicationFile",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\c6b063d0-230d-4966-a3f4-a6b39f4036e4",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\WERReportingForProcess5416",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\1c8a8b81-5ab3-4501-9fe0-c2525497584e",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\a7e7aaa4-0548-4df6-8684-be348e0c5bf7",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\WERReportingForProcess6940",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\3f811e87-ef7e-46f2-a057-9c3ae8617087",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\WERReportingForProcess1332",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\530a7d6a-28e7-4394-aecd-fe52b1ef4f23"
+        ],
+        "files_deleted": [
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1b55e9b4",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1b55e9b4\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER318E.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER318E.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER35B4.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER35B4.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER398E.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER398E.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3BE0.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3BE0.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3BEE.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3C8B.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3C8B.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3EBF.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3EBF.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3EDD.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3F6B.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER425A.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC4B3.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC4C3.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC5BE.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC5CF.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERECE7.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERECE7.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERED54.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERED54.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF19B.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF19B.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF331.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF331.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF749.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF749.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF872.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF872.tmp.xml"
+        ],
+        "files_opened": [
+            "C:\\Program Files (x86)\\",
+            "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath",
+            "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath\\",
+            "C:\\Program Files (x86)\\Internet Explorer\\IEShims.dll",
+            "C:\\Program Files (x86)\\Internet Explorer\\IEXPLORE.EXE",
+            "C:\\Program Files (x86)\\Internet Explorer\\en-US\\IEXPLORE.EXE.mui",
+            "C:\\Program Files (x86)\\Internet Explorer\\en\\IEXPLORE.EXE.mui",
+            "C:\\Program Files (x86)\\Internet Explorer\\iexplore.exe",
+            "C:\\Program Files (x86)\\Java\\jre1.8.0_281\\",
+            "C:\\Program Files (x86)\\Java\\jre1.8.0_281\\bin\\",
+            "C:\\Program Files (x86)\\Java\\jre1.8.0_281\\bin\\deploy.dll",
+            "C:\\Program Files (x86)\\Java\\jre1.8.0_281\\bin\\javaws.exe",
+            "C:\\Program Files (x86)\\Java\\jre1.8.0_281\\bin\\jp2ssv.dll",
+            "C:\\Program Files (x86)\\Java\\jre1.8.0_281\\bin\\ssv.dll",
+            "C:\\Program Files (x86)\\Java\\jre1.8.0_281\\lib\\plugin.jar",
+            "C:\\Program Files\\Internet Explorer\\IEShims.dll",
+            "C:\\Program Files\\Internet Explorer\\en-US\\iexplore.exe.mui",
+            "C:\\Program Files\\Internet Explorer\\iexplore.exe",
+            "C:\\Program Files\\dotnet",
+            "C:\\Program Files\\dotnet\\",
+            "C:\\ProgramData\\Microsoft\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_027946d0\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_05b09457\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0b53eef6\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0ee33f0d\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0eea1cde\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1127d013\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_15d6973b\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_172deaf8\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_17489afa\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_174f43cc\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1887e8df\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_19de93d4\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1b2c6f9e\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1b55e9b4",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1b55e9b4\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1b55e9b4\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1bc13e96\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_56c813898edc5529b2fd6993cccc5727b8a3fe_82810a17_0a5aeb87\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_56c813898edc5529b2fd6993cccc5727b8a3fe_82810a17_0e4672fc\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_56c813898edc5529b2fd6993cccc5727b8a3fe_82810a17_0e4672fc\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_745f16c7b917cc01a2748e37d9f8bd6a4e91c8e_00000000_00a1bf7b\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_019601f0\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_0430c552\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_044610d4\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_064dade7\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_06da029b\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_0ac5b049\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_0dadc25a\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_0e3ca1b0\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_10a08f03\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_122eb1b1\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_1551f472\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_156d6c57\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_16e9b3fd\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_192a07db\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_19362324\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_19bde65c\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_089e1d48\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_0c98d271\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_0d69f83f\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_0d6e11fd\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_0e11cdc4\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_0e8a2cb9\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_0f9dc13c\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_1249b9fd\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_13420e25\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_13709bb5\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_13fe004a\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_1734add6\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_19b582dc\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_19c60f7c\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_1b3ebea1\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_1b55c140\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_f92d996342dbb18d45179bcf587cad44bfddd_00000000_1331d2a6\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_Acquisition;Acqu_12916ef023ae775b437ef92ac575f71e828b5_00000000_12b25756\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER318E.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER318E.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER35B4.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER35B4.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER398E.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER398E.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3BE0.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3BE0.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3BEE.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3C8B.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3C8B.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3EBF.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3EBF.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3EDD.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3F6B.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER425A.tmp.txt",
+            "C:\\ProgramData\\chocolatey\\bin",
+            "C:\\ProgramData\\chocolatey\\bin\\",
+            "C:\\Users\\desktop.ini",
+            "C:\\Users\\user\\AppData\\LocalLow\\Microsoft\\Internet Explorer\\tabiconcache.dat",
+            "C:\\Users\\user\\AppData\\Local\\DBG\\config.xml",
+            "C:\\Users\\user\\AppData\\Local\\Dbg\\EngineExtensions32",
+            "C:\\Users\\user\\AppData\\Local\\Dbg\\Visualizers\\",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Feeds",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\IECompatData\\iecompatdata.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\MSIMGSIZ.DAT",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\High\\Active",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\High\\Active\\RecoveryStore.{45A213D7-E71E-11EB-BA0F-005056A0ADDE}.dat",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\High\\Active\\{45A213D9-E71E-11EB-BA0F-005056A0ADDE}.dat",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\High\\Active\\{50020C83-E71E-11EB-BA0F-005056A0ADDE}.dat",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\TabRoaming",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-17529550060\\msapplication.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-18270793970\\msapplication.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-21706820\\msapplication.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-314712940\\msapplication.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-4759708130\\msapplication.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-6757900\\msapplication.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-8760897390\\msapplication.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin20259167780\\msapplication.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin20332743330\\msapplication.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin8215062560\\msapplication.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tracking Protection",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tracking Protection\\",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\frameiconcache.dat",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\iconcache",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\imagestore\\bvvaqkm\\imagestore.dat",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\imdockediconcache.dat",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\immersiveiconcache.dat",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\imtilelargeiconcache.dat",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\imtilesmalliconcache.dat",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\largeiconcache.dat",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\tabiconcache.dat",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\PlayReady\\Internet Explorer\\Desktop",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\PlayReady\\Internet Explorer\\InPrivate\\Desktop",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\WindowsApps",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\WindowsApps\\",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches\\cversions.1.db",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches\\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x000000000000001b.db",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\History\\Low",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\History\\desktop.ini",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\IECompatCache\\Low",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\IECompatUaCache\\Low",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\ETCJ2WHM",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\ETCJ2WHM\\dnserror[1]",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\ETCJ2WHM\\down[1]",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\F2EF8UYV",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\F2EF8UYV\\httpErrorPagesScripts[1]",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\R0IAZP7Z",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\R0IAZP7Z\\NewErrorPageTemplate[1]",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\WIKWAFRE\\errorPageStrings[1]",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Low",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Virtualized",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCookies\\DNTException\\Low",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCookies\\Low",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCookies\\PrivacIE\\Low",
+            "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39",
+            "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\",
+            "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\Scripts",
+            "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\Scripts\\",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\JavaDeployReg.log",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\Low",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\~DF0468F111E8016467.TMP",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\~DF0AFCAF3F3D6EC0F1.TMP",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\~DF6F58F1F09D089A79.TMP",
+            "C:\\Users\\user\\AppData\\Roaming\\Adobe\\Flash Player\\NativeCache",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Internet Explorer\\UserData\\Low",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\AppContainerUserCertRead",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\CRLs\\",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\CTLs\\",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\Certificates\\",
+            "C:\\Users\\user\\Desktop\\desktop.ini",
+            "C:\\Users\\user\\Desktop\\library.dll",
+            "C:\\Users\\user\\Desktop\\library.dll.123.Manifest",
+            "C:\\Users\\user\\Desktop\\library.dll.124.Manifest",
+            "C:\\Users\\user\\Desktop\\library.dll.2.Manifest",
+            "C:\\Users\\user\\Documents\\desktop.ini",
+            "C:\\Users\\user\\Downloads\\desktop.ini",
+            "C:\\Users\\user\\Favorites",
+            "C:\\Users\\user\\Favorites\\",
+            "C:\\Users\\user\\Favorites\\Amazon.url",
+            "C:\\Users\\user\\Favorites\\Bing.url",
+            "C:\\Users\\user\\Favorites\\Facebook.url",
+            "C:\\Users\\user\\Favorites\\Google.url",
+            "C:\\Users\\user\\Favorites\\Links\\",
+            "C:\\Users\\user\\Favorites\\Live.url",
+            "C:\\Users\\user\\Favorites\\NYTimes.url",
+            "C:\\Users\\user\\Favorites\\Reddit.url",
+            "C:\\Users\\user\\Favorites\\Twitter.url",
+            "C:\\Users\\user\\Favorites\\Wikipedia.url",
+            "C:\\Users\\user\\Favorites\\Youtube.url",
+            "C:\\Users\\user\\Favorites\\desktop.ini",
+            "C:\\Users\\user\\Music\\desktop.ini",
+            "C:\\Users\\user\\OneDrive\\desktop.ini",
+            "C:\\Users\\user\\Pictures\\desktop.ini",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_Microsoft.Window_ca5066b3972f8d510ee6b1357351f351ee9b8_3509a1b5_0903585a\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_rundll32.exe_80234622b6f1fd4601467f413ae97598753d5b_82810a17_137c009e\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_rundll32.exe_80234622b6f1fd4601467f413ae97598753d5b_82810a17_137c009e\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_rundll32.exe_80234622b6f1fd4601467f413ae97598753d5b_82810a17_17a40198\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\NonCritical_10.0.17134.1304_64c7b1ba69ec9b26126caf16f394e3f9b1e91e4_00000000_04de0c82\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\NonCritical_1_6c1f9c3d3d9d3fde2e0f666f6f146c8e29f676_00000000_0d9ea76e\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\NonCritical_Microsoft Window_d5bde7c27aaa213ebe00ab0316518b54deba0_00000000_115e189b\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC4B3.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC4C3.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC5BE.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC5CF.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERECE7.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERECE7.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERED54.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERED54.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF19B.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF19B.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF331.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF331.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF749.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF749.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF872.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF872.tmp.xml",
+            "C:\\Users\\user\\Desktop\\init.dll",
+            "C:\\Users\\user\\Desktop\\init.dll.123.Manifest",
+            "C:\\Users\\user\\Desktop\\init.dll.124.Manifest",
+            "C:\\Users\\user\\Desktop\\init.dll.2.Manifest",
+            "C:\\Windows\\AppPatch\\sysmain.sdb",
+            "C:\\Windows\\Globalization\\Sorting\\sortdefault.nls",
+            "C:\\Windows\\SysWOW64",
+            "C:\\Windows\\SysWOW64\\",
+            "C:\\Windows\\SysWOW64\\AcLayers.DLL",
+            "C:\\Windows\\SysWOW64\\AcLayers.dll",
+            "C:\\Windows\\SysWOW64\\CRYPTBASE.dll",
+            "C:\\Windows\\SysWOW64\\CRYPTSP.dll",
+            "C:\\Windows\\SysWOW64\\DNSAPI.dll",
+            "C:\\Windows\\SysWOW64\\DPAPI.DLL",
+            "C:\\Windows\\SysWOW64\\DSREG.DLL",
+            "C:\\Windows\\SysWOW64\\FLTLIB.DLL",
+            "C:\\Windows\\SysWOW64\\GDI32.dll",
+            "C:\\Windows\\SysWOW64\\IMM32.DLL",
+            "C:\\Windows\\SysWOW64\\IPHLPAPI.DLL",
+            "C:\\Windows\\SysWOW64\\KERNEL32.DLL",
+            "C:\\Windows\\SysWOW64\\KERNELBASE.dll",
+            "C:\\Windows\\SysWOW64\\MPR.dll",
+            "C:\\Windows\\SysWOW64\\MSCTF.dll",
+            "C:\\Windows\\SysWOW64\\MSVCRT.dll",
+            "C:\\Windows\\SysWOW64\\NETAPI32.dll",
+            "C:\\Windows\\SysWOW64\\NTASN1.dll",
+            "C:\\Windows\\SysWOW64\\OLEAUT32.dll",
+            "C:\\Windows\\SysWOW64\\OnDemandConnRouteHelper.dll",
+            "C:\\Windows\\SysWOW64\\OneCoreUAPCommonProxyStub.dll",
+            "C:\\Windows\\SysWOW64\\OpenSSH",
+            "C:\\Windows\\SysWOW64\\PROPSYS.dll",
+            "C:\\Windows\\SysWOW64\\RMCLIENT.dll",
+            "C:\\Windows\\SysWOW64\\RPCRT4.dll",
+            "C:\\Windows\\SysWOW64\\SETUPAPI.dll",
+            "C:\\Windows\\SysWOW64\\SHELL32.dll",
+            "C:\\Windows\\SysWOW64\\Secur32.dll",
+            "C:\\Windows\\SysWOW64\\SspiCli.dll",
+            "C:\\Windows\\SysWOW64\\USER32.dll",
+            "C:\\Windows\\SysWOW64\\Visualizers\\",
+            "C:\\Windows\\SysWOW64\\WINHTTP.dll",
+            "C:\\Windows\\SysWOW64\\WINNSI.DLL",
+            "C:\\Windows\\SysWOW64\\WINSPOOL.DRV",
+            "C:\\Windows\\SysWOW64\\WINXP",
+            "C:\\Windows\\SysWOW64\\Wbem",
+            "C:\\Windows\\SysWOW64\\Wbem\\",
+            "C:\\Windows\\SysWOW64\\Windows.Security.Authentication.OnlineId.dll",
+            "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0",
+            "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\",
+            "C:\\Windows\\SysWOW64\\XmlLite.dll",
+            "C:\\Windows\\SysWOW64\\advapi32.dll",
+            "C:\\Windows\\SysWOW64\\aepic.dll",
+            "C:\\Windows\\SysWOW64\\apphelp.dll",
+            "C:\\Windows\\SysWOW64\\bcrypt.dll",
+            "C:\\Windows\\SysWOW64\\bcryptPrimitives.dll",
+            "C:\\Windows\\SysWOW64\\cfgmgr32.dll",
+            "C:\\Windows\\SysWOW64\\combase.dll",
+            "C:\\Windows\\SysWOW64\\cryptnet.dll",
+            "C:\\Windows\\SysWOW64\\dbgcore.DLL",
+            "C:\\Windows\\SysWOW64\\dbgeng.dll",
+            "C:\\Windows\\SysWOW64\\dbghelp.dll",
+            "C:\\Windows\\SysWOW64\\dbgmodel.dll",
+            "C:\\Windows\\SysWOW64\\dhcpcsvc.DLL",
+            "C:\\Windows\\SysWOW64\\dhcpcsvc6.DLL",
+            "C:\\Windows\\SysWOW64\\drivers\\",
+            "C:\\Windows\\SysWOW64\\dwmapi.dll",
+            "C:\\Windows\\SysWOW64\\en-US\\CRYPT32.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\FLTLIB.DLL.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\IPHLPAPI.DLL.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\KERNEL32.DLL.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\KERNELBASE.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\MPR.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\MSCTF.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\OLEAUT32.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\PROPSYS.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\RPCRT4.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\SETUPAPI.dll.mui"
+        ],
+        "files_dropped": [
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER398E.tmp.WERInternalMetadata.xml",
+                "sha256": "E802831E837A34689272FB403A6A0005D107DEDE2B6FCE1F38988DFE175A556E",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3BE0.tmp.xml",
+                "sha256": "3F7D00DE81B8CC7E6106C5705FCBB0B8D0F62ECD3A39F1649C51BC586662720A",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3C8B.tmp.WERInternalMetadata.xml",
+                "sha256": "16DECD258D5A14E5F7C99783B89B506701EC7F6632213E2EF5CD2F585D352348",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3EBF.tmp.xml",
+                "sha256": "9114CEF0607C2C6956089C4C49F50E4FD1C12AF58756D56D40F1C13A7E94A03D",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\High\\Active\\RecoveryStore.{45A213D7-E71E-11EB-BA0F-005056A0ADDE}.dat",
+                "sha256": "96F68E1F233C32244C2B24D076BAC3AAB262B002B0DBE13EE0EB88B445C6A261",
+                "type": "DOC"
+            },
+            {
+                "path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\High\\Active\\{45A213D9-E71E-11EB-BA0F-005056A0ADDE}.dat",
+                "sha256": "3B1812C53D8A7C4A7A492AAA4915165981DA713401215A3EBA5EEB9E4D76558D",
+                "type": "DOC"
+            },
+            {
+                "path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\High\\Active\\{50020C83-E71E-11EB-BA0F-005056A0ADDE}.dat",
+                "sha256": "C84653CA44827F3502ACA0036844A14E6FAD0E798498C3A2B8E43147D890FD28",
+                "type": "DOC"
+            },
+            {
+                "path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-17529550060\\msapplication.xml",
+                "sha256": "520F8864BB5DA5577917D45A5506727385D8EF0E750BD4E5B2B91D1733AA8D55",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-18270793970\\msapplication.xml",
+                "sha256": "0D6D6BE757AAA5291731F3B6C6980BE6EA6093A2FA43853930E442572BD90817",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-21706820\\msapplication.xml",
+                "sha256": "96371363B0A784DEA31056EF959540B92328A0A2A812F32A4FD77BBA424A2AD2",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-314712940\\msapplication.xml",
+                "sha256": "7BCA73B7BC4A3043B33F2107D37FFACFF24B470B02538E8BDD56635AA2932621",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-4759708130\\msapplication.xml",
+                "sha256": "91EB0381836F42E5AFA2E68A1833AA57EB540A685AD3A40F5BFAE53154E6AC99",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-6757900\\msapplication.xml",
+                "sha256": "3316529528ECB55C0D33466B88CA2BD33313FC3D4D9CB8114F20A2994554C732",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-8760897390\\msapplication.xml",
+                "sha256": "F7918A4E949C467472C0FDFEAF6BDD9093F125C77F4D1118916EC9B0B42D2BAC",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin20259167780\\msapplication.xml",
+                "sha256": "BA0306AE043ECA20F3FD37E4397D61A6C4D72D0853217912165A48E2569D8CB2",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin20332743330\\msapplication.xml",
+                "sha256": "7EE32F49D41DA1DC5B3AD513CA8089016C277A97B0779A0EB32AE03460E36FB7",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin8215062560\\msapplication.xml",
+                "sha256": "60120E9AC246A7FB536861A58F9FC14C478E0F78261180191BB3E8626A1338B6",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF19B.tmp.WERInternalMetadata.xml",
+                "sha256": "2347e4d1b4902bf7b44e7158b9bd4e088140d8feebd2b899a4cfb6a6df21d7b6",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF331.tmp.WERInternalMetadata.xml",
+                "sha256": "a8cbe6deca7777fc57172613df8854e4b46f11e2767a2763cdeb8145ae82c2a1",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF749.tmp.xml",
+                "sha256": "88c34ee2534e49ca86b8e754185938ee368be24db7abd5df8b714327ff67e2db",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF872.tmp.xml",
+                "sha256": "9852a0ca7ef3497e94b27329437bdf0aac6bf7103ef712eb64b882f87fee7ff2",
+                "type": "XML"
+            }
+        ],
+        "registry_keys_opened": [
+            "HKEY_CURRENT_USER\\SOFTWARE",
+            "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}\\iexplore",
+            "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{DBC80044-A445-435B-BC74-9C25C1C588A9}\\iexplore",
+            "HKEY_CURRENT_USER\\Software",
+            "HKEY_CURRENT_USER\\Software\\Microsoft",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\BrowserEmulation",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\GPU",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\WindowsSearch",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Protected - It is a violation of Windows Policy to modify. See aka.ms/browserpolicy",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Recovery\\AdminActive",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Suggested Sites",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\TabbedBrowsing",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Toolbar",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\User Preferences",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories64",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories64\\{00021493-0000-0000-C000-000000000046}\\Enum",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories64\\{00021494-0000-0000-C000-000000000046}\\Enum",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Settings\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}\\iexplore",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{DBC80044-A445-435B-BC74-9C25C1C588A9}\\iexplore",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\P3P\\History",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\windows\\CurrentVersion\\Internet Settings\\Connections",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\windows\\CurrentVersion\\Internet Settings\\Zones",
+            "HKEY_CURRENT_USER_Classes",
+            "HKEY_CURRENT_USER_Classes\\.dll",
+            "HKEY_CURRENT_USER_Classes\\dllfile",
+            "HKEY_CURRENT_USER_Classes\\dllfile\\AutoRegister",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\dllfile\\AutoRegister",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\AppModel\\Lookaside\\Packages",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DllNXOptions",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\cmd.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\iexplore.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\regsvr32.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\rundll32.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\OLE",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\OLEAUT",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Policies\\Microsoft\\WindowsStore",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages\\en-US",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Nls\\CustomLocale",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Segment Heap",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Policies\\Microsoft\\Cryptography\\Configuration",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\.dll",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\dllfile",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\DownloadManager",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole\\FeatureDevelopmentProperties",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Disable8And16BitMitigation",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Wow64\\x86",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Wow64\\x86\\xtajit",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\IdentityCRL\\ClockData",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\LanguageOverlay\\OverlayPackages\\en-US",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\OLE\\Tracing",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\SideBySide",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\Windows Error Reporting\\Debug",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\MUI\\Settings",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows\\Display",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\FileSystem\\",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FipsAlgorithmPolicy",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\Settings\\LanguageConfiguration",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\UILanguages",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\UILanguages\\PendingDelete",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\NLS\\Language",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\CustomLocale",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\ExtendedLocale",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Sorting\\Versions",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\AppCertDlls",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Srp\\GP\\DLL",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters",
+            "HKEY_LOCAL_MACHINE\\system\\CurrentControlSet\\control\\NetworkProvider\\HwOrder",
+            "HKEY_LOCAL_MACHINE\\system\\CurrentControlSet\\control\\NetworkProvider\\ProviderOrder",
+            "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root",
+            "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\IdentityCRL\\Immersive\\production\\Property",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\IdentityCRL\\Immersive\\production\\Token\\{67082621-8D18-4333-9C64-10DE93676363}",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\EnterpriseCertificates\\CA",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\EnterpriseCertificates\\Root",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\SystemCertificates\\AuthRoot",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\SystemCertificates\\CA",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\SystemCertificates\\Root",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\SystemCertificates\\SmartCardRoot",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\SystemCertificates\\CA",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\SystemCertificates\\Root",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\SecurityProviders\\Schannel",
+            "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root",
+            "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile"
+        ],
+        "tags": [
+            "DETECT_DEBUG_ENVIRONMENT"
+        ],
+        "registry_keys_set": [
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\VersionManager"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Protected - It is a violation of Windows Policy to modify. See aka.ms/browserpolicy"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Recovery"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Recovery\\AdminActive"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Recovery\\PendingRecovery"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}\\iexplore"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Settings"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Settings\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{DBC80044-A445-435B-BC74-9C25C1C588A9}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{DBC80044-A445-435B-BC74-9C25C1C588A9}\\iexplore"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Settings\\{DBC80044-A445-435B-BC74-9C25C1C588A9}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories64\\{00021493-0000-0000-C000-000000000046}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories64\\{00021493-0000-0000-C000-000000000046}\\Enum"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories64\\{00021494-0000-0000-C000-000000000046}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories64\\{00021494-0000-0000-C000-000000000046}\\Enum"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\User Preferences"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\DownloadManager"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\{0633EE93-D776-472f-A0FF-E1416B8B2E3A}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\TabbedBrowsing\\NewTabPage"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\DomainSuggestion"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\{11517B7C-E79D-4e20-961B-75A811715ADD}"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\PermissionsCheckTestKey"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\Windows Error Reporting\\Debug"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\IdentityCRL\\ClockData"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\OperationalData",
+                "value": "08 00 00 00 00 00 00 00 "
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\TabbedBrowsing\\NTPMigrationVer",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\BrowserEmulation\\IECompatVersionHigh",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\BrowserEmulation\\IECompatVersionLow",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\BrowserEmulation\\CVListXMLVersionLow",
+                "value": "395196024"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\BrowserEmulation\\CVListXMLVersionHigh",
+                "value": "268435456"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\GPU\\SoftwareFallback",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\GPU\\VendorId",
+                "value": "5140"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\GPU\\DeviceId",
+                "value": "140"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\GPU\\SubSysId",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\GPU\\Revision",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\BrowserEmulation\\CVListDomainAttributeSet",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\BrowserEmulation\\StaleCompatCache",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\VersionManager\\FirstCheckForUpdateLowDateTime",
+                "value": "-294953414"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\VersionManager\\FirstCheckForUpdateHighDateTime",
+                "value": "30899061"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\CompatibilityFlags",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Protected - It is a violation of Windows Policy to modify. See aka.ms/browserpolicy\\HomepagesUpgradeVersion",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\SecuritySafe",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER_Classes\\Local Settings\\MuiCache\\4a\\52C64B7E\\@ieframe.dll,-12512",
+                "value": "Bing"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Recovery\\AdminActive\\{45A213D7-E71E-11EB-BA0F-005056A0ADDE}",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\SearchBandMigrationVersion",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\FullScreen",
+                "value": "no"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\Window_Placement",
+                "value": "2C 00 00 00 00 00 00 00 01 00 00 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 24 00 00 00 24 0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Recovery\\PendingRecovery\\AdminActive",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}\\iexplore\\Type",
+                "value": "3"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}\\iexplore\\Flags",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}\\iexplore\\Count",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}\\iexplore\\Time",
+                "value": "E5 07 07 00 06 00 11 00 10 00 2C 00 28 00 18 00 "
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Settings\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}\\Flags",
+                "value": "1024"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{DBC80044-A445-435B-BC74-9C25C1C588A9}\\iexplore\\Type",
+                "value": "3"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{DBC80044-A445-435B-BC74-9C25C1C588A9}\\iexplore\\Flags",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{DBC80044-A445-435B-BC74-9C25C1C588A9}\\iexplore\\Count",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{DBC80044-A445-435B-BC74-9C25C1C588A9}\\iexplore\\Time",
+                "value": "E5 07 07 00 06 00 11 00 10 00 2C 00 28 00 18 00 "
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Settings\\{DBC80044-A445-435B-BC74-9C25C1C588A9}\\Flags",
+                "value": "1024"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\ImageStoreRandomFolder",
+                "value": "bvvaqkm"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories64\\{00021493-0000-0000-C000-000000000046}\\Enum\\Implementing",
+                "value": "1C 00 00 00 01 00 00 00 E5 07 07 00 06 00 11 00 10 00 2C 00 2B 00 99 02 01 00 00 00 64 4E A2 EF 78 B"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Discardable\\PostSetup\\Component Categories64\\{00021494-0000-0000-C000-000000000046}\\Enum\\Implementing",
+                "value": "1C 00 00 00 01 00 00 00 E5 07 07 00 06 00 11 00 10 00 2C 00 2C 00 0C 02 00 00 00 00 "
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Protected - It is a violation of Windows Policy to modify. See aka.ms/browserpolicy\\SearchScopesUpgradeVersion",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\User Preferences\\3DB9590C4C4C26C4CCBDD94ECAD790359708C3267B",
+                "value": "01 00 00 00 D0 8C 9D DF 01 15 D1 11 8C 7A 00 C0 4F C2 97 EB 01 00 00 00 10 70 45 1E 44 5A C3 40 9D B"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\DefaultScope",
+                "value": "{0633EE93-D776-472f-A0FF-E1416B8B2E3A}"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\User Preferences\\2BB20B33B4171CDAAB6469225AE6A582ED33D7B488",
+                "value": "01 00 00 00 D0 8C 9D DF 01 15 D1 11 8C 7A 00 C0 4F C2 97 EB 01 00 00 00 10 70 45 1E 44 5A C3 40 9D B"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Suggested Sites\\DataStreamEnabledState",
+                "value": "0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Suggested Sites\\MigrationTime",
+                "value": "D0 0F 15 A5 95 19 D7 01 "
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}\\iexplore\\LoadTimeArray",
+                "value": "00 00 00 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF F"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{DBC80044-A445-435B-BC74-9C25C1C588A9}\\iexplore\\LoadTimeArray",
+                "value": "18 00 00 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF F"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\KnownProvidersUpgradeTime",
+                "value": "D0 0F 15 A5 95 19 D7 01 "
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\DownloadRetries",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\{0633EE93-D776-472f-A0FF-E1416B8B2E3A}\\DisplayName",
+                "value": "Bing"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\{0633EE93-D776-472f-A0FF-E1416B8B2E3A}\\FaviconURLFallback",
+                "value": "http://www.bing.com/favicon.ico"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\{0633EE93-D776-472f-A0FF-E1416B8B2E3A}\\FaviconURL",
+                "value": "http://www.bing.com/favicon.ico"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\{0633EE93-D776-472f-A0FF-E1416B8B2E3A}\\URL",
+                "value": "http://www.bing.com/search?q={searchTerms}&src=IE-SearchBox&FORM=IE11SR"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\{0633EE93-D776-472f-A0FF-E1416B8B2E3A}\\SuggestionsURLFallback",
+                "value": "http://api.bing.com/qsml.aspx?query={searchTerms}&maxwidth={ie:maxWidth}&rowheight={ie:rowHeight}&se"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\SearchScopes\\{0633EE93-D776-472f-A0FF-E1416B8B2E3A}\\SuggestionsURL",
+                "value": "http://api.bing.com/qsml.aspx?query={searchTerms}&maxwidth={ie:maxWidth}&rowheight={ie:rowHeight}&se"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\TabbedBrowsing\\NTPFirstRun",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\TabbedBrowsing\\NewTabPage\\DecayDateQueue",
+                "value": "01 00 00 00 D0 8C 9D DF 01 15 D1 11 8C 7A 00 C0 4F C2 97 EB 01 00 00 00 10 70 45 1E 44 5A C3 40 9D B"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\TabbedBrowsing\\NewTabPage\\LastProcessed",
+                "value": "60 3F 64 76 F0 7A D7 01 "
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\TabbedBrowsing\\NewTabPage\\MFV",
+                "value": "01 00 00 00 D0 8C 9D DF 01 15 D1 11 8C 7A 00 C0 4F C2 97 EB 01 00 00 00 10 70 45 1E 44 5A C3 40 9D B"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\DomainSuggestion\\NextUpdateDate",
+                "value": "332702156"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\OperationalData",
+                "value": "09 00 00 00 00 00 00 00 "
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\BrowserEmulation\\IECompatVersionHigh",
+                "value": "268435456"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\BrowserEmulation\\IECompatVersionLow",
+                "value": "395196024"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Internet Explorer\\Main\\OperationalData",
+                "value": "0D 00 00 00 00 00 00 00 "
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}\\iexplore\\Count",
+                "value": "2"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}\\iexplore\\Time",
+                "value": "E5 07 07 00 06 00 11 00 10 00 2C 00 37 00 D4 00 "
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{DBC80044-A445-435B-BC74-9C25C1C588A9}\\iexplore\\Count",
+                "value": "2"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Ext\\Stats\\{DBC80044-A445-435B-BC74-9C25C1C588A9}\\iexplore\\Time",
+                "value": "E5 07 07 00 06 00 11 00 10 00 2C 00 37 00 D4 00 "
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\AmiHivePermissionsCorrect",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\AmiHiveOwnerCorrect",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager\\PendingFileRenameOperations",
+                "value": "\\??\\C:\\Windows\\AppCompat\\Programs\\Amcache.hve.tmp!\\??\\C:\\Windows\\AppCompat\\Programs\\Amcache.hve"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\AmiOverridePath",
+                "value": "C:\\Windows\\AppCompat\\Programs\\Amcache.hve.tmp"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\WritePermissionsCheck",
+                "value": "1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\ProviderSyncId",
+                "value": "{ed8e4db9-eeb4-4be8-8492-afe857279d49}"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\ProgramId",
+                "value": "0000f519feec486de87ed73cb92d3cac802400000000"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\FileId",
+                "value": "0000bcc5dc3222034d3f257f1fd35889e5be90f09b5f"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\LowerCaseLongPath",
+                "value": "c:\\windows\\syswow64\\rundll32.exe"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\LongPathHash",
+                "value": "rundll32.exe|ccf370e740f0e788"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Name",
+                "value": "rundll32.exe"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Publisher",
+                "value": "microsoft corporation"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Version",
+                "value": "10.0.17134.1 (winbuild.160101.0800)"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\BinFileVersion",
+                "value": "10.0.17134.1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\BinaryType",
+                "value": "pe32_i386"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\ProductName",
+                "value": "microsoft. windows. operating system"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\ProductVersion",
+                "value": "10.0.17134.1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\LinkDate",
+                "value": "01/30/1986 11:42:44"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\BinProductVersion",
+                "value": "10.0.17134.1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Size",
+                "value": "00 F2 00 00 00 00 00 00 "
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Language",
+                "value": "1033"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\IsPeFile",
+                "value": "1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\IsOsComponent",
+                "value": "1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{afe2d930-b55f-e966-4061-55a1cc0f6a56}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Usn",
+                "value": "20 05 00 1E 00 00 00 00 "
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\Windows Error Reporting\\Debug\\ExceptionRecord",
+                "value": "05 00 00 C0 00 00 00 00 00 00 00 00 E8 12 00 10 02 00 00 00 00 00 00 00 E6 03 04 00 00 00 00 00 00 0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\IdentityCRL\\ClockData\\ClockTimeSeconds",
+                "value": "00 09 F3 60 00 00 00 00 "
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\IdentityCRL\\ClockData\\TickCount",
+                "value": "BA 41 7A 00 00 00 00 00 "
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\Windows Error Reporting\\Debug\\ExceptionRecord",
+                "value": "05 00 00 C0 00 00 00 00 00 00 00 00 E8 12 00 10 02 00 00 00 00 00 00 00 C0 02 02 00 00 00 00 00 00 0"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile\\PermissionsCheckTestKey"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\Windows Error Reporting\\Debug\\ExceptionRecord",
+                "value": "05 00 00 C0 00 00 00 00 00 00 00 00 E8 12 00 10 02 00 00 00 00 00 00 00 28 02 0F 00 00 00 00 00 00 0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\IdentityCRL\\ClockData\\ClockTimeSeconds",
+                "value": "9C 9A 4B 63 00 00 00 00 "
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\IdentityCRL\\ClockData\\TickCount",
+                "value": "5E FB 47 00 00 00 00 00 "
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\IdentityCRL\\Immersive\\production\\Property\\0018400876B7B922",
+                "value": "01 00 00 00 01 00 00 00 D0 8C 9D DF 01 15 D1 11 8C 7A 00 C0 4F C2 97 EB 01 00 00 00 F0 FC 15 AA 68 9"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\IdentityCRL\\Immersive\\production\\Token\\{67082621-8D18-4333-9C64-10DE93676363}\\DeviceTicket",
+                "value": "01 00 00 00 01 00 00 00 D0 8C 9D DF 01 15 D1 11 8C 7A 00 C0 4F C2 97 EB 01 00 00 00 F0 FC 15 AA 68 9"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\ProgramId",
+                "value": "0000f519feec486de87ed73cb92d3cac802400000000"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\FileId",
+                "value": "0000bcc5dc3222034d3f257f1fd35889e5be90f09b5f"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\LowerCaseLongPath",
+                "value": "c:\\windows\\syswow64\\rundll32.exe"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\LongPathHash",
+                "value": "rundll32.exe|ccf370e740f0e788"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Name",
+                "value": "rundll32.exe"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Publisher",
+                "value": "microsoft corporation"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Version",
+                "value": "10.0.17134.1 (winbuild.160101.0800)"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\BinFileVersion",
+                "value": "10.0.17134.1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\BinaryType",
+                "value": "pe32_i386"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\ProductName",
+                "value": "microsoft. windows. operating system"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\ProductVersion",
+                "value": "10.0.17134.1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\LinkDate",
+                "value": "01/30/1986 11:42:44"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\BinProductVersion",
+                "value": "10.0.17134.1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Size",
+                "value": "00 F2 00 00 00 00 00 00 "
+            },
+            {
+                "key": "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Language",
+                "value": "1033"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\IsPeFile",
+                "value": "1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\IsOsComponent",
+                "value": "1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{dcac9a7c-0e6b-9636-b9ad-4e40cf7653ef}\\Root\\InventoryApplicationFile\\rundll32.exe|ccf370e740f0e788\\Usn",
+                "value": "20 05 00 1E 00 00 00 00 "
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\Windows Error Reporting\\Debug\\ExceptionRecord",
+                "value": "05 00 00 C0 00 00 00 00 00 00 00 00 E8 12 00 10 02 00 00 00 00 00 00 00 96 01 09 00 00 00 00 00 00 0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\IdentityCRL\\Immersive\\production\\Token\\{67082621-8D18-4333-9C64-10DE93676363}\\DeviceId",
+                "value": "0018400876B7B922"
+            }
+        ],
+        "files_written": [
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_56c813898edc5529b2fd6993cccc5727b8a3fe_82810a17_0a5aeb87",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_56c813898edc5529b2fd6993cccc5727b8a3fe_82810a17_0a5aeb87\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_56c813898edc5529b2fd6993cccc5727b8a3fe_82810a17_0e4672fc",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_56c813898edc5529b2fd6993cccc5727b8a3fe_82810a17_0e4672fc\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER318E.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER318E.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER35B4.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER35B4.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER398E.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER398E.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3BE0.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3BE0.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3C8B.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3C8B.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3EBF.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3EBF.tmp.xml",
+            "C:\\Users\\user\\AppData\\LocalLow",
+            "C:\\Users\\user\\AppData\\LocalLow\\Microsoft",
+            "C:\\Users\\user\\AppData\\LocalLow\\Microsoft\\Internet Explorer",
+            "C:\\Users\\user\\AppData\\LocalLow\\Microsoft\\Internet Explorer\\Services",
+            "C:\\Users\\user\\AppData\\LocalLow\\Microsoft\\Internet Explorer\\Services\\",
+            "C:\\Users\\user\\AppData\\Local\\DBG",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\High",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\High\\Active",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\High\\Active\\RecoveryStore.{45A213D7-E71E-11EB-BA0F-005056A0ADDE}.dat",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\High\\Active\\{45A213D9-E71E-11EB-BA0F-005056A0ADDE}.dat",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Recovery\\High\\Active\\{50020C83-E71E-11EB-BA0F-005056A0ADDE}.dat",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-17529550060\\",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-17529550060\\msapplication.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-18270793970\\",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-18270793970\\msapplication.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-21706820\\",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-21706820\\msapplication.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-314712940\\",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-314712940\\msapplication.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-314712950\\",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-4759708130\\",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-4759708130\\msapplication.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-6757900\\",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-6757900\\msapplication.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-8760897390\\",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin-8760897390\\msapplication.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin20259167780\\",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin20259167780\\msapplication.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin20332743330\\",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin20332743330\\msapplication.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin8215062560\\",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\Tiles\\pin8215062560\\msapplication.xml",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Internet Explorer\\imagestore\\bvvaqkm",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\Caches",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\History",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\IECompatCache",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\IECompatUaCache",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\ETCJ2WHM\\dnserror[1]",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\ETCJ2WHM\\down[1]",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\F2EF8UYV\\httpErrorPagesScripts[1]",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\R0IAZP7Z\\NewErrorPageTemplate[1]",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\WIKWAFRE\\errorPageStrings[1]",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\WIKWAFRE\\p[1]",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCookies",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCookies\\DNTException",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\Windows\\INetCookies\\PrivacIE",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\JavaDeployReg.log",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\KnoFBF9.tmp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\Low",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\~DF0468F111E8016467.TMP",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\~DF0AFCAF3F3D6EC0F1.TMP",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\~DF6F58F1F09D089A79.TMP",
+            "C:\\Users\\user\\AppData\\Roaming",
+            "C:\\Users\\user\\Favorites",
+            "C:\\Windows\\AppCompat\\Programs\\Amcache.hve.tmp",
+            "\\Device\\ConDrv\\\\Connect",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_rundll32.exe_80234622b6f1fd4601467f413ae97598753d5b_82810a17_137c009e",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_rundll32.exe_80234622b6f1fd4601467f413ae97598753d5b_82810a17_137c009e\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_rundll32.exe_80234622b6f1fd4601467f413ae97598753d5b_82810a17_17a40198",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_rundll32.exe_80234622b6f1fd4601467f413ae97598753d5b_82810a17_17a40198\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERECE7.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERECE7.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERED54.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERED54.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF19B.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF19B.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF331.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF331.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF749.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF749.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF872.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF872.tmp.xml"
+        ],
+        "attack_techniques": {
+            "T1574.002": [
+                {
+                    "severity": "INFO",
+                    "description": "Tries to load missing DLLs"
+                }
+            ],
+            "T1055": [
+                {
+                    "severity": "INFO",
+                    "description": "Spawns processes"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Creates a process in suspended mode (likely to inject code)"
+                }
+            ],
+            "T1218.010": [
+                {
+                    "severity": "INFO",
+                    "description": "Registers a DLL"
+                }
+            ],
+            "T1036": [
+                {
+                    "severity": "INFO",
+                    "description": "Creates files inside the system directory"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Creates files inside the user directory"
+                }
+            ],
+            "T1497": [
+                {
+                    "severity": "INFO",
+                    "description": "Checks if the current process is being debugged"
+                }
+            ],
+            "T1218.011": [
+                {
+                    "severity": "INFO",
+                    "description": "Runs a DLL by calling functions"
+                }
+            ],
+            "T1518.001": [
+                {
+                    "severity": "LOW",
+                    "description": "Tries to detect debuggers by setting the trap flag for special instructions"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Checks if the current process is being debugged"
+                }
+            ],
+            "T1083": [
+                {
+                    "severity": "INFO",
+                    "description": "Reads ini files"
+                }
+            ],
+            "T1082": [
+                {
+                    "severity": "INFO",
+                    "description": "Queries the volume information (name, serial number etc) of a device"
+                },
+                {
+                    "severity": "LOW",
+                    "description": "Tries to detect debuggers by setting the trap flag for special instructions"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Reads software policies"
+                }
+            ],
+            "T1018": [
+                {
+                    "severity": "INFO",
+                    "description": "Reads the hosts file"
+                }
+            ]
+        }
+    }
+}

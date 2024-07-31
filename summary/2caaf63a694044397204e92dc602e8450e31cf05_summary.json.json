@@ -1,0 +1,3414 @@
+{
+    "data": {
+        "processes_tree": [
+            {
+                "process_id": "2904",
+                "name": "%WINDIR%\\explorer.exe",
+                "children": [
+                    {
+                        "process_id": "4032",
+                        "name": "%SAMPLEPATH%\\6acfc28ba0b3ffbad46806aef99844bd03555061ba7f3062cf9a67f48d31f7e6.exe",
+                        "children": [
+                            {
+                                "process_id": "3516",
+                                "name": "C:\\Windows\\SysWOW64\\wevtutil.exe"
+                            },
+                            {
+                                "process_id": "3472",
+                                "name": "C:\\Windows\\SysWOW64\\wevtutil.exe"
+                            },
+                            {
+                                "process_id": "2464",
+                                "name": "C:\\Windows\\SysWOW64\\wevtutil.exe"
+                            },
+                            {
+                                "process_id": "3396",
+                                "name": "C:\\Windows\\SysWOW64\\wevtutil.exe"
+                            },
+                            {
+                                "process_id": "2564",
+                                "name": "C:\\Windows\\SysWOW64\\wevtutil.exe"
+                            },
+                            {
+                                "process_id": "2836",
+                                "name": "C:\\Windows\\SysWOW64\\wevtutil.exe"
+                            },
+                            {
+                                "process_id": "356",
+                                "name": "C:\\Windows\\SysWOW64\\cmd.exe"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "process_id": "620",
+                "name": "C:\\Windows\\System32\\svchost.exe",
+                "children": [
+                    {
+                        "process_id": "3304",
+                        "name": "C:\\Windows\\System32\\wuapihost.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "1400",
+                "name": "****.exe",
+                "children": [
+                    {
+                        "process_id": "1040",
+                        "name": "cmd.exe cmd /c rmes.bat"
+                    }
+                ]
+            },
+            {
+                "process_id": "2084",
+                "name": "6acfc28ba0b3ffbad46806aef99844bd03555061ba7f3062cf9a67f48d31f7e6.exe",
+                "children": [
+                    {
+                        "process_id": "2556",
+                        "name": "C:\\Users\\<USER>\\AppData\\Local\\Temp\\rmes.bat",
+                        "time_offset": 19
+                    },
+                    {
+                        "process_id": "2388",
+                        "name": "wevtutil.exe cl System /bu:C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMPA459.tmp",
+                        "time_offset": 17
+                    },
+                    {
+                        "process_id": "2308",
+                        "name": "wevtutil.exe cl Security /bu:C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP9F38.tmp",
+                        "time_offset": 16
+                    },
+                    {
+                        "process_id": "3044",
+                        "name": "wevtutil.exe cl Application /bu:C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP9A35.tmp",
+                        "time_offset": 15
+                    },
+                    {
+                        "process_id": "2516",
+                        "name": "wevtutil.exe cl System /bu:C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP7C1D.tmp",
+                        "time_offset": 7
+                    },
+                    {
+                        "process_id": "2352",
+                        "name": "wevtutil.exe cl Security /bu:C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP74AA.tmp",
+                        "time_offset": 5
+                    },
+                    {
+                        "process_id": "2284",
+                        "name": "wevtutil.exe cl Application /bu:C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP6DC3.tmp",
+                        "time_offset": 4
+                    }
+                ]
+            },
+            {
+                "process_id": "6932",
+                "name": "\"C:\\Users\\user\\Desktop\\program.exe\" ",
+                "children": [
+                    {
+                        "process_id": "5528",
+                        "name": "C:\\Windows\\SysWOW64\\wevtutil.exe wevtutil.exe cl \"Application\" /bu:\"C:\\Users\\user\\AppData\\Local\\Temp\\TMP25E3.tmp\"",
+                        "children": [
+                            {
+                                "process_id": "6592",
+                                "name": "C:\\Windows\\System32\\conhost.exe C:\\Windows\\system32\\conhost.exe 0xffffffff -ForceV1"
+                            }
+                        ]
+                    },
+                    {
+                        "process_id": "6892",
+                        "name": "C:\\Windows\\SysWOW64\\wevtutil.exe wevtutil.exe cl \"Security\" /bu:\"C:\\Users\\user\\AppData\\Local\\Temp\\TMP2E41.tmp\"",
+                        "children": [
+                            {
+                                "process_id": "8128",
+                                "name": "C:\\Windows\\System32\\conhost.exe C:\\Windows\\system32\\conhost.exe 0xffffffff -ForceV1"
+                            }
+                        ]
+                    },
+                    {
+                        "process_id": "7844",
+                        "name": "C:\\Windows\\SysWOW64\\wevtutil.exe wevtutil.exe cl \"System\" /bu:\"C:\\Users\\user\\AppData\\Local\\Temp\\TMP367F.tmp\"",
+                        "children": [
+                            {
+                                "process_id": "3984",
+                                "name": "C:\\Windows\\System32\\conhost.exe C:\\Windows\\system32\\conhost.exe 0xffffffff -ForceV1"
+                            }
+                        ]
+                    },
+                    {
+                        "process_id": "5384",
+                        "name": "C:\\Windows\\SysWOW64\\wevtutil.exe wevtutil.exe cl \"Application\" /bu:\"C:\\Users\\user\\AppData\\Local\\Temp\\TMP539D.tmp\"",
+                        "children": [
+                            {
+                                "process_id": "6184",
+                                "name": "C:\\Windows\\System32\\conhost.exe C:\\Windows\\system32\\conhost.exe 0xffffffff -ForceV1"
+                            }
+                        ]
+                    },
+                    {
+                        "process_id": "6776",
+                        "name": "C:\\Windows\\SysWOW64\\wevtutil.exe wevtutil.exe cl \"Security\" /bu:\"C:\\Users\\user\\AppData\\Local\\Temp\\TMP5C97.tmp\"",
+                        "children": [
+                            {
+                                "process_id": "3012",
+                                "name": "C:\\Windows\\System32\\conhost.exe C:\\Windows\\system32\\conhost.exe 0xffffffff -ForceV1"
+                            }
+                        ]
+                    },
+                    {
+                        "process_id": "2656",
+                        "name": "C:\\Windows\\SysWOW64\\wevtutil.exe wevtutil.exe cl \"System\" /bu:\"C:\\Users\\user\\AppData\\Local\\Temp\\TMP6533.tmp\"",
+                        "children": [
+                            {
+                                "process_id": "4912",
+                                "name": "C:\\Windows\\System32\\conhost.exe C:\\Windows\\system32\\conhost.exe 0xffffffff -ForceV1"
+                            }
+                        ]
+                    },
+                    {
+                        "process_id": "8144",
+                        "name": "C:\\Windows\\SysWOW64\\cmd.exe C:\\Windows\\system32\\cmd.exe /c C:\\Users\\user\\AppData\\Local\\Temp\\rmes.bat",
+                        "children": [
+                            {
+                                "process_id": "1396",
+                                "name": "C:\\Windows\\System32\\conhost.exe C:\\Windows\\system32\\conhost.exe 0xffffffff -ForceV1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "processes_killed": [
+            "C:\\WINDOWS\\system32\\igfxupdt.exe"
+        ],
+        "processes_terminated": [
+            "C:\\Windows\\SysWOW64\\wevtutil.exe",
+            "C:\\Windows\\System32\\conhost.exe",
+            "C:\\Windows\\System32\\wuapihost.exe",
+            "%SAMPLEPATH%\\6acfc28ba0b3ffbad46806aef99844bd03555061ba7f3062cf9a67f48d31f7e6.exe",
+            "C:\\Windows\\SysWOW64\\cmd.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe",
+            "wevtutil.exe cl Application /bu:C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP6DC3.tmp",
+            "wevtutil.exe cl Security /bu:C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP74AA.tmp",
+            "wevtutil.exe cl System /bu:C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP7C1D.tmp",
+            "wevtutil.exe cl Application /bu:C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP9A35.tmp",
+            "wevtutil.exe cl Security /bu:C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP9F38.tmp",
+            "wevtutil.exe cl System /bu:C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMPA459.tmp",
+            "6acfc28ba0b3ffbad46806aef99844bd03555061ba7f3062cf9a67f48d31f7e6.exe",
+            "2284 - wevtutil.exe cl \"Application\" /bu:\"C:\\Users\\admin\\AppData\\Local\\Temp\\TMP6DC3.tmp\"",
+            "2352 - wevtutil.exe cl \"Security\" /bu:\"C:\\Users\\admin\\AppData\\Local\\Temp\\TMP74AA.tmp\"",
+            "2516 - wevtutil.exe cl \"System\" /bu:\"C:\\Users\\admin\\AppData\\Local\\Temp\\TMP7C1D.tmp\"",
+            "2656 - \"C:\\Program Files\\Windows Media Player\\wmpnetwk.exe\"",
+            "3044 - wevtutil.exe cl \"Application\" /bu:\"C:\\Users\\admin\\AppData\\Local\\Temp\\TMP9A35.tmp\"",
+            "2308 - wevtutil.exe cl \"Security\" /bu:\"C:\\Users\\admin\\AppData\\Local\\Temp\\TMP9F38.tmp\"",
+            "2388 - wevtutil.exe cl \"System\" /bu:\"C:\\Users\\admin\\AppData\\Local\\Temp\\TMPA459.tmp\"",
+            "2556 - C:\\Windows\\system32\\cmd.exe /c C:\\Users\\admin\\AppData\\Local\\Temp\\rmes.bat"
+        ],
+        "tags": [
+            "SELF_DELETE",
+            "DIRECT_CPU_CLOCK_ACCESS",
+            "LONG_SLEEPS",
+            "RUNTIME_MODULES"
+        ],
+        "registry_keys_set": [
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows Media Player NSS\\3.0\\Servers\\A70D59A1-8EAD-4F40-AAAB-FBFC460800A4\\FriendlyName",
+                "value": "WORK: admin:"
+            }
+        ],
+        "services_opened": [
+            "indman"
+        ],
+        "calls_highlighted": [
+            "Sleep",
+            "GetTickCount"
+        ],
+        "files_written": [
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP2.tmp",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP3.tmp",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP4.tmp",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP5.tmp",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP6.tmp",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP7.tmp",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\TMP1.tmp",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\rmes.bat",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\rmes.bat",
+            "C:\\Windows\\ServiceProfiles\\LocalService\\AppData\\Roaming\\Microsoft\\UPnP Device Host\\upnphost\\udhisapi.dll",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\TMP25E3.tmp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\TMP2E41.tmp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\TMP367F.tmp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\TMP539D.tmp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\TMP5C97.tmp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\TMP6533.tmp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\rmes.bat",
+            "C:\\Windows\\Temp\\MpCmdRun.log",
+            "C:\\Windows\\prefetch\\AgAppLaunch.db",
+            "C:\\Windows\\prefetch\\AgGlFaultHistory.db",
+            "C:\\Windows\\prefetch\\AgGlFgAppHistory.db",
+            "C:\\Windows\\prefetch\\AgGlGlobalHistory.db",
+            "C:\\Windows\\prefetch\\AgGlUAD_P_S-1-5-21-1015118539-3749460369-599379286-1001.db",
+            "C:\\Windows\\prefetch\\AgGlUAD_S-1-5-21-1015118539-3749460369-599379286-1001.db",
+            "C:\\Windows\\prefetch\\AgRobust.db",
+            "C:\\Windows\\prefetch\\Layout.ini",
+            "C:\\Windows\\prefetch\\PfPre_c64019a8.mkd",
+            "C:\\Windows\\prefetch\\PfPre_c640df85.mkd",
+            "C:\\Windows\\prefetch\\PfSvPerfStats.bin",
+            "C:\\Windows\\prefetch\\ReadyBoot\\Trace1.fx",
+            "C:\\Windows\\prefetch\\ReadyBoot\\Trace10.fx",
+            "C:\\Windows\\prefetch\\ReadyBoot\\Trace7.fx",
+            "C:\\Windows\\prefetch\\ReadyBoot\\Trace8.fx",
+            "C:\\Windows\\prefetch\\ReadyBoot\\Trace9.fx",
+            "C:\\Windows\\prefetch\\ReadyBoot\\rblayout.xin",
+            "C:\\Windows\\prefetch\\ResPriHMStaticDb.ebd",
+            "C:\\Windows\\prefetch\\ResPriStaticDb.ebd",
+            "C:\\Windows\\prefetch\\UNARCHIVER.EXE-26F57B81.pf",
+            "C:\\Windows\\prefetch\\cadrespri.7db",
+            "C:\\Windows\\prefetch\\dynrespri.7db",
+            "\\Device\\ConDrv\\\\Connect"
+        ],
+        "permissions_requested": [
+            "SE_SECURITY_PRIVILEGE"
+        ],
+        "sigma_analysis_results": [
+            {
+                "match_context": [
+                    {
+                        "values": {
+                            "RuleName": "-",
+                            "CurrentDirectory": "C:\\Windows\\system32\\",
+                            "LogonId": "250607",
+                            "OriginalFileName": "wevtutil.exe",
+                            "UtcTime": "1665831779",
+                            "Description": "Eventing Command Line Utility",
+                            "User": "DESKTOP-B0T93D6\\george",
+                            "Hashes": "MD5=1101CCDC6D2B8C8E3EEBC08AF7AFD1A6,SHA256=BC37B19B110E9B78DD975EC9F9D98271B68B1039995E46C2E8D7C7C3938147B7,IMPHASH=4FFB4AC457949C710DE488F9D6BF6F4B",
+                            "ParentImage": "C:\\Users\\george\\Desktop\\program.exe",
+                            "IntegrityLevel": "High",
+                            "TerminalSessionId": "1",
+                            "Image": "C:\\Windows\\SysWOW64\\wevtutil.exe",
+                            "ParentProcessId": "6932",
+                            "ParentProcessGuid": "{C784477D-935F-634A-7406-000000003000}",
+                            "Product": "Microsoft\\xae Windows\\xae Operating System",
+                            "LogonGuid": "C784477D-EAB1-62FD-EFD2-030000000000",
+                            "EventID": "1",
+                            "ProcessGuid": "{C784477D-9363-634A-7706-000000003000}",
+                            "CommandLine": "wevtutil.exe cl \"Application\" /bu:\"C:\\Users\\george\\AppData\\Local\\Temp\\TMP25E3.tmp\"",
+                            "ParentCommandLine": "\"C:\\Users\\george\\Desktop\\program.exe\" ",
+                            "ProcessId": "5528",
+                            "FileVersion": "10.0.17134.81 (WinBuild.160101.0800)",
+                            "Company": "Microsoft Corporation"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "-",
+                            "CurrentDirectory": "C:\\Windows\\system32\\",
+                            "LogonId": "250607",
+                            "OriginalFileName": "wevtutil.exe",
+                            "UtcTime": "1665831781",
+                            "Description": "Eventing Command Line Utility",
+                            "User": "DESKTOP-B0T93D6\\george",
+                            "Hashes": "MD5=1101CCDC6D2B8C8E3EEBC08AF7AFD1A6,SHA256=BC37B19B110E9B78DD975EC9F9D98271B68B1039995E46C2E8D7C7C3938147B7,IMPHASH=4FFB4AC457949C710DE488F9D6BF6F4B",
+                            "ParentImage": "C:\\Users\\george\\Desktop\\program.exe",
+                            "IntegrityLevel": "High",
+                            "TerminalSessionId": "1",
+                            "Image": "C:\\Windows\\SysWOW64\\wevtutil.exe",
+                            "ParentProcessId": "6932",
+                            "ParentProcessGuid": "{C784477D-935F-634A-7406-000000003000}",
+                            "Product": "Microsoft\\xae Windows\\xae Operating System",
+                            "LogonGuid": "C784477D-EAB1-62FD-EFD2-030000000000",
+                            "EventID": "1",
+                            "ProcessGuid": "{C784477D-9365-634A-7906-000000003000}",
+                            "CommandLine": "wevtutil.exe cl \"Security\" /bu:\"C:\\Users\\george\\AppData\\Local\\Temp\\TMP2E41.tmp\"",
+                            "ParentCommandLine": "\"C:\\Users\\george\\Desktop\\program.exe\" ",
+                            "ProcessId": "6892",
+                            "FileVersion": "10.0.17134.81 (WinBuild.160101.0800)",
+                            "Company": "Microsoft Corporation"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "-",
+                            "CurrentDirectory": "C:\\Windows\\system32\\",
+                            "LogonId": "250607",
+                            "OriginalFileName": "wevtutil.exe",
+                            "UtcTime": "1665831783",
+                            "Description": "Eventing Command Line Utility",
+                            "User": "DESKTOP-B0T93D6\\george",
+                            "Hashes": "MD5=1101CCDC6D2B8C8E3EEBC08AF7AFD1A6,SHA256=BC37B19B110E9B78DD975EC9F9D98271B68B1039995E46C2E8D7C7C3938147B7,IMPHASH=4FFB4AC457949C710DE488F9D6BF6F4B",
+                            "ParentImage": "C:\\Users\\george\\Desktop\\program.exe",
+                            "IntegrityLevel": "High",
+                            "TerminalSessionId": "1",
+                            "Image": "C:\\Windows\\SysWOW64\\wevtutil.exe",
+                            "ParentProcessId": "6932",
+                            "ParentProcessGuid": "{C784477D-935F-634A-7406-000000003000}",
+                            "Product": "Microsoft\\xae Windows\\xae Operating System",
+                            "LogonGuid": "C784477D-EAB1-62FD-EFD2-030000000000",
+                            "EventID": "1",
+                            "ProcessGuid": "{C784477D-9367-634A-7D06-000000003000}",
+                            "CommandLine": "wevtutil.exe cl \"System\" /bu:\"C:\\Users\\george\\AppData\\Local\\Temp\\TMP367F.tmp\"",
+                            "ParentCommandLine": "\"C:\\Users\\george\\Desktop\\program.exe\" ",
+                            "ProcessId": "7844",
+                            "FileVersion": "10.0.17134.81 (WinBuild.160101.0800)",
+                            "Company": "Microsoft Corporation"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "-",
+                            "CurrentDirectory": "C:\\Windows\\system32\\",
+                            "LogonId": "250607",
+                            "OriginalFileName": "wevtutil.exe",
+                            "UtcTime": "1665831790",
+                            "Description": "Eventing Command Line Utility",
+                            "User": "DESKTOP-B0T93D6\\george",
+                            "Hashes": "MD5=1101CCDC6D2B8C8E3EEBC08AF7AFD1A6,SHA256=BC37B19B110E9B78DD975EC9F9D98271B68B1039995E46C2E8D7C7C3938147B7,IMPHASH=4FFB4AC457949C710DE488F9D6BF6F4B",
+                            "ParentImage": "C:\\Users\\george\\Desktop\\program.exe",
+                            "IntegrityLevel": "High",
+                            "TerminalSessionId": "1",
+                            "Image": "C:\\Windows\\SysWOW64\\wevtutil.exe",
+                            "ParentProcessId": "6932",
+                            "ParentProcessGuid": "{C784477D-935F-634A-7406-000000003000}",
+                            "Product": "Microsoft\\xae Windows\\xae Operating System",
+                            "LogonGuid": "C784477D-EAB1-62FD-EFD2-030000000000",
+                            "EventID": "1",
+                            "ProcessGuid": "{C784477D-936E-634A-7F06-000000003000}",
+                            "CommandLine": "wevtutil.exe cl \"Application\" /bu:\"C:\\Users\\george\\AppData\\Local\\Temp\\TMP539D.tmp\"",
+                            "ParentCommandLine": "\"C:\\Users\\george\\Desktop\\program.exe\" ",
+                            "ProcessId": "5384",
+                            "FileVersion": "10.0.17134.81 (WinBuild.160101.0800)",
+                            "Company": "Microsoft Corporation"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "-",
+                            "CurrentDirectory": "C:\\Windows\\system32\\",
+                            "LogonId": "250607",
+                            "OriginalFileName": "wevtutil.exe",
+                            "UtcTime": "1665831793",
+                            "Description": "Eventing Command Line Utility",
+                            "User": "DESKTOP-B0T93D6\\george",
+                            "Hashes": "MD5=1101CCDC6D2B8C8E3EEBC08AF7AFD1A6,SHA256=BC37B19B110E9B78DD975EC9F9D98271B68B1039995E46C2E8D7C7C3938147B7,IMPHASH=4FFB4AC457949C710DE488F9D6BF6F4B",
+                            "ParentImage": "C:\\Users\\george\\Desktop\\program.exe",
+                            "IntegrityLevel": "High",
+                            "TerminalSessionId": "1",
+                            "Image": "C:\\Windows\\SysWOW64\\wevtutil.exe",
+                            "ParentProcessId": "6932",
+                            "ParentProcessGuid": "{C784477D-935F-634A-7406-000000003000}",
+                            "Product": "Microsoft\\xae Windows\\xae Operating System",
+                            "LogonGuid": "C784477D-EAB1-62FD-EFD2-030000000000",
+                            "EventID": "1",
+                            "ProcessGuid": "{C784477D-9371-634A-8106-000000003000}",
+                            "CommandLine": "wevtutil.exe cl \"Security\" /bu:\"C:\\Users\\george\\AppData\\Local\\Temp\\TMP5C97.tmp\"",
+                            "ParentCommandLine": "\"C:\\Users\\george\\Desktop\\program.exe\" ",
+                            "ProcessId": "6776",
+                            "FileVersion": "10.0.17134.81 (WinBuild.160101.0800)",
+                            "Company": "Microsoft Corporation"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "-",
+                            "CurrentDirectory": "C:\\Windows\\system32\\",
+                            "LogonId": "250607",
+                            "OriginalFileName": "wevtutil.exe",
+                            "UtcTime": "1665831795",
+                            "Description": "Eventing Command Line Utility",
+                            "User": "DESKTOP-B0T93D6\\george",
+                            "Hashes": "MD5=1101CCDC6D2B8C8E3EEBC08AF7AFD1A6,SHA256=BC37B19B110E9B78DD975EC9F9D98271B68B1039995E46C2E8D7C7C3938147B7,IMPHASH=4FFB4AC457949C710DE488F9D6BF6F4B",
+                            "ParentImage": "C:\\Users\\george\\Desktop\\program.exe",
+                            "IntegrityLevel": "High",
+                            "TerminalSessionId": "1",
+                            "Image": "C:\\Windows\\SysWOW64\\wevtutil.exe",
+                            "ParentProcessId": "6932",
+                            "ParentProcessGuid": "{C784477D-935F-634A-7406-000000003000}",
+                            "Product": "Microsoft\\xae Windows\\xae Operating System",
+                            "LogonGuid": "C784477D-EAB1-62FD-EFD2-030000000000",
+                            "EventID": "1",
+                            "ProcessGuid": "{C784477D-9373-634A-8306-000000003000}",
+                            "CommandLine": "wevtutil.exe cl \"System\" /bu:\"C:\\Users\\george\\AppData\\Local\\Temp\\TMP6533.tmp\"",
+                            "ParentCommandLine": "\"C:\\Users\\george\\Desktop\\program.exe\" ",
+                            "ProcessId": "2656",
+                            "FileVersion": "10.0.17134.81 (WinBuild.160101.0800)",
+                            "Company": "Microsoft Corporation"
+                        }
+                    }
+                ],
+                "rule_level": "high",
+                "rule_id": "b8f19be4c7bf862dce0d4d1f7885f2207ddf93b3a33d8a6e16f3968c4fbb6491",
+                "rule_source": "Sigma Integrated Rule Set (GitHub)",
+                "rule_title": "Suspicious Eventlog Clear or Configuration Using Wevtutil",
+                "rule_description": "Detects clearing or configuration of eventlogs using wevtutil, powershell and wmic. Might be used by ransomwares during the attack (seen by NotPetya and others).",
+                "rule_author": "Ecco, Daniil Yugoslavskiy, oscd.community"
+            }
+        ],
+        "text_highlighted": [
+            "\r\n",
+            "C:\\Windows\\system32>",
+            "DEL",
+            "  \"C:\\Users\\<USER>\\Downloads\\6acfc28ba0b3ffbad46806",
+            "Could Not Find C:\\Users\\<USER>\\Downloads\\6acfc28ba0",
+            "IF ",
+            "EXIST \"C:\\Users\\<USER>\\Downloads\\6acfc28ba0b3ffbad4",
+            "GOTO",
+            " L ",
+            "C:\\Windows\\system32\\cmd.exe"
+        ],
+        "files_deleted": [
+            "C:\\Windows\\Temp\\lslgeyvammuruciwllbmb",
+            "C:\\Windows\\Temp\\jksvdhtxjkjnzpvwqyyau",
+            "C:\\Windows\\Temp\\yltmxcatffaswpksfnjo",
+            "C:\\Windows\\Temp\\xesbflgrkkpw",
+            "C:\\Windows\\Temp\\DMI9778.tmp",
+            "C:\\Windows\\Temp\\uesrynnuffo",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WEREC73.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERED3E.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERED6E.tmp.txt",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\TMPEAAE.tmp",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\bxmeoqaikhf",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\TMPF0C9.tmp",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\znfjqcnudjr",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\TMPF5CB.tmp",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\jveqvdvmnyi",
+            "C:\\Windows\\Prefetch\\ReadyBoot\\nwaaxpksstjun",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\TMPFCE1.tmp",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\zdhjdbrdfwf",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\TMP157.tmp",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\ncwnuurygn",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERA8A.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERA8C.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERA9D.tmp.txt",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\TMP678.tmp",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\bvifzdgoka",
+            "%SAMPLEPATH%\\6acfc28ba0b3ffbad46806aef99844bd03555061ba7f3062cf9a67f48d31f7e6.exe",
+            "%USERPROFILE%\\AppData\\Local\\Temp\\rmes.bat",
+            "C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP2.tmp",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\iggeraqm",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP3.tmp",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\evmtunnf",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP4.tmp",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\uhfnxbis",
+            "C:\\WINDOWS\\Prefetch\\gqaqpljeeyhcsrdedlu",
+            "C:\\WINDOWS\\Prefetch\\cfnnlmpjqfkqpaygyavhyyo",
+            "C:\\WINDOWS\\Prefetch\\pauagncdhxuzccgmdxjpcfnhbudfp",
+            "C:\\WINDOWS\\Prefetch\\doixbohruwxnzljwyesrjyyoxroee",
+            "C:\\WINDOWS\\Prefetch\\doixbohruwxnzljwyesrjyy",
+            "C:\\WINDOWS\\Prefetch\\advmfhfehwabwtegumt",
+            "C:\\WINDOWS\\Prefetch\\myczaqsqgnkkrwmmgjpccxr",
+            "C:\\WINDOWS\\Prefetch\\impwwjxdtnnygepwcqpmjjduwklbewsxm",
+            "C:\\WINDOWS\\Prefetch\\uhxbrskxseyhbhxuond",
+            "C:\\WINDOWS\\Prefetch\\resymlqlfebwypadkumxci",
+            "C:\\WINDOWS\\Prefetch\\nsfvinnqsddswywnfknzjch",
+            "C:\\WINDOWS\\Prefetch\\znnadvakruobjadtkhj",
+            "C:\\WINDOWS\\Prefetch\\ocaxgogxeurpgjgdfokru",
+            "C:\\WINDOWS\\Prefetch\\krnucielrtuddrcnbwstjm",
+            "C:\\WINDOWS\\Prefetch\\wluzxqyxqlemqujlntgcnt",
+            "C:\\WINDOWS\\Prefetch\\wluzxqyxqlemqujlntgcntke",
+            "C:\\WINDOWS\\Prefetch\\tapwtswkdkhandnvjaheumdmel",
+            "C:\\WINDOWS\\Prefetch\\fuxiosjeuksjifubnxdnysucrtvcdvg",
+            "C:\\WINDOWS\\Prefetch\\ygxdfnmxtjxlcwtueunzvxhscnrbijgpsfuocnr",
+            "C:\\WINDOWS\\Prefetch\\ksfhawzrsaaupzaarrbhzl",
+            "C:\\WINDOWS\\Prefetch\\venczqcsszfwkyzmigkuvqdx",
+            "C:\\WINDOWS\\Prefetch\\enieqsvreqttujkcikhegpwwdlsolbcg",
+            "C:\\WINDOWS\\Prefetch\\jtpdcnledhjmjcqcleergaab",
+            "C:\\WINDOWS\\Prefetch\\grfcxqjycxzyqwxtpqcmgte",
+            "C:\\WINDOWS\\Prefetch\\smnosrwkbwkhdzeztmyukad",
+            "C:\\WINDOWS\\Prefetch\\pbalnstyownvbhhjpuzwrlo",
+            "C:\\WINDOWS\\Prefetch\\bviqitosfnxevkphbrnfvzn",
+            "C:\\WINDOWS\\Prefetch\\bviqitosfnxevkphbrnfvznwy",
+            "C:\\WINDOWS\\Prefetch\\xkvneumfsnaslskrxyvhck",
+            "C:\\WINDOWS\\Prefetch\\gtxpvweeeeopddvhwksavkr",
+            "C:\\WINDOWS\\Prefetch\\gtxpvweeeeopddvhwksav",
+            "C:\\WINDOWS\\Prefetch\\rfxjurhfddtzxuuaozcerpx",
+            "C:\\WINDOWS\\Prefetch\\dzfopsurcueakxbgawqmvvwq",
+            "C:\\WINDOWS\\Prefetch\\zoslktsepuhwhfxiweqwcohp",
+            "C:\\WINDOWS\\Prefetch\\ixvvbvkmbkutrqiywinhnoa",
+            "C:\\WINDOWS\\Prefetch\\emisxoqzokxhpzlirywj",
+            "C:\\WINDOWS\\Prefetch\\rhqxaxdlnbhqkbsoduks",
+            "C:\\WINDOWS\\Prefetch\\fwduvyayajkfhkoyzclunze",
+            "C:\\WINDOWS\\Prefetch\\fwduvyayajkfhkoyzclunzebb",
+            "C:\\WINDOWS\\Prefetch\\ofxwmatyeaycrvzfhginyyoze",
+            "C:\\WINDOWS\\Prefetch\\ofxwmatyeaycrvzfhginyyozeifunajwyitiqliuw",
+            "C:\\WINDOWS\\Prefetch\\kcstitzlrzaqomupdoqpnsihafqtclnrcj",
+            "C:\\WINDOWS\\Prefetch\\wwsydclfqrlzbgbvhkex",
+            "C:\\WINDOWS\\Prefetch\\tlnvyvjtdqonyxffcsfzyrsf",
+            "C:\\WINDOWS\\Prefetch\\tlnvyvjtdqonyxffcsfzyrsfckcjnowtuwfoxb",
+            "C:\\WINDOWS\\Prefetch\\buixxxcsphbkqiqnkecksjddmpghqrfvmilacc",
+            "C:\\WINDOWS\\Prefetch\\buixxxcsphbkqiqnkecksjd",
+            "C:\\WINDOWS\\Prefetch\\qjvutyhfcheyoqlxgmluzcwljerg",
+            "C:\\WINDOWS\\Prefetch\\myirosftoghudzphctlwovisxacg",
+            "C:\\WINDOWS\\Prefetch\\vplbfuxsaxurvkrxcyipzvari",
+            "C:\\WINDOWS\\Prefetch\\hcsfackmzofaimzcouwpdbz",
+            "C:\\WINDOWS\\Prefetch\\eyfdwwqzmoiofvcejkfzknl",
+            "C:\\WINDOWS\\Prefetch\\ansarxnnzvkcceyofrgbzgew",
+            "C:\\WINDOWS\\Prefetch\\ansarxnnzvkcceyofrgbzgewgz",
+            "C:\\WINDOWS\\Prefetch\\miaeuyazynvlpgfujoukdmdnuh",
+            "C:\\WINDOWS\\Prefetch\\bwncqzgmlmyzmpiefwcmkfpv",
+            "C:\\WINDOWS\\Prefetch\\xlizmsdaymbnkxeobddwrrjc",
+            "C:\\WINDOWS\\Prefetch\\jgqdhbylpdlxeatunazfvfzt",
+            "C:\\WINDOWS\\Prefetch\\gudbcuwzcdolcipeiiahkqta",
+            "C:\\WINDOWS\\Prefetch\\spknxdjtbuzuplwcveopoxsz",
+            "C:\\WINDOWS\\Prefetch\\lalapxmubtewjcvvmbxckjxg",
+            "C:\\WINDOWS\\Prefetch\\lknjnzetnkkbtnglmgumvjim",
+            "C:\\WINDOWS\\Prefetch\\izahjscgakmpqebvindocubm",
+            "C:\\WINDOWS\\Prefetch\\utilebxsybxylyjtukrxgaal",
+            "C:\\WINDOWS\\Prefetch\\rivizuuglaamipmdprszvums",
+            "C:\\WINDOWS\\Prefetch\\dcdnudhzkslvvjtjuooizalj",
+            "C:\\WINDOWS\\Prefetch\\zrqkqwnnxznjsaptpeosgteq",
+            "C:\\WINDOWS\\Prefetch\\wolhmylakzqxqiscllxuvfqy",
+            "C:\\WINDOWS\\Prefetch\\ibsmpgfmbqbgdlaaxilcrtpp",
+            "C:\\WINDOWS\\Prefetch\\wxfjkzdaoqduatdktqmegei",
+            "C:\\WINDOWS\\Prefetch\\wxfjkzdaoqduatdktqmege",
+            "C:\\WINDOWS\\Prefetch\\tmsggtjnbpgixczuoxvonxue",
+            "C:\\WINDOWS\\Prefetch\\fhatbbwzahrrkegatujpretuicbbiid",
+            "C:\\WINDOWS\\Prefetch\\nqvvsdogmyepcprqbyfikddt",
+            "C:\\WINDOWS\\Prefetch\\nqvvsdogmyepcprqbyfik",
+            "C:\\WINDOWS\\Prefetch\\gtdpjyjhmxkzwhqcsvpug",
+            "C:\\WINDOWS\\Prefetch\\tolumhetlovajjxiesduc",
+            "C:\\WINDOWS\\Prefetch\\hlyriacgyoxwhstrazmfrib",
+            "C:\\WINDOWS\\Prefetch\\ezlodbhulnakeawbvhmhyb",
+            "C:\\WINDOWS\\Prefetch\\qustycugkeltrddhaeapdhle",
+            "C:\\WINDOWS\\Prefetch\\qustycugkeltrddhaeapdhl",
+            "C:\\WINDOWS\\Prefetch\\qustycugkeltrddhaeap",
+            "C:\\WINDOWS\\Prefetch\\mjnqudstwmoholhrvljrssfmer",
+            "C:\\WINDOWS\\Prefetch\\vsislfkaidbegwkzdygkdsqkgwpjlcrnkrdp",
+            "C:\\WINDOWS\\Prefetch\\rhvpgyqovcesdfnjzfhmkljs",
+            "C:\\WINDOWS\\Prefetch\\dbdcjhdamuobqhupdcvvosa",
+            "C:\\WINDOWS\\Prefetch\\sqqzfaanztrpnqqzzjdxdluq",
+            "C:\\WINDOWS\\Prefetch\\sqqzfaanztrpnqqzzjdxdluqnyeg",
+            "C:\\WINDOWS\\Prefetch\\onlwbbgbmtudlhtiurehkwnx",
+            "C:\\WINDOWS\\Prefetch\\ahlbvctnlkfmxbbghoahole",
+            "C:\\WINDOWS\\Prefetch\\xwgyrdyaykhavswqcvbrdwy",
+            "C:\\WINDOWS\\Prefetch\\xwgyrdyaykhavswqcvbrdwyvm",
+            "C:\\WINDOWS\\Prefetch\\jrndmeluxbskqmmwhspahcxuz",
+            "C:\\WINDOWS\\Prefetch\\jrndmeluxbskqmmwhspahcxuzautz",
+            "C:\\WINDOWS\\Prefetch\\gfaaifjhkbvyndhgchycovicoxf",
+            "C:\\WINDOWS\\Prefetch\\cunxdzovxayuclkqypyevpcjku",
+            "C:\\WINDOWS\\Prefetch\\opvcghbhwridxoswkmunzvbayc",
+            "C:\\WINDOWS\\Prefetch\\deizcbhujrlruwnygtvxogmh",
+            "C:\\WINDOWS\\Prefetch\\zadwycfhwyofrfribbezvagp",
+            "C:\\WINDOWS\\Prefetch\\lnljtdrtvqyoehynoyshz",
+            "C:\\WINDOWS\\Prefetch\\ikygoexhipbcbquxjftkoz",
+            "C:\\WINDOWS\\Prefetch\\qtthfgqolgpzmbenjrpuzzjl",
+            "C:\\WINDOWS\\Prefetch\\nigfbznbygrnjjaxfzyegkut",
+            "C:\\WINDOWS\\Prefetch\\zcnjeianxxcwempvrwmnkqtk",
+            "C:\\WINDOWS\\Prefetch\\nrigzjgbkxfkbvlfndnpzknrurls",
+            "C:\\WINDOWS\\Prefetch\\nrigzjgbkxfkbvlfndnpzknrurlsrngaa",
+            "C:\\WINDOWS\\Prefetch\\wadiqlyawoshlgvvnhkakjxpewxqcqqcsamei",
+            "C:\\WINDOWS\\Prefetch\\txqfmewojnvdioreipskrdjx",
+            "C:\\WINDOWS\\Prefetch\\fkykhnjhifgevrycvugkvjio",
+            "C:\\WINDOWS\\Prefetch\\bglhcgovveiaszcmqbhukubv",
+            "C:\\WINDOWS\\Prefetch\\bglhcgovveiaszcmqbhukubvdqmfdfc",
+            "C:\\WINDOWS\\Prefetch\\bglhcgovveiaszcmqbhukubvdq",
+            "C:\\WINDOWS\\Prefetch\\yvgeyhmiiedppixwmjqwrnndan",
+            "C:\\WINDOWS\\Prefetch\\yvgeyhmiiedppixwmjqwrnndanxns",
+            "C:\\WINDOWS\\Prefetch\\kqorbizuhdoykkfcqgefvumtfvqdgimagaefciovq",
+            "C:\\WINDOWS\\Prefetch\\yeboxjeiucrmibimmnnpkngb",
+            "C:\\WINDOWS\\Prefetch\\vtolsdcvhctaxjdwhvnrrgr",
+            "C:\\WINDOWS\\Prefetch\\hovqnlxhgtejsmtcurbavnqz",
+            "C:\\WINDOWS\\Prefetch\\hovqnlxhgtejsmtcurbavnq",
+            "C:\\WINDOWS\\Prefetch\\dcinjfuutthxpuoepzkccykhblzavhurf",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP5.tmp",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\dpfsegrl",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP6.tmp",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\btxehumq",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP7.tmp",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\ktcvbetz",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\rmes.bat",
+            "C:\\WINDOWS\\Temp\\sysman",
+            "tlvc.nls",
+            "l_inti.nls",
+            "cspvt.dat",
+            "wmmsvc.exe",
+            "wmmvsvc.exe",
+            "igfxmmc.exe",
+            "igfxcmm.exe",
+            "C:\\WINDOWS\\Temp\\en-ES",
+            "C:\\WINDOWS\\Temp\\mpop",
+            "C:\\WINDOWS\\system32\\en-ES",
+            "C:\\WINDOWS\\system32\\mpop",
+            "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\TMP2.tmp",
+            "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\TMP3.tmp",
+            "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\TMP4.tmp",
+            "C:\\WINDOWS\\Prefetch\\ALG.EXE-0F138680.pf",
+            "C:\\WINDOWS\\Prefetch\\AMDOPTI.EXE-05A50C13.pf",
+            "C:\\WINDOWS\\Prefetch\\ASPNET_REGIIS.EXE-009D6E80.pf",
+            "C:\\WINDOWS\\Prefetch\\ASPNET_REGIIS.EXE-057C90FA.pf",
+            "C:\\WINDOWS\\Prefetch\\AUTOCHK.EXE-2F8C59C3.pf",
+            "C:\\WINDOWS\\Prefetch\\AU_.EXE-05904C56.pf",
+            "C:\\WINDOWS\\Prefetch\\CLWIREG.EXE-1B256F54.pf",
+            "C:\\WINDOWS\\Prefetch\\CMB_PB_LIVEUPDATE.EXE-261991FF.pf",
+            "C:\\WINDOWS\\Prefetch\\CMD.EXE-087B4001.pf",
+            "C:\\WINDOWS\\Prefetch\\CONIME.EXE-13EEEA1A.pf",
+            "C:\\WINDOWS\\Prefetch\\CPUINFO.EXE-1F8D494E.pf",
+            "C:\\WINDOWS\\Prefetch\\CSC.EXE-01730C27.pf",
+            "C:\\WINDOWS\\Prefetch\\CSRSS.EXE-12B63473.pf",
+            "C:\\WINDOWS\\Prefetch\\CTFMON.EXE-0E17969B.pf",
+            "C:\\WINDOWS\\Prefetch\\CVTRES.EXE-2329DCD5.pf",
+            "C:\\WINDOWS\\Prefetch\\DOTNETFX.EXE-07E0E6AC.pf",
+            "C:\\WINDOWS\\Prefetch\\DOTNETFX35.EXE-33EAC255.pf",
+            "C:\\WINDOWS\\Prefetch\\DOTNETFX35SETUP.EXE-0EC0F63F.pf",
+            "C:\\WINDOWS\\Prefetch\\DOTNETFX40_FULL_X86_X64.EXE-06590BE8.pf",
+            "C:\\WINDOWS\\Prefetch\\DSTART.EXE-1B4F491E.pf",
+            "C:\\WINDOWS\\Prefetch\\EXPLORER.EXE-082F38A9.pf",
+            "C:\\WINDOWS\\Prefetch\\EXTENSIONMANAGER.EXE-12F3E92D.pf",
+            "C:\\WINDOWS\\Prefetch\\IE4UINIT.EXE-169A5A39.pf",
+            "C:\\WINDOWS\\Prefetch\\IMEUTIL.EXE-18582FBD.pf",
+            "C:\\WINDOWS\\Prefetch\\INSTALL.EXE-067BC318.pf",
+            "C:\\WINDOWS\\Prefetch\\INSTALL.EXE-0E610F4E.pf",
+            "C:\\WINDOWS\\Prefetch\\INSTASM.EXE-1F7813C9.pf",
+            "C:\\WINDOWS\\Prefetch\\INSTTXSSO.EXE-36E51D15.pf",
+            "C:\\WINDOWS\\Prefetch\\LODCTR.EXE-1009C3B4.pf",
+            "C:\\WINDOWS\\Prefetch\\LOGONUI.EXE-0AF22957.pf",
+            "C:\\WINDOWS\\Prefetch\\LSASS.EXE-20DB6D1B.pf",
+            "C:\\WINDOWS\\Prefetch\\MOFCOMP.EXE-01718E95.pf",
+            "C:\\WINDOWS\\Prefetch\\MSCORSVW.EXE-1366B4F5.pf",
+            "C:\\WINDOWS\\Prefetch\\MSCORSVW.EXE-1BF30400.pf",
+            "C:\\WINDOWS\\Prefetch\\MSIEXEC.EXE-2F8A8CAE.pf",
+            "C:\\WINDOWS\\Prefetch\\NGEN.EXE-1F9EA69F.pf",
+            "C:\\WINDOWS\\Prefetch\\NGEN.EXE-38021CCC.pf",
+            "C:\\WINDOWS\\Prefetch\\NHELPER.EXE-3874C0E5.pf",
+            "C:\\WINDOWS\\Prefetch\\PBINSTALL.EXE-083FE3B4.pf",
+            "C:\\WINDOWS\\Prefetch\\PBSETUP60.EXE-22B8A5B0.pf",
+            "C:\\WINDOWS\\Prefetch\\PERFORMANCECOUNTERINSTALLER.E-334D54EC.pf",
+            "C:\\WINDOWS\\Prefetch\\PERSONALBANKPORTAL.EXE-31DF9F7A.pf",
+            "C:\\WINDOWS\\Prefetch\\PING.EXE-31216D26.pf",
+            "C:\\WINDOWS\\Prefetch\\PINYINUP.EXE-1785D6E7.pf",
+            "C:\\WINDOWS\\Prefetch\\PRINTFILTERPIPELINESVC.EXE-0F2B9E77.pf",
+            "C:\\WINDOWS\\Prefetch\\PRINTFILTERPIPELINESVC.EXE-27257D2B.pf",
+            "C:\\WINDOWS\\Prefetch\\PYTHONW.EXE-176EB6AA.pf",
+            "C:\\WINDOWS\\Prefetch\\QQ2011_12131.EXE-32881B56.pf",
+            "C:\\WINDOWS\\Prefetch\\QQPCDETECTOR.EXE-2255687E.pf",
+            "C:\\WINDOWS\\Prefetch\\QQSETUPEX.EXE-1E80B8C0.pf",
+            "C:\\WINDOWS\\Prefetch\\REGEDIT.EXE-1B606482.pf",
+            "C:\\WINDOWS\\Prefetch\\REGSVCS.EXE-11A17120.pf",
+            "C:\\WINDOWS\\Prefetch\\REGSVR32.EXE-25EEFE2F.pf",
+            "C:\\WINDOWS\\Prefetch\\REGTLIBV12.EXE-0E2FA54B.pf",
+            "C:\\WINDOWS\\Prefetch\\REGTLIBV12.EXE-35B5D8AD.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-147710F4.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-150DDA3A.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-169CA248.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-18EB6A95.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-1E478A55.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-210D08A7.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-2576181F.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-2AF77CC9.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-2F8D0DD5.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-32C9186A.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-3BF7D301.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-3F78FFDD.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-451FC2C0.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-45736D66.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-470F11BD.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-49520AE6.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-49F747DB.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-4AF321B7.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNONCE.EXE-2803F297.pf",
+            "C:\\WINDOWS\\Prefetch\\SCDREG.EXE-221EFFA6.pf",
+            "C:\\WINDOWS\\Prefetch\\SCHTASKS.EXE-0CBF6A11.pf",
+            "C:\\WINDOWS\\Prefetch\\SERVICEMODELREG.EXE-1FB5DD06.pf",
+            "C:\\WINDOWS\\Prefetch\\SERVICEMODELREG.EXE-3848AC09.pf",
+            "C:\\WINDOWS\\Prefetch\\SERVICES.EXE-2F433351.pf",
+            "C:\\WINDOWS\\Prefetch\\SETUP.EXE-0A9C974A.pf",
+            "C:\\WINDOWS\\Prefetch\\SETUP.EXE-1109AB5A.pf",
+            "C:\\WINDOWS\\Prefetch\\SETUP.EXE-14AD0595.pf",
+            "C:\\WINDOWS\\Prefetch\\SETUP.EXE-22884BB0.pf",
+            "C:\\WINDOWS\\Prefetch\\SETUP.EXE-2CF30269.pf",
+            "C:\\WINDOWS\\Prefetch\\SETUP50.EXE-362FF7C9.pf",
+            "C:\\WINDOWS\\Prefetch\\SGTOOL.EXE-09C7690C.pf",
+            "C:\\WINDOWS\\Prefetch\\SHMGRATE.EXE-1BA69E68.pf",
+            "C:\\WINDOWS\\Prefetch\\SKINREG.EXE-2A6E515B.pf",
+            "C:\\WINDOWS\\Prefetch\\SMSS.EXE-22F38377.pf",
+            "C:\\WINDOWS\\Prefetch\\SOGOUFLASH.EXE-07089697.pf",
+            "C:\\WINDOWS\\Prefetch\\SOGOU_PINYIN_61_5909.EXE-1C771D47.pf",
+            "C:\\WINDOWS\\Prefetch\\SOHUNEWS.EXE-1544A797.pf",
+            "C:\\WINDOWS\\Prefetch\\SPOOLSV.EXE-282F76A7.pf",
+            "C:\\WINDOWS\\Prefetch\\SPUPDSVC.EXE-21B36524.pf",
+            "C:\\WINDOWS\\Prefetch\\START-UNINST.EXE-32C3DB25.pf",
+            "C:\\WINDOWS\\Prefetch\\STOREPWD.EXE-1CA25FA1.pf",
+            "C:\\WINDOWS\\Prefetch\\SVCHOST.EXE-3530F672.pf",
+            "C:\\WINDOWS\\Prefetch\\TASKMGR.EXE-20256C55.pf",
+            "C:\\WINDOWS\\Prefetch\\TENCENTDL.EXE-290BCB72.pf",
+            "C:\\WINDOWS\\Prefetch\\TENCENTDL.EXE-2E7633A7.pf",
+            "C:\\WINDOWS\\Prefetch\\TPAUTOCONNSVC.EXE-19F171C6.pf",
+            "C:\\WINDOWS\\Prefetch\\TPVCGATEWAY.EXE-120287EA.pf",
+            "C:\\WINDOWS\\Prefetch\\TXPLATFORM.EXE-02501CC3.pf",
+            "C:\\WINDOWS\\Prefetch\\TXSSOSETUP.EXE-2DFA9150.pf",
+            "C:\\WINDOWS\\Prefetch\\UNLODCTR.EXE-37313252.pf",
+            "C:\\WINDOWS\\Prefetch\\UNREGMP2.EXE-07CACB61.pf",
+            "C:\\WINDOWS\\Prefetch\\UNZIP.EXE-067B761F.pf",
+            "C:\\WINDOWS\\Prefetch\\UPDATE.EXE-2ACBF640.pf",
+            "C:\\WINDOWS\\Prefetch\\UPDATE.EXE-3AAFD7A7.pf",
+            "C:\\WINDOWS\\Prefetch\\UPGRADER.EXE-1A1DEF8F.pf",
+            "C:\\WINDOWS\\Prefetch\\USERINIT.EXE-30B18140.pf",
+            "C:\\WINDOWS\\Prefetch\\USERPAGE.EXE-2E7283AA.pf",
+            "C:\\WINDOWS\\Prefetch\\VCREDIST_X86.EXE-38EF0380.pf",
+            "C:\\WINDOWS\\Prefetch\\VCREDIST_X86_2005.EXE-0A058C17.pf",
+            "C:\\WINDOWS\\Prefetch\\VCREDIST_X86_2008_SP1.EXE-37614F25.pf",
+            "C:\\WINDOWS\\Prefetch\\VCREDI~3.EXE-1155EE72.pf",
+            "C:\\WINDOWS\\Prefetch\\VERCLSID.EXE-3667BD89.pf",
+            "C:\\WINDOWS\\Prefetch\\VMACTHLP.EXE-0790714A.pf",
+            "C:\\WINDOWS\\Prefetch\\VMTOOLSD.EXE-2376BC03.pf",
+            "C:\\WINDOWS\\Prefetch\\VMUPGRADEHELPER.EXE-30FFD2EA.pf",
+            "C:\\WINDOWS\\Prefetch\\VMWARETRAY.EXE-029F476F.pf",
+            "C:\\WINDOWS\\Prefetch\\VMWAREUSER.EXE-1F72BBE4.pf",
+            "C:\\WINDOWS\\Prefetch\\WFSERVICESREG.EXE-063492A2.pf",
+            "C:\\WINDOWS\\Prefetch\\WINDOWSXP-KB2412687-X86-CHS.E-11CD97A6.pf",
+            "C:\\WINDOWS\\Prefetch\\WINLOGON.EXE-32C57D49.pf",
+            "C:\\WINDOWS\\Prefetch\\WMIADAP.EXE-2DF425B2.pf",
+            "C:\\WINDOWS\\Prefetch\\WMIPRVSE.EXE-28F301A9.pf",
+            "C:\\WINDOWS\\Prefetch\\WUAUCLT.EXE-399A8E72.pf",
+            "C:\\WINDOWS\\Prefetch\\XPSEPSC-X86-EN-US.EXE-13367E24.pf",
+            "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\TMP5.tmp",
+            "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\TMP6.tmp",
+            "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\TMP7.tmp",
+            "C:\\WINDOWS\\system32\\wmmsvc.exe",
+            "C:\\WINDOWS\\system32\\wmmvsvc.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\TMP1.tmp",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\nlminiqm",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\TMP2.tmp",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\zjgwvowp",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\TMP3.tmp",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\ocdjthey",
+            "C:\\WINDOWS\\Prefetch\\xvslvhpmqnqaxqynclhybsdm",
+            "C:\\WINDOWS\\Prefetch\\xvslvhpmqnqaxqynclh",
+            "C:\\WINDOWS\\Prefetch\\xvslvhpmqnqaxqynclhybsdmliablre",
+            "C:\\WINDOWS\\Prefetch\\xvslvhpmqnqaxqynclhybsdmliabl",
+            "C:\\WINDOWS\\Prefetch\\xvslvhpmqnqaxqynclhybsd",
+            "C:\\WINDOWS\\Prefetch\\xvslvhpmqnqaxqynclhyb",
+            "C:\\WINDOWS\\Prefetch\\zvjqvbagppovayprwpuhsc",
+            "C:\\WINDOWS\\Prefetch\\bdiwuweiosnylnovykpysnttbnocoufque",
+            "C:\\WINDOWS\\Prefetch\\vcictqpkovltxvnztnjhjfab",
+            "C:\\WINDOWS\\Prefetch\\xkzatlamnyknidevnieyapi",
+            "C:\\WINDOWS\\Prefetch\\xkzatlamnyknidevnieyapib",
+            "C:\\WINDOWS\\Prefetch\\zkyfkflnmbiitkdzplzhahij",
+            "C:\\WINDOWS\\Prefetch\\zkyfkflnmbiitkdzplzhahi",
+            "C:\\WINDOWS\\Prefetch\\zkyfkflnmbiitkdzplzhah",
+            "C:\\WINDOWS\\Prefetch\\zkyfkflnmbiitkdzplzha",
+            "C:\\WINDOWS\\Prefetch\\vroriuirdpfgqibhmkghjky",
+            "C:\\WINDOWS\\Prefetch\\vroriuirdpfgqibhmkghjkyq",
+            "C:\\WINDOWS\\Prefetch\\xznxipttcseabpslgfbyaug",
+            "C:\\WINDOWS\\Prefetch\\xznxipttcseabpslgfbyau",
+            "C:\\WINDOWS\\Prefetch\\xznxipttcseabpslgfby",
+            "C:\\WINDOWS\\Prefetch\\xznxipttcseabpslgfbya",
+            "C:\\WINDOWS\\Prefetch\\zhmchjevbvcvmxrpaawhz",
+            "C:\\WINDOWS\\Prefetch\\tgeiyeqxbybyxeplcdqyr",
+            "C:\\WINDOWS\\Prefetch\\vodgyytzabztjugpxylii",
+            "C:\\WINDOWS\\Prefetch\\vodgyytzabztjugpxyli",
+            "C:\\WINDOWS\\Prefetch\\xocmxtebzeyoucftrcyz",
+            "C:\\WINDOWS\\Prefetch\\xocmxtebzeyoucftrcy",
+            "C:\\WINDOWS\\Prefetch\\zwtrwnpdzhwifjewtxs",
+            "C:\\WINDOWS\\Prefetch\\tvsxvibfqkvdrrvananz",
+            "C:\\WINDOWS\\Prefetch\\tvsxvibfqkvdrrvananzqcuugrskkxsakhryrfbfm",
+            "C:\\WINDOWS\\Prefetch\\tvsxvibfqkvdrrvananzqcuugrskkxsakhryr",
+            "C:\\WINDOWS\\Prefetch\\wdrdncmgpntgchuwqviqimcuslzxzubwxahhlt",
+            "C:\\WINDOWS\\Prefetch\\ydijmfxipqrbnotakyc",
+            "C:\\WINDOWS\\Prefetch\\ydijmfxipqrbnotakyczhwk",
+            "C:\\WINDOWS\\Prefetch\\ydijmfxipqrbnotakyczhwkc",
+            "C:\\WINDOWS\\Prefetch\\ydijmfxipqrbnotakyczhwkcww",
+            "C:\\WINDOWS\\Prefetch\\skiglzikotqvywseeupqypsj",
+            "C:\\WINDOWS\\Prefetch\\uszmluumnvoqkdjigpkzqzaj",
+            "C:\\WINDOWS\\Prefetch\\wsyskofonyftvlimbsfqhrar",
+            "C:\\WINDOWS\\Prefetch\\yaxybjqqmbdogbhivnzzhbir",
+            "C:\\WINDOWS\\Prefetch\\yaxybjqqmbdogbhivnzzhbi",
+            "C:\\WINDOWS\\Prefetch\\yaxybjqqmbdogbhivn",
+            "C:\\WINDOWS\\Prefetch\\yaxybjqqmbdogbhivnzzhbirjgzfmiv",
+            "C:\\WINDOWS\\Prefetch\\qodnynbybnxbrnuyokwzggog",
+            "C:\\WINDOWS\\Prefetch\\qodnynbybnxbrnuyokwzg",
+            "C:\\WINDOWS\\Prefetch\\qodnynbybnxbrnuyokwzggo",
+            "C:\\WINDOWS\\Prefetch\\uwcypcybatuqockykilzpjw",
+            "C:\\WINDOWS\\Prefetch\\uwcypcybatuqockykilzpjwn",
+            "C:\\WINDOWS\\Prefetch\\uwcypcybatuqockykilzpjwne",
+            "C:\\WINDOWS\\Prefetch\\wwteoxjvzwttzkjbeegqotev",
+            "C:\\WINDOWS\\Prefetch\\qdskoruxzhrokaafzhtzge",
+            "C:\\WINDOWS\\Prefetch\\vlivegjbpnodhpynvfizogck",
+            "C:\\WINDOWS\\Prefetch\\vlivegjbpnodhpynvfizogckrfp",
+            "C:\\WINDOWS\\Prefetch\\pshtebudpqmgsxxjxadroykkdyw",
+            "C:\\WINDOWS\\Prefetch\\pshtebudpqmgsxxjxadroykkdywzborjolfzwoux",
+            "C:\\WINDOWS\\Prefetch\\pshtebudpqmgsxxjxadroykkdywzborjolfz",
+            "C:\\WINDOWS\\Prefetch\\tayecqqhnwjvoumrmzsrwtsrtdkbwjr",
+            "C:\\WINDOWS\\Prefetch\\tayecqqhnwjvoumrmzsrwtsr",
+            "C:\\WINDOWS\\Prefetch\\tayecqqhnwjvoumrmzsrwtsrtdkbw",
+            "C:\\WINDOWS\\Prefetch\\vaxkbkcjnyiqablvoufawlaz",
+            "C:\\WINDOWS\\Prefetch\\vaxkbkcjnyiqablvoufawla",
+            "C:\\WINDOWS\\Prefetch\\phwqtfnlmbgtljczixarnvi",
+            "C:\\WINDOWS\\Prefetch\\rhnwshymlefowrbddsuafoq",
+            "C:\\WINDOWS\\Prefetch\\rhnwshymlefowrbddsuafoqhuuepgjkbj",
+            "C:\\WINDOWS\\Prefetch\\rhnwshymlefowrbddsuafoqh",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\TMP4.tmp",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\plocnfbz",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\TMP5.tmp",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\pxxsolkm",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\TMP6.tmp",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\vivwfwru",
+            "C:\\6acfc28ba0b3ffbad46806aef99844bd03555061ba7f3062cf9a67f48d31f7e6",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\rmes.bat",
+            "C:\\Windows\\Temp\\dfkdefnolrwoj",
+            "C:\\Windows\\Temp\\pzqygaynapj",
+            "C:\\Windows\\Temp\\faxnnjecxny",
+            "C:\\Windows\\Temp\\omwyigwergk",
+            "C:\\Windows\\Temp\\aydtjbhvgef",
+            "C:\\Windows\\Temp\\ksidsfxjbap",
+            "C:\\Windows\\Temp\\lepoevqlutb",
+            "C:\\Windows\\Temp\\wyoroqbbksw",
+            "C:\\Windows\\Temp\\ikulpllshij",
+            "C:\\Windows\\Temp\\wduriwztaix",
+            "C:\\Windows\\Temp\\dqarkdpkqzq",
+            "C:\\Windows\\Temp\\pkgmlqijgxl",
+            "C:\\Windows\\Temp\\mptcogdqbmb",
+            "C:\\Windows\\Temp\\yjawpbooqkw",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP6DC3.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\bkovfkflyjs",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP74AA.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\xzaygeprfox",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP7C1D.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\seuyqxlsfzg",
+            "C:\\Windows\\Prefetch\\kzkxuotytdgqvpzwhnitqcwyukxfbnqqqwoyupnlx",
+            "C:\\Windows\\Prefetch\\kmqxwvjqjuhwotyvufcmnoyd",
+            "C:\\Windows\\Prefetch\\vyxsxqcghsubwknzuugdhuhp",
+            "C:\\Windows\\Prefetch\\hsdmylnfwqpxnckumstbcjxixfeytcnbhyo",
+            "C:\\Windows\\Prefetch\\ofbnbkdwmhqdxgathkmuzvsoizcsmyh",
+            "C:\\Windows\\Prefetch\\mkocdahlzvgnwomaapdbhqrtbscqmkk",
+            "C:\\Windows\\Prefetch\\jlhaiwasdipvnbxyftnjtxtdegjb",
+            "C:\\Windows\\Prefetch\\iqnakvqjtzqaggvxslhcqjnjpiiewvbszxsj",
+            "C:\\Windows\\Prefetch\\hclbecobbqrorkuwnlbdmvhwzcpyx",
+            "C:\\Windows\\Prefetch\\twsvfwzrzomlhb",
+            "C:\\Windows\\Prefetch\\fiyqprkqwmh",
+            "C:\\Windows\\Prefetch\\eveqjyihfdiwixfctpl",
+            "C:\\Windows\\Prefetch\\nhdceobbywugnoitaui",
+            "C:\\Windows\\Prefetch\\mujcguztonwlgsganlca",
+            "C:\\Windows\\Prefetch\\inbpkaqxoytxdkexgdjewarkshsrbljspuvyodfolpmatpvrpyysqndpel",
+            "C:\\Windows\\Prefetch\\ofnphfmgnfwjgkcvgnoqpyfvndygujeigrcwncdkcfrivnzcsmyntiws",
+            "C:\\Windows\\Prefetch\\mxzqmlaptvy",
+            "C:\\Windows\\Prefetch\\bynctllknytulkabznvmnw",
+            "C:\\Windows\\Prefetch\\xrminprdoradoxbwmplopu",
+            "C:\\Windows\\Prefetch\\mkfygryhjmridxpsbvwdfav",
+            "C:\\Windows\\Prefetch\\ydltimjfzkmntoewttitsp",
+            "C:\\Windows\\Prefetch\\vxrxxfmsbnpfmfnveub",
+            "C:\\Windows\\Prefetch\\iqrdqrattgwgpkpzzwjggma",
+            "C:\\Windows\\Prefetch\\vjyjscfumycprxqumyyiikl",
+            "C:\\Windows\\Prefetch\\geetsgvihceqnbbyrjz",
+            "C:\\Windows\\Prefetch\\qpeonnqfvqjefgzxtsaegtj",
+            "C:\\Windows\\Prefetch\\fqktvftzxtfwgxzxebtgku",
+            "C:\\Windows\\Prefetch\\skjyorztpllwjkbazdjimr",
+            "C:\\Windows\\Prefetch\\zopzryxsgcmktoazmucjjdzifuiedghcbbroivbbq",
+            "C:\\Windows\\Prefetch\\liwtsshjvahhkfxvmkhzesq",
+            "C:\\Windows\\Prefetch\\zbvztevkwtnqmkyyzmwc",
+            "C:\\Windows\\Prefetch\\whiwvuqrjpdslbkxsznjvkb",
+            "C:\\Windows\\Prefetch\\ibhrwhbpzoyxbszasprhqzk",
+            "C:\\Windows\\Prefetch\\honszozhpezdmpyzfglandm",
+            "C:\\Windows\\Prefetch\\vhmxszmihxfdobzvzqadoap",
+            "C:\\Windows\\Prefetch\\qaudtlsbiymmrojymsifqya",
+            "C:\\Windows\\Prefetch\\smznupixvtnnnklusvrk",
+            "C:\\Windows\\Prefetch\\zzfnxogolkotgoktfnlltqjw",
+            "C:\\Windows\\Prefetch\\ltmiyjrfiijyoghwflpbowai",
+            "C:\\Windows\\Prefetch\\zmlnzvwgbbpzqsjasnedpul",
+            "C:\\Windows\\Prefetch\\bzrfaznuwxzauotvyqfidzzneutxlubiwhpdmwgxd",
+            "C:\\Windows\\Prefetch\\yrrvtbuxrsrfjphzneywmgfhtwztasjgbkxhqxoho",
+            "C:\\Windows\\Prefetch\\nsxabuxklvmfcgiyyfshqoqysdtsy",
+            "C:\\Windows\\Prefetch\\xexwwispzjslctgyawspjsz",
+            "C:\\Windows\\Prefetch\\ufdadbwcbmnlvkhxlflznske",
+            "C:\\Windows\\Prefetch\\hycgfmbdumtlyxibyhtcxpvy",
+            "C:\\Windows\\Prefetch\\tkjagzutsd",
+            "C:\\Windows\\Prefetch\\rywqippifzeamxrvqcwhzz",
+            "C:\\Windows\\Prefetch\\skvbcnikqsrcspuuygtmdua",
+            "C:\\Windows\\Prefetch\\ewbwehtboqmhagryydxdyjj",
+            "C:\\Windows\\Prefetch\\zpbbxtgcgjsqctttlfm",
+            "C:\\Windows\\Prefetch\\bjgtgxoqbftryxdxrin",
+            "C:\\Windows\\Prefetch\\xonkczulnrubgtqztpa",
+            "C:\\Windows\\Prefetch\\jitfdufbcphgwkfvlmepolau",
+            "C:\\Windows\\Prefetch\\gczjkmiweslypkouenyrstll",
+            "C:\\Windows\\Prefetch\\tvzpmyvpxkrhsoqyrpfutrwf",
+            "C:\\Windows\\Prefetch\\hoyufjiqplxivbrtlrvwdoz",
+            "C:\\Windows\\Prefetch\\tifpgetpnbsnltoxehznqvq",
+            "C:\\Windows\\Prefetch\\fulkhzefkznktkdaeellljz",
+            "C:\\Windows\\Prefetch\\ngkvcpwawtzuycozliiqxen",
+            "C:\\Windows\\Prefetch\\zzrqdkhytruzptdvmyn",
+            "C:\\Windows\\Prefetch\\qaqfltnnqobvufzvrljv",
+            "C:\\Windows\\Prefetch\\mtqvevvrmkazrgnyyacj",
+            "C:\\Windows\\Prefetch\\ymxqfqfqcivezxcuzqgz",
+            "C:\\Windows\\Prefetch\\ngdcnjjcdlreaolckzak",
+            "C:\\Windows\\Prefetch\\imiiibmvmuyloxlwr",
+            "C:\\Windows\\Prefetch\\vfiokfzwfveurknaeurh",
+            "C:\\Windows\\Prefetch\\jyhtdrepynkvtxovzwgkujdooe",
+            "C:\\Windows\\Prefetch\\gzvytjqkzqovmoxvkxamyk",
+            "C:\\Windows\\Prefetch\\rlcsueabxpbscfmykvektyf",
+            "C:\\Windows\\Prefetch\\geujnhielkafsgaurjx",
+            "C:\\Windows\\Prefetch\\febynqgcqhpbfkwuxxtnvw",
+            "C:\\Windows\\Prefetch\\uxuohsnflchgukkymletmconepztsgxyrf",
+            "C:\\Windows\\Prefetch\\ReadyBoot\\fqajinywb",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\TMP25E3.tmp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\TMP2E41.tmp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\TMP367F.tmp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\TMP539D.tmp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\TMP5C97.tmp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\TMP6533.tmp",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\fxclouowrua",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\ignywgftpgv",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\iqzgkawjvwq",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\umewntzefpx",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\xgjjjguzkwx",
+            "C:\\Users\\user\\AppData\\Local\\Temp\\xwcrwsuvhkp",
+            "C:\\Windows\\Temp\\aomkznyzpeme",
+            "C:\\Windows\\prefetch\\ReadyBoot\\emppaptpxo",
+            "C:\\Windows\\prefetch\\ReadyBoot\\exfegnvlc",
+            "C:\\Windows\\prefetch\\ReadyBoot\\ihyzbtbqd",
+            "C:\\Windows\\prefetch\\ReadyBoot\\iroohklnq",
+            "C:\\Windows\\prefetch\\ReadyBoot\\jodnhgfdh",
+            "C:\\Windows\\prefetch\\ReadyBoot\\mogmookmdaao",
+            "C:\\Windows\\prefetch\\ccnrrndfhulxjhyve",
+            "C:\\Windows\\prefetch\\hjcjjopcgvzrx",
+            "C:\\Windows\\prefetch\\hymvdpngbnxitpkwkywxojgkvhmwjqysjxyzzgezhlkjrdadepgyxpku",
+            "C:\\Windows\\prefetch\\jrsbnwpzuusshzyykl",
+            "C:\\Windows\\prefetch\\kqvotnefloohxpmbex",
+            "C:\\Windows\\prefetch\\lfuizsocaczwpqmyzgpbqkzabvnarjrmthekpsbwillwjsgzawhmkpzthp",
+            "C:\\Windows\\prefetch\\lotzqjhazzjmh",
+            "C:\\Windows\\prefetch\\mpjdyowjs",
+            "C:\\Windows\\prefetch\\mpkwfiqyfkb",
+            "C:\\Windows\\prefetch\\oleymsmhrketnycxeb",
+            "C:\\Windows\\prefetch\\pvxgxzekvfvrhhacrgow",
+            "C:\\Windows\\prefetch\\pxgdmyvicqnsbztagrd",
+            "C:\\Windows\\prefetch\\rqqmnmrodwxszhxycxgenfwmck",
+            "C:\\Windows\\prefetch\\tcftttmgvuxglqcwgnh",
+            "C:\\Windows\\prefetch\\trpnnddkimuxzq",
+            "C:\\Windows\\prefetch\\vzmcojgavf",
+            "C:\\Windows\\prefetch\\zgayhwirqocbvhmwkeyd"
+        ],
+        "processes_created": [
+            "%SAMPLEPATH%\\6acfc28ba0b3ffbad46806aef99844bd03555061ba7f3062cf9a67f48d31f7e6.exe",
+            "C:\\Windows\\System32\\wuapihost.exe",
+            "C:\\Windows\\SysWOW64\\wevtutil.exe",
+            "C:\\Windows\\SysWOW64\\cmd.exe",
+            "C:\\WINDOWS\\system32\\cmd.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\rmes.bat",
+            "wevtutil.exe cl Application /bu:C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP6DC3.tmp",
+            "wevtutil.exe cl Security /bu:C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP74AA.tmp",
+            "wevtutil.exe cl System /bu:C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP7C1D.tmp",
+            "wevtutil.exe cl Application /bu:C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP9A35.tmp",
+            "wevtutil.exe cl Security /bu:C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP9F38.tmp",
+            "wevtutil.exe cl System /bu:C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMPA459.tmp",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\rmes.bat"
+        ],
+        "verdict_confidence": 2,
+        "mitre_attack_techniques": [
+            {
+                "id": "T1064",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Executes batch files"
+            },
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Spawns processes"
+            },
+            {
+                "id": "T1070.004",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Deletes files inside the Windows folder"
+            },
+            {
+                "id": "T1057",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Queries a list of all running processes"
+            },
+            {
+                "id": "T1083",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Enumerates the file system"
+            },
+            {
+                "id": "T1083",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Writes ini files"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Queries the volume information (name, serial number etc) of a device"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Reads software policies"
+            }
+        ],
+        "command_executions": [
+            "\"%SAMPLEPATH%\\6acfc28ba0b3ffbad46806aef99844bd03555061ba7f3062cf9a67f48d31f7e6.exe\" ",
+            "C:\\Windows\\System32\\wuapihost.exe -Embedding",
+            "wevtutil.exe cl \"Application\" /bu:\"%USERPROFILE%\\AppData\\Local\\Temp\\TMPEAAE.tmp\"",
+            "wevtutil.exe cl \"Security\" /bu:\"%USERPROFILE%\\AppData\\Local\\Temp\\TMPF0C9.tmp\"",
+            "wevtutil.exe cl \"System\" /bu:\"%USERPROFILE%\\AppData\\Local\\Temp\\TMPF5CB.tmp\"",
+            "wevtutil.exe cl \"Application\" /bu:\"%USERPROFILE%\\AppData\\Local\\Temp\\TMPFCE1.tmp\"",
+            "wevtutil.exe cl \"Security\" /bu:\"%USERPROFILE%\\AppData\\Local\\Temp\\TMP157.tmp\"",
+            "wevtutil.exe cl \"System\" /bu:\"%USERPROFILE%\\AppData\\Local\\Temp\\TMP678.tmp\"",
+            "C:\\Windows\\system32\\cmd.exe /c %USERPROFILE%\\AppData\\Local\\Temp\\rmes.bat",
+            "cmd /c C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\rmes.bat"
+        ],
+        "files_opened": [
+            "C:\\WINDOWS\\system32\\winime32.dll",
+            "C:\\WINDOWS\\system32\\ws2_32.dll",
+            "C:\\WINDOWS\\system32\\ws2help.dll",
+            "C:\\WINDOWS\\system32\\psapi.dll",
+            "C:\\WINDOWS\\system32\\imm32.dll",
+            "C:\\WINDOWS\\system32\\lpk.dll",
+            "C:\\WINDOWS\\system32\\usp10.dll",
+            "C:\\WINDOWS\\system32\\wmmsvc.exe",
+            "C:\\WINDOWS\\system32\\qthzsgizpf",
+            "C:\\WINDOWS\\system32\\wmmvsvc.exe",
+            "C:\\WINDOWS\\system32\\nhcwoannces",
+            "C:\\WINDOWS\\system32\\igfxmmc.exe",
+            "C:\\WINDOWS\\system32\\igfxcmm.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP2.tmp",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\iggeraqm",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP3.tmp",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\evmtunnf",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP4.tmp",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\uhfnxbis",
+            "C:\\WINDOWS\\Prefetch\\ALG.EXE-0F138680.pf",
+            "C:\\WINDOWS\\Prefetch\\gqaqpljeeyhcsrdedlu",
+            "C:\\WINDOWS\\Prefetch\\AMDOPTI.EXE-05A50C13.pf",
+            "C:\\WINDOWS\\Prefetch\\cfnnlmpjqfkqpaygyavhyyo",
+            "C:\\WINDOWS\\Prefetch\\ASPNET_REGIIS.EXE-009D6E80.pf",
+            "C:\\WINDOWS\\Prefetch\\pauagncdhxuzccgmdxjpcfnhbudfp",
+            "C:\\WINDOWS\\Prefetch\\ASPNET_REGIIS.EXE-057C90FA.pf",
+            "C:\\WINDOWS\\Prefetch\\doixbohruwxnzljwyesrjyyoxroee",
+            "C:\\WINDOWS\\Prefetch\\AUTOCHK.EXE-2F8C59C3.pf",
+            "C:\\WINDOWS\\Prefetch\\doixbohruwxnzljwyesrjyy",
+            "C:\\WINDOWS\\Prefetch\\AU_.EXE-05904C56.pf",
+            "C:\\WINDOWS\\Prefetch\\advmfhfehwabwtegumt",
+            "C:\\WINDOWS\\Prefetch\\CLWIREG.EXE-1B256F54.pf",
+            "C:\\WINDOWS\\Prefetch\\myczaqsqgnkkrwmmgjpccxr",
+            "C:\\WINDOWS\\Prefetch\\CMB_PB_LIVEUPDATE.EXE-261991FF.pf",
+            "C:\\WINDOWS\\Prefetch\\impwwjxdtnnygepwcqpmjjduwklbewsxm",
+            "C:\\WINDOWS\\Prefetch\\CMD.EXE-087B4001.pf",
+            "C:\\WINDOWS\\Prefetch\\uhxbrskxseyhbhxuond",
+            "C:\\WINDOWS\\Prefetch\\CONIME.EXE-13EEEA1A.pf",
+            "C:\\WINDOWS\\Prefetch\\resymlqlfebwypadkumxci",
+            "C:\\WINDOWS\\Prefetch\\CPUINFO.EXE-1F8D494E.pf",
+            "C:\\WINDOWS\\Prefetch\\nsfvinnqsddswywnfknzjch",
+            "C:\\WINDOWS\\Prefetch\\CSC.EXE-01730C27.pf",
+            "C:\\WINDOWS\\Prefetch\\znnadvakruobjadtkhj",
+            "C:\\WINDOWS\\Prefetch\\CSRSS.EXE-12B63473.pf",
+            "C:\\WINDOWS\\Prefetch\\ocaxgogxeurpgjgdfokru",
+            "C:\\WINDOWS\\Prefetch\\CTFMON.EXE-0E17969B.pf",
+            "C:\\WINDOWS\\Prefetch\\krnucielrtuddrcnbwstjm",
+            "C:\\WINDOWS\\Prefetch\\CVTRES.EXE-2329DCD5.pf",
+            "C:\\WINDOWS\\Prefetch\\wluzxqyxqlemqujlntgcnt",
+            "C:\\WINDOWS\\Prefetch\\DOTNETFX.EXE-07E0E6AC.pf",
+            "C:\\WINDOWS\\Prefetch\\wluzxqyxqlemqujlntgcntke",
+            "C:\\WINDOWS\\Prefetch\\DOTNETFX35.EXE-33EAC255.pf",
+            "C:\\WINDOWS\\Prefetch\\tapwtswkdkhandnvjaheumdmel",
+            "C:\\WINDOWS\\Prefetch\\DOTNETFX35SETUP.EXE-0EC0F63F.pf",
+            "C:\\WINDOWS\\Prefetch\\fuxiosjeuksjifubnxdnysucrtvcdvg",
+            "C:\\WINDOWS\\Prefetch\\DOTNETFX40_FULL_X86_X64.EXE-06590BE8.pf",
+            "C:\\WINDOWS\\Prefetch\\ygxdfnmxtjxlcwtueunzvxhscnrbijgpsfuocnr",
+            "C:\\WINDOWS\\Prefetch\\DSTART.EXE-1B4F491E.pf",
+            "C:\\WINDOWS\\Prefetch\\ksfhawzrsaaupzaarrbhzl",
+            "C:\\WINDOWS\\Prefetch\\EXPLORER.EXE-082F38A9.pf",
+            "C:\\WINDOWS\\Prefetch\\venczqcsszfwkyzmigkuvqdx",
+            "C:\\WINDOWS\\Prefetch\\EXTENSIONMANAGER.EXE-12F3E92D.pf",
+            "C:\\WINDOWS\\Prefetch\\enieqsvreqttujkcikhegpwwdlsolbcg",
+            "C:\\WINDOWS\\Prefetch\\IE4UINIT.EXE-169A5A39.pf",
+            "C:\\WINDOWS\\Prefetch\\jtpdcnledhjmjcqcleergaab",
+            "C:\\WINDOWS\\Prefetch\\IMEUTIL.EXE-18582FBD.pf",
+            "C:\\WINDOWS\\Prefetch\\grfcxqjycxzyqwxtpqcmgte",
+            "C:\\WINDOWS\\Prefetch\\INSTALL.EXE-067BC318.pf",
+            "C:\\WINDOWS\\Prefetch\\smnosrwkbwkhdzeztmyukad",
+            "C:\\WINDOWS\\Prefetch\\INSTALL.EXE-0E610F4E.pf",
+            "C:\\WINDOWS\\Prefetch\\pbalnstyownvbhhjpuzwrlo",
+            "C:\\WINDOWS\\Prefetch\\INSTASM.EXE-1F7813C9.pf",
+            "C:\\WINDOWS\\Prefetch\\bviqitosfnxevkphbrnfvzn",
+            "C:\\WINDOWS\\Prefetch\\INSTTXSSO.EXE-36E51D15.pf",
+            "C:\\WINDOWS\\Prefetch\\bviqitosfnxevkphbrnfvznwy",
+            "C:\\WINDOWS\\Prefetch\\LODCTR.EXE-1009C3B4.pf",
+            "C:\\WINDOWS\\Prefetch\\xkvneumfsnaslskrxyvhck",
+            "C:\\WINDOWS\\Prefetch\\LOGONUI.EXE-0AF22957.pf",
+            "C:\\WINDOWS\\Prefetch\\gtxpvweeeeopddvhwksavkr",
+            "C:\\WINDOWS\\Prefetch\\LSASS.EXE-20DB6D1B.pf",
+            "C:\\WINDOWS\\Prefetch\\gtxpvweeeeopddvhwksav",
+            "C:\\WINDOWS\\Prefetch\\MOFCOMP.EXE-01718E95.pf",
+            "C:\\WINDOWS\\Prefetch\\rfxjurhfddtzxuuaozcerpx",
+            "C:\\WINDOWS\\Prefetch\\MSCORSVW.EXE-1366B4F5.pf",
+            "C:\\WINDOWS\\Prefetch\\dzfopsurcueakxbgawqmvvwq",
+            "C:\\WINDOWS\\Prefetch\\MSCORSVW.EXE-1BF30400.pf",
+            "C:\\WINDOWS\\Prefetch\\zoslktsepuhwhfxiweqwcohp",
+            "C:\\WINDOWS\\Prefetch\\MSIEXEC.EXE-2F8A8CAE.pf",
+            "C:\\WINDOWS\\Prefetch\\ixvvbvkmbkutrqiywinhnoa",
+            "C:\\WINDOWS\\Prefetch\\NGEN.EXE-1F9EA69F.pf",
+            "C:\\WINDOWS\\Prefetch\\emisxoqzokxhpzlirywj",
+            "C:\\WINDOWS\\Prefetch\\NGEN.EXE-38021CCC.pf",
+            "C:\\WINDOWS\\Prefetch\\rhqxaxdlnbhqkbsoduks",
+            "C:\\WINDOWS\\Prefetch\\NHELPER.EXE-3874C0E5.pf",
+            "C:\\WINDOWS\\Prefetch\\fwduvyayajkfhkoyzclunze",
+            "C:\\WINDOWS\\Prefetch\\PBINSTALL.EXE-083FE3B4.pf",
+            "C:\\WINDOWS\\Prefetch\\fwduvyayajkfhkoyzclunzebb",
+            "C:\\WINDOWS\\Prefetch\\PBSETUP60.EXE-22B8A5B0.pf",
+            "C:\\WINDOWS\\Prefetch\\ofxwmatyeaycrvzfhginyyoze",
+            "C:\\WINDOWS\\Prefetch\\PERFORMANCECOUNTERINSTALLER.E-334D54EC.pf",
+            "C:\\WINDOWS\\Prefetch\\ofxwmatyeaycrvzfhginyyozeifunajwyitiqliuw",
+            "C:\\WINDOWS\\Prefetch\\PERSONALBANKPORTAL.EXE-31DF9F7A.pf",
+            "C:\\WINDOWS\\Prefetch\\kcstitzlrzaqomupdoqpnsihafqtclnrcj",
+            "C:\\WINDOWS\\Prefetch\\PING.EXE-31216D26.pf",
+            "C:\\WINDOWS\\Prefetch\\wwsydclfqrlzbgbvhkex",
+            "C:\\WINDOWS\\Prefetch\\PINYINUP.EXE-1785D6E7.pf",
+            "C:\\WINDOWS\\Prefetch\\tlnvyvjtdqonyxffcsfzyrsf",
+            "C:\\WINDOWS\\Prefetch\\PRINTFILTERPIPELINESVC.EXE-0F2B9E77.pf",
+            "C:\\WINDOWS\\Prefetch\\tlnvyvjtdqonyxffcsfzyrsfckcjnowtuwfoxb",
+            "C:\\WINDOWS\\Prefetch\\PRINTFILTERPIPELINESVC.EXE-27257D2B.pf",
+            "C:\\WINDOWS\\Prefetch\\buixxxcsphbkqiqnkecksjddmpghqrfvmilacc",
+            "C:\\WINDOWS\\Prefetch\\PYTHONW.EXE-176EB6AA.pf",
+            "C:\\WINDOWS\\Prefetch\\buixxxcsphbkqiqnkecksjd",
+            "C:\\WINDOWS\\Prefetch\\QQ2011_12131.EXE-32881B56.pf",
+            "C:\\WINDOWS\\Prefetch\\qjvutyhfcheyoqlxgmluzcwljerg",
+            "C:\\WINDOWS\\Prefetch\\QQPCDETECTOR.EXE-2255687E.pf",
+            "C:\\WINDOWS\\Prefetch\\myirosftoghudzphctlwovisxacg",
+            "C:\\WINDOWS\\Prefetch\\QQSETUPEX.EXE-1E80B8C0.pf",
+            "C:\\WINDOWS\\Prefetch\\vplbfuxsaxurvkrxcyipzvari",
+            "C:\\WINDOWS\\Prefetch\\REGEDIT.EXE-1B606482.pf",
+            "C:\\WINDOWS\\Prefetch\\hcsfackmzofaimzcouwpdbz",
+            "C:\\WINDOWS\\Prefetch\\REGSVCS.EXE-11A17120.pf",
+            "C:\\WINDOWS\\Prefetch\\eyfdwwqzmoiofvcejkfzknl",
+            "C:\\WINDOWS\\Prefetch\\REGSVR32.EXE-25EEFE2F.pf",
+            "C:\\WINDOWS\\Prefetch\\ansarxnnzvkcceyofrgbzgew",
+            "C:\\WINDOWS\\Prefetch\\REGTLIBV12.EXE-0E2FA54B.pf",
+            "C:\\WINDOWS\\Prefetch\\ansarxnnzvkcceyofrgbzgewgz",
+            "C:\\WINDOWS\\Prefetch\\REGTLIBV12.EXE-35B5D8AD.pf",
+            "C:\\WINDOWS\\Prefetch\\miaeuyazynvlpgfujoukdmdnuh",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-147710F4.pf",
+            "C:\\WINDOWS\\Prefetch\\bwncqzgmlmyzmpiefwcmkfpv",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-150DDA3A.pf",
+            "C:\\WINDOWS\\Prefetch\\xlizmsdaymbnkxeobddwrrjc",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-169CA248.pf",
+            "C:\\WINDOWS\\Prefetch\\jgqdhbylpdlxeatunazfvfzt",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-18EB6A95.pf",
+            "C:\\WINDOWS\\Prefetch\\gudbcuwzcdolcipeiiahkqta",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-1E478A55.pf",
+            "C:\\WINDOWS\\Prefetch\\spknxdjtbuzuplwcveopoxsz",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-210D08A7.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-2576181F.pf",
+            "C:\\WINDOWS\\Prefetch\\lalapxmubtewjcvvmbxckjxg",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-2AF77CC9.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-2F8D0DD5.pf",
+            "C:\\WINDOWS\\Prefetch\\lknjnzetnkkbtnglmgumvjim",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-32C9186A.pf",
+            "C:\\WINDOWS\\Prefetch\\izahjscgakmpqebvindocubm",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-3BF7D301.pf",
+            "C:\\WINDOWS\\Prefetch\\utilebxsybxylyjtukrxgaal",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-3F78FFDD.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-451FC2C0.pf",
+            "C:\\WINDOWS\\Prefetch\\rivizuuglaamipmdprszvums",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-45736D66.pf",
+            "C:\\WINDOWS\\Prefetch\\dcdnudhzkslvvjtjuooizalj",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-470F11BD.pf",
+            "C:\\WINDOWS\\Prefetch\\zrqkqwnnxznjsaptpeosgteq",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-49520AE6.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-49F747DB.pf",
+            "C:\\WINDOWS\\Prefetch\\wolhmylakzqxqiscllxuvfqy",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-4AF321B7.pf",
+            "C:\\WINDOWS\\Prefetch\\ibsmpgfmbqbgdlaaxilcrtpp",
+            "C:\\WINDOWS\\Prefetch\\RUNONCE.EXE-2803F297.pf",
+            "C:\\WINDOWS\\Prefetch\\wxfjkzdaoqduatdktqmegei",
+            "C:\\WINDOWS\\Prefetch\\SCDREG.EXE-221EFFA6.pf",
+            "C:\\WINDOWS\\Prefetch\\wxfjkzdaoqduatdktqmege",
+            "C:\\WINDOWS\\Prefetch\\SCHTASKS.EXE-0CBF6A11.pf",
+            "C:\\WINDOWS\\Prefetch\\tmsggtjnbpgixczuoxvonxue",
+            "C:\\WINDOWS\\Prefetch\\SERVICEMODELREG.EXE-1FB5DD06.pf",
+            "C:\\WINDOWS\\Prefetch\\fhatbbwzahrrkegatujpretuicbbiid",
+            "C:\\WINDOWS\\Prefetch\\SERVICEMODELREG.EXE-3848AC09.pf",
+            "C:\\WINDOWS\\Prefetch\\SERVICES.EXE-2F433351.pf",
+            "C:\\WINDOWS\\Prefetch\\nqvvsdogmyepcprqbyfikddt",
+            "C:\\WINDOWS\\Prefetch\\SETUP.EXE-0A9C974A.pf",
+            "C:\\WINDOWS\\Prefetch\\nqvvsdogmyepcprqbyfik",
+            "C:\\WINDOWS\\Prefetch\\SETUP.EXE-1109AB5A.pf",
+            "C:\\WINDOWS\\Prefetch\\gtdpjyjhmxkzwhqcsvpug",
+            "C:\\WINDOWS\\Prefetch\\SETUP.EXE-14AD0595.pf",
+            "C:\\WINDOWS\\Prefetch\\SETUP.EXE-22884BB0.pf",
+            "C:\\WINDOWS\\Prefetch\\SETUP.EXE-2CF30269.pf",
+            "C:\\WINDOWS\\Prefetch\\tolumhetlovajjxiesduc",
+            "C:\\WINDOWS\\Prefetch\\SETUP50.EXE-362FF7C9.pf",
+            "C:\\WINDOWS\\Prefetch\\hlyriacgyoxwhstrazmfrib",
+            "C:\\WINDOWS\\Prefetch\\SGTOOL.EXE-09C7690C.pf",
+            "C:\\WINDOWS\\Prefetch\\ezlodbhulnakeawbvhmhyb",
+            "C:\\WINDOWS\\Prefetch\\SHMGRATE.EXE-1BA69E68.pf",
+            "C:\\WINDOWS\\Prefetch\\qustycugkeltrddhaeapdhle",
+            "C:\\WINDOWS\\Prefetch\\SKINREG.EXE-2A6E515B.pf",
+            "C:\\WINDOWS\\Prefetch\\qustycugkeltrddhaeapdhl",
+            "C:\\WINDOWS\\Prefetch\\SMSS.EXE-22F38377.pf",
+            "C:\\WINDOWS\\Prefetch\\qustycugkeltrddhaeap",
+            "C:\\WINDOWS\\Prefetch\\SOGOUFLASH.EXE-07089697.pf",
+            "C:\\WINDOWS\\Prefetch\\mjnqudstwmoholhrvljrssfmer",
+            "C:\\WINDOWS\\Prefetch\\SOGOU_PINYIN_61_5909.EXE-1C771D47.pf",
+            "C:\\WINDOWS\\Prefetch\\vsislfkaidbegwkzdygkdsqkgwpjlcrnkrdp",
+            "C:\\WINDOWS\\Prefetch\\SOHUNEWS.EXE-1544A797.pf",
+            "C:\\WINDOWS\\Prefetch\\rhvpgyqovcesdfnjzfhmkljs",
+            "C:\\WINDOWS\\Prefetch\\SPOOLSV.EXE-282F76A7.pf",
+            "C:\\WINDOWS\\Prefetch\\dbdcjhdamuobqhupdcvvosa",
+            "C:\\WINDOWS\\Prefetch\\SPUPDSVC.EXE-21B36524.pf",
+            "C:\\WINDOWS\\Prefetch\\sqqzfaanztrpnqqzzjdxdluq",
+            "C:\\WINDOWS\\Prefetch\\START-UNINST.EXE-32C3DB25.pf",
+            "C:\\WINDOWS\\Prefetch\\sqqzfaanztrpnqqzzjdxdluqnyeg",
+            "C:\\WINDOWS\\Prefetch\\STOREPWD.EXE-1CA25FA1.pf",
+            "C:\\WINDOWS\\Prefetch\\onlwbbgbmtudlhtiurehkwnx",
+            "C:\\WINDOWS\\Prefetch\\SVCHOST.EXE-3530F672.pf",
+            "C:\\WINDOWS\\Prefetch\\ahlbvctnlkfmxbbghoahole",
+            "C:\\WINDOWS\\Prefetch\\TASKMGR.EXE-20256C55.pf",
+            "C:\\WINDOWS\\Prefetch\\xwgyrdyaykhavswqcvbrdwy",
+            "C:\\WINDOWS\\Prefetch\\TENCENTDL.EXE-290BCB72.pf",
+            "C:\\WINDOWS\\Prefetch\\xwgyrdyaykhavswqcvbrdwyvm",
+            "C:\\WINDOWS\\Prefetch\\TENCENTDL.EXE-2E7633A7.pf",
+            "C:\\WINDOWS\\Prefetch\\jrndmeluxbskqmmwhspahcxuz",
+            "C:\\WINDOWS\\Prefetch\\TPAUTOCONNSVC.EXE-19F171C6.pf",
+            "C:\\WINDOWS\\Prefetch\\jrndmeluxbskqmmwhspahcxuzautz",
+            "C:\\WINDOWS\\Prefetch\\TPVCGATEWAY.EXE-120287EA.pf",
+            "C:\\WINDOWS\\Prefetch\\gfaaifjhkbvyndhgchycovicoxf",
+            "C:\\WINDOWS\\Prefetch\\TXPLATFORM.EXE-02501CC3.pf",
+            "C:\\WINDOWS\\Prefetch\\cunxdzovxayuclkqypyevpcjku",
+            "C:\\WINDOWS\\Prefetch\\TXSSOSETUP.EXE-2DFA9150.pf",
+            "C:\\WINDOWS\\Prefetch\\opvcghbhwridxoswkmunzvbayc",
+            "C:\\WINDOWS\\Prefetch\\UNLODCTR.EXE-37313252.pf",
+            "C:\\WINDOWS\\Prefetch\\deizcbhujrlruwnygtvxogmh",
+            "C:\\WINDOWS\\Prefetch\\UNREGMP2.EXE-07CACB61.pf",
+            "C:\\WINDOWS\\Prefetch\\zadwycfhwyofrfribbezvagp",
+            "C:\\WINDOWS\\Prefetch\\UNZIP.EXE-067B761F.pf",
+            "C:\\WINDOWS\\Prefetch\\lnljtdrtvqyoehynoyshz",
+            "C:\\WINDOWS\\Prefetch\\UPDATE.EXE-2ACBF640.pf",
+            "C:\\WINDOWS\\Prefetch\\ikygoexhipbcbquxjftkoz",
+            "C:\\WINDOWS\\Prefetch\\UPDATE.EXE-3AAFD7A7.pf",
+            "C:\\WINDOWS\\Prefetch\\UPGRADER.EXE-1A1DEF8F.pf",
+            "C:\\WINDOWS\\Prefetch\\qtthfgqolgpzmbenjrpuzzjl",
+            "C:\\WINDOWS\\Prefetch\\USERINIT.EXE-30B18140.pf",
+            "C:\\WINDOWS\\Prefetch\\nigfbznbygrnjjaxfzyegkut",
+            "C:\\WINDOWS\\Prefetch\\USERPAGE.EXE-2E7283AA.pf",
+            "C:\\WINDOWS\\Prefetch\\zcnjeianxxcwempvrwmnkqtk",
+            "C:\\WINDOWS\\Prefetch\\VCREDIST_X86.EXE-38EF0380.pf",
+            "C:\\WINDOWS\\Prefetch\\nrigzjgbkxfkbvlfndnpzknrurls",
+            "C:\\WINDOWS\\Prefetch\\VCREDIST_X86_2005.EXE-0A058C17.pf",
+            "C:\\WINDOWS\\Prefetch\\nrigzjgbkxfkbvlfndnpzknrurlsrngaa",
+            "C:\\WINDOWS\\Prefetch\\VCREDIST_X86_2008_SP1.EXE-37614F25.pf",
+            "C:\\WINDOWS\\Prefetch\\wadiqlyawoshlgvvnhkakjxpewxqcqqcsamei",
+            "C:\\WINDOWS\\Prefetch\\VCREDI~3.EXE-1155EE72.pf",
+            "C:\\WINDOWS\\Prefetch\\txqfmewojnvdioreipskrdjx",
+            "C:\\WINDOWS\\Prefetch\\VERCLSID.EXE-3667BD89.pf",
+            "C:\\WINDOWS\\Prefetch\\VMACTHLP.EXE-0790714A.pf",
+            "C:\\WINDOWS\\Prefetch\\fkykhnjhifgevrycvugkvjio",
+            "C:\\WINDOWS\\Prefetch\\VMTOOLSD.EXE-2376BC03.pf",
+            "C:\\WINDOWS\\Prefetch\\bglhcgovveiaszcmqbhukubv",
+            "C:\\WINDOWS\\Prefetch\\VMUPGRADEHELPER.EXE-30FFD2EA.pf",
+            "C:\\WINDOWS\\Prefetch\\bglhcgovveiaszcmqbhukubvdqmfdfc",
+            "C:\\WINDOWS\\Prefetch\\VMWARETRAY.EXE-029F476F.pf",
+            "C:\\WINDOWS\\Prefetch\\bglhcgovveiaszcmqbhukubvdq",
+            "C:\\WINDOWS\\Prefetch\\VMWAREUSER.EXE-1F72BBE4.pf",
+            "C:\\WINDOWS\\Prefetch\\yvgeyhmiiedppixwmjqwrnndan",
+            "C:\\WINDOWS\\Prefetch\\WFSERVICESREG.EXE-063492A2.pf",
+            "C:\\WINDOWS\\Prefetch\\yvgeyhmiiedppixwmjqwrnndanxns",
+            "C:\\WINDOWS\\Prefetch\\WINDOWSXP-KB2412687-X86-CHS.E-11CD97A6.pf",
+            "C:\\WINDOWS\\Prefetch\\kqorbizuhdoykkfcqgefvumtfvqdgimagaefciovq",
+            "C:\\WINDOWS\\Prefetch\\WINLOGON.EXE-32C57D49.pf",
+            "C:\\WINDOWS\\Prefetch\\yeboxjeiucrmibimmnnpkngb",
+            "C:\\WINDOWS\\Prefetch\\WMIADAP.EXE-2DF425B2.pf",
+            "C:\\WINDOWS\\Prefetch\\vtolsdcvhctaxjdwhvnrrgr",
+            "C:\\WINDOWS\\Prefetch\\WMIPRVSE.EXE-28F301A9.pf",
+            "C:\\WINDOWS\\Prefetch\\hovqnlxhgtejsmtcurbavnqz",
+            "C:\\WINDOWS\\Prefetch\\WUAUCLT.EXE-399A8E72.pf",
+            "C:\\WINDOWS\\Prefetch\\hovqnlxhgtejsmtcurbavnq",
+            "C:\\WINDOWS\\Prefetch\\XPSEPSC-X86-EN-US.EXE-13367E24.pf",
+            "C:\\WINDOWS\\Prefetch\\dcinjfuutthxpuoepzkccykhblzavhurf",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP5.tmp",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\dpfsegrl",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP6.tmp",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\btxehumq",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP7.tmp",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\ktcvbetz",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\rmes.bat",
+            "C:\\WINDOWS\\system32\\apphelp.dll",
+            "C:\\WINDOWS\\AppPatch\\sysmain.sdb",
+            "C:\\WINDOWS\\system32\\cmd.exe",
+            "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\EB93A6\\996E.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\rmes.bat",
+            "tlvc.nls",
+            "l_inti.nls",
+            "cspvt.dat",
+            "wmmsvc.exe",
+            "wmmvsvc.exe",
+            "igfxmmc.exe",
+            "igfxcmm.exe",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\TMP1.tmp",
+            "\\\\.\\PIPE\\EVENTLOG",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\TMP2.tmp",
+            "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\TMP3.tmp",
+            "C:\\WINDOWS\\Prefetch\\AGENTSVR.EXE-002E45AB.pf",
+            "C:\\WINDOWS\\Prefetch\\ANTISHUTDOWN[1].EXE-066371BA.pf",
+            "C:\\WINDOWS\\Prefetch\\CONTROL.EXE-013DBFB5.pf",
+            "C:\\WINDOWS\\Prefetch\\DOTNETFX35SETUP[1].EXE-11FB4362.pf",
+            "C:\\WINDOWS\\Prefetch\\GRPCONV.EXE-111CD845.pf",
+            "C:\\WINDOWS\\Prefetch\\IEXPLORE.EXE-27122324.pf",
+            "C:\\WINDOWS\\Prefetch\\INSTALL.EXE-267E4143.pf",
+            "C:\\WINDOWS\\Prefetch\\LOGON.SCR-151EFAEA.pf",
+            "C:\\WINDOWS\\Prefetch\\MSOOBE.EXE-30411B02.pf",
+            "C:\\WINDOWS\\Prefetch\\NOTEPAD.EXE-336351A9.pf",
+            "C:\\WINDOWS\\Prefetch\\NS10.TMP-2A88B589.pf",
+            "C:\\WINDOWS\\Prefetch\\NS11A.TMP-32FF42BE.pf",
+            "C:\\WINDOWS\\Prefetch\\NS11B.TMP-1BFF9AF4.pf",
+            "C:\\WINDOWS\\Prefetch\\NS123.TMP-2CB0B36E.pf",
+            "C:\\WINDOWS\\Prefetch\\NS12A.TMP-034D566D.pf",
+            "C:\\WINDOWS\\Prefetch\\NS130.TMP-07CF8D65.pf",
+            "C:\\WINDOWS\\Prefetch\\NS131.TMP-0600519E.pf",
+            "C:\\WINDOWS\\Prefetch\\NS132.TMP-0D63C20D.pf",
+            "C:\\WINDOWS\\Prefetch\\NS133.TMP-2C67CC33.pf",
+            "C:\\WINDOWS\\Prefetch\\NS134.TMP-2297117F.pf",
+            "C:\\WINDOWS\\Prefetch\\NS135.TMP-17347CC1.pf",
+            "C:\\WINDOWS\\Prefetch\\NS17.TMP-28754C78.pf",
+            "C:\\WINDOWS\\Prefetch\\NS1D.TMP-3242D0DD.pf",
+            "C:\\WINDOWS\\Prefetch\\NS1E.TMP-0788BD63.pf",
+            "C:\\WINDOWS\\Prefetch\\NS1F.TMP-05B9819C.pf",
+            "C:\\WINDOWS\\Prefetch\\NS20.TMP-3671933F.pf",
+            "C:\\WINDOWS\\Prefetch\\NS21.TMP-188D4A73.pf",
+            "C:\\WINDOWS\\Prefetch\\NS22.TMP-213E43CD.pf",
+            "C:\\WINDOWS\\Prefetch\\NS5.TMP-38D4CBED.pf",
+            "C:\\WINDOWS\\Prefetch\\NS7.TMP-23A17C7B.pf",
+            "C:\\WINDOWS\\Prefetch\\NTOSBOOT-B00DFAAD.pf",
+            "C:\\WINDOWS\\Prefetch\\PIL-1.1.7.WIN32-PY2.7.EXE-0862EB69.pf",
+            "C:\\WINDOWS\\Prefetch\\PRESENTATIONFONTCACHE.EXE-1706C4D2.pf",
+            "C:\\WINDOWS\\Prefetch\\REG.EXE-0D2A95F7.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-155CD7BB.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-1831A4F3.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-1BC69D2D.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-2C7B5C4A.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-2CD85FD3.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-2F26E69F.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-37BEE96E.pf",
+            "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-4499C56E.pf",
+            "C:\\WINDOWS\\Prefetch\\SC.EXE-012262AF.pf",
+            "C:\\WINDOWS\\Prefetch\\SETUP.EXE-0F560EE6.pf",
+            "C:\\WINDOWS\\Prefetch\\SYSOCMGR.EXE-31169C54.pf",
+            "C:\\WINDOWS\\Prefetch\\TOURSTART.EXE-0D0140ED.pf",
+            "C:\\WINDOWS\\Prefetch\\UPDATE.EXE-0F7D4DED.pf",
+            "C:\\WINDOWS\\Prefetch\\VBOXDRVINST.EXE-00EF57F5.pf",
+            "C:\\WINDOWS\\Prefetch\\VBOXDRVINST.EXE-01201E32.pf",
+            "C:\\WINDOWS\\Prefetch\\VBOXWINDOWSADDITIONS-X86.EXE-2A78026E.pf",
+            "C:\\WINDOWS\\Prefetch\\VBOXWINDOWSADDITIONS.EXE-13124D8E.pf",
+            "C:\\WINDOWS\\Prefetch\\VCREDIST_X86[1].EXE-19C0DD1E.pf",
+            "C:\\Windows\\system32",
+            "C:\\Users\\",
+            "C:\\Users\\<USER>\\",
+            "C:\\Users\\<USER>\\AppData\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\Adobe\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\Application Data\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\Google\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\History\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\Microsoft\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\Mozilla\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\Package Cache\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\pip\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\Programs\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temporary Internet Files\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\VirtualStore\\",
+            "C:\\Users\\<USER>\\AppData\\LocalLow\\",
+            "C:\\Users\\<USER>\\AppData\\LocalLow\\Adobe\\",
+            "C:\\Users\\<USER>\\AppData\\LocalLow\\Microsoft\\",
+            "C:\\Users\\<USER>\\AppData\\LocalLow\\Mozilla\\",
+            "C:\\Users\\<USER>\\AppData\\LocalLow\\Netopsystems\\",
+            "C:\\Users\\<USER>\\AppData\\LocalLow\\Sun\\",
+            "C:\\Users\\<USER>\\AppData\\Roaming\\",
+            "C:\\Users\\<USER>\\AppData\\Roaming\\Adobe\\",
+            "C:\\Users\\<USER>\\AppData\\Roaming\\Identities\\",
+            "C:\\Users\\<USER>\\AppData\\Roaming\\LibreOffice\\",
+            "C:\\Users\\<USER>\\AppData\\Roaming\\Media Center Programs\\",
+            "C:\\Users\\<USER>\\AppData\\Roaming\\Microsoft\\",
+            "C:\\Users\\<USER>\\AppData\\Roaming\\Mozilla\\",
+            "C:\\Users\\<USER>\\AppData\\Roaming\\Sun\\",
+            "C:\\Users\\<USER>\\Application Data\\",
+            "C:\\Users\\<USER>\\Contacts\\",
+            "C:\\Users\\<USER>\\Cookies\\",
+            "C:\\Users\\<USER>\\Desktop\\",
+            "C:\\Users\\<USER>\\Documents\\",
+            "C:\\Users\\<USER>\\Documents\\My Music\\",
+            "C:\\Users\\<USER>\\Documents\\My Pictures\\",
+            "C:\\Users\\<USER>\\Documents\\My Videos\\",
+            "C:\\Users\\<USER>\\Downloads\\",
+            "C:\\Users\\<USER>\\Downloads\\files\\",
+            "C:\\Users\\<USER>\\Downloads\\__pycache__\\",
+            "C:\\Users\\<USER>\\Favorites\\",
+            "C:\\Users\\<USER>\\Favorites\\Links\\",
+            "C:\\Users\\<USER>\\Favorites\\Links for United States\\",
+            "C:\\Users\\<USER>\\Favorites\\Microsoft Websites\\",
+            "C:\\Users\\<USER>\\Favorites\\MSN Websites\\",
+            "C:\\Users\\<USER>\\Favorites\\Windows Live\\",
+            "C:\\Users\\<USER>\\Links\\",
+            "C:\\Users\\<USER>\\Local Settings\\",
+            "C:\\Users\\<USER>\\Music\\",
+            "C:\\Users\\<USER>\\My Documents\\",
+            "C:\\Users\\<USER>\\NetHood\\",
+            "C:\\Users\\<USER>\\Pictures\\",
+            "C:\\Users\\<USER>\\PrintHood\\",
+            "C:\\Users\\<USER>\\Recent\\",
+            "C:\\Users\\<USER>\\Saved Games\\",
+            "C:\\Users\\<USER>\\Searches\\",
+            "C:\\Users\\<USER>\\SendTo\\",
+            "C:\\Users\\<USER>\\Start Menu\\",
+            "C:\\Users\\<USER>\\Templates\\",
+            "C:\\Users\\<USER>\\Videos\\",
+            "C:\\Users\\All Users\\",
+            "C:\\Users\\All Users\\Adobe\\",
+            "C:\\Users\\All Users\\Adobe\\Acrobat\\",
+            "C:\\Users\\All Users\\Adobe\\Acrobat\\9.0\\",
+            "C:\\Users\\All Users\\Adobe\\ARM\\",
+            "C:\\Users\\All Users\\Adobe\\ARM\\Reader_20.009.20063\\",
+            "C:\\Users\\All Users\\Adobe\\ARM\\Reader_20.009.20067\\",
+            "C:\\Users\\All Users\\Adobe\\ARM\\{291AA914-A987-4CE9-BD63-AC0A92D435E5}\\",
+            "C:\\Users\\All Users\\Adobe\\Setup\\",
+            "C:\\Users\\All Users\\Adobe\\Updater6\\",
+            "C:\\Users\\All Users\\Application Data\\",
+            "C:\\Users\\All Users\\Desktop\\",
+            "C:\\Users\\All Users\\Documents\\",
+            "C:\\Users\\All Users\\Favorites\\",
+            "C:\\Users\\All Users\\Microsoft\\",
+            "C:\\Users\\All Users\\Microsoft\\Assistance\\",
+            "C:\\Users\\All Users\\Microsoft\\Assistance\\Client\\",
+            "C:\\Users\\All Users\\Microsoft\\Crypto\\",
+            "C:\\Users\\All Users\\Microsoft\\Crypto\\DSS\\",
+            "C:\\Users\\All Users\\Microsoft\\Crypto\\Keys\\",
+            "C:\\Users\\All Users\\Microsoft\\Crypto\\RSA\\",
+            "C:\\Users\\All Users\\Microsoft\\Device Stage\\",
+            "C:\\Users\\All Users\\Microsoft\\Device Stage\\Device\\",
+            "C:\\Users\\All Users\\Microsoft\\Device Stage\\Task\\",
+            "C:\\Users\\All Users\\Microsoft\\DeviceSync\\",
+            "C:\\Users\\All Users\\Microsoft\\Diagnosis\\",
+            "C:\\Users\\All Users\\Microsoft\\Diagnosis\\AsimovUploader\\",
+            "C:\\Users\\All Users\\Microsoft\\Diagnosis\\DownloadedScenarios\\",
+            "C:\\Users\\All Users\\Microsoft\\Diagnosis\\DownloadedSettings\\",
+            "C:\\Users\\All Users\\Microsoft\\Diagnosis\\ETLLogs\\",
+            "C:\\Users\\All Users\\Microsoft\\Diagnosis\\LocalTraceStore\\",
+            "C:\\Users\\All Users\\Microsoft\\Diagnosis\\Sideload\\",
+            "C:\\Users\\All Users\\Microsoft\\Diagnosis\\SoftLanding\\",
+            "C:\\Users\\All Users\\Microsoft\\Diagnosis\\SoftLandingStage\\",
+            "C:\\Users\\All Users\\Microsoft\\DRM\\",
+            "C:\\Users\\All Users\\Microsoft\\DRM\\Server\\",
+            "C:\\Users\\All Users\\Microsoft\\eHome\\",
+            "C:\\Users\\All Users\\Microsoft\\eHome\\logs\\",
+            "C:\\Users\\All Users\\Microsoft\\IdentityCRL\\",
+            "C:\\Users\\All Users\\Adobe\\Setup\\{AC76BA86-7AD7-FFFF-7B44-AC0F074E4100}\\",
+            "C:\\Users\\All Users\\Application Data\\Adobe\\",
+            "C:\\Users\\All Users\\Application Data\\Adobe\\ARM\\",
+            "C:\\Users\\All Users\\Application Data\\Adobe\\Setup\\",
+            "C:\\Users\\All Users\\Application Data\\Application Data\\",
+            "C:\\Users\\All Users\\Application Data\\Application Data\\Adobe\\",
+            "C:\\Users\\All Users\\Application Data\\Application Data\\Application Data\\",
+            "C:\\Users\\All Users\\Application Data\\Application Data\\Desktop\\",
+            "C:\\Users\\All Users\\Application Data\\Application Data\\Documents\\",
+            "C:\\Users\\All Users\\Application Data\\Application Data\\Microsoft Help\\",
+            "C:\\Users\\All Users\\Application Data\\Application Data\\Microsoft OneDrive\\",
+            "C:\\Users\\All Users\\Application Data\\Application Data\\Microsoft\\",
+            "C:\\Users\\All Users\\Application Data\\Application Data\\Mozilla\\",
+            "C:\\Users\\All Users\\Application Data\\Application Data\\Oracle\\",
+            "C:\\Users\\All Users\\Application Data\\Application Data\\Package Cache\\",
+            "C:\\Users\\All Users\\Application Data\\Application Data\\Packages\\",
+            "C:\\Users\\All Users\\Application Data\\Application Data\\SoftwareDistribution\\",
+            "C:\\Users\\All Users\\Application Data\\Application Data\\Start Menu\\",
+            "C:\\Users\\All Users\\Application Data\\Application Data\\Templates\\",
+            "C:\\Users\\All Users\\Application Data\\Application Data\\USOPrivate\\",
+            "C:\\Users\\All Users\\Application Data\\Application Data\\USOShared\\",
+            "C:\\Users\\All Users\\Application Data\\Application Data\\WindowsHolographicDevices\\",
+            "C:\\Users\\All Users\\Application Data\\Application Data\\chocolatey\\",
+            "C:\\Users\\All Users\\Application Data\\Application Data\\regid.1991-06.com.microsoft\\",
+            "C:\\Users\\All Users\\Application Data\\Desktop\\",
+            "C:\\Users\\All Users\\Application Data\\Documents\\",
+            "C:\\Users\\All Users\\Application Data\\Documents\\My Music\\",
+            "C:\\Users\\All Users\\Application Data\\Documents\\My Pictures\\",
+            "C:\\Users\\All Users\\Application Data\\Documents\\My Videos\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft Help\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft OneDrive\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft OneDrive\\setup\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\AppV\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\Crypto\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\DRM\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\Device Stage\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\DeviceSync\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\Diagnosis\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\EdgeUpdate\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\IdentityCRL\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\MF\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\MapData\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\NetFramework\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\Network\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\OFFICE\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\Provisioning\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\Search\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\Settings\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\SmsRouter\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\Spectrum\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\Speech_OneCore\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\Storage Health\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\UEV\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\User Account Pictures\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\Vault\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\WDF\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\WinMSIPC\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\Windows Defender Advanced Threat Protection\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\Windows Defender\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\Windows NT\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\Windows Security Health\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\Windows\\",
+            "C:\\Users\\All Users\\Application Data\\Microsoft\\WwanSvc\\",
+            "C:\\Users\\All Users\\Application Data\\Mozilla\\",
+            "C:\\Users\\All Users\\Application Data\\Mozilla\\updates\\",
+            "C:\\Users\\All Users\\Application Data\\Oracle\\",
+            "C:\\Users\\All Users\\Application Data\\Oracle\\Java\\",
+            "C:\\Users\\All Users\\Application Data\\Package Cache\\",
+            "C:\\Users\\All Users\\Application Data\\Package Cache\\{010792BA-551A-3AC0-A7EF-0FAB4156C382}v12.0.40664\\",
+            "C:\\Users\\All Users\\Application Data\\Package Cache\\{042d26ef-3dbe-4c25-95d3-4c1b11b235a7}\\",
+            "C:\\Users\\All Users\\Application Data\\Package Cache\\{06F1FCFD-8F77-488A-A477-6CA8A783EDD7}v14.28.29910\\",
+            "C:\\Users\\All Users\\Application Data\\Package Cache\\{53CF6934-A98D-3D84-9146-FC4EDF3D5641}v12.0.40664\\",
+            "C:\\Users\\All Users\\Application Data\\Package Cache\\{53f1dc9d-ed94-4650-a079-129785ce7905}\\",
+            "C:\\Users\\All Users\\Application Data\\Package Cache\\{7F28EEFD-F6EF-4237-8FE5-FA055B2E1028}v3.9.7354.0\\",
+            "C:\\Users\\All Users\\Application Data\\Package Cache\\{DE015560-04E3-4915-8F99-5B29289E3998}v14.28.29910\\",
+            "C:\\Users\\All Users\\Application Data\\Packages\\",
+            "C:\\Users\\All Users\\Application Data\\Packages\\Microsoft.Windows.HolographicFirstRun_cw5n1h2txyewy\\",
+            "C:\\Users\\All Users\\Application Data\\Packages\\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\\",
+            "C:\\Users\\All Users\\Application Data\\SoftwareDistribution\\",
+            "C:\\Users\\All Users\\Application Data\\Start Menu\\",
+            "C:\\Users\\All Users\\Application Data\\Start Menu\\Programs\\",
+            "C:\\Users\\All Users\\Application Data\\Templates\\",
+            "C:\\Users\\All Users\\Application Data\\USOPrivate\\",
+            "C:\\Users\\All Users\\Application Data\\USOPrivate\\UpdateStore\\",
+            "C:\\Users\\All Users\\Application Data\\USOShared\\",
+            "C:\\Users\\All Users\\Application Data\\USOShared\\Logs\\",
+            "C:\\Users\\All Users\\Application Data\\WindowsHolographicDevices\\",
+            "C:\\Users\\All Users\\Application Data\\WindowsHolographicDevices\\SpatialStore\\",
+            "C:\\Users\\All Users\\Application Data\\chocolatey\\",
+            "C:\\Users\\All Users\\Application Data\\chocolatey\\.chocolatey\\",
+            "C:\\Users\\All Users\\Application Data\\chocolatey\\bin\\",
+            "C:\\Users\\All Users\\Application Data\\chocolatey\\config\\",
+            "C:\\Users\\All Users\\Application Data\\chocolatey\\extensions\\",
+            "C:\\Users\\All Users\\Application Data\\chocolatey\\helpers\\",
+            "C:\\Users\\All Users\\Application Data\\chocolatey\\lib-bad\\",
+            "C:\\Users\\All Users\\Application Data\\chocolatey\\lib\\",
+            "C:\\Users\\All Users\\Application Data\\chocolatey\\logs\\",
+            "C:\\Users\\All Users\\Application Data\\chocolatey\\redirects\\",
+            "C:\\Users\\All Users\\Application Data\\chocolatey\\tools\\",
+            "C:\\Users\\All Users\\Application Data\\regid.1991-06.com.microsoft\\",
+            "C:\\Users\\All Users\\Documents\\My Music\\",
+            "C:\\Users\\All Users\\Documents\\My Pictures\\",
+            "C:\\Users\\All Users\\Documents\\My Videos\\",
+            "C:\\Users\\All Users\\Microsoft Help\\",
+            "C:\\Users\\All Users\\Microsoft OneDrive\\",
+            "C:\\Users\\All Users\\Microsoft OneDrive\\setup\\",
+            "C:\\Users\\All Users\\Microsoft\\AppV\\",
+            "C:\\Users\\All Users\\Microsoft\\AppV\\Setup\\",
+            "C:\\Users\\All Users\\Microsoft\\Crypto\\PCPKSP\\",
+            "C:\\Users\\All Users\\Microsoft\\Crypto\\SystemKeys\\",
+            "C:\\Users\\All Users\\Microsoft\\Diagnosis\\CustomTraceProfiles\\",
+            "C:\\Users\\All Users\\Microsoft\\Diagnosis\\EventTranscript\\",
+            "C:\\Users\\All Users\\Microsoft\\Diagnosis\\FeedbackHub\\",
+            "C:\\Users\\All Users\\Microsoft\\Diagnosis\\OfflineSettings\\",
+            "C:\\Users\\All Users\\Microsoft\\Diagnosis\\Scripts\\",
+            "C:\\Users\\All Users\\Microsoft\\Diagnosis\\Siufloc\\",
+            "C:\\Users\\All Users\\Microsoft\\Diagnosis\\TenantStorage\\",
+            "C:\\Users\\All Users\\Microsoft\\Diagnosis\\WindowsAnalytics\\",
+            "C:\\Users\\All Users\\Microsoft\\EdgeUpdate\\",
+            "C:\\Users\\All Users\\Microsoft\\EdgeUpdate\\Log\\",
+            "C:\\Users\\All Users\\Microsoft\\IdentityCRL\\INT\\",
+            "C:\\Users\\All Users\\Microsoft\\IdentityCRL\\production\\",
+            "C:\\Users\\All Users\\Microsoft\\MF\\",
+            "C:\\Users\\All Users\\Microsoft\\MapData\\",
+            "C:\\Users\\All Users\\Microsoft\\NetFramework\\",
+            "C:\\Users\\All Users\\Microsoft\\NetFramework\\BreadcrumbStore\\",
+            "C:\\Users\\All Users\\Microsoft\\Network\\",
+            "C:\\Users\\All Users\\Microsoft\\Network\\Connections\\",
+            "C:\\Users\\All Users\\Microsoft\\Network\\Downloader\\",
+            "C:\\Users\\All Users\\Microsoft\\OFFICE\\",
+            "C:\\Users\\All Users\\Microsoft\\OFFICE\\Heartbeat\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\AssetCache\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\{18dcffd4-37d6-4bc6-87e0-4266fdbb8e49}\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\{1e05dd5d-a022-46c5-963c-b20de341170f}\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\{23cb517f-5073-4e96-a202-7fe6122a2271}\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\{268c43e1-aa2b-4036-86ef-8cda98a0c2fe}\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\{33d78dbc-3db7-4398-8533-000d7c02e5d1}\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\{3742e5e8-6d9d-473b-99a6-8ecc0f43548a}\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\{7a30a9be-737f-47a1-a541-6e7b0761ed19}\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\{8d196d7f-3eef-48ad-8bea-be749f12d3ad}\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\{8fb7d64e-70fc-4f9d-89ee-d486817534df}\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\{99b095d8-5959-4820-bea7-7448c8427b4e}\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\{9aec5bda-1e87-46b3-bb96-1a01c606555e}\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\{9df6a4ed-fc16-48bf-8b24-6e2ad2bfcfea}\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\{b0b9123d-7d7f-4c6b-9973-ceced46f2a09}\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\{bf56ce5a-946b-45b5-858a-1794eb0125e2}\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\{c5dc3753-b6c8-4057-b396-bf13d769311c}\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\{c8a326e4-f518-4f14-b543-97a57e1a975e}\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\{ee4aac98-c174-4941-82b1-d121e493e4fb}\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\{f11899f2-71ec-4621-9997-e17ae2f6eb26}\\",
+            "C:\\Users\\All Users\\Microsoft\\Provisioning\\{fc01e91f-914c-45af-9d7c-0b2e5fbedf62}\\",
+            "C:\\Users\\All Users\\Microsoft\\Search\\",
+            "C:\\Users\\All Users\\Microsoft\\Search\\Data\\",
+            "C:\\Users\\All Users\\Microsoft\\Settings\\",
+            "C:\\Users\\All Users\\Microsoft\\Settings\\Accounts\\",
+            "C:\\Users\\All Users\\Microsoft\\SmsRouter\\",
+            "C:\\Users\\All Users\\Microsoft\\SmsRouter\\MessageStore\\",
+            "C:\\Users\\All Users\\Microsoft\\Spectrum\\",
+            "C:\\Users\\All Users\\Microsoft\\Speech_OneCore\\",
+            "C:\\Users\\All Users\\Microsoft\\Speech_OneCore\\SR\\",
+            "C:\\Users\\All Users\\Microsoft\\Storage Health\\",
+            "C:\\Users\\All Users\\Microsoft\\UEV\\",
+            "C:\\Users\\All Users\\Microsoft\\UEV\\InboxTemplates\\",
+            "C:\\Users\\All Users\\Microsoft\\UEV\\Scripts\\",
+            "C:\\Users\\All Users\\Microsoft\\UEV\\Templates\\",
+            "C:\\Users\\All Users\\Microsoft\\User Account Pictures\\",
+            "C:\\Users\\All Users\\Microsoft\\Vault\\",
+            "C:\\Users\\All Users\\Microsoft\\Vault\\AC658CB4-9126-49BD-B877-31EEDAB3F204\\",
+            "C:\\Users\\All Users\\Microsoft\\WDF\\"
+        ],
+        "verdicts": [
+            "CLEAN"
+        ],
+        "files_copied": [
+            {
+                "source": "C:\\WINDOWS\\Temp\\sysman",
+                "destination": "C:\\WINDOWS\\Temp\\phqghu"
+            },
+            {
+                "source": "tlvc.nls",
+                "destination": "eyzuxyvn"
+            },
+            {
+                "source": "l_inti.nls",
+                "destination": "eyzuxyvnyn"
+            },
+            {
+                "source": "cspvt.dat",
+                "destination": "qthzsgizp"
+            },
+            {
+                "source": "wmmsvc.exe",
+                "destination": "qthzsgizpf"
+            },
+            {
+                "source": "wmmvsvc.exe",
+                "destination": "nhcwoannces"
+            },
+            {
+                "source": "igfxmmc.exe",
+                "destination": "nhcwoannces"
+            },
+            {
+                "source": "igfxcmm.exe",
+                "destination": "nhcwoannces"
+            },
+            {
+                "source": "C:\\WINDOWS\\Temp\\en-ES",
+                "destination": "C:\\WINDOWS\\Temp\\vraji"
+            },
+            {
+                "source": "C:\\WINDOWS\\Temp\\mpop",
+                "destination": "C:\\WINDOWS\\Temp\\izsj"
+            },
+            {
+                "source": "C:\\WINDOWS\\system32\\en-ES",
+                "destination": "C:\\WINDOWS\\system32\\uztbq"
+            },
+            {
+                "source": "C:\\WINDOWS\\system32\\mpop",
+                "destination": "C:\\WINDOWS\\system32\\jyam"
+            },
+            {
+                "source": "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\TMP2.tmp",
+                "destination": "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\iggeraqm"
+            },
+            {
+                "source": "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\TMP3.tmp",
+                "destination": "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\evmtunnf"
+            },
+            {
+                "source": "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\TMP4.tmp",
+                "destination": "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\uhfnxbis"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\ALG.EXE-0F138680.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\gqaqpljeeyhcsrdedlu"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\AMDOPTI.EXE-05A50C13.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\cfnnlmpjqfkqpaygyavhyyo"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\ASPNET_REGIIS.EXE-009D6E80.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\pauagncdhxuzccgmdxjpcfnhbudfp"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\ASPNET_REGIIS.EXE-057C90FA.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\doixbohruwxnzljwyesrjyyoxroee"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\AUTOCHK.EXE-2F8C59C3.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\doixbohruwxnzljwyesrjyy"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\AU_.EXE-05904C56.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\advmfhfehwabwtegumt"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\CLWIREG.EXE-1B256F54.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\myczaqsqgnkkrwmmgjpccxr"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\CMB_PB_LIVEUPDATE.EXE-261991FF.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\impwwjxdtnnygepwcqpmjjduwklbewsxm"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\CMD.EXE-087B4001.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\uhxbrskxseyhbhxuond"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\CONIME.EXE-13EEEA1A.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\resymlqlfebwypadkumxci"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\CPUINFO.EXE-1F8D494E.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\nsfvinnqsddswywnfknzjch"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\CSC.EXE-01730C27.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\znnadvakruobjadtkhj"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\CSRSS.EXE-12B63473.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\ocaxgogxeurpgjgdfokru"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\CTFMON.EXE-0E17969B.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\krnucielrtuddrcnbwstjm"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\CVTRES.EXE-2329DCD5.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\wluzxqyxqlemqujlntgcnt"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\DOTNETFX.EXE-07E0E6AC.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\wluzxqyxqlemqujlntgcntke"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\DOTNETFX35.EXE-33EAC255.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\tapwtswkdkhandnvjaheumdmel"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\DOTNETFX35SETUP.EXE-0EC0F63F.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\fuxiosjeuksjifubnxdnysucrtvcdvg"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\DOTNETFX40_FULL_X86_X64.EXE-06590BE8.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\ygxdfnmxtjxlcwtueunzvxhscnrbijgpsfuocnr"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\DSTART.EXE-1B4F491E.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\ksfhawzrsaaupzaarrbhzl"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\EXPLORER.EXE-082F38A9.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\venczqcsszfwkyzmigkuvqdx"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\EXTENSIONMANAGER.EXE-12F3E92D.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\enieqsvreqttujkcikhegpwwdlsolbcg"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\IE4UINIT.EXE-169A5A39.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\jtpdcnledhjmjcqcleergaab"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\IMEUTIL.EXE-18582FBD.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\grfcxqjycxzyqwxtpqcmgte"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\INSTALL.EXE-067BC318.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\smnosrwkbwkhdzeztmyukad"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\INSTALL.EXE-0E610F4E.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\pbalnstyownvbhhjpuzwrlo"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\INSTASM.EXE-1F7813C9.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\bviqitosfnxevkphbrnfvzn"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\INSTTXSSO.EXE-36E51D15.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\bviqitosfnxevkphbrnfvznwy"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\LODCTR.EXE-1009C3B4.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xkvneumfsnaslskrxyvhck"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\LOGONUI.EXE-0AF22957.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\gtxpvweeeeopddvhwksavkr"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\LSASS.EXE-20DB6D1B.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\gtxpvweeeeopddvhwksav"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\MOFCOMP.EXE-01718E95.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\rfxjurhfddtzxuuaozcerpx"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\MSCORSVW.EXE-1366B4F5.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\dzfopsurcueakxbgawqmvvwq"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\MSCORSVW.EXE-1BF30400.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\zoslktsepuhwhfxiweqwcohp"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\MSIEXEC.EXE-2F8A8CAE.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\ixvvbvkmbkutrqiywinhnoa"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NGEN.EXE-1F9EA69F.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\emisxoqzokxhpzlirywj"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NGEN.EXE-38021CCC.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\rhqxaxdlnbhqkbsoduks"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NHELPER.EXE-3874C0E5.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\fwduvyayajkfhkoyzclunze"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\PBINSTALL.EXE-083FE3B4.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\fwduvyayajkfhkoyzclunzebb"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\PBSETUP60.EXE-22B8A5B0.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\ofxwmatyeaycrvzfhginyyoze"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\PERFORMANCECOUNTERINSTALLER.E-334D54EC.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\ofxwmatyeaycrvzfhginyyozeifunajwyitiqliuw"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\PERSONALBANKPORTAL.EXE-31DF9F7A.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\kcstitzlrzaqomupdoqpnsihafqtclnrcj"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\PING.EXE-31216D26.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\wwsydclfqrlzbgbvhkex"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\PINYINUP.EXE-1785D6E7.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\tlnvyvjtdqonyxffcsfzyrsf"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\PRINTFILTERPIPELINESVC.EXE-0F2B9E77.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\tlnvyvjtdqonyxffcsfzyrsfckcjnowtuwfoxb"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\PRINTFILTERPIPELINESVC.EXE-27257D2B.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\buixxxcsphbkqiqnkecksjddmpghqrfvmilacc"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\PYTHONW.EXE-176EB6AA.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\buixxxcsphbkqiqnkecksjd"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\QQ2011_12131.EXE-32881B56.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\qjvutyhfcheyoqlxgmluzcwljerg"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\QQPCDETECTOR.EXE-2255687E.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\myirosftoghudzphctlwovisxacg"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\QQSETUPEX.EXE-1E80B8C0.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\vplbfuxsaxurvkrxcyipzvari"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\REGEDIT.EXE-1B606482.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\hcsfackmzofaimzcouwpdbz"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\REGSVCS.EXE-11A17120.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\eyfdwwqzmoiofvcejkfzknl"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\REGSVR32.EXE-25EEFE2F.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\ansarxnnzvkcceyofrgbzgew"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\REGTLIBV12.EXE-0E2FA54B.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\ansarxnnzvkcceyofrgbzgewgz"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\REGTLIBV12.EXE-35B5D8AD.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\miaeuyazynvlpgfujoukdmdnuh"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-147710F4.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\bwncqzgmlmyzmpiefwcmkfpv"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-150DDA3A.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xlizmsdaymbnkxeobddwrrjc"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-169CA248.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\jgqdhbylpdlxeatunazfvfzt"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-18EB6A95.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\gudbcuwzcdolcipeiiahkqta"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-1E478A55.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\spknxdjtbuzuplwcveopoxsz"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-210D08A7.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\spknxdjtbuzuplwcveopoxsz"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-2576181F.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\lalapxmubtewjcvvmbxckjxg"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-2AF77CC9.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\lalapxmubtewjcvvmbxckjxg"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-2F8D0DD5.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\lknjnzetnkkbtnglmgumvjim"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-32C9186A.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\izahjscgakmpqebvindocubm"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-3BF7D301.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\utilebxsybxylyjtukrxgaal"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-3F78FFDD.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\utilebxsybxylyjtukrxgaal"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-451FC2C0.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\rivizuuglaamipmdprszvums"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-45736D66.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\dcdnudhzkslvvjtjuooizalj"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-470F11BD.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\zrqkqwnnxznjsaptpeosgteq"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-49520AE6.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\zrqkqwnnxznjsaptpeosgteq"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-49F747DB.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\wolhmylakzqxqiscllxuvfqy"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-4AF321B7.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\ibsmpgfmbqbgdlaaxilcrtpp"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNONCE.EXE-2803F297.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\wxfjkzdaoqduatdktqmegei"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SCDREG.EXE-221EFFA6.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\wxfjkzdaoqduatdktqmege"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SCHTASKS.EXE-0CBF6A11.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\tmsggtjnbpgixczuoxvonxue"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SERVICEMODELREG.EXE-1FB5DD06.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\fhatbbwzahrrkegatujpretuicbbiid"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SERVICEMODELREG.EXE-3848AC09.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\fhatbbwzahrrkegatujpretuicbbiid"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SERVICES.EXE-2F433351.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\nqvvsdogmyepcprqbyfikddt"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SETUP.EXE-0A9C974A.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\nqvvsdogmyepcprqbyfik"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SETUP.EXE-1109AB5A.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\gtdpjyjhmxkzwhqcsvpug"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SETUP.EXE-14AD0595.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\gtdpjyjhmxkzwhqcsvpug"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SETUP.EXE-22884BB0.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\gtdpjyjhmxkzwhqcsvpug"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SETUP.EXE-2CF30269.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\tolumhetlovajjxiesduc"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SETUP50.EXE-362FF7C9.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\hlyriacgyoxwhstrazmfrib"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SGTOOL.EXE-09C7690C.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\ezlodbhulnakeawbvhmhyb"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SHMGRATE.EXE-1BA69E68.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\qustycugkeltrddhaeapdhle"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SKINREG.EXE-2A6E515B.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\qustycugkeltrddhaeapdhl"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SMSS.EXE-22F38377.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\qustycugkeltrddhaeap"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SOGOUFLASH.EXE-07089697.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\mjnqudstwmoholhrvljrssfmer"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SOGOU_PINYIN_61_5909.EXE-1C771D47.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\vsislfkaidbegwkzdygkdsqkgwpjlcrnkrdp"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SOHUNEWS.EXE-1544A797.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\rhvpgyqovcesdfnjzfhmkljs"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SPOOLSV.EXE-282F76A7.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\dbdcjhdamuobqhupdcvvosa"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SPUPDSVC.EXE-21B36524.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\sqqzfaanztrpnqqzzjdxdluq"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\START-UNINST.EXE-32C3DB25.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\sqqzfaanztrpnqqzzjdxdluqnyeg"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\STOREPWD.EXE-1CA25FA1.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\onlwbbgbmtudlhtiurehkwnx"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SVCHOST.EXE-3530F672.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\ahlbvctnlkfmxbbghoahole"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\TASKMGR.EXE-20256C55.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xwgyrdyaykhavswqcvbrdwy"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\TENCENTDL.EXE-290BCB72.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xwgyrdyaykhavswqcvbrdwyvm"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\TENCENTDL.EXE-2E7633A7.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\jrndmeluxbskqmmwhspahcxuz"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\TPAUTOCONNSVC.EXE-19F171C6.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\jrndmeluxbskqmmwhspahcxuzautz"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\TPVCGATEWAY.EXE-120287EA.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\gfaaifjhkbvyndhgchycovicoxf"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\TXPLATFORM.EXE-02501CC3.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\cunxdzovxayuclkqypyevpcjku"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\TXSSOSETUP.EXE-2DFA9150.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\opvcghbhwridxoswkmunzvbayc"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\UNLODCTR.EXE-37313252.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\deizcbhujrlruwnygtvxogmh"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\UNREGMP2.EXE-07CACB61.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\zadwycfhwyofrfribbezvagp"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\UNZIP.EXE-067B761F.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\lnljtdrtvqyoehynoyshz"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\UPDATE.EXE-2ACBF640.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\ikygoexhipbcbquxjftkoz"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\UPDATE.EXE-3AAFD7A7.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\ikygoexhipbcbquxjftkoz"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\UPGRADER.EXE-1A1DEF8F.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\qtthfgqolgpzmbenjrpuzzjl"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\USERINIT.EXE-30B18140.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\nigfbznbygrnjjaxfzyegkut"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\USERPAGE.EXE-2E7283AA.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\zcnjeianxxcwempvrwmnkqtk"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\VCREDIST_X86.EXE-38EF0380.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\nrigzjgbkxfkbvlfndnpzknrurls"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\VCREDIST_X86_2005.EXE-0A058C17.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\nrigzjgbkxfkbvlfndnpzknrurlsrngaa"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\VCREDIST_X86_2008_SP1.EXE-37614F25.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\wadiqlyawoshlgvvnhkakjxpewxqcqqcsamei"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\VCREDI~3.EXE-1155EE72.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\txqfmewojnvdioreipskrdjx"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\VERCLSID.EXE-3667BD89.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\txqfmewojnvdioreipskrdjx"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\VMACTHLP.EXE-0790714A.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\fkykhnjhifgevrycvugkvjio"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\VMTOOLSD.EXE-2376BC03.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\bglhcgovveiaszcmqbhukubv"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\VMUPGRADEHELPER.EXE-30FFD2EA.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\bglhcgovveiaszcmqbhukubvdqmfdfc"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\VMWARETRAY.EXE-029F476F.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\bglhcgovveiaszcmqbhukubvdq"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\VMWAREUSER.EXE-1F72BBE4.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\yvgeyhmiiedppixwmjqwrnndan"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\WFSERVICESREG.EXE-063492A2.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\yvgeyhmiiedppixwmjqwrnndanxns"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\WINDOWSXP-KB2412687-X86-CHS.E-11CD97A6.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\kqorbizuhdoykkfcqgefvumtfvqdgimagaefciovq"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\WINLOGON.EXE-32C57D49.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\yeboxjeiucrmibimmnnpkngb"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\WMIADAP.EXE-2DF425B2.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\vtolsdcvhctaxjdwhvnrrgr"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\WMIPRVSE.EXE-28F301A9.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\hovqnlxhgtejsmtcurbavnqz"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\WUAUCLT.EXE-399A8E72.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\hovqnlxhgtejsmtcurbavnq"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\XPSEPSC-X86-EN-US.EXE-13367E24.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\dcinjfuutthxpuoepzkccykhblzavhurf"
+            },
+            {
+                "source": "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\TMP5.tmp",
+                "destination": "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\dpfsegrl"
+            },
+            {
+                "source": "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\TMP6.tmp",
+                "destination": "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\btxehumq"
+            },
+            {
+                "source": "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\TMP7.tmp",
+                "destination": "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\ktcvbetz"
+            },
+            {
+                "source": "C:\\WINDOWS\\system32\\wmmsvc.exe",
+                "destination": "C:\\WINDOWS\\system32\\qthzsgizpf"
+            },
+            {
+                "source": "C:\\WINDOWS\\system32\\wmmvsvc.exe",
+                "destination": "C:\\WINDOWS\\system32\\nhcwoannces"
+            },
+            {
+                "source": "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP2.tmp",
+                "destination": "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\iggeraqm"
+            },
+            {
+                "source": "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP3.tmp",
+                "destination": "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\evmtunnf"
+            },
+            {
+                "source": "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP4.tmp",
+                "destination": "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\uhfnxbis"
+            },
+            {
+                "source": "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP5.tmp",
+                "destination": "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\dpfsegrl"
+            },
+            {
+                "source": "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP6.tmp",
+                "destination": "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\btxehumq"
+            },
+            {
+                "source": "C:\\Documents and Settings\\Administrator\\Local Settings\\Temp\\TMP7.tmp",
+                "destination": "C:\\DOCUME~1\\ADMINI~1\\LOCALS~1\\Temp\\ktcvbetz"
+            },
+            {
+                "source": "tlvc.nls",
+                "destination": "phdbqcgh"
+            },
+            {
+                "source": "l_inti.nls",
+                "destination": "phdbqcghfs"
+            },
+            {
+                "source": "cspvt.dat",
+                "destination": "phdbqcghf"
+            },
+            {
+                "source": "wmmsvc.exe",
+                "destination": "phdbqcghfs"
+            },
+            {
+                "source": "wmmvsvc.exe",
+                "destination": "phdbqcghfsg"
+            },
+            {
+                "source": "igfxmmc.exe",
+                "destination": "phdbqcghfsg"
+            },
+            {
+                "source": "igfxcmm.exe",
+                "destination": "phdbqcghfsg"
+            },
+            {
+                "source": "C:\\WINDOWS\\Temp\\en-ES",
+                "destination": "C:\\WINDOWS\\Temp\\dxbdw"
+            },
+            {
+                "source": "C:\\WINDOWS\\Temp\\mpop",
+                "destination": "C:\\WINDOWS\\Temp\\mmpm"
+            },
+            {
+                "source": "C:\\WINDOWS\\system32\\en-ES",
+                "destination": "C:\\WINDOWS\\system32\\mcukn"
+            },
+            {
+                "source": "C:\\WINDOWS\\system32\\mpop",
+                "destination": "C:\\WINDOWS\\system32\\ngtz"
+            },
+            {
+                "source": "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\TMP1.tmp",
+                "destination": "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\nlminiqm"
+            },
+            {
+                "source": "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\TMP2.tmp",
+                "destination": "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\zjgwvowp"
+            },
+            {
+                "source": "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\TMP3.tmp",
+                "destination": "C:\\DOCUME~1\\<USER>~1\\LOCALS~1\\Temp\\ocdjthey"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\AGENTSVR.EXE-002E45AB.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xvslvhpmqnqaxqynclhybsdm"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\ALG.EXE-0F138680.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xvslvhpmqnqaxqynclh"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\ANTISHUTDOWN[1].EXE-066371BA.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xvslvhpmqnqaxqynclhybsdmliablre"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\ASPNET_REGIIS.EXE-009D6E80.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xvslvhpmqnqaxqynclhybsdmliabl"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\CMD.EXE-087B4001.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xvslvhpmqnqaxqynclh"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\CONTROL.EXE-013DBFB5.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xvslvhpmqnqaxqynclhybsd"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\CSC.EXE-01730C27.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xvslvhpmqnqaxqynclh"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\CSRSS.EXE-12B63473.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xvslvhpmqnqaxqynclhyb"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\CVTRES.EXE-2329DCD5.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\zvjqvbagppovayprwpuhsc"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\DOTNETFX35SETUP[1].EXE-11FB4362.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\bdiwuweiosnylnovykpysnttbnocoufque"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\EXPLORER.EXE-082F38A9.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\vcictqpkovltxvnztnjhjfab"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\GRPCONV.EXE-111CD845.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xkzatlamnyknidevnieyapi"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\IE4UINIT.EXE-169A5A39.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xkzatlamnyknidevnieyapib"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\IEXPLORE.EXE-27122324.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\zkyfkflnmbiitkdzplzhahij"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\INSTALL.EXE-267E4143.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\zkyfkflnmbiitkdzplzhahi"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\LODCTR.EXE-1009C3B4.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\zkyfkflnmbiitkdzplzhah"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\LOGON.SCR-151EFAEA.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\zkyfkflnmbiitkdzplzha"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\LOGONUI.EXE-0AF22957.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\zkyfkflnmbiitkdzplzhahi"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\LSASS.EXE-20DB6D1B.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\zkyfkflnmbiitkdzplzha"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\MOFCOMP.EXE-01718E95.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\vroriuirdpfgqibhmkghjky"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\MSCORSVW.EXE-1BF30400.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\vroriuirdpfgqibhmkghjkyq"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\MSIEXEC.EXE-2F8A8CAE.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xznxipttcseabpslgfbyaug"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\MSOOBE.EXE-30411B02.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xznxipttcseabpslgfbyau"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NGEN.EXE-38021CCC.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xznxipttcseabpslgfby"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NOTEPAD.EXE-336351A9.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xznxipttcseabpslgfbyaug"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NS10.TMP-2A88B589.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xznxipttcseabpslgfby"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NS11A.TMP-32FF42BE.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xznxipttcseabpslgfbya"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NS11B.TMP-1BFF9AF4.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\zhmchjevbvcvmxrpaawhz"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NS123.TMP-2CB0B36E.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\zhmchjevbvcvmxrpaawhz"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NS12A.TMP-034D566D.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\zhmchjevbvcvmxrpaawhz"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NS130.TMP-07CF8D65.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\zhmchjevbvcvmxrpaawhz"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NS131.TMP-0600519E.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\tgeiyeqxbybyxeplcdqyr"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NS132.TMP-0D63C20D.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\tgeiyeqxbybyxeplcdqyr"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NS133.TMP-2C67CC33.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\vodgyytzabztjugpxylii"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NS134.TMP-2297117F.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\vodgyytzabztjugpxylii"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NS135.TMP-17347CC1.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\vodgyytzabztjugpxylii"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NS17.TMP-28754C78.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\vodgyytzabztjugpxyli"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NS1D.TMP-3242D0DD.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\vodgyytzabztjugpxyli"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NS1E.TMP-0788BD63.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\vodgyytzabztjugpxyli"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NS1F.TMP-05B9819C.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\vodgyytzabztjugpxyli"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NS20.TMP-3671933F.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\vodgyytzabztjugpxyli"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NS21.TMP-188D4A73.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xocmxtebzeyoucftrcyz"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NS22.TMP-213E43CD.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xocmxtebzeyoucftrcyz"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NS5.TMP-38D4CBED.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\xocmxtebzeyoucftrcy"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NS7.TMP-23A17C7B.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\zwtrwnpdzhwifjewtxs"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\NTOSBOOT-B00DFAAD.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\tvsxvibfqkvdrrvananz"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\PERFORMANCECOUNTERINSTALLER.E-334D54EC.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\tvsxvibfqkvdrrvananzqcuugrskkxsakhryrfbfm"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\PIL-1.1.7.WIN32-PY2.7.EXE-0862EB69.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\tvsxvibfqkvdrrvananzqcuugrskkxsakhryr"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\PRESENTATIONFONTCACHE.EXE-1706C4D2.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\tvsxvibfqkvdrrvananzqcuugrskkxsakhryr"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\PRINTFILTERPIPELINESVC.EXE-0F2B9E77.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\wdrdncmgpntgchuwqviqimcuslzxzubwxahhlt"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\REG.EXE-0D2A95F7.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\ydijmfxipqrbnotakyc"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\REGEDIT.EXE-1B606482.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\ydijmfxipqrbnotakyczhwk"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\REGSVCS.EXE-11A17120.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\ydijmfxipqrbnotakyczhwk"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\REGSVR32.EXE-25EEFE2F.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\ydijmfxipqrbnotakyczhwkc"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\REGTLIBV12.EXE-0E2FA54B.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\ydijmfxipqrbnotakyczhwkcww"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-147710F4.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\ydijmfxipqrbnotakyczhwkc"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-155CD7BB.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\ydijmfxipqrbnotakyczhwkc"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-169CA248.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\skiglzikotqvywseeupqypsj"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-1831A4F3.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\skiglzikotqvywseeupqypsj"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-1BC69D2D.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\skiglzikotqvywseeupqypsj"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-2576181F.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\uszmluumnvoqkdjigpkzqzaj"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-2AF77CC9.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\uszmluumnvoqkdjigpkzqzaj"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-2C7B5C4A.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\uszmluumnvoqkdjigpkzqzaj"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-2CD85FD3.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\wsyskofonyftvlimbsfqhrar"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-2F26E69F.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\wsyskofonyftvlimbsfqhrar"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-37BEE96E.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\wsyskofonyftvlimbsfqhrar"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-4499C56E.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\wsyskofonyftvlimbsfqhrar"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-451FC2C0.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\yaxybjqqmbdogbhivnzzhbir"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNDLL32.EXE-49F747DB.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\yaxybjqqmbdogbhivnzzhbir"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\RUNONCE.EXE-2803F297.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\yaxybjqqmbdogbhivnzzhbi"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SC.EXE-012262AF.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\yaxybjqqmbdogbhivn"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SERVICEMODELREG.EXE-1FB5DD06.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\yaxybjqqmbdogbhivnzzhbirjgzfmiv"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SERVICES.EXE-2F433351.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\qodnynbybnxbrnuyokwzggog"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SETUP.EXE-0F560EE6.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\qodnynbybnxbrnuyokwzg"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SETUP50.EXE-362FF7C9.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\qodnynbybnxbrnuyokwzggo"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SHMGRATE.EXE-1BA69E68.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\qodnynbybnxbrnuyokwzggog"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SPOOLSV.EXE-282F76A7.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\uwcypcybatuqockykilzpjw"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SVCHOST.EXE-3530F672.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\uwcypcybatuqockykilzpjw"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\SYSOCMGR.EXE-31169C54.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\uwcypcybatuqockykilzpjwn"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\TOURSTART.EXE-0D0140ED.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\uwcypcybatuqockykilzpjwne"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\UNREGMP2.EXE-07CACB61.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\wwteoxjvzwttzkjbeegqotev"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\UPDATE.EXE-0F7D4DED.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\qdskoruxzhrokaafzhtzge"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\USERINIT.EXE-30B18140.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\vlivegjbpnodhpynvfizogck"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\VBOXDRVINST.EXE-00EF57F5.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\vlivegjbpnodhpynvfizogckrfp"
+            },
+            {
+                "source": "C:\\WINDOWS\\Prefetch\\VBOXDRVINST.EXE-01201E32.pf",
+                "destination": "C:\\WINDOWS\\Prefetch\\pshtebudpqmgsxxjxadroykkdyw"
+            },
+            {
+                "source": "C:\\Windows\\Temp\\sysman",
+                "destination": "C:\\Windows\\Temp\\phqghu"
+            },
+            {
+                "source": "tlvc.nls",
+                "destination": "vpouxrtv"
+            },
+            {
+                "source": "l_inti.nls",
+                "destination": "hjwzsaopwt"
+            },
+            {
+                "source": "cspvt.dat",
+                "destination": "hjwzsaopw"
+            },
+            {
+                "source": "C:\\Windows\\Temp\\MpSigStub.log",
+                "destination": "C:\\Windows\\Temp\\dfkdefnolrwoj"
+            },
+            {
+                "source": "C:\\Windows\\Temp\\DMI5A66.tmp",
+                "destination": "C:\\Windows\\Temp\\pzqygaynapj"
+            },
+            {
+                "source": "C:\\Windows\\Temp\\TS_5F9F.tmp",
+                "destination": "C:\\Windows\\Temp\\faxnnjecxny"
+            },
+            {
+                "source": "C:\\Windows\\Temp\\TS_660A.tmp",
+                "destination": "C:\\Windows\\Temp\\omwyigwergk"
+            },
+            {
+                "source": "C:\\Windows\\Temp\\TS_6F52.tmp",
+                "destination": "C:\\Windows\\Temp\\aydtjbhvgef"
+            },
+            {
+                "source": "C:\\Windows\\Temp\\TS_736A.tmp",
+                "destination": "C:\\Windows\\Temp\\ksidsfxjbap"
+            },
+            {
+                "source": "C:\\Windows\\Temp\\TS_7D5E.tmp",
+                "destination": "C:\\Windows\\Temp\\lepoevqlutb"
+            },
+            {
+                "source": "C:\\Windows\\Temp\\TS_81B4.tmp",
+                "destination": "C:\\Windows\\Temp\\wyoroqbbksw"
+            },
+            {
+                "source": "C:\\Windows\\Temp\\TS_8540.tmp",
+                "destination": "C:\\Windows\\Temp\\ikulpllshij"
+            },
+            {
+                "source": "C:\\Windows\\Temp\\TS_884E.tmp",
+                "destination": "C:\\Windows\\Temp\\wduriwztaix"
+            },
+            {
+                "source": "C:\\Windows\\Temp\\TS_AB86.tmp",
+                "destination": "C:\\Windows\\Temp\\dqarkdpkqzq"
+            },
+            {
+                "source": "C:\\Windows\\Temp\\TS_B5B9.tmp",
+                "destination": "C:\\Windows\\Temp\\pkgmlqijgxl"
+            },
+            {
+                "source": "C:\\Windows\\Temp\\TS_CC94.tmp",
+                "destination": "C:\\Windows\\Temp\\mptcogdqbmb"
+            },
+            {
+                "source": "C:\\Windows\\Temp\\TS_D0DB.tmp",
+                "destination": "C:\\Windows\\Temp\\yjawpbooqkw"
+            },
+            {
+                "source": "wmmsvc.exe",
+                "destination": "irkzhbtkeu"
+            },
+            {
+                "source": "wmmvsvc.exe",
+                "destination": "irkzhbtkeul"
+            },
+            {
+                "source": "C:\\Windows\\Temp\\en-ES",
+                "destination": "C:\\Windows\\Temp\\dqtmt"
+            },
+            {
+                "source": "C:\\Windows\\Temp\\mpop",
+                "destination": "C:\\Windows\\Temp\\zqnr"
+            },
+            {
+                "source": "C:\\Windows\\system32\\en-ES",
+                "destination": "C:\\Windows\\system32\\okhtc"
+            },
+            {
+                "source": "C:\\Windows\\system32\\mpop",
+                "destination": "C:\\Windows\\system32\\bjln"
+            },
+            {
+                "source": "C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP6DC3.tmp",
+                "destination": "C:\\Users\\<USER>\\AppData\\Local\\Temp\\bkovfkflyjs"
+            },
+            {
+                "source": "C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP74AA.tmp",
+                "destination": "C:\\Users\\<USER>\\AppData\\Local\\Temp\\xzaygeprfox"
+            },
+            {
+                "source": "C:\\Users\\<USER>\\AppData\\Local\\Temp\\TMP7C1D.tmp",
+                "destination": "C:\\Users\\<USER>\\AppData\\Local\\Temp\\seuyqxlsfzg"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\17A02C73-A53F-4F8C-B5D2-5F106-B3BAB255.pf",
+                "destination": "C:\\Windows\\Prefetch\\kzkxuotytdgqvpzwhnitqcwyukxfbnqqqwoyupnlx"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\ACRORD32.EXE-96B65281.pf",
+                "destination": "C:\\Windows\\Prefetch\\kmqxwvjqjuhwotyvufcmnoyd"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\ACRORD32.EXE-ACF2947D.pf",
+                "destination": "C:\\Windows\\Prefetch\\vyxsxqcghsubwknzuugdhuhp"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\ADBERDR80_DLM_ES_ES.EXE-8BA1E1AF.pf",
+                "destination": "C:\\Windows\\Prefetch\\hsdmylnfwqpxnckumstbcjxixfeytcnbhyo"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\ADBERDR80_ES_ES.EXE-F0271E6B.pf",
+                "destination": "C:\\Windows\\Prefetch\\ofbnbkdwmhqdxgathkmuzvsoizcsmyh"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\ADBERDR90_ES_ES.EXE-A59ABA38.pf",
+                "destination": "C:\\Windows\\Prefetch\\mkocdahlzvgnwomaapdbhqrtbscqmkk"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\ADMINSTALLER.EXE-6001AD86.pf",
+                "destination": "C:\\Windows\\Prefetch\\jlhaiwasdipvnbxyftnjtxtdegjb"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\ADOBEDOWNLOADMANAGER.EXE-2ACC4A1E.pf",
+                "destination": "C:\\Windows\\Prefetch\\iqnakvqjtzqaggvxslhcqjnjpiiewvbszxsj"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\ADOBE_UPDATER.EXE-422B2046.pf",
+                "destination": "C:\\Windows\\Prefetch\\hclbecobbqrorkuwnlbdmvhwzcpyx"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\AgAppLaunch.db",
+                "destination": "C:\\Windows\\Prefetch\\twsvfwzrzomlhb"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\AgCx_SC4.db",
+                "destination": "C:\\Windows\\Prefetch\\fiyqprkqwmh"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\AgGlFaultHistory.db",
+                "destination": "C:\\Windows\\Prefetch\\eveqjyihfdiwixfctpl"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\AgGlFgAppHistory.db",
+                "destination": "C:\\Windows\\Prefetch\\nhdceobbywugnoitaui"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\AgGlGlobalHistory.db",
+                "destination": "C:\\Windows\\Prefetch\\mujcguztonwlgsganlca"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\AgGlUAD_P_S-1-5-21-3711686801-687107597-1149503783-1001.db",
+                "destination": "C:\\Windows\\Prefetch\\inbpkaqxoytxdkexgdjewarkshsrbljspuvyodfolpmatpvrpyysqndpel"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\AgGlUAD_S-1-5-21-3711686801-687107597-1149503783-1001.db",
+                "destination": "C:\\Windows\\Prefetch\\ofnphfmgnfwjgkcvgnoqpyfvndygujeigrcwncdkcfrivnzcsmyntiws"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\AgRobust.db",
+                "destination": "C:\\Windows\\Prefetch\\mxzqmlaptvy"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\ARMSVC.EXE-E7A9D6CF.pf",
+                "destination": "C:\\Windows\\Prefetch\\bynctllknytulkabznvmnw"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\ATTRIB.EXE-A990CB86.pf",
+                "destination": "C:\\Windows\\Prefetch\\xrminprdoradoxbwmplopu"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\AUDIODG.EXE-BDFD3029.pf",
+                "destination": "C:\\Windows\\Prefetch\\mkfygryhjmridxpsbvwdfav"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\CHROME.EXE-D999B1BA.pf",
+                "destination": "C:\\Windows\\Prefetch\\ydltimjfzkmntoewttitsp"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\CMD.EXE-4A81B364.pf",
+                "destination": "C:\\Windows\\Prefetch\\vxrxxfmsbnpfmfnveub"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\CONHOST.EXE-1F3E9D7E.pf",
+                "destination": "C:\\Windows\\Prefetch\\iqrdqrattgwgpkpzzwjggma"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\CONSENT.EXE-531BD9EA.pf",
+                "destination": "C:\\Windows\\Prefetch\\vjyjscfumycprxqumyyiikl"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\CSC.EXE-BE9AC2DF.pf",
+                "destination": "C:\\Windows\\Prefetch\\geetsgvihceqnbbyrjz"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\CSCRIPT.EXE-D1EF4768.pf",
+                "destination": "C:\\Windows\\Prefetch\\qpeonnqfvqjefgzxtsaegtj"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\CVTRES.EXE-2B9D810D.pf",
+                "destination": "C:\\Windows\\Prefetch\\fqktvftzxtfwgxzxebtgku"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\DEFRAG.EXE-588F90AD.pf",
+                "destination": "C:\\Windows\\Prefetch\\skjyorztpllwjkbazdjimr"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\DEVICEDISPLAYOBJECTPROVIDER.E-17410B90.pf",
+                "destination": "C:\\Windows\\Prefetch\\zopzryxsgcmktoazmucjjdzifuiedghcbbroivbbq"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\DEV_MAN.EXE-581980B1.pf",
+                "destination": "C:\\Windows\\Prefetch\\liwtsshjvahhkfxvmkhzesq"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\DISM.EXE-DE199F71.pf",
+                "destination": "C:\\Windows\\Prefetch\\zbvztevkwtnqmkyyzmwc"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\DLLHOST.EXE-5E46FA0D.pf",
+                "destination": "C:\\Windows\\Prefetch\\whiwvuqrjpdslbkxsznjvkb"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\DLLHOST.EXE-766398D2.pf",
+                "destination": "C:\\Windows\\Prefetch\\ibhrwhbpzoyxbszasprhqzk"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\DLLHOST.EXE-A8DE6D5B.pf",
+                "destination": "C:\\Windows\\Prefetch\\honszozhpezdmpyzfglandm"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\DLLHOST.EXE-ECB71776.pf",
+                "destination": "C:\\Windows\\Prefetch\\vhmxszmihxfdobzvzqadoap"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\DRVINST.EXE-4CB4314A.pf",
+                "destination": "C:\\Windows\\Prefetch\\qaudtlsbiymmrojymsifqya"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\EULA.EXE-548DCD5C.pf",
+                "destination": "C:\\Windows\\Prefetch\\smznupixvtnnnklusvrk"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\EXPLORER.EXE-254441E9.pf",
+                "destination": "C:\\Windows\\Prefetch\\zzfnxogolkotgoktfnlltqjw"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\EXPLORER.EXE-A80E4F97.pf",
+                "destination": "C:\\Windows\\Prefetch\\ltmiyjrfiijyoghwflpbowai"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\FIREFOX.EXE-18ACFCFF.pf",
+                "destination": "C:\\Windows\\Prefetch\\zmlnzvwgbbpzqsjasnedpul"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\FRIDA-WINJECTOR-HELPER-32.EXE-782D5A3B.pf",
+                "destination": "C:\\Windows\\Prefetch\\bzrfaznuwxzauotvyqfidzzneutxlubiwhpdmwgxd"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\FRIDA-WINJECTOR-HELPER-64.EXE-CF3022FC.pf",
+                "destination": "C:\\Windows\\Prefetch\\yrrvtbuxrsrfjphzneywmgfhtwztasjgbkxhqxoho"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\GCCHECK_SMALL.EXE-A2F80970.pf",
+                "destination": "C:\\Windows\\Prefetch\\nsxabuxklvmfcgiyyfshqoqysdtsy"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\GTCHECK.EXE-25EF5E05.pf",
+                "destination": "C:\\Windows\\Prefetch\\xexwwispzjslctgyawspjsz"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\IEXPLORE.EXE-4B6C9213.pf",
+                "destination": "C:\\Windows\\Prefetch\\ufdadbwcbmnlvkhxlflznske"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\IEXPLORE.EXE-908C99F8.pf",
+                "destination": "C:\\Windows\\Prefetch\\hycgfmbdumtlyxibyhtcxpvy"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\Layout.ini",
+                "destination": "C:\\Windows\\Prefetch\\tkjagzutsd"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\LODCTR.EXE-3CCE0534.pf",
+                "destination": "C:\\Windows\\Prefetch\\rywqippifzeamxrvqcwhzz"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\LOGONUI.EXE-09140401.pf",
+                "destination": "C:\\Windows\\Prefetch\\skvbcnikqsrcspuuygtmdua"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\MAKECAB.EXE-0F1704A4.pf",
+                "destination": "C:\\Windows\\Prefetch\\ewbwehtboqmhagryydxdyjj"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\MMC.EXE-53159585.pf",
+                "destination": "C:\\Windows\\Prefetch\\zpbbxtgcgjsqctttlfm"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\MMC.EXE-F39CDED6.pf",
+                "destination": "C:\\Windows\\Prefetch\\bjgtgxoqbftryxdxrin"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\MMC.EXE-F5DC4F82.pf",
+                "destination": "C:\\Windows\\Prefetch\\xonkczulnrubgtqztpa"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\MSCONFIG.EXE-3A52734E.pf",
+                "destination": "C:\\Windows\\Prefetch\\jitfdufbcphgwkfvlmepolau"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\MSCORSVW.EXE-57D17DAF.pf",
+                "destination": "C:\\Windows\\Prefetch\\gczjkmiweslypkouenyrstll"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\MSCORSVW.EXE-C3C515BD.pf",
+                "destination": "C:\\Windows\\Prefetch\\tvzpmyvpxkrhsoqyrpfutrwf"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\MSI4104.TMP-C53FAB99.pf",
+                "destination": "C:\\Windows\\Prefetch\\hoyufjiqplxivbrtlrvwdoz"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\MSIEB75.TMP-70A0FA8B.pf",
+                "destination": "C:\\Windows\\Prefetch\\tifpgetpnbsnltoxehznqvq"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\MSIEXEC.EXE-A2D55CB6.pf",
+                "destination": "C:\\Windows\\Prefetch\\fulkhzefkznktkdaeellljz"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\MSIEXEC.EXE-E09A077A.pf",
+                "destination": "C:\\Windows\\Prefetch\\ngkvcpwawtzuycozliiqxen"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\NET.EXE-DF44F913.pf",
+                "destination": "C:\\Windows\\Prefetch\\zzrqdkhytruzptdvmyn"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\NET1.EXE-849DA590.pf",
+                "destination": "C:\\Windows\\Prefetch\\qaqfltnnqobvufzvrljv"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\NGEN.EXE-AE594A6B.pf",
+                "destination": "C:\\Windows\\Prefetch\\mtqvevvrmkazrgnyyacj"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\NGEN.EXE-EC3F9239.pf",
+                "destination": "C:\\Windows\\Prefetch\\ymxqfqfqcivezxcuzqgz"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\NTOSBOOT-B00DFAAD.pf",
+                "destination": "C:\\Windows\\Prefetch\\ngdcnjjcdlreaolckzak"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\PfSvPerfStats.bin",
+                "destination": "C:\\Windows\\Prefetch\\imiiibmvmuyloxlwr"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\PING.EXE-7E94E73E.pf",
+                "destination": "C:\\Windows\\Prefetch\\vfiokfzwfveurknaeurh"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\PINGSENDER.EXE-FA6DEF73.pf",
+                "destination": "C:\\Windows\\Prefetch\\jyhtdrepynkvtxovzwgkujdooe"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\PYTHON.EXE-20B8215F.pf",
+                "destination": "C:\\Windows\\Prefetch\\gzvytjqkzqovmoxvkxamyk"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\PYTHONW.EXE-6429D3BA.pf",
+                "destination": "C:\\Windows\\Prefetch\\rlcsueabxpbscfmykvektyf"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\PYW.EXE-13AC8032.pf",
+                "destination": "C:\\Windows\\Prefetch\\geujnhielkafsgaurjx"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\RDRCEF.EXE-5852A8DE.pf",
+                "destination": "C:\\Windows\\Prefetch\\febynqgcqhpbfkwuxxtnvw"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\RDRSERVICESUPDATER.EXE-3D26E665.pf",
+                "destination": "C:\\Windows\\Prefetch\\uxuohsnflchgukkymletmconepztsgxyrf"
+            },
+            {
+                "source": "C:\\Windows\\Prefetch\\ReadyBoot\\Trace1.fx",
+                "destination": "C:\\Windows\\Prefetch\\ReadyBoot\\fqajinywb"
+            }
+        ],
+        "files_dropped": [
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Temp\\TMPEAAE.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WEREC73.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WEREC73.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERED3E.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERED3E.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERED6E.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERED6E.tmp.txt"
+            },
+            {
+                "path": "C:\\Windows\\System32\\spp\\store\\2.0\\data.dat.tmp"
+            },
+            {
+                "path": "C:\\Sysmon\\BB0B43500A8EE9E1FCFA0F0B24DF30A88722178F656B7EA528B09E5CCCB77689D1C4D5FE9369D061ACF7FF53F2E247B89D1A0AC38C316617CD0868D140B4436093087B0C00000000000000000000000000000000.tmp"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Temp\\TMPF0C9.tmp"
+            },
+            {
+                "path": "C:\\Sysmon\\1149837DF6935551DA59EB7695046BA13FCB8D9DF5F6C6AD98F0BD31C8B83B1B57CF11962C84571D5EE324FF849A55D4BAD8BE10EBF6FAE55BAA486C12061B349646EB0000000000000000000000000000000000.tmp"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Temp\\TMPF5CB.tmp"
+            },
+            {
+                "path": "C:\\Sysmon\\5C26DE3F6AEA686F907D61B082C3AC568AE178E0545A154BD283E409067042FBACCDDD9AB0C1EEE091CF3F9953EC5B74B97CA5549DB05477C3754A9F0EF59033DD68E14700000000000000000000000000000000.tmp"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Temp\\TMPFCE1.tmp"
+            },
+            {
+                "path": "C:\\Sysmon\\8CEC80263224BF8CBEA8F37662E0945BE5CA68871E70F196739EB7CB93A87CD230F3331512D6EBB4B8765895B956469EB4C3EDFDD8E8860C302850ACF1AEADA3B5233B7600000000000000000000000000000000.tmp"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Temp\\TMP157.tmp"
+            },
+            {
+                "path": "C:\\Sysmon\\06A087D9B54AD8D17E116F830F7D1CB5989DA4B00D56AA2A2A0BE1FA2079D0CEC92FD207A398DFC8C097CD3866EC8FC6FE58103E9228AA922335944FABF991721DD602CC00000000000000000000000000000000.tmp"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Temp\\TMP678.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERA8A.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERA8A.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERA8C.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERA8C.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERA9D.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERA9D.tmp.txt"
+            },
+            {
+                "path": "C:\\Sysmon\\0D9F90A19AC42D0718922E7B72C6A68CAF42F4EE01E0D637E18345EC1EB81AC7278E48B50494AFE3D25F0E2C01A232FA18D4B0B13C95B62C619BD2B0AE272DC50CCC60DD00000000000000000000000000000000.tmp"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Local\\Temp\\rmes.bat"
+            },
+            {
+                "path": "C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat"
+            },
+            {
+                "path": "C:\\Users\\<USER>\\AppData\\Local\\Temp\\rmes.bat",
+                "sha256": "3a6a5737997677e804935deadb45776e5fe353dc17ea43ac81563876d2b6b828"
+            },
+            {
+                "path": "C:\\Users\\user\\AppData\\Local\\Temp\\rmes.bat",
+                "sha256": "92fad56066f8c1b523728959fcc1aee2fe4ddf1166ca17ffcc63a4802c26eb30",
+                "type": "TEXT"
+            },
+            {
+                "path": "C:\\Windows\\Prefetch\\pvxgxzekvfvrhhacrgow (copy)",
+                "sha256": "006d45d026f8c5f1cf821d4fba7a27ca6a3cc8951d09636f53a3f4bb3b4ede70",
+                "type": "MPEG"
+            },
+            {
+                "path": "C:\\Windows\\prefetch\\AgGlGlobalHistory.db",
+                "sha256": "006d45d026f8c5f1cf821d4fba7a27ca6a3cc8951d09636f53a3f4bb3b4ede70",
+                "type": "MPEG"
+            }
+        ],
+        "registry_keys_opened": [
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\996E.exe",
+            "\\Registry\\MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\TransparentEnabled",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "\\REGISTRY\\MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\996E.exe\\RpcThreadPoolThrottle",
+            "\\REGISTRY\\MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Rpc",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\Apphelp.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ntdll.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\KERNEL32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\GDI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USER32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\Secur32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\RPCRT4.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ADVAPI32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\msvcrt.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WS2HELP.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\WS2_32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\SHLWAPI.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\PSAPI.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\winime32.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\IMM32.DLL",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\USP10.dll",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\LPK.DLL",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\AuthenticodeEnabled",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\LevelObjects",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\Levels",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths\\{dda3f824-d8cb-441b-834d-be2efd2c1a33}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths\\{dda3f824-d8cb-441b-834d-be2efd2c1a33}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths\\{dda3f824-d8cb-441b-834d-be2efd2c1a33}\\SaferFlags",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{349d35ab-37b5-462f-9b89-edd5fbde1328}\\SaferFlags",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{7fb9cd2e-3076-4df9-a57b-b813f72dbb91}\\SaferFlags",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{81d1fe15-dd9d-4762-b16d-7c29ddecae3f}\\SaferFlags",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{94e3e076-8f53-42a5-8411-085bcc18a68d}\\SaferFlags",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}\\ItemData",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}\\HashAlg",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}\\ItemSize",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes\\{dc971ee5-44eb-4fe4-ae2e-b91490411bfc}\\SaferFlags",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\UrlZones",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Paths",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Hashes",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\UrlZones",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Paths",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Hashes",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\UrlZones",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Paths",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Hashes",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\UrlZones",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Paths",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Hashes",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\0\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\4096\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\65536\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\131072\\UrlZones",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Paths",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\Hashes",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\262144\\UrlZones",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\DefaultLevel",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\PolicyScope",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Cache",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\\LogFileName",
+            "\\Registry\\MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\AppCertDlls",
+            "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\cmd.exe",
+            "\\REGISTRY\\USER\\S-1-5-21-1482476501-1645522239-1417001333-500\\Software\\Policies\\Microsoft\\Windows\\System",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Command Processor\\AutoRun",
+            "\\REGISTRY\\MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\cmd.exe\\RpcThreadPoolThrottle",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Svchost",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\AppModel\\Lookaside\\Packages",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DllNXOptions",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\cmd.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\program.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\rmes.bat",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\wevtutil.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\OLE",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\OLEAUT",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Svchost",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Run",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages\\en-US",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Nls\\CustomLocale",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Segment Heap",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Policies\\Microsoft\\Cryptography\\Configuration",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole\\FeatureDevelopmentProperties",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Disable8And16BitMitigation",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Wow64\\x86",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Wow64\\x86\\xtajit",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\OLE\\Tracing",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Rpc",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\SideBySide",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\MUI\\Settings",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows NT\\Rpc",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows\\Display",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\ComputerName\\ActiveComputerName",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\FileSystem\\",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FipsAlgorithmPolicy",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\Settings\\LanguageConfiguration",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\UILanguages",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\UILanguages\\PendingDelete",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\NLS\\Language",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\CustomLocale",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\ExtendedLocale",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Sorting\\Ids",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Sorting\\Versions",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\AppCertDlls",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Srp\\GP\\DLL",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Terminal Server",
+            "HKEY_LOCAL_MACHINE\\System\\Setup"
+        ],
+        "modules_loaded": [
+            "%SAMPLEPATH%\\6acfc28ba0b3ffbad46806aef99844bd03555061ba7f3062cf9a67f48d31f7e6.exe",
+            "rpcrt4.dll",
+            "advapi32.dll",
+            "ADVAPI32.dll"
+        ],
+        "ip_traffic": [
+            {
+                "destination_ip": "a83f:8110:0:0:1400:1400:2800:3800",
+                "destination_port": 53,
+                "transport_layer_protocol": "UDP"
+            },
+            {
+                "destination_ip": "20.99.133.109",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "<MACHINE_DNS_SERVER>",
+                "destination_port": 53,
+                "transport_layer_protocol": "UDP"
+            }
+        ],
+        "attack_techniques": {
+            "T1064": [
+                {
+                    "severity": "INFO",
+                    "description": "Executes batch files"
+                }
+            ],
+            "T1055": [
+                {
+                    "severity": "INFO",
+                    "description": "Spawns processes"
+                }
+            ],
+            "T1070.004": [
+                {
+                    "severity": "INFO",
+                    "description": "Deletes files inside the Windows folder"
+                }
+            ],
+            "T1057": [
+                {
+                    "severity": "INFO",
+                    "description": "Queries a list of all running processes"
+                }
+            ],
+            "T1083": [
+                {
+                    "severity": "INFO",
+                    "description": "Enumerates the file system"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Writes ini files"
+                }
+            ],
+            "T1082": [
+                {
+                    "severity": "INFO",
+                    "description": "Queries the volume information (name, serial number etc) of a device"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Reads software policies"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1443 @@
+{
+    "data": {
+        "files_dropped": [
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8FC8.tmp.WERInternalMetadata.xml",
+                "sha256": "58ACA517DA5B01D032C23259D85C26004840281C5BCB07E8A19DF0974BDAD213",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER90C3.tmp.xml",
+                "sha256": "6C798E06C18FA8F9ABAA538DCC84479EA3D584BCB7DF7580C04E7EC8F4B45E4E",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9110.tmp.WERInternalMetadata.xml",
+                "sha256": "81236B6DA53AA79E740FB096C586BDE53FFCF2986B3FD1AF5FDBA9DA58E384F8",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER920B.tmp.xml",
+                "sha256": "1909075FC2D84702167783E5E9AD89DB66762100B48CECC9B8E8F2A5DFDDB738",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9D25.tmp.WERInternalMetadata.xml",
+                "sha256": "A26F910A1A88DBBDE7574750B2C0403B75D97894CE7D90D99BF9958D01CABF85",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9E4F.tmp.xml",
+                "sha256": "FA944BAEA5A231CD7288CACAB6E656A5FAD8510E17F8B3CC1AA0362484F25825",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4CA3.tmp.WERInternalMetadata.xml",
+                "sha256": "046590609ccb0b0148f235126fe37f18dd41c93858257a8ae95f4516c6983ecb",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4E5A.tmp.xml",
+                "sha256": "8a789a442242ed2ee5f424900e21508018dbe849f1f5392a4914b36177db3826",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER509B.tmp.WERInternalMetadata.xml",
+                "sha256": "3b0bc3446498e411569bac0208a9dbf867a5bc98e739e70f4673bebe7ffc3b02",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER53B9.tmp.xml",
+                "sha256": "747de9a55c355335c3a1c513516ea9f3840c0bd42158942764d4dcf4d781a5b1",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER5E76.tmp.WERInternalMetadata.xml",
+                "sha256": "42208c0c61b2bc0013d01436326502189665b3b5648c5c17e1b8e91e2d167da3",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER5FA0.tmp.xml",
+                "sha256": "db2e9428e1410ba26c2d4c3172a50b056c44ddf9ba3aff03fabc0305ee4ed205",
+                "type": "XML"
+            }
+        ],
+        "verdict_confidence": 2,
+        "ja3_digests": [
+            "bd0bf25947d4a37404f0424edf4db9ad",
+            "ce5f3254611a8c095a3d821d44539877"
+        ],
+        "tags": [
+            "DETECT_DEBUG_ENVIRONMENT",
+            "LONG_SLEEPS"
+        ],
+        "files_written": [
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_rundll32.exe_att_89177ec4cb81da256da39c3392155a5105f7783_b7dd13ca_00c19554",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_rundll32.exe_att_89177ec4cb81da256da39c3392155a5105f7783_b7dd13ca_00c19554\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_rundll32.exe_att_89177ec4cb81da256da39c3392155a5105f7783_b7dd13ca_0d71946a",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_rundll32.exe_att_89177ec4cb81da256da39c3392155a5105f7783_b7dd13ca_0d71946a\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_rundll32.exe_att_89177ec4cb81da256da39c3392155a5105f7783_b7dd13ca_17f9a1c8",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_rundll32.exe_att_89177ec4cb81da256da39c3392155a5105f7783_b7dd13ca_17f9a1c8\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8C3C.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8C3C.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8E7E.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8E7E.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8FC8.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8FC8.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER90C3.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER90C3.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9110.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9110.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER920B.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER920B.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9B30.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9B30.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9D25.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9D25.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9E4F.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9E4F.tmp.xml",
+            "C:\\Users\\user\\AppData\\Local\\DBG",
+            "\\Device\\ConDrv\\\\Connect",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_ini_3ff512282236a9aca39fabea38ad8333df2e8d38_4e5ca135_17f071ce",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_ini_3ff512282236a9aca39fabea38ad8333df2e8d38_4e5ca135_17f071ce\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_ini_3ff512282236a9aca39fabea38ad8333df2e8d38_4e5ca135_187c673f",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_ini_3ff512282236a9aca39fabea38ad8333df2e8d38_4e5ca135_187c673f\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_ini_3ff512282236a9aca39fabea38ad8333df2e8d38_4e5ca135_18d05f30",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_ini_3ff512282236a9aca39fabea38ad8333df2e8d38_4e5ca135_18d05f30\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4976.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4976.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4AED.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4AED.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4CA3.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4CA3.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4E5A.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4E5A.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER509B.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER509B.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER53B9.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER53B9.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER5B87.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER5B87.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER5E76.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER5E76.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER5FA0.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER5FA0.tmp.xml"
+        ],
+        "ids_alerts": [
+            {
+                "rule_msg": "DELETED BAD TRAFFIC Non-Standard IP protocol",
+                "rule_category": "non-standard-protocol",
+                "rule_id": "1:1620",
+                "alert_severity": "medium",
+                "rule_source": "Snort registered user ruleset",
+                "alert_context": {
+                    "src_ip": "8.8.8.8",
+                    "src_port": 53
+                },
+                "rule_url": "https://www.snort.org/downloads/#rule-downloads",
+                "rule_raw": "alert ip $EXTERNAL_NET any -> $HOME_NET any ( msg:\"DELETED BAD TRAFFIC Non-Standard IP protocol\"; ip_proto:!1; ip_proto:!2; ip_proto:!47; ip_proto:!50; ip_proto:!51; ip_proto:!6; ip_proto:!89; classtype:non-standard-protocol; sid:1620; rev:6; )"
+            },
+            {
+                "rule_msg": "TAG_LOG_PKT",
+                "rule_category": "not-suspicious",
+                "rule_id": "2:1",
+                "alert_severity": "low",
+                "rule_source": "Snort registered user ruleset",
+                "alert_context": {
+                    "dest_ip": "40.88.32.150",
+                    "dest_port": 443
+                },
+                "rule_url": "https://www.snort.org/downloads/#rule-downloads",
+                "rule_raw": "alert ( gid:2; sid:1; rev:1; msg:\"TAG_LOG_PKT\"; metadata:rule-type preproc; classtype:not-suspicious; )"
+            },
+            {
+                "rule_msg": "MALWARE-CNC DNS Fast Flux attempt",
+                "rule_category": "trojan-activity",
+                "rule_id": "1:57756",
+                "alert_severity": "high",
+                "rule_source": "Snort registered user ruleset",
+                "alert_context": {
+                    "src_ip": "8.8.8.8",
+                    "src_port": 53
+                },
+                "rule_url": "https://www.snort.org/downloads/#rule-downloads",
+                "rule_references": [
+                    "https://attack.mitre.org/techniques/T1568/001/"
+                ],
+                "rule_raw": "alert udp $EXTERNAL_NET 53 -> $HOME_NET any ( msg:\"MALWARE-CNC DNS Fast Flux attempt\"; flow:to_client; content:\"|00 01|\",depth 2,offset 4; byte_test:2,>,1,0,relative; byte_test:1,=,1,2,bitmask 0x80; content:\"|00 01 00 01|\",distance 6; content:\"|00 01 00 01 00 00 00 05|\",distance 0; metadata:policy max-detect-ips drop; service:dns; reference:url,attack.mitre.org/techniques/T1568/001/; classtype:trojan-activity; sid:57756; rev:2; )"
+            },
+            {
+                "rule_msg": "DELETED SERVER-OTHER Microsoft Forefront Threat Management Gateway remote code execution attempt",
+                "rule_category": "attempted-admin",
+                "rule_id": "1:25313",
+                "alert_severity": "high",
+                "rule_source": "Snort registered user ruleset",
+                "alert_context": {
+                    "src_ip": "8.8.8.8",
+                    "src_port": 53
+                },
+                "rule_url": "https://www.snort.org/downloads/#rule-downloads",
+                "rule_references": [
+                    "https://cve.mitre.org/cgi-bin/cvename.cgi?name=2011-1889"
+                ],
+                "tags": [
+                    "cve-2011-1889"
+                ],
+                "rule_raw": "alert udp $EXTERNAL_NET 53 -> $HOME_NET any ( msg:\"DELETED SERVER-OTHER Microsoft Forefront Threat Management Gateway remote code execution attempt\"; flow:to_client; content:\"|80|\",depth 1,offset 3; content:\"|C0 0C 00 05 00 01|\"; isdataat:140; byte_test:2,<,2,0,relative; byte_test:2,<,2,2,relative; reference:cve,2011-1889; classtype:attempted-admin; sid:25313; rev:3; )"
+            }
+        ],
+        "mutexes_created": [
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\WERReportingForProcess6780",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\8677ceb3-e7a8-405d-ad61-77b91ae57bf4",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\WERReportingForProcess3360",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\d9b86e22-23e1-4b4b-920f-17f23953c5a5",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\WERReportingForProcess996",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\379a8d2d-31f4-4714-a6c0-3ba73d07d611",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\WERReportingForProcess5880",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\64ca2b35-bed6-4d3a-a85d-5be3a034f4db",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\WERReportingForProcess2620",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\2d6cdb8a-c717-4b8e-a7eb-257f5f5e717b",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\fc74c19a-5a66-4a0e-9e6e-c246052d009c",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\WERReportingForProcess1340",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\84032953-1bf1-470b-85cb-39963e5b05da",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\5c2d463a-275a-4f06-b557-991ec59f3ed2"
+        ],
+        "files_deleted": [
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER642C.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER645B.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER6585.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER65A6.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER71AD.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER71DD.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8C3C.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8C3C.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8E7E.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8E7E.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8FC8.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8FC8.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER90C3.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER90C3.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9110.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9110.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER920B.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER920B.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9B30.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9B30.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9D25.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9D25.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9E4F.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9E4F.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_15d3e27a",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_15d3e27a\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_166f34df",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_166f34df\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4976.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4976.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4AED.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4AED.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4CA3.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4CA3.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4E5A.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4E5A.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER509B.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER509B.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER53B9.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER53B9.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER5B87.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER5B87.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER5E76.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER5E76.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER5FA0.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER5FA0.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC0AA.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC0BA.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC39A.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC3AA.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCFA2.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCFB2.tmp.txt"
+        ],
+        "dns_lookups": [
+            {
+                "hostname": "login.live.com",
+                "resolved_ips": [
+                    "20.190.155.65",
+                    "20.190.155.66",
+                    "20.190.155.67",
+                    "20.190.155.132",
+                    "20.190.155.131",
+                    "20.190.155.16",
+                    "20.190.155.1",
+                    "20.190.155.3",
+                    "20.190.155.130"
+                ]
+            },
+            {
+                "hostname": "26.37.247.52.in-addr.arpa"
+            },
+            {
+                "hostname": "14.110.152.52.in-addr.arpa"
+            },
+            {
+                "hostname": "3.155.190.20.in-addr.arpa"
+            },
+            {
+                "hostname": "214.250.2.23.in-addr.arpa"
+            },
+            {
+                "hostname": "125.21.88.13.in-addr.arpa"
+            },
+            {
+                "hostname": "prda.aadg.msidentity.com"
+            },
+            {
+                "hostname": "137.90.64.13.in-addr.arpa"
+            },
+            {
+                "hostname": "16.155.190.20.in-addr.arpa"
+            },
+            {
+                "hostname": "48.193.43.104.in-addr.arpa"
+            }
+        ],
+        "mitre_attack_techniques": [
+            {
+                "id": "T1027",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "encode data using XOR",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "encode data using XOR"
+                    }
+                ]
+            },
+            {
+                "id": "T1057",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "enumerate processes",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "enumerate processes"
+                    }
+                ]
+            },
+            {
+                "id": "T1518",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "enumerate processes",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "enumerate processes"
+                    }
+                ]
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "get system information on Windows",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "get system information on Windows"
+                    }
+                ]
+            },
+            {
+                "id": "T1083",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "get file size",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "get file size"
+                    }
+                ]
+            },
+            {
+                "id": "T1007",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "query service status",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "query service status"
+                    }
+                ]
+            },
+            {
+                "id": "T1543.003",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "stop service",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "stop service"
+                    }
+                ]
+            },
+            {
+                "id": "T1489",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "stop service",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "stop service"
+                    }
+                ]
+            },
+            {
+                "id": "T1129",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "parse PE header",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "parse PE header"
+                    }
+                ]
+            },
+            {
+                "id": "T1027",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "encrypt data using RC4 PRGA",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "encrypt data using RC4 PRGA"
+                    }
+                ]
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "check OS version",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "check OS version"
+                    }
+                ]
+            },
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "write process memory",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "write process memory"
+                    }
+                ]
+            },
+            {
+                "id": "T1129",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "link function at runtime on Windows",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "link function at runtime on Windows"
+                    }
+                ]
+            },
+            {
+                "id": "T1129",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "link many functions at runtime",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "link many functions at runtime"
+                    }
+                ]
+            },
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Creates a process in suspended mode (likely to inject code)"
+            },
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Spawns processes"
+            },
+            {
+                "id": "T1218.011",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Runs a DLL by calling functions"
+            },
+            {
+                "id": "T1497",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Checks if the current process is being debugged"
+            },
+            {
+                "id": "T1497",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "May sleep (evasive loops) to hinder dynamic analysis"
+            },
+            {
+                "id": "T1518.001",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Checks if the current process is being debugged"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Reads software policies"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Queries the volume information (name, serial number etc) of a device"
+            },
+            {
+                "id": "T1018",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Reads the hosts file"
+            },
+            {
+                "id": "T1095",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Performs DNS lookups"
+            },
+            {
+                "id": "T1071",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Performs DNS lookups"
+            }
+        ],
+        "processes_tree": [
+            {
+                "process_id": "928",
+                "name": "C:\\Windows\\System32\\loaddll64.exe loaddll64.exe 'C:\\Users\\user\\Desktop\\attachment.dll'",
+                "children": [
+                    {
+                        "process_id": "5504",
+                        "name": "C:\\Windows\\System32\\cmd.exe cmd.exe /C rundll32.exe 'C:\\Users\\user\\Desktop\\attachment.dll',#1",
+                        "children": [
+                            {
+                                "process_id": "3360",
+                                "name": "C:\\Windows\\System32\\rundll32.exe rundll32.exe  'C:\\Users\\user\\Desktop\\attachment.dll',#1",
+                                "children": [
+                                    {
+                                        "process_id": "176",
+                                        "name": "C:\\Windows\\System32\\WerFault.exe C:\\Windows\\system32\\WerFault.exe -u -p 3360 -s 316"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "process_id": "6780",
+                        "name": "C:\\Windows\\System32\\rundll32.exe rundll32.exe C:\\Users\\user\\Desktop\\attachment.dll,ServiceMain",
+                        "children": [
+                            {
+                                "process_id": "3328",
+                                "name": "C:\\Windows\\System32\\WerFault.exe C:\\Windows\\system32\\WerFault.exe -u -p 6780 -s 300"
+                            }
+                        ]
+                    },
+                    {
+                        "process_id": "996",
+                        "name": "C:\\Windows\\System32\\rundll32.exe rundll32.exe 'C:\\Users\\user\\Desktop\\attachment.dll',ServiceMain",
+                        "children": [
+                            {
+                                "process_id": "6024",
+                                "name": "C:\\Windows\\System32\\WerFault.exe C:\\Windows\\system32\\WerFault.exe -u -p 996 -s 300"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "signature_matches": [
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "calculate modulo 256 via x86 assembly",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: calculate modulo 256 via x86 assembly\n    authors:\n      - moritz.raabe@mandiant.com\n    lib: true\n    scope: instruction\n    mbc:\n      - Data::Modulo [C0058]\n    examples:\n      - 9324D1A8AE37A36AE560C37448C9705A:0x4049A9\n  features:\n    #  and ecx, 800000FFh\n    #  and ecx, 0FFh\n    - and:\n      - mnemonic: and\n      - or:\n        - number: 0x800000FF\n        - number: 0xFF\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "delay execution",
+                "authors": [
+                    "michael.hunhoff@mandiant.com",
+                    "@ramen0x3f"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: delay execution\n    authors:\n      - michael.hunhoff@mandiant.com\n      - \"@ramen0x3f\"\n    lib: true\n    scope: basic block\n    mbc:\n      - Anti-Behavioral Analysis::Dynamic Analysis Evasion::Delayed Execution [B0003.003]\n    references:\n      - https://docs.microsoft.com/en-us/windows/win32/sync/wait-functions\n      - https://github.com/LordNoteworthy/al-khaser/blob/master/al-khaser/TimingAttacks/timing.cpp\n    examples:\n      - al-khaser_x86.exe_:0x449770\n      - B5F85C26D7AA5A1FB4AF5821B6B5AB9B:0x402FA6\n  features:\n    - or:\n      - and:\n        - os: windows\n        - or:\n          - api: kernel32.Sleep\n          - api: kernel32.SleepEx\n          - api: kernel32.WaitForSingleObject\n          - api: kernel32.SignalObjectAndWait\n          - api: kernel32.WaitForSingleObjectEx\n          - api: kernel32.WaitForMultipleObjects\n          - api: kernel32.WaitForMultipleObjectsEx\n          - api: kernel32.RegisterWaitForSingleObject\n          - api: WaitOnAddress\n          - api: user32.MsgWaitForMultipleObjects\n          - api: user32.MsgWaitForMultipleObjectsEx\n          - api: NtDelayExecution\n          - api: KeWaitForSingleObject\n          - api: KeDelayExecutionThread\n      - and:\n        - os: linux\n        - or:\n          - api: sleep\n          - api: usleep\n",
+                "refs": [
+                    {
+                        "ref": "https://docs.microsoft.com/en-us/windows/win32/sync/wait-functions"
+                    },
+                    {
+                        "ref": "https://github.com/LordNoteworthy/al-khaser/blob/master/al-khaser/TimingAttacks/timing.cpp"
+                    }
+                ]
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "check mutex",
+                "description": "host-interaction/mutex",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: check mutex\n    namespace: host-interaction/mutex\n    authors:\n      - moritz.raabe@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scope: basic block\n    mbc:\n      - Process::Check Mutex [C0043]\n    examples:\n      - Practical Malware Analysis Lab 01-01.dll_:0x10001010\n  features:\n    - and:\n      - or:\n        - api: kernel32.OpenMutex\n        - match: create mutex\n        - api: System.Threading.Mutex::OpenExisting\n        - api: System.Threading.Mutex::TryOpenExisting\n      - optional:\n        - or:\n          - api: kernel32.GetLastError\n          - number: 2 = ERROR_FILE_NOT_FOUND\n          - number: 0xB7 = ERROR_ALREADY_EXISTS\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "create or open file",
+                "authors": [
+                    "michael.hunhoff@mandiant.com",
+                    "joakim@intezer.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: create or open file\n    authors:\n      - michael.hunhoff@mandiant.com\n      - joakim@intezer.com\n    lib: true\n    scope: basic block\n    mbc:\n      - File System::Create File [C0016]\n    examples:\n      - B5F85C26D7AA5A1FB4AF5821B6B5AB9B:0x401D7E\n  features:\n    - or:\n      - api: CreateFile\n      - api: CreateFileEx\n      - api: IoCreateFile\n      - api: IoCreateFileEx\n      - api: ZwOpenFile\n      - api: ZwCreateFile\n      - api: NtOpenFile\n      - api: NtCreateFile\n      - api: fopen\n      - api: fopen64\n      - api: fdopen\n      - api: freopen\n      - api: open\n      - api: openat\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "reference absolute stream path on Windows",
+                "description": "host-interaction/file-system",
+                "authors": [
+                    "blas.kojusner@mandiant.com",
+                    "william.ballenthin@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: reference absolute stream path on Windows\n    namespace: host-interaction/file-system\n    authors:\n      - blas.kojusner@mandiant.com\n      - william.ballenthin@mandiant.com\n    scope: basic block\n    references:\n      - https://learn.microsoft.com/en-us/windows/win32/fileio/file-streams\n    examples:\n      - 51828683DC26BFABD3994494099AE97D:0x11A9\n  features:\n    - and:\n      - string: /^(..\\?\\\\)?([\\w]\\:|\\\\)(\\\\+((?![\\<\\>\\\"\\/\\|\\*\\?\\:\\\\])[\\x20-\\x5B\\x5D-\\x7E])+)+(\\:\\$?([a-zA-Z0-9_]+))?/\n        # ^(..\\?\\\\)? -> Check for path starting with \"\\\\?\\\"\n        # ([\\w]\\:|\\\\) -> Check for absolute path beginning\n        # (\\\\+((?![\\<\\>\\\"\\/\\|\\*\\?\\:\\\\])[\\x20-\\x5B\\x5D-\\x7E])+)+ -> Check for valid path and filename\n        #   \\\\+ -> Check for at least one backslash path separator\n        #   (?![\\<\\>\\\"\\/\\|\\*\\?\\:\\\\]) -> path component must not start with <, >, \", ...\n        #   [\\x20-\\x5B\\x5D-\\x7E] -> path component must be printable ASCII, except backslash path separator\n        # : -> Check for start of stream filename\n        # \\$?([a-zA-Z0-9_]+))? -> Check for valid stream filename\n        ### Example Matches:\n        ### \\\\\\\\server\\share\\\\file:stream\n        ### \\\\\\\\server\\share\\dir.ext\\\\file.ext:stream \n        ### \\\\\\\\server\\share\\dir.ext\\\\file.tar.gz:stream\n        ### \\\\\\\\server\\share\\dir.ext\\\\file:stream.tar.gz\n        ### \\\\\\\\server\\share\\dir\\\\file.ext:stream.ext\n        ### \\\\\\\\?\\C:\\dir1\\dir2\\\\file:stream\n        ### C:\\dir\\\\file:stream.ext\n        ### C:\\dir\\\\file:}{+,.';[]-=-0987654321`~!@#$%^&()_+-.ext\n",
+                "refs": [
+                    {
+                        "ref": "https://learn.microsoft.com/en-us/windows/win32/fileio/file-streams"
+                    }
+                ]
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "create thread",
+                "description": "host-interaction/thread/create",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "michael.hunhoff@mandiant.com",
+                    "joakim@intezer.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: create thread\n    namespace: host-interaction/thread/create\n    authors:\n      - moritz.raabe@mandiant.com\n      - michael.hunhoff@mandiant.com\n      - joakim@intezer.com\n      - anushka.virgaonkar@mandiant.com\n    scope: basic block\n    mbc:\n      - Process::Create Thread [C0038]\n    examples:\n      - 946A99F36A46D335DEC080D9A4371940:0x10001DA0\n      - B5F85C26D7AA5A1FB4AF5821B6B5AB9B:0x408020\n  features:\n    - or:\n      - and:\n        - os: windows\n        - or:\n          - api: kernel32.CreateThread\n          - api: _beginthread\n          - api: _beginthreadex\n          - api: PsCreateSystemThread\n          - api: SHCreateThread\n          - api: SHCreateThreadWithHandle\n          - api: kernel32.CreateRemoteThread\n          - api: kernel32.CreateRemoteThreadEx\n          - api: RtlCreateUserThread\n          - api: ntdll.NtCreateThread\n          - api: ntdll.NtCreateThreadEx\n          - api: ntdll.ZwCreateThread\n          - api: ntdll.ZwCreateThreadEx\n      - and:\n        - os: linux\n        - api: pthread_create\n      - and:\n        - api: System.Threading.Thread::Start\n        - optional:\n          - api: System.Threading.Thread::ctor\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "allocate memory",
+                "authors": [
+                    "0x534a@mailbox.org"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: allocate memory\n    authors:\n      - 0x534a@mailbox.org\n    lib: true\n    scope: basic block\n    mbc:\n      - Memory::Allocate Memory [C0007]\n    examples:\n      - Practical Malware Analysis Lab 03-03.exe_:0x4010EA\n      # ntdll\n      - 563653399B82CD443F120ECEFF836EA3678D4CF11D9B351BB737573C2D856299:0x140001ABA\n  features:\n    - or:\n      - api: kernel32.VirtualAlloc\n      - api: kernel32.VirtualAllocEx\n      - api: kernel32.VirtualAllocExNuma\n      - api: kernel32.VirtualProtect\n      - api: kernel32.VirtualProtectEx\n      - api: NtAllocateVirtualMemory\n      - api: ZwAllocateVirtualMemory\n      - api: NtMapViewOfSection\n      - api: ZwMapViewOfSection\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "allocate RW memory",
+                "authors": [
+                    "0x534a@mailbox.org"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: allocate RW memory\n    authors:\n      - 0x534a@mailbox.org\n    lib: true\n    scope: basic block\n    mbc:\n      - Memory::Allocate Memory [C0007]\n    examples:\n      - Practical Malware Analysis Lab 17-02.dll_:0x1000D10D\n  features:\n    - and:\n      - match: allocate memory\n      - number: 0x4 = PAGE_READWRITE\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "encode data using XOR",
+                "description": "data-manipulation/encoding/xor",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: encode data using XOR\n    namespace: data-manipulation/encoding/xor\n    authors:\n      - moritz.raabe@mandiant.com\n    scope: basic block\n    att&ck:\n      - Defense Evasion::Obfuscated Files or Information [T1027]\n    mbc:\n      - Defense Evasion::Obfuscated Files or Information::Encoding-Standard Algorithm [E1027.m02]\n      - Data::Encode Data::XOR [C0026.002]\n    examples:\n      - 2D3EDC218A90F03089CC01715A9F047F:0x403D7E\n  features:\n    - and:\n      - characteristic: tight loop\n      - characteristic: nzxor\n      - not:\n        - description: filter for potential false positives\n        - or:\n          - or:\n            - description: unsigned bitwise negation operation (~i)\n            - number: 0xFFFFFFFF = bitwise negation for unsigned 32 bits\n            - number: 0xFFFFFFFFFFFFFFFF = bitwise negation for unsigned 64 bits\n          - or:\n            - description: signed bitwise negation operation (~i)\n            - number: 0x0FFFFFFF = bitwise negation for signed 32 bits\n            - number: 0x0FFFFFFFFFFFFFFF = bitwise negation for signed 64 bits\n          - or:\n            - description: Magic constants used in the implementation of strings functions.\n            # such as `strlen` and `strcat` in the Windows standard library:\n            # (((i - 0x81010101) ^ ~i) & 0x81010100)\n            ## 32 bits\n            - number: 0x7EFEFEFF = optimized string constant for 32 bits\n            - number: 0x81010101 = -0x81010101 = 0x7EFEFEFF\n            - number: 0x81010100 = 0x81010100 = ~0x7EFEFEFF\n            ## 64 bits\n            - number: 0x7EFEFEFEFEFEFEFF = optimized string constant for 64 bits\n            - number: 0x8101010101010101 = -0x8101010101010101 = 0x7EFEFEFEFEFEFEFF\n            - number: 0x8101010101010100 = 0x8101010101010100 = ~0x7EFEFEFEFEFEFEFF\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "open process",
+                "authors": [
+                    "0x534a@mailbox.org"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: open process\n    authors:\n      - 0x534a@mailbox.org\n    lib: true\n    scope: basic block\n    mbc:\n      - Process::Open Process [C0065]\n    examples:\n      - Practical Malware Analysis Lab 17-02.dll_:0x1000D10D\n  features:\n    - or:\n      - api: kernel32.OpenProcess\n      - api: NtOpenProcess\n      - api: ZwOpenProcess\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "allocate RWX memory",
+                "description": "host-interaction/process/inject",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: allocate RWX memory\n    namespace: host-interaction/process/inject\n    authors:\n      - moritz.raabe@mandiant.com\n    scope: basic block\n    mbc:\n      - Memory::Allocate Memory [C0007]\n    examples:\n      - Practical Malware Analysis Lab 03-03.exe_:0x4010EA\n      # ntdll\n      - 563653399B82CD443F120ECEFF836EA3678D4CF11D9B351BB737573C2D856299:0x140001ABA\n  features:\n    - and:\n      - match: allocate memory\n      - number: 0x40 = PAGE_EXECUTE_READWRITE\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "print debug messages",
+                "description": "host-interaction/log/debug/write-event",
+                "authors": [
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: print debug messages\n    namespace: host-interaction/log/debug/write-event\n    authors:\n      - michael.hunhoff@mandiant.com\n    scope: function\n    examples:\n      - 493167E85E45363D09495D0841C30648:0x401000\n  features:\n    - or:\n      - api: DbgPrint\n      - api: kernel32.OutputDebugString\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "contain loop",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: contain loop\n    authors:\n      - moritz.raabe@mandiant.com\n    lib: true\n    scope: function\n    examples:\n      - 08AC667C65D36D6542917655571E61C8:0x406EAA\n  features:\n    - or:\n      - characteristic: loop\n      - characteristic: tight loop\n      - characteristic: recursive call\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "enumerate processes",
+                "description": "host-interaction/process/list",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: enumerate processes\n    namespace: host-interaction/process/list\n    authors:\n      - moritz.raabe@mandiant.com\n      - michael.hunhoff@mandiant.com\n    scope: function\n    att&ck:\n      - Discovery::Process Discovery [T1057]\n      - Discovery::Software Discovery [T1518]\n    examples:\n      - 2D3EDC218A90F03089CC01715A9F047F:0x403DAB\n      - 35d04ecd797041eee796f4ddaa96cae8:0x10004F34\n  features:\n    - or:\n      - api: System.Diagnostics.Process::GetProcesses\n      - and:\n        - api: kernel32.Process32First\n        - api: kernel32.Process32Next\n        - optional:\n          - basic block:\n            - and:\n              - or:\n                - number: 0xF = TH32CS_SNAPALL\n                - number: 0x2 = TH32CS_SNAPPROCESS\n              - api: kernel32.CreateToolhelp32Snapshot\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "get system information on Windows",
+                "description": "host-interaction/os/info",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "joakim@intezer.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: get system information on Windows\n    namespace: host-interaction/os/info\n    authors:\n      - moritz.raabe@mandiant.com\n      - joakim@intezer.com\n    scope: function\n    att&ck:\n      - Discovery::System Information Discovery [T1082]\n    examples:\n      - 563653399B82CD443F120ECEFF836EA3678D4CF11D9B351BB737573C2D856299:0x140002280\n  features:\n    - and:\n      - os: windows\n      - or:\n        - api: kernel32.GetSystemInfo\n        - api: kernel32.GetNativeSystemInfo\n        - api: NtQuerySystemInformation\n        - api: NtQuerySystemInformationEx\n        - api: ntdll.RtlGetNativeSystemInformation\n        - api: ZwQuerySystemInformation\n        - api: ZwQuerySystemInformationEx\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "get file size",
+                "description": "host-interaction/file-system/meta",
+                "authors": [
+                    "michael.hunhoff@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: get file size\n    namespace: host-interaction/file-system/meta\n    authors:\n      - michael.hunhoff@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scope: function\n    att&ck:\n      - Discovery::File and Directory Discovery [T1083]\n    mbc:\n      - Discovery::File and Directory Discovery [E1083]\n    examples:\n      - mimikatz.exe_:0x40630D\n  features:\n    - or:\n      - api: kernel32.GetFileSize\n      - api: kernel32.GetFileSizeEx\n      - property/read: System.IO.FileInfo::Length\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "read file on Windows",
+                "description": "host-interaction/file-system/read",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: read file on Windows\n    namespace: host-interaction/file-system/read\n    authors:\n      - moritz.raabe@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scope: function\n    mbc:\n      - File System::Read File [C0051]\n    examples:\n      - BFB9B5391A13D0AFD787E87AB90F14F5:0x1314567B\n  features:\n    - or:\n      - and:\n        - os: windows\n        - optional:\n          - and:\n            - number: 0x80000000 = GENERIC_READ\n            - api: kernel32.CreateFile\n        - or:\n          - api: kernel32.ReadFile\n          - api: ReadFileEx\n          - api: NtReadFile\n          - api: ZwReadFile\n          - api: _read\n          - api: fread\n      - api: System.IO.File::ReadAllBytes\n      - api: System.IO.File::ReadAllBytesAsync\n      - api: System.IO.File::ReadAllLines\n      - api: System.IO.File::ReadAllLinesAsync\n      - api: System.IO.File::ReadAllText\n      - api: System.IO.File::ReadAllTextAsync\n      - api: System.IO.File::ReadLines\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "get service handle",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: get service handle\n    authors:\n      - moritz.raabe@mandiant.com\n    lib: true\n    scope: function\n    examples:\n      - Practical Malware Analysis Lab 03-02.dll_:0x10004706\n  features:\n    - or:\n      - api: advapi32.CreateService\n      - api: advapi32.OpenService\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "query service status",
+                "description": "host-interaction/service",
+                "authors": [
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: query service status\n    namespace: host-interaction/service\n    authors:\n      - michael.hunhoff@mandiant.com\n    scope: function\n    att&ck:\n      - Discovery::System Service Discovery [T1007]\n    examples:\n      - 9DC209F66DA77858E362E624D0BE86B3:0x403C70\n  features:\n    - or:\n      - api: advapi32.QueryServiceStatusEx\n      - api: advapi32.QueryServiceStatus\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "stop service",
+                "description": "host-interaction/service/stop",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: stop service\n    namespace: host-interaction/service/stop\n    authors:\n      - moritz.raabe@mandiant.com\n    scope: function\n    att&ck:\n      - Persistence::Create or Modify System Process::Windows Service [T1543.003]\n      - Impact::Service Stop [T1489]\n    examples:\n      - E544A4D616B60147D9774B48C2B65EF2:0x402140\n  features:\n    - and:\n      - optional:\n        - match: get service handle\n      - number: 0x1 = SERVICE_CONTROL_STOP\n      - or:\n        - api: advapi32.ControlService\n        - api: advapi32.ControlServiceEx\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "parse PE header",
+                "description": "load-code/pe",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: parse PE header\n    namespace: load-code/pe\n    authors:\n      - moritz.raabe@mandiant.com\n    scope: function\n    att&ck:\n      - Execution::Shared Modules [T1129]\n    examples:\n      - 9324D1A8AE37A36AE560C37448C9705A:0x403DD0\n  features:\n    - and:\n      - os: windows\n      - and:\n        - mnemonic: cmp\n        - or:\n          - number: 0x4550 = IMAGE_NT_SIGNATURE (PE)\n          - and:\n            - number: 0x50\n            - number: 0x45\n        - or:\n          - number: 0x5A4D = IMAGE_DOS_SIGNATURE (MZ)\n          - and:\n            - number: 0x4D\n            - number: 0x5A\n        - optional:\n          - and:\n            - operand[1].offset: 0x3C = IMAGE_DOS_HEADER.e_lfanew\n            - or:\n              - and:\n                - arch: i386\n                - operand[1].offset: 0x50 = IMAGE_NT_HEADERS.OptionalHeader.SizeOfImage\n                - operand[1].offset: 0x34 = IMAGE_NT_HEADERS.OptionalHeader.ImageBase\n              - and:\n                - arch: amd64\n                - operand[1].offset: 0x50 = IMAGE_NT_HEADERS64.OptionalHeader.SizeOfImage\n                - operand[1].offset: 0x30 = IMAGE_NT_HEADERS64.OptionalHeader.ImageBase\n          - basic block:\n            - and:\n              - operand[1].offset: 0x3C = IMAGE_DOS_HEADER.e_lfanew\n              - 3 or more:\n                - operand[1].offset: 0x4 = IMAGE_NT_HEADERS.FileHeader.Machine\n                - operand[1].offset: 0x6 = IMAGE_NT_HEADERS.FileHeader.NumberOfSections\n                - operand[1].offset: 0x14 = IMAGE_NT_HEADERS.FileHeader.SizeOfOptionalHeader\n                - operand[1].offset: 0x16 = IMAGE_NT_HEADERS.FileHeader.Characteristics\n                - operand[1].offset: 0x28 = IMAGE_NT_HEADERS.OptionalHeader.AddressOfEntryPoint  # for 32 and 64 bit\n                - or:\n                  - and:\n                    - arch: i386\n                    - operand[1].offset: 0x34 = IMAGE_NT_HEADERS.OptionalHeader.ImageBase\n                    - operand[1].offset: 0x50 = IMAGE_NT_HEADERS.OptionalHeader.SizeOfImage\n                  - and:\n                    - arch: amd64\n                    - operand[1].offset: 0x30 = IMAGE_NT_HEADERS.OptionalHeader.ImageBase\n                    - operand[1].offset: 0x50 = IMAGE_NT_HEADERS64.OptionalHeader.SizeOfImage\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "encrypt data using RC4 PRGA",
+                "description": "data-manipulation/encryption/rc4",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: encrypt data using RC4 PRGA\n    namespace: data-manipulation/encryption/rc4\n    authors:\n      - moritz.raabe@mandiant.com\n    scope: function\n    att&ck:\n      - Defense Evasion::Obfuscated Files or Information [T1027]\n    mbc:\n      - Cryptography::Encrypt Data::RC4 [C0027.009]\n      - Cryptography::Generate Pseudo-random Sequence::RC4 PRGA [C0021.004]\n    examples:\n      - 34404A3FB9804977C6AB86CB991FB130:0x403DB0\n      - 34404A3FB9804977C6AB86CB991FB130:0x403E50\n      - 9324D1A8AE37A36AE560C37448C9705A:0x4049F0\n      - 73CE04892E5F39EC82B00C02FC04C70F:0x4064C6\n  features:\n    - and:\n      # TODO: maybe add characteristic for nzxor reg size\n      - count(characteristic(nzxor)): 1\n      - or:\n        - match: calculate modulo 256 via x86 assembly\n        # compiler may do this via zero-extended mov from 8-bit register\n        - count(mnemonic(movzx)): 4 or more\n      # should not call (many) functions\n      - count(characteristic(calls from)): (0, 4)\n      # should not be too simple or too complex (50 is picked by intuition)\n      - count(basic blocks): (4, 50)\n      - match: contain loop\n      - optional:\n        - or:\n          - number: 0xFF\n          - number: 0x100\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "resolve function by parsing PE exports",
+                "description": "load-code/pe",
+                "authors": [
+                    "sara-rn"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: resolve function by parsing PE exports\n    namespace: load-code/pe\n    authors:\n      - sara-rn\n    scope: function\n    examples:\n      - 73CE04892E5F39EC82B00C02FC04C70F:0x406BA1\n  features:\n    - and:\n      - os: windows\n      - or:\n        - characteristic: loop\n        - mnemonic: movzx\n      - and:\n        - offset: 0x3C = IMAGE_DOS_HEADER.PE.e_lfanew\n        - or:\n          - and:\n            - arch: i386\n            - offset: 0x78 = offset to IMAGE_DATA_DIRECTORY[IMAGE_DIRECTORY_ENTRY_EXPORT]\n          - and:\n            - arch: amd64\n            - offset: 0x88 = offset to IMAGE_DATA_DIRECTORY[IMAGE_DIRECTORY_ENTRY_EXPORT]\n        - 3 or more:\n          - offset: 0x14 = IMAGE_EXPORT_DIRECTORY.NumberOfFunctions\n          - offset: 0x24 = IMAGE_EXPORT_DIRECTORY.AddressOfNameOrdinals\n          - offset: 0x20 = IMAGE_EXPORT_DIRECTORY.AddressOfNames\n          - offset: 0x18 = IMAGE_EXPORT_DIRECTORY.NumberOfNames\n          - offset: 0x1C = IMAGE_EXPORT_DIRECTORY.AddressOfFunctions\n      - optional:\n        - or:\n          - api: LoadLibrary\n          - api: strcmp\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "get OS version",
+                "authors": [
+                    "@mr-tz"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: get OS version\n    authors:\n      - \"@mr-tz\"\n    lib: true\n    scope: function\n    examples:\n      - 493167E85E45363D09495D0841C30648:0x401000\n      - 5f66b82558ca92e54e77f216ef4c066c:0x44580A\n  features:\n    - or:\n      - api: RtlGetVersion\n      - api: ntoskrnl.PsGetVersion\n      - api: GetVersion\n      - api: GetVersionEx\n      - api: VerifyVersionInfo\n      - api: VerSetConditionMask\n      - api: RtlGetNtVersionNumbers\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "check OS version",
+                "description": "host-interaction/os/version",
+                "authors": [
+                    "michael.hunhoff@mandiant.com",
+                    "johnk3r"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: check OS version\n    namespace: host-interaction/os/version\n    authors:\n      - michael.hunhoff@mandiant.com\n      - johnk3r\n    scope: function\n    att&ck:\n      - Discovery::System Information Discovery [T1082]\n    mbc:\n      - Discovery::System Information Discovery [E1082]\n    examples:\n      - 493167E85E45363D09495D0841C30648:0x401000\n  features:\n    - and:\n      - match: get OS version\n      - or:\n        - and:\n          - instruction:\n            - mnemonic: cmp\n            - number: 5 = Windows 2000\n          - optional:\n            - instruction:\n              - mnemonic: cmp\n              - or:\n                - number: 0\n                - number: 1 = Windows XP\n                - number: 2 = Windows XP 64-bit / Windows Server 2003 / Windows Server 2003 R2\n        - and:\n          - instruction:\n            - mnemonic: cmp\n            - number: 6 = Windows Vista / Windows Server 2008\n          - optional:\n            - instruction:\n              - mnemonic: cmp\n              - or:\n                - number: 0\n                - number: 1 = Windows Server 2008 R2 / Windows 7\n                - number: 2 = Windows Server 2012 / Windows 8\n                - number: 3 = Windows Server 2012 R2 / Windows 8.1\n        - and:\n          - instruction:\n            - mnemonic: cmp\n            - number: 10 = Windows Server 2016 / Windows Server 2019 / Windows 10\n          - optional:\n            - instruction:\n              - mnemonic: cmp\n              - number: 0\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "spawn thread to RWX shellcode",
+                "description": "load-code/shellcode",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: spawn thread to RWX shellcode\n    namespace: load-code/shellcode\n    authors:\n      - moritz.raabe@mandiant.com\n    scope: function\n    mbc:\n      - Memory::Allocate Memory [C0007]\n      - Process::Create Thread [C0038]\n    examples:\n      - Practical Malware Analysis Lab 19-02.exe_:0x401230\n  features:\n    - and:\n      - match: allocate RWX memory\n      - match: create thread\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "write process memory",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: write process memory\n    authors:\n      - moritz.raabe@mandiant.com\n    lib: true\n    scope: function\n    att&ck:\n      - Defense Evasion::Process Injection [T1055]\n    examples:\n      - 2D3EDC218A90F03089CC01715A9F047F:0x4027CF\n  features:\n    - or:\n      - api: kernel32.WriteProcessMemory\n      - api: ntdll.NtWriteVirtualMemory\n      - api: ntdll.ZwWriteVirtualMemory\n      - api: NtWow64WriteVirtualMemory64\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "write file on Windows",
+                "description": "host-interaction/file-system/write",
+                "authors": [
+                    "william.ballenthin@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: write file on Windows\n    namespace: host-interaction/file-system/write\n    authors:\n      - william.ballenthin@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scope: function\n    mbc:\n      - File System::Writes File [C0052]\n    examples:\n      - Practical Malware Analysis Lab 01-04.exe_:0x4011FC\n      # ntdll\n      - 563653399B82CD443F120ECEFF836EA3678D4CF11D9B351BB737573C2D856299:0x1400025C4\n  features:\n    - or:\n      - and:\n        - os: windows\n        - optional:\n          - or:\n            - and:\n              - number: 0x40000000 = GENERIC_WRITE\n              - api: kernel32.CreateFile\n            - and:\n              - number: 0x2 = FILE_WRITE_DATA\n              - or:\n                - api: NtCreateFile\n                - api: ZwCreateFile\n        - or:\n          - api: kernel32.WriteFile\n          - api: kernel32.WriteFileEx\n          - api: NtWriteFile\n          - api: ZwWriteFile\n          - api: _fwrite\n          - api: fwrite\n      - api: System.IO.File::WriteAllBytes\n      - api: System.IO.File::WriteAllBytesAsync\n      - api: System.IO.File::WriteAllLines\n      - api: System.IO.File::WriteAllLinesAsync\n      - api: System.IO.File::WriteAllText\n      - api: System.IO.File::WriteAllTextAsync\n      - api: System.IO.File::AppendAllLines\n      - api: System.IO.File::AppendAllLinesAsync\n      - api: System.IO.File::AppendAllText\n      - api: System.IO.File::AppendAllTextAsync\n      - api: System.IO.File::AppendText\n      - api: System.IO.FileInfo::AppendText\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "link function at runtime on Windows",
+                "description": "linking/runtime-linking",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: link function at runtime on Windows\n    namespace: linking/runtime-linking\n    authors:\n      - moritz.raabe@mandiant.com\n      - michael.hunhoff@mandiant.com\n    scope: function\n    att&ck:\n      - Execution::Shared Modules [T1129]\n    examples:\n      - 9324D1A8AE37A36AE560C37448C9705A:0x404130\n      - Practical Malware Analysis Lab 01-04.exe_:0x401350\n  features:\n    - and:\n      - os: windows\n      - or:\n        - api: kernel32.GetProcAddress\n        - api: ntdll.LdrGetProcedureAddress\n      - optional:\n        - characteristic: indirect call\n        - api: kernel32.LoadLibrary\n        - api: kernel32.GetModuleHandle\n        - api: kernel32.GetModuleHandleEx\n        - api: ntdll.LdrLoadDll\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "link many functions at runtime",
+                "description": "linking/runtime-linking",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "joakim@intezer.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: link many functions at runtime\n    namespace: linking/runtime-linking\n    authors:\n      - moritz.raabe@mandiant.com\n      - joakim@intezer.com\n    scope: function\n    att&ck:\n      - Execution::Shared Modules [T1129]\n    examples:\n      - b7b5e1253710d8927cbe07d52d2d2e10:0x401000\n  features:\n    - or:\n      - and:\n        - os: windows\n        - match: link function at runtime on Windows\n        - or:\n          - count(api(kernel32.GetProcAddress)): 5 or more\n          - count(api(ntdll.LdrGetProcedureAddress)): 5 or more\n      - and:\n        - os: linux\n        - match: link function at runtime on Linux\n        - or:\n          - count(api(dlsym)): 5 or more\n          - count(api(dlvsym)): 5 or more\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "contain a resource (.rsrc) section",
+                "description": "executable/pe/section/rsrc",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: contain a resource (.rsrc) section\n    namespace: executable/pe/section/rsrc\n    authors:\n      - moritz.raabe@mandiant.com\n    scope: file\n    examples:\n      - A933A1A402775CFA94B6BEE0963F4B46:0x41fd25\n  features:\n    - section: .rsrc\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "run as service",
+                "description": "host-interaction/service",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: run as service\n    namespace: host-interaction/service\n    authors:\n      - moritz.raabe@mandiant.com\n      - michael.hunhoff@mandiant.com\n    scope: file\n    mbc:\n      - Anti-Behavioral Analysis::Conditional Execution::Runs as Service [B0025.007]\n    examples:\n      - Practical Malware Analysis Lab 03-02.dll_\n  features:\n    - or:\n      - export: ServiceMain\n      - function:\n        - or:\n          - api: RegisterServiceCtrlHandler\n          - api: RegisterServiceCtrlHandlerEx\n          - api: StartServiceCtrlDispatcher\n          - api: System.ServiceProcess.ServiceBase::Run\n"
+            }
+        ],
+        "files_opened": [
+            "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath",
+            "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath\\",
+            "C:\\Program Files\\dotnet",
+            "C:\\Program Files\\dotnet\\",
+            "C:\\ProgramData\\Microsoft\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_Microsoft.Window_ca5066b3972f8d510ee6b1357351f351ee9b8_3509a1b5_0903585a\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0c71edfe\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0c724b8f\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0c724f48\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0c725562\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0c727166\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0c7272fc\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_rundll32.exe_att_89177ec4cb81da256da39c3392155a5105f7783_b7dd13ca_00c19554\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_rundll32.exe_att_89177ec4cb81da256da39c3392155a5105f7783_b7dd13ca_00c19554\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_rundll32.exe_att_89177ec4cb81da256da39c3392155a5105f7783_b7dd13ca_0d71946a\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_rundll32.exe_att_89177ec4cb81da256da39c3392155a5105f7783_b7dd13ca_0d71946a\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_rundll32.exe_att_89177ec4cb81da256da39c3392155a5105f7783_b7dd13ca_17f9a1c8\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.17134.1120_1b28538a5876c99040a892b14a8442683d3cd399_00000000_0c722fd9\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.17134.1120_23d81537c6c1de6387d1d90b9f9638384b63c7_00000000_0c725b2f\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.17134.1120_73b993cd2c399ae5865cd31975aaee84b108016_00000000_0c723315\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.17134.1120_73b993cd2c399ae5865cd31975aaee84b108016_00000000_0c7237d8\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.17134.1120_73b993cd2c399ae5865cd31975aaee84b108016_00000000_0c724238\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.17134.1120_73b993cd2c399ae5865cd31975aaee84b108016_00000000_0c7248df\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.17134.1120_73b993cd2c399ae5865cd31975aaee84b108016_00000000_0c724dd1\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.17134.1120_73b993cd2c399ae5865cd31975aaee84b108016_00000000_0c725042\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.17134.1120_73b993cd2c399ae5865cd31975aaee84b108016_00000000_0c72518a\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.17134.1120_73b993cd2c399ae5865cd31975aaee84b108016_00000000_0c725747\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.17134.1120_73b993cd2c399ae5865cd31975aaee84b108016_00000000_0c72589e\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.17134.1120_97b3925395c1decdae580b88c968558a137537_00000000_0c71ff43\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.17134.1120_97b3925395c1decdae580b88c968558a137537_00000000_0c720ee3\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.17134.1120_97b3925395c1decdae580b88c968558a137537_00000000_0c72278c\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\Critical_10.0.17134.1120_dc1546d58685925d870f1a2ecff88328981d34d_00000000_0c7243ce\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\NonCritical_10.0.17134.1304_4f1a5caedcf93dfb3e7ab42eee838089e2e96ba4_00000000_0c7222ba\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\NonCritical_10.0.17134.1304_64c7b1ba69ec9b26126caf16f394e3f9b1e91e4_00000000_04de0c82\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\NonCritical_1_6c1f9c3d3d9d3fde2e0f666f6f146c8e29f676_00000000_0d9ea76e\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\NonCritical_Microsoft Window_d5bde7c27aaa213ebe00ab0316518b54deba0_00000000_115e189b\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER642C.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER645B.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER6585.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER65A6.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER71AD.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER71DD.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8C3C.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8C3C.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8E7E.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8E7E.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8FC8.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8FC8.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER90C3.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER90C3.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9110.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9110.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER920B.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER920B.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9B30.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9B30.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9D25.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9D25.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9E4F.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9E4F.tmp.xml",
+            "C:\\ProgramData\\chocolatey\\bin",
+            "C:\\ProgramData\\chocolatey\\bin\\",
+            "C:\\Users\\user\\AppData\\Local\\DBG\\config.xml",
+            "C:\\Users\\user\\AppData\\Local\\Dbg\\EngineExtensions",
+            "C:\\Users\\user\\AppData\\Local\\Dbg\\Visualizers\\",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\WindowsApps",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\WindowsApps\\",
+            "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39",
+            "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\",
+            "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\Scripts",
+            "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\Scripts\\",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\AppContainerUserCertRead",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\CRLs\\",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\CTLs\\",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\Certificates\\",
+            "C:\\Users\\user\\Desktop\\attachment.dll",
+            "C:\\Users\\user\\Desktop\\attachment.dll.123.Manifest",
+            "C:\\Users\\user\\Desktop\\attachment.dll.124.Manifest",
+            "C:\\Windows\\AppPatch\\sysmain.sdb",
+            "C:\\Windows\\Globalization\\Sorting\\sortdefault.nls",
+            "C:\\Windows\\SYSTEM32",
+            "C:\\Windows\\SYSTEM32\\",
+            "C:\\Windows\\SYSTEM32\\DNSAPI.dll",
+            "C:\\Windows\\SYSTEM32\\IPHLPAPI.DLL",
+            "C:\\Windows\\SYSTEM32\\NTASN1.dll",
+            "C:\\Windows\\SYSTEM32\\Visualizers\\",
+            "C:\\Windows\\SYSTEM32\\WINNSI.DLL",
+            "C:\\Windows\\SYSTEM32\\WINXP",
+            "C:\\Windows\\SYSTEM32\\XmlLite.dll",
+            "C:\\Windows\\SYSTEM32\\aepic.dll",
+            "C:\\Windows\\SYSTEM32\\apphelp.dll",
+            "C:\\Windows\\SYSTEM32\\dbgeng.dll",
+            "C:\\Windows\\SYSTEM32\\dbgmodel.dll",
+            "C:\\Windows\\SYSTEM32\\dhcpcsvc.DLL",
+            "C:\\Windows\\SYSTEM32\\dhcpcsvc6.DLL",
+            "C:\\Windows\\SYSTEM32\\en-US\\ntdll.dll.mui",
+            "C:\\Windows\\SYSTEM32\\en-US\\rundll32.exe.mui",
+            "C:\\Windows\\SYSTEM32\\en-US\\tzres.dll.mui",
+            "C:\\Windows\\SYSTEM32\\loaddll64.exe",
+            "C:\\Windows\\SYSTEM32\\mskeyprotect.dll",
+            "C:\\Windows\\SYSTEM32\\msvcp110_win.dll",
+            "C:\\Windows\\SYSTEM32\\ncrypt.dll",
+            "C:\\Windows\\SYSTEM32\\ntdll.dll",
+            "C:\\Windows\\SYSTEM32\\ntmarta.dll",
+            "C:\\Windows\\SYSTEM32\\ole32.dll",
+            "C:\\Windows\\SYSTEM32\\policymanager.dll",
+            "C:\\Windows\\SYSTEM32\\pri",
+            "C:\\Windows\\SYSTEM32\\rundll32.exe",
+            "C:\\Windows\\SYSTEM32\\tzres.dll",
+            "C:\\Windows\\SYSTEM32\\winext",
+            "C:\\Windows\\SYSTEM32\\winext\\arcade",
+            "C:\\Windows\\SYSTEM32\\winxp\\triage.ini",
+            "C:\\Windows\\System32\\",
+            "C:\\Windows\\System32\\ADVAPI32.dll",
+            "C:\\Windows\\System32\\FlightSettings.dll",
+            "C:\\Windows\\System32\\GDI32.dll",
+            "C:\\Windows\\System32\\IMM32.DLL",
+            "C:\\Windows\\System32\\KERNEL32.DLL",
+            "C:\\Windows\\System32\\KERNELBASE.dll",
+            "C:\\Windows\\System32\\MSCTF.dll",
+            "C:\\Windows\\System32\\OLEAUT32.dll",
+            "C:\\Windows\\System32\\OneCoreUAPCommonProxyStub.dll",
+            "C:\\Windows\\System32\\OpenSSH",
+            "C:\\Windows\\System32\\OpenSSH\\",
+            "C:\\Windows\\System32\\RMCLIENT.dll",
+            "C:\\Windows\\System32\\RPCRT4.dll",
+            "C:\\Windows\\System32\\WINHTTP.dll",
+            "C:\\Windows\\System32\\Wbem",
+            "C:\\Windows\\System32\\Wbem\\",
+            "C:\\Windows\\System32\\Windows.Security.Authentication.OnlineId.dll",
+            "C:\\Windows\\System32\\WindowsPowerShell\\v1.0",
+            "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\",
+            "C:\\Windows\\System32\\bcd.dll",
+            "C:\\Windows\\System32\\bcryptPrimitives.dll",
+            "C:\\Windows\\System32\\combase.dll",
+            "C:\\Windows\\System32\\drivers\\etc\\hosts",
+            "C:\\Windows\\System32\\en-US\\CRYPT32.dll.mui",
+            "C:\\Windows\\System32\\en-US\\KERNEL32.DLL.mui",
+            "C:\\Windows\\System32\\en-US\\KERNELBASE.dll.mui",
+            "C:\\Windows\\System32\\en-US\\MSCTF.dll.mui",
+            "C:\\Windows\\System32\\en-US\\OLEAUT32.dll.mui",
+            "C:\\Windows\\System32\\en-US\\RPCRT4.dll.mui",
+            "C:\\Windows\\System32\\en-US\\USER32.dll.mui",
+            "C:\\Windows\\System32\\en-US\\advapi32.dll.mui",
+            "C:\\Windows\\System32\\en-US\\combase.dll.mui",
+            "C:\\Windows\\System32\\en-US\\sechost.dll.mui",
+            "C:\\Windows\\System32\\en-US\\shcore.dll.mui",
+            "C:\\Windows\\System32\\en-US\\wshqos.dll.mui",
+            "C:\\Windows\\System32\\en\\OLEAUT32.dll.mui",
+            "C:\\Windows\\System32\\fwpuclnt.dll",
+            "C:\\Windows\\System32\\gdi32full.dll",
+            "C:\\Windows\\System32\\imagehlp.dll",
+            "C:\\Windows\\System32\\msvcp_win.dll",
+            "C:\\Windows\\System32\\msvcrt.dll",
+            "C:\\Windows\\System32\\netprofm.dll",
+            "C:\\Windows\\System32\\npmproxy.dll",
+            "C:\\Windows\\System32\\rasadhlp.dll",
+            "C:\\Windows\\System32\\sechost.dll",
+            "C:\\Windows\\System32\\shcore.dll",
+            "C:\\Windows\\System32\\twinapi.appcore.dll",
+            "C:\\Windows\\System32\\ucrtbase.dll",
+            "C:\\Windows\\System32\\user32.dll",
+            "C:\\Windows\\System32\\win32u.dll",
+            "C:\\Windows\\System32\\wshqos.dll",
+            "C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.1304_none_d3fbe61b7c93d9f0",
+            "C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.1304_none_d3fbe61b7c93d9f0\\Comctl32.dll",
+            "C:\\Windows\\system32",
+            "C:\\Windows\\system32\\",
+            "C:\\Windows\\system32\\CRYPTBASE.dll",
+            "C:\\Windows\\system32\\CRYPTSP.dll",
+            "C:\\Windows\\system32\\DPAPI.DLL",
+            "C:\\Windows\\system32\\DSREG.DLL",
+            "C:\\Windows\\system32\\IMM32.DLL",
+            "C:\\Windows\\system32\\IPHLPAPI.DLL",
+            "C:\\Windows\\system32\\NETAPI32.dll",
+            "C:\\Windows\\system32\\OnDemandConnRouteHelper.dll",
+            "C:\\Windows\\system32\\SSPICLI.DLL",
+            "C:\\Windows\\system32\\Secur32.dll",
+            "C:\\Windows\\system32\\WINHTTP.dll",
+            "C:\\Windows\\system32\\XmlLite.dll",
+            "C:\\Windows\\system32\\bcrypt.dll",
+            "C:\\Windows\\system32\\cryptnet.dll",
+            "C:\\Windows\\system32\\dbgcore.DLL",
+            "C:\\Windows\\system32\\dbghelp.dll",
+            "C:\\Windows\\system32\\drivers\\",
+            "C:\\Windows\\system32\\drivers\\etc\\hosts",
+            "C:\\Windows\\system32\\dwmapi.dll",
+            "C:\\Windows\\system32\\en-US\\WerFault.exe.mui",
+            "C:\\Windows\\system32\\en-US\\dwmapi.dll.mui",
+            "C:\\Windows\\system32\\en-US\\faultrep.dll.mui",
+            "C:\\Windows\\system32\\en-US\\mswsock.dll.mui",
+            "C:\\Windows\\system32\\en-US\\rundll32.exe.mui",
+            "C:\\Windows\\system32\\en-US\\uxtheme.dll.mui",
+            "C:\\Windows\\system32\\en-US\\wer.dll.mui",
+            "C:\\Windows\\system32\\en-US\\winnlsres.dll.mui",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0167b10a\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_021c8941\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_02eea1aa\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_04a0557f\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_061844a6\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_06b96ea6\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_083997d2\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_09c8a12e\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_09c948f6\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0b349cd2\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0d2ab2dd\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0d755352\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0da46adc\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0e5cd3f3\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0e896645\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0ebe1d98\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0ecc34b8\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0f74391d\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0fac631b\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_105b7bf9\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_10cc5c64\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_10ed3c67\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_117bf0ed\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1240be1d\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1265f538\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_12cde8c9\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_133a0179\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_13a411bb\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_14e658b1\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_15d3e27a",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_15d3e27a\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_15d3e27a\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_164425eb\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_166f34df",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_166f34df\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_166f34df\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_16928446\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_17084850\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_170c5ddb\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_17886657\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_17a76142\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_17e7f771\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_191e2e8c\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1ac4a5b7\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1b058065\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1b1298e4\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1bf77989\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1c574b4d\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1d0344f8\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1db2ca49\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1e62d7f1\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1ec2a3a5\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1f788fd6\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_ini_3ff512282236a9aca39fabea38ad8333df2e8d38_4e5ca135_17f071ce\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_ini_3ff512282236a9aca39fabea38ad8333df2e8d38_4e5ca135_187c673f\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_ini_3ff512282236a9aca39fabea38ad8333df2e8d38_4e5ca135_187c673f\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_ini_3ff512282236a9aca39fabea38ad8333df2e8d38_4e5ca135_18d05f30\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_rundll32.exe_ini_3ff512282236a9aca39fabea38ad8333df2e8d38_4e5ca135_18d05f30\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_setup.exe_c65736d431fda8aba8a61f35d41838c047e8f0f8_00000000_02305ef5\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4976.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4976.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4AED.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4AED.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4CA3.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4CA3.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4E5A.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4E5A.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER509B.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER509B.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER53B9.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER53B9.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER5B87.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER5B87.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER5E76.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER5E76.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER5FA0.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER5FA0.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC0AA.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC0BA.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC39A.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERC3AA.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCFA2.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCFB2.tmp.txt",
+            "C:\\Users\\user\\Desktop\\init.dll",
+            "C:\\Users\\user\\Desktop\\init.dll.123.Manifest",
+            "C:\\Users\\user\\Desktop\\init.dll.124.Manifest"
+        ],
+        "tls": [
+            {
+                "subject": {
+                    "ST": "WA",
+                    "L": "Redmond",
+                    "OU": "WSE",
+                    "O": "Microsoft",
+                    "C": "US"
+                },
+                "issuer": {
+                    "ST": "Washington",
+                    "L": "Redmond",
+                    "CN": "Microsoft Secure Server CA 2011",
+                    "O": "Microsoft Corporation",
+                    "C": "US"
+                },
+                "serial_number": "33000001b75cc4a5c5d4206bca0000000001b7",
+                "thumbprint": "e71f92d3ecd2d5a349f4eaf1e3a32c89ba624454",
+                "version": "TLS 1.2",
+                "sni": "watson.telemetry.microsoft.com",
+                "ja3": "bd0bf25947d4a37404f0424edf4db9ad",
+                "ja3s": "678aeaf909676262acfb913ccb78a126"
+            },
+            {
+                "subject": {
+                    "ST": "WA",
+                    "L": "Redmond",
+                    "OU": "WSE",
+                    "O": "Microsoft",
+                    "C": "US"
+                },
+                "issuer": {
+                    "ST": "Washington",
+                    "L": "Redmond",
+                    "CN": "Microsoft Secure Server CA 2011",
+                    "O": "Microsoft Corporation",
+                    "C": "US"
+                },
+                "serial_number": "330000019403fc704c4a6b63a3000000000194",
+                "thumbprint": "823153dc372b97a568ac5e78250406c465f61c4d",
+                "version": "TLS 1.2",
+                "sni": "watson.telemetry.microsoft.com",
+                "ja3": "bd0bf25947d4a37404f0424edf4db9ad",
+                "ja3s": "678aeaf909676262acfb913ccb78a126"
+            }
+        ],
+        "ip_traffic": [
+            {
+                "destination_ip": "52.255.188.83",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "40.88.32.150",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            }
+        ],
+        "registry_keys_opened": [
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\IdentityCRL\\Immersive\\production\\Property",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\IdentityCRL\\Immersive\\production\\Token\\{67082621-8D18-4333-9C64-10DE93676363}",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\AppModel\\Lookaside\\Packages",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLE",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLEAUT",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\cmd.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\rundll32.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsSelfHost\\FIDs\\ByFID",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\WindowsSelfHost\\FIDs\\Unknown",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\WindowsStore",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Segment Heap",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Policies\\Microsoft\\Cryptography\\Configuration",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\EnterpriseCertificates\\CA",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\EnterpriseCertificates\\Root",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\IdentityCRL\\ClockData",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\LanguageOverlay\\OverlayPackages\\en-US",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\OLE\\Tracing",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole\\FeatureDevelopmentProperties",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SystemCertificates\\AuthRoot",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SystemCertificates\\CA",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SystemCertificates\\Root",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SystemCertificates\\SmartCardRoot",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\WindowsSelfhost\\FIDs",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Flighting\\Build",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\SideBySide",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\Windows Error Reporting\\Debug",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Wow64\\x86\\xtajit",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\MUI\\Settings",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\SystemCertificates\\CA",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\SystemCertificates\\Root",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Display",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Error Message Instrument\\",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\FileSystem\\",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FipsAlgorithmPolicy",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\CustomLocale",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\ExtendedLocale",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Sorting\\Versions",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\SecurityProviders\\Schannel",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\AppCertDlls",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Srp\\GP\\DLL",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters",
+            "\\REGISTRY\\A\\{b1b00b66-983e-5590-2c2c-98386b7dfa6b}\\Root",
+            "\\REGISTRY\\A\\{b1b00b66-983e-5590-2c2c-98386b7dfa6b}\\Root\\InventoryApplicationFile",
+            "\\REGISTRY\\A\\{feb59407-268f-2f2c-58ee-599bd5b44275}\\Root",
+            "\\REGISTRY\\A\\{feb59407-268f-2f2c-58ee-599bd5b44275}\\Root\\InventoryApplicationFile"
+        ],
+        "registry_keys_set": [
+            {
+                "key": "\\REGISTRY\\A\\{b1b00b66-983e-5590-2c2c-98386b7dfa6b}\\Root\\InventoryApplicationFile\\PermissionsCheckTestKey"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\Windows Error Reporting\\Debug"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\Windows Error Reporting\\Debug\\ExceptionRecord",
+                "value": "05 00 00 C0 00 00 00 00 00 00 00 00 00 00 00 00 2A 2D B1 F9 FB 7F 00 00 02 00 00 00 00 00 00 00 00 0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\IdentityCRL\\Immersive\\production\\Property\\00188004A4823556",
+                "value": "01 00 00 00 01 00 00 00 D0 8C 9D DF 01 15 D1 11 8C 7A 00 C0 4F C2 97 EB 01 00 00 00 F9 23 FC BC 37 0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\IdentityCRL\\Immersive\\production\\Token\\{67082621-8D18-4333-9C64-10DE93676363}\\DeviceTicket",
+                "value": "01 00 00 00 01 00 00 00 D0 8C 9D DF 01 15 D1 11 8C 7A 00 C0 4F C2 97 EB 01 00 00 00 F9 23 FC BC 37 0"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\IdentityCRL\\Immersive\\production\\Token\\{67082621-8D18-4333-9C64-10DE93676363}\\DeviceId",
+                "value": "00188004A4823556"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{feb59407-268f-2f2c-58ee-599bd5b44275}\\Root\\InventoryApplicationFile\\PermissionsCheckTestKey"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\Windows Error Reporting\\Debug\\ExceptionRecord",
+                "value": "05 00 00 C0 00 00 00 00 00 00 00 00 00 00 00 00 2A 2D A0 3E FB 7F 00 00 02 00 00 00 00 00 00 00 00 0"
+            }
+        ],
+        "verdicts": [
+            "CLEAN"
+        ],
+        "attack_techniques": {
+            "T1027": [
+                {
+                    "severity": "INFO",
+                    "description": "encode data using XOR"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "encrypt data using RC4 PRGA"
+                }
+            ],
+            "T1057": [
+                {
+                    "severity": "INFO",
+                    "description": "enumerate processes"
+                }
+            ],
+            "T1518": [
+                {
+                    "severity": "INFO",
+                    "description": "enumerate processes"
+                }
+            ],
+            "T1082": [
+                {
+                    "severity": "INFO",
+                    "description": "get system information on Windows"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "check OS version"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Reads software policies"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Queries the volume information (name, serial number etc) of a device"
+                }
+            ],
+            "T1083": [
+                {
+                    "severity": "INFO",
+                    "description": "get file size"
+                }
+            ],
+            "T1007": [
+                {
+                    "severity": "INFO",
+                    "description": "query service status"
+                }
+            ],
+            "T1543.003": [
+                {
+                    "severity": "INFO",
+                    "description": "stop service"
+                }
+            ],
+            "T1489": [
+                {
+                    "severity": "INFO",
+                    "description": "stop service"
+                }
+            ],
+            "T1129": [
+                {
+                    "severity": "INFO",
+                    "description": "parse PE header"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "link function at runtime on Windows"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "link many functions at runtime"
+                }
+            ],
+            "T1055": [
+                {
+                    "severity": "INFO",
+                    "description": "write process memory"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Creates a process in suspended mode (likely to inject code)"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Spawns processes"
+                }
+            ],
+            "T1218.011": [
+                {
+                    "severity": "INFO",
+                    "description": "Runs a DLL by calling functions"
+                }
+            ],
+            "T1497": [
+                {
+                    "severity": "INFO",
+                    "description": "Checks if the current process is being debugged"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "May sleep (evasive loops) to hinder dynamic analysis"
+                }
+            ],
+            "T1518.001": [
+                {
+                    "severity": "INFO",
+                    "description": "Checks if the current process is being debugged"
+                }
+            ],
+            "T1018": [
+                {
+                    "severity": "INFO",
+                    "description": "Reads the hosts file"
+                }
+            ],
+            "T1095": [
+                {
+                    "severity": "INFO",
+                    "description": "Performs DNS lookups"
+                }
+            ],
+            "T1071": [
+                {
+                    "severity": "INFO",
+                    "description": "Performs DNS lookups"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,502 @@
+{
+    "data": {
+        "files_written": [
+            "C:\\Users\\Admin\\AppData\\Local\\Temp\\2310225387.js",
+            "C:\\Users\\Admin\\AppData\\Local\\Temp\\2356912171",
+            "__tmp_rar_sfx_access_check_227390",
+            "2310225387.js",
+            "2356912171",
+            "__tmp_rar_sfx_access_check_226656"
+        ],
+        "registry_keys_set": [
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap",
+                "value": "ProxyBypass"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap",
+                "value": "IntranetName"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap",
+                "value": "UNCAsIntranet"
+            },
+            {
+                "key": "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap",
+                "value": "AutoDetect"
+            },
+            {
+                "key": "\\Registry\\Machine\\Software\\Microsoft\\Rpc",
+                "value": "UuidSequenceNumber"
+            },
+            {
+                "key": "\\REGISTRY\\MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\Windows Error Reporting\\Debug",
+                "value": "ExceptionRecord"
+            }
+        ],
+        "processes_tree": [
+            {
+                "process_id": "2412",
+                "name": "\"${SamplePath}\\\u88a7\u90aa\u6cfb\u8c22\u90aa\u5199\u85aa\u90aa\u891f \u9229\ufffd12-6317-3621.exe\" ",
+                "children": [
+                    {
+                        "process_id": "3548",
+                        "name": "\"C:\\Windows\\System32\\WScript.exe\" \"C:\\Users\\Admin\\AppData\\Local\\Temp\\2310225387.js\" \"${SamplePath}\\\u88a7\u90aa\u6cfb\u8c22\u90aa\u5199\u85aa\u90aa\u891f \u9229\ufffd12-6317-3621.exe\"",
+                        "time_offset": 9803,
+                        "children": [
+                            {
+                                "process_id": "3856",
+                                "name": "C:\\Windows\\SysWOW64\\WerFault.exe -u -p 3548 -s 252",
+                                "time_offset": 1566
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "process_id": "3032",
+                "name": "\u00ec\u00e1\u00ac\u00bd\u00e1\u00f1\u00a1\u00e1\u2229 \u207f12-6317-3621.exe",
+                "children": [
+                    {
+                        "process_id": "2392",
+                        "name": "C:\\Windows\\System32\\WScript.exe C:\\Users\\<USER>\\AppData\\Local\\Temp\\2310225387.js C:\\Users\\<USER>\\Downloads\\\u00ec\u00e1\u00ac\u00bd\u00e1\u00f1\u00a1\u00e1\u2229 \u207f12-6317-3621.exe",
+                        "time_offset": 1
+                    }
+                ]
+            }
+        ],
+        "files_dropped": [
+            {
+                "path": "C:\\Users\\Admin\\AppData\\Local\\Temp\\__tmp_rar_sfx_access_check_151859",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "path": "C:\\Users\\Admin\\AppData\\Local\\Temp\\2310225387.js",
+                "sha256": "560f9aca3f314e31069f1f87db4af0d05e75ec24c2c5387e505a46a75984c6ca"
+            },
+            {
+                "path": "C:\\Users\\Admin\\AppData\\Local\\Temp\\2356912171",
+                "sha256": "d6478ea6d1b2d9848e94fe29a664f234eade5f1dd80ba911a6b45bc1bf2a6cc0"
+            }
+        ],
+        "files_opened": [
+            "C:\\Users\\Admin\\AppData\\Local\\Temp\\__tmp_rar_sfx_access_check_151859",
+            "C:\\Users\\Admin\\AppData\\Local\\Temp\\2310225387.js",
+            "C:\\Users\\Admin\\AppData\\Local\\Temp\\2356912171",
+            "C:\\Windows\\system32\\version.dll",
+            "C:\\Users\\<USER>\\Downloads\\DXGIDebug.dll",
+            "C:\\Windows\\system32\\sfc_os.dll",
+            "C:\\Windows\\system32\\SSPICLI.DLL",
+            "C:\\Windows\\system32\\rsaenh.dll",
+            "C:\\Windows\\system32\\UXTheme.dll",
+            "C:\\Windows\\system32\\dwmapi.dll",
+            "C:\\Windows\\system32\\cryptbase.dll",
+            "C:\\Windows\\system32\\riched20.dll",
+            "C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.24483_none_2b200f664577e14b",
+            "C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.24483_none_2b200f664577e14b\\COMCTL32.dll",
+            "C:\\Windows\\WindowsShell.Manifest",
+            "C:\\Windows\\system32\\WindowsCodecs.dll",
+            "C:\\Users\\<USER>\\Downloads\\\u00ec\u00e1\u00ac\u00bd\u00e1\u00f1\u00a1\u00e1\u2229 \u207f12-6317-3621.exe",
+            "C:\\Windows\\syswow64\\en-US\\USER32.dll.mui",
+            "C:\\Windows\\win.ini",
+            "C:\\Windows\\system32\\shell32.dll",
+            "C:\\Windows\\syswow64\\SHELL32.dll",
+            "C:\\Program Files (x86)\\Common Files\\microsoft shared\\ink\\tiptsf.dll",
+            "C:\\Windows\\system32\\ole32.dll",
+            "C:\\Windows\\Fonts\\staticcache.dat",
+            "C:\\Users",
+            "C:\\Users\\azure",
+            "C:\\Users\\<USER>\\AppData",
+            "C:\\Users\\<USER>\\AppData\\Local",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp",
+            "__tmp_rar_sfx_access_check_227390",
+            "C:\\Users\\<USER>\\Downloads\\",
+            "2310225387.js",
+            "?\\C:\\Users\\<USER>\\AppData\\Local\\Temp\\2310225387.js",
+            "2356912171",
+            "?\\C:\\Users\\<USER>\\AppData\\Local\\Temp\\2356912171",
+            "C:\\Windows\\system32\\PROPSYS.dll",
+            "C:\\Users\\<USER>\\AppData\\Local\\Microsoft\\Windows\\Caches",
+            "C:\\Users\\<USER>\\AppData\\Local\\Microsoft\\Windows\\Caches\\cversions.1.db",
+            "C:\\Windows\\system32\\ntmarta.dll",
+            "C:\\Users\\<USER>\\AppData\\Local\\Microsoft\\Windows\\Caches\\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000017.db",
+            "C:\\Users\\<USER>\\Desktop\\desktop.ini",
+            "C:\\Windows\\SysWOW64\\propsys.dll",
+            "C:\\Windows\\system32\\propsys.dll",
+            "C:\\Users\\<USER>\\Searches\\desktop.ini",
+            "C:\\Users\\<USER>\\Videos\\desktop.ini",
+            "C:\\Users\\<USER>\\Pictures\\desktop.ini",
+            "C:\\Users\\<USER>\\Contacts\\desktop.ini",
+            "C:\\Users\\<USER>\\Favorites\\desktop.ini",
+            "C:\\Users\\<USER>\\Music\\desktop.ini",
+            "C:\\Users\\<USER>\\Downloads\\desktop.ini",
+            "C:\\Users\\<USER>\\Documents\\desktop.ini",
+            "C:\\Users\\<USER>\\Links\\desktop.ini",
+            "C:\\Users\\<USER>\\Saved Games\\desktop.ini",
+            "C:\\Windows\\system32\\apphelp.dll",
+            "C:\\Windows\\System32\\shdocvw.dll",
+            "\\SystemRoot\\AppPatch\\sysmain.sdb",
+            "C:\\Windows\\System32\\",
+            "C:\\Windows\\",
+            "C:\\Users\\desktop.ini",
+            "STORAGE#Volume#{83450cb0-a5a9-11ed-8895-806e6f6e6963}#0000000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}",
+            "C:\\Windows\\SysWOW64\\urlmon.dll",
+            "STORAGE#Volume#{83450cb0-a5a9-11ed-8895-806e6f6e6963}#0000000006500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}",
+            "C:\\Windows\\system32\\Secur32.dll",
+            "C:\\Users\\<USER>\\AppData\\Local\\Microsoft\\Windows\\Temporary Internet Files",
+            "C:\\Users\\<USER>\\AppData\\Roaming\\Microsoft\\Windows\\Cookies",
+            "C:\\Users\\",
+            "C:\\Users\\<USER>\\",
+            "C:\\Users\\<USER>\\AppData\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\",
+            "C:\\Windows\\system32\\api-ms-win-downlevel-advapi32-l2-1-0.dll",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\2310225387.js:Zone.Identifier",
+            "C:\\Program Files (x86)",
+            "C:\\Windows\\System32\\WScript.exe",
+            "C:\\Windows\\System32\\wscript.exe",
+            "C:\\Windows\\System32\\en\\WScript.exe.mui",
+            "C:\\Windows\\system32\\sfc.dll",
+            "\\SystemRoot\\WinSxS\\FileMaps\\$$_system32_21f9a9c4a2f8b514.cdf-ms",
+            "C:\\Windows\\SysWOW64\\WScript.exe",
+            "C:\\Windows\\SysWOW64\\SXS.DLL",
+            "C:\\Windows\\SysWOW64\\jscript.dll",
+            "C:\\Windows\\system32\\advapi32.dll",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\2310225387.js\\",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp\\",
+            "C:\\Windows\\SysWOW64\\CRYPTSP.dll",
+            "C:\\Windows\\SysWOW64\\MSISIP.DLL",
+            "__tmp_rar_sfx_access_check_226656",
+            "STORAGE#Volume#{bc04e442-a5ab-11ed-9ae5-806e6f6e6963}#0000000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}",
+            "STORAGE#Volume#{bc04e442-a5ab-11ed-9ae5-806e6f6e6963}#0000000006500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}"
+        ],
+        "modules_loaded": [
+            "${SamplePath}\\\u88a7\u90aa\u6cfb\u8c22\u90aa\u5199\u85aa\u90aa\u891f \u9229\ufffd12-6317-3621.exe",
+            "C:\\Windows\\System32\\ntdll.dll",
+            "C:\\Windows\\SysWOW64\\ntdll.dll",
+            "C:\\Windows\\System32\\wow64.dll",
+            "C:\\Windows\\System32\\wow64win.dll",
+            "C:\\Windows\\System32\\wow64cpu.dll",
+            "C:\\Windows\\System32\\kernel32.dll",
+            "C:\\Windows\\SysWOW64\\kernel32.dll",
+            "C:\\Windows\\System32\\user32.dll",
+            "C:\\Windows\\SysWOW64\\KernelBase.dll",
+            "C:\\Windows\\winsxs\\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.24203_none_5c030043a0118fbf\\GdiPlus.dll",
+            "C:\\Windows\\SysWOW64\\msvcrt.dll",
+            "C:\\Windows\\SysWOW64\\user32.dll",
+            "C:\\Windows\\SysWOW64\\gdi32.dll",
+            "C:\\Windows\\SysWOW64\\lpk.dll",
+            "C:\\Windows\\SysWOW64\\usp10.dll",
+            "C:\\Windows\\SysWOW64\\advapi32.dll",
+            "C:\\Windows\\SysWOW64\\sechost.dll",
+            "C:\\Windows\\SysWOW64\\rpcrt4.dll",
+            "C:\\Windows\\SysWOW64\\sspicli.dll",
+            "C:\\Windows\\SysWOW64\\cryptbase.dll",
+            "C:\\Windows\\SysWOW64\\ole32.dll",
+            "C:\\Windows\\SysWOW64\\imm32.dll",
+            "C:\\Windows\\SysWOW64\\msctf.dll",
+            "C:\\Windows\\SysWOW64\\shell32.dll",
+            "C:\\Windows\\SysWOW64\\shlwapi.dll",
+            "C:\\Windows\\SysWOW64\\dbghelp.dll",
+            "C:\\Windows\\SysWOW64\\ws2_32.dll",
+            "C:\\Windows\\SysWOW64\\nsi.dll",
+            "C:\\Windows\\SysWOW64\\psapi.dll",
+            "C:\\Windows\\SysWOW64\\oleaut32.dll",
+            "C:\\Windows\\SysWOW64\\setupapi.dll",
+            "C:\\Windows\\SysWOW64\\cfgmgr32.dll",
+            "C:\\Windows\\SysWOW64\\devobj.dll",
+            "C:\\Windows\\SysWOW64\\IPHLPAPI.DLL",
+            "C:\\Windows\\SysWOW64\\winnsi.dll",
+            "C:\\Windows\\SysWOW64\\api-ms-win-core-synch-l1-2-0.DLL",
+            "C:\\Windows\\SysWOW64\\imagehlp.dll",
+            "C:\\Windows\\SysWOW64\\version.dll",
+            "C:\\Windows\\SysWOW64\\sfc_os.dll",
+            "C:\\Windows\\SysWOW64\\rsaenh.dll",
+            "C:\\Windows\\SysWOW64\\uxtheme.dll",
+            "C:\\Windows\\SysWOW64\\dwmapi.dll",
+            "C:\\Windows\\SysWOW64\\riched20.dll",
+            "C:\\Windows\\winsxs\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\\comctl32.dll",
+            "C:\\Windows\\SysWOW64\\WindowsCodecs.dll",
+            "C:\\Windows\\SysWOW64\\clbcatq.dll",
+            "C:\\Program Files (x86)\\Common Files\\microsoft shared\\ink\\tiptsf.dll",
+            "C:\\Windows\\SysWOW64\\propsys.dll",
+            "C:\\Windows\\SysWOW64\\ntmarta.dll",
+            "C:\\Windows\\SysWOW64\\Wldap32.dll",
+            "C:\\Windows\\SysWOW64\\profapi.dll",
+            "C:\\Windows\\SysWOW64\\apphelp.dll",
+            "C:\\Windows\\SysWOW64\\shdocvw.dll",
+            "C:\\Windows\\SysWOW64\\urlmon.dll",
+            "C:\\Windows\\SysWOW64\\wininet.dll",
+            "C:\\Windows\\SysWOW64\\iertutil.dll",
+            "C:\\Windows\\SysWOW64\\crypt32.dll",
+            "C:\\Windows\\SysWOW64\\msasn1.dll",
+            "C:\\Windows\\SysWOW64\\wscript.exe",
+            "C:\\Windows\\SysWOW64\\sfc.dll",
+            "C:\\Windows\\SysWOW64\\powrprof.dll",
+            "C:\\Windows\\SysWOW64\\WerFault.exe",
+            "C:\\Windows\\SysWOW64\\wer.dll",
+            "C:\\Windows\\SysWOW64\\Faultrep.dll",
+            "C:\\Windows\\SysWOW64\\dbgeng.dll",
+            "C:\\Windows\\SysWOW64\\SensApi.dll",
+            "C:\\Windows\\SysWOW64\\werui.dll",
+            "C:\\Windows\\SysWOW64\\dui70.dll",
+            "C:\\Windows\\SysWOW64\\duser.dll",
+            "C:\\Windows\\SysWOW64\\xmllite.dll",
+            "<pi-ms-win-core-synch-l1-2-0",
+            "kernel32",
+            "<pi-ms-win-core-fibers-l1-1-1",
+            "<pi-ms-win-core-localization-l1-2-1",
+            "ole32.dll",
+            "COMCTL32.dll",
+            "SHELL32.dll",
+            "USER32.dll",
+            "GDI32.dll",
+            "UxTheme.dll",
+            "IMM32.dll",
+            "SHLWAPI.dll",
+            "C:\\Windows\\system32\\shell32.dll",
+            "ADVAPI32.dll",
+            "propsys.dll",
+            "C:\\Windows\\System32\\shdocvw.dll",
+            "OLEAUT32.dll",
+            "API-MS-Win-Core-LocalRegistry-L1-1-0.dll",
+            "api-ms-win-downlevel-advapi32-l1-1-0.dll",
+            "Secur32.dll",
+            "API-MS-WIN-DOWNLEVEL-SHLWAPI-L1-1-0.DLL",
+            "api-ms-win-downlevel-advapi32-l2-1-0.dll",
+            "API-MS-Win-Security-LSALookup-L1-1-0.dll",
+            "C:\\Windows\\SysWOW64\\WScript.exe",
+            "WINTRUST.dll",
+            "CRYPTSP.dll",
+            "CRYPTBASE.dll",
+            "MSISIP.DLL"
+        ],
+        "processes_terminated": [
+            "${SamplePath}\\\u88a7\u90aa\u6cfb\u8c22\u90aa\u5199\u85aa\u90aa\u891f \u9229\ufffd12-6317-3621.exe",
+            "C:\\Windows\\SysWOW64\\WScript.exe",
+            "C:\\Windows\\SysWOW64\\WerFault.exe",
+            "\u00ec\u00e1\u00ac\u00bd\u00e1\u00f1\u00a1\u00e1\u2229 \u207f12-6317-3621.exe"
+        ],
+        "files_attribute_changed": [
+            "2310225387.js",
+            "2356912171"
+        ],
+        "mutexes_created": [
+            "Local\\ZoneAttributeCacheCounterMutex",
+            "Local\\ZonesCacheCounterMutex",
+            "Local\\ZonesLockedCacheCounterMutex",
+            "Local\\WERReportingForProcess3548",
+            "Global\\a49fa812-03eb-11ed-ad0d-c60a6f211f43"
+        ],
+        "registry_keys_opened": [
+            "\\Registry\\Machine\\System\\CurrentControlSet\\Control\\Lsa\\FipsAlgorithmPolicy",
+            "\\Registry\\Machine\\System\\CurrentControlSet\\Control\\Lsa",
+            "\\Registry\\MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\SideBySide",
+            "\\Registry\\Machine\\Hardware\\DeviceMap\\VIDEO",
+            "\\Registry\\Machine\\Hardware\\DeviceMap\\Video",
+            "\\Registry\\Machine\\System\\CurrentControlSet\\CONTROL\\VIDEO\\{577CFBE1-915E-4218-85BF-236741C20B4D}\\0000",
+            "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Enum\\PCI\\VEN_1234&DEV_1111&SUBSYS_11001AF4&REV_00\\3&13c0b0c5&0&10",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000_Classes",
+            "\\Registry\\Machine\\Software\\Classes\\Wow6432Node\\CLSID\\{FAE3D380-FEA4-4623-8C75-C6B61110B681}\\Instance",
+            "\\Registry\\Machine\\System\\CurrentControlSet\\Control\\Nls\\Locale",
+            "\\Registry\\Machine\\System\\CurrentControlSet\\Control\\Nls\\Locale\\Alternate Sorts",
+            "\\Registry\\Machine\\System\\CurrentControlSet\\Control\\Nls\\Language Groups",
+            "\\Registry\\Machine\\System\\CurrentControlSet\\Control\\Nls\\CustomLocale",
+            "\\Registry\\Machine\\System\\CurrentControlSet\\Control\\Nls\\ExtendedLocale",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+            "\\REGISTRY\\MACHINE\\Software\\Wow6432Node\\Policies",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Policies",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software",
+            "\\REGISTRY\\MACHINE\\Software\\Wow6432Node",
+            "\\REGISTRY\\MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\AutoComplete",
+            "\\Registry\\User\\S-1-5-21-870151485-863566166-2146164720-1000_Classes",
+            "\\REGISTRY\\MACHINE\\Software\\Microsoft\\COM3",
+            "\\Registry\\Machine\\Software\\Classes\\Wow6432Node\\CLSID\\{00BB2765-6A77-11D0-A535-00C04FD7D062}",
+            "\\Registry\\Machine\\Software\\Classes\\CLSID\\{00BB2765-6A77-11D0-A535-00C04FD7D062}",
+            "\\Registry\\Machine\\Software\\Classes\\Wow6432Node\\CLSID\\{00BB2765-6A77-11D0-A535-00C04FD7D062}\\InprocServer32",
+            "\\REGISTRY\\MACHINE\\Software\\Wow6432Node\\Microsoft\\OLE",
+            "\\Registry\\Machine\\Software\\Classes\\Wow6432Node\\CLSID\\{03C036F1-A186-11D0-824A-00AA005B4383}",
+            "\\Registry\\Machine\\Software\\Classes\\CLSID\\{03C036F1-A186-11D0-824A-00AA005B4383}",
+            "\\Registry\\Machine\\Software\\Classes\\Wow6432Node\\CLSID\\{03C036F1-A186-11D0-824A-00AA005B4383}\\InprocServer32",
+            "\\Registry\\Machine\\Software\\Classes\\Wow6432Node\\CLSID\\{00BB2763-6A77-11D0-A535-00C04FD7D062}",
+            "\\Registry\\Machine\\Software\\Classes\\CLSID\\{00BB2763-6A77-11D0-A535-00C04FD7D062}",
+            "\\Registry\\Machine\\Software\\Classes\\Wow6432Node\\CLSID\\{00BB2763-6A77-11D0-A535-00C04FD7D062}\\InprocServer32",
+            "\\Registry\\Machine\\Software\\Classes\\Wow6432Node\\CLSID\\{03C036F1-A186-11D0-824A-00AA005B4383}\\InProcServer32",
+            "\\Registry\\Machine\\Software\\Classes\\Wow6432Node\\CLSID\\{00BB2763-6A77-11D0-A535-00C04FD7D062}\\InProcServer32",
+            "\\REGISTRY\\MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\AutoComplete\\Client",
+            "\\Registry\\Machine\\Software\\Classes\\Wow6432Node\\CLSID\\{807C1E6C-1D00-453F-B920-B61BB7CDD997}",
+            "\\Registry\\Machine\\Software\\Classes\\Wow6432Node\\CLSID\\{807C1E6C-1D00-453F-B920-B61BB7CDD997}\\Progid",
+            "\\Registry\\Machine\\Software\\Classes\\Wow6432Node\\CLSID\\{807C1E6C-1D00-453F-B920-B61BB7CDD997}\\InprocServer32",
+            "\\REGISTRY\\MACHINE\\Software\\Wow6432Node\\Microsoft\\Rpc\\Extensions",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Control Panel\\Desktop",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+            "\\REGISTRY\\MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes",
+            "\\REGISTRY\\MACHINE\\Software\\Wow6432Node\\Microsoft\\CTF\\TIP\\{0000897b-83df-4b96-be07-0fb58b01c4a4}\\LanguageProfile\\0x00000000\\{0001bea3-ed56-483d-a2e2-aeae25577436}",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Wow6432Node\\Microsoft\\CTF",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontLink\\SystemLink",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\DataStore_V1.0",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer",
+            "\\REGISTRY\\MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer",
+            "\\REGISTRY\\MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer",
+            "\\Registry\\Machine\\Software\\Classes\\Wow6432Node\\CLSID\\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\\ShellFolder",
+            "\\REGISTRY\\MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Policies\\NonEnum",
+            "\\Registry\\Machine\\Software\\Classes\\Drive\\shellex\\FolderExtensions",
+            "\\Registry\\Machine\\Software\\Classes\\Drive\\shellex\\FolderExtensions\\{fbeb8a05-beee-4442-804e-409d6c4515e9}",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Windows Script Host\\Settings",
+            "\\REGISTRY\\MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows Script Host\\Settings",
+            "\\REGISTRY\\MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows NT\\CurrentVersion",
+            "\\REGISTRY\\MACHINE\\Software\\Wow6432Node\\Microsoft\\Windows NT\\CurrentVersion\\MiniDumpAuxiliaryDlls",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Control Panel\\Desktop\\LanguageConfiguration",
+            "\\REGISTRY\\MACHINE\\Software\\Microsoft\\Windows\\Windows Error Reporting",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Windows\\Windows Error Reporting",
+            "\\Registry\\Machine\\Software\\Wow6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AeDebug",
+            "\\REGISTRY\\MACHINE\\Software\\Wow6432Node\\Microsoft\\Rpc",
+            "\\Registry\\Machine\\System\\CurrentControlSet\\Control\\ComputerName\\ActiveComputerName",
+            "\\Registry\\Machine\\System\\Setup",
+            "\\Registry\\Machine\\Software\\Policies\\Microsoft\\SQMClient\\Windows",
+            "\\Registry\\Machine\\Software\\Microsoft\\SQMClient\\Windows",
+            "\\Registry\\Machine\\Software\\Microsoft\\Rpc",
+            "\\Registry\\Machine\\System\\CurrentControlSet\\Control\\ComputerName",
+            "\\REGISTRY\\USER\\S-1-5-21-870151485-863566166-2146164720-1000\\Software\\Microsoft\\Windows\\Windows Error Reporting\\Consent",
+            "\\REGISTRY\\MACHINE\\Software\\Microsoft\\Windows\\Windows Error Reporting\\Consent",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Reliability Analysis\\RAC",
+            "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\SimSun",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontLink\\SystemLink",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\DataStore_V1.0",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\DataStore_V1.0\\Disable",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\DataStore_V1.0\\DataFilePath",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\MS Shell Dlg 2",
+            "HKLM\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\KindMap",
+            "HKLM\\Software\\Policies\\Microsoft\\Internet Explorer\\Main\\FeatureControl",
+            "HKLM\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl",
+            "HKCU\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_IGNORE_POLICIES_ZONEMAP_IF_ESC_ENABLED_KB918915",
+            "HKCU\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_ZONES_CHECK_ZONEMAP_POLICY_KB941001",
+            "HKLM\\Software\\Policies",
+            "HKCU\\Software",
+            "HKLM\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+            "HKLM\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap",
+            "HKCU\\Software\\Microsoft\\Internet Explorer\\Main",
+            "HKCU\\Software\\Microsoft\\Internet Explorer\\Main\\FrameTabWindow",
+            "HKCU\\Software\\Microsoft\\Internet Explorer\\Main\\FrameMerging",
+            "HKCU\\Software\\Microsoft\\Internet Explorer\\Main\\SessionMerging",
+            "HKCU\\Software\\Microsoft\\Internet Explorer\\Main\\AdminTabProcs",
+            "HKLM\\Software\\Policies\\Microsoft\\Internet Explorer\\Main",
+            "HKCU\\Software\\Microsoft\\Internet Explorer\\Main\\TabProcGrowth",
+            "HKCU\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_INITIALIZE_URLACTION_SHELLEXECUTE_TO_ALLOW_KB936610",
+            "HKLM\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\CreateUriCacheSize",
+            "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+            "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\CreateUriCacheSize",
+            "HKLM\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\EnablePunycode",
+            "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\EnablePunycode",
+            "HKCU\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_ALLOW_REVERSE_SOLIDUS_IN_USERINFO_KB932562",
+            "HKCU\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_LOCALMACHINE_LOCKDOWN",
+            "HKLM\\Software\\Policies\\Microsoft\\Internet Explorer",
+            "HKCU\\Software\\Microsoft\\Internet Explorer\\Security",
+            "HKCU\\Software\\Microsoft\\Internet Explorer\\Security\\DisableSecuritySettingsCheck",
+            "HKLM\\System\\Setup",
+            "HKLM\\System\\Setup\\SystemSetupInProgress",
+            "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones",
+            "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0",
+            "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1",
+            "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2",
+            "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3",
+            "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4",
+            "HKCU\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_ZONES_DEFAULT_DRIVE_INTRANET_KB941000",
+            "HKLM\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\SpecialFoldersCacheSize",
+            "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\SpecialFoldersCacheSize",
+            "HKCU\\Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_PROTOCOL_LOCKDOWN",
+            "HKCU\\Software\\Microsoft\\Windows Script Host\\Settings",
+            "HKLM\\Software\\Microsoft\\Windows Script Host\\Settings\\IgnoreUserSettings",
+            "HKCU\\Software\\Microsoft\\Windows Script Host\\Settings\\Enabled",
+            "HKCU\\Software\\Microsoft\\Windows Script Host\\Settings\\LogSecuritySuccesses",
+            "HKCU\\Software\\Microsoft\\Windows Script Host\\Settings\\TrustPolicy",
+            "HKCU\\Software\\Microsoft\\Windows Script Host\\Settings\\UseWINSAFER",
+            "Software\\Microsoft\\Windows Script Host\\Settings\\Timeout",
+            "Software\\Microsoft\\Windows Script Host\\Settings\\DisplayLogo",
+            "HKCR\\.js",
+            "HKCR\\.js\\0x0",
+            "HKCR\\JSFile\\ScriptEngine",
+            "HKCR\\JSFile\\ScriptEngine\\0x0",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows Script\\Features",
+            "HKLM\\Software\\Microsoft\\COM3"
+        ],
+        "text_highlighted": [
+            "WinRAR self-extracting archive",
+            "Extracting 2356912171",
+            "C:\\Users\\<USER>\\AppData\\Local\\Temp",
+            "Bro&wse...",
+            "Installation progress",
+            "Pause"
+        ],
+        "verdicts": [
+            "CLEAN"
+        ],
+        "command_executions": [
+            "\"${SamplePath}\\\u88a7\u90aa\u6cfb\u8c22\u90aa\u5199\u85aa\u90aa\u891f \u9229\ufffd12-6317-3621.exe\" ",
+            "\"C:\\Windows\\System32\\WScript.exe\" \"C:\\Users\\Admin\\AppData\\Local\\Temp\\2310225387.js\" \"${SamplePath}\\\u88a7\u90aa\u6cfb\u8c22\u90aa\u5199\u85aa\u90aa\u891f \u9229\ufffd12-6317-3621.exe\"",
+            "C:\\Windows\\SysWOW64\\WerFault.exe -u -p 3548 -s 252"
+        ],
+        "mutexes_opened": [
+            "DefaultTabtip-MainUI"
+        ],
+        "processes_created": [
+            "${SamplePath}\\\u88a7\u90aa\u6cfb\u8c22\u90aa\u5199\u85aa\u90aa\u891f \u9229\ufffd12-6317-3621.exe",
+            "C:\\Windows\\SysWOW64\\WScript.exe",
+            "C:\\Windows\\SysWOW64\\WerFault.exe",
+            "C:\\Windows\\System32\\WScript.exe C:\\Users\\<USER>\\AppData\\Local\\Temp\\2310225387.js C:\\Users\\<USER>\\Downloads\\\u00ec\u00e1\u00ac\u00bd\u00e1\u00f1\u00a1\u00e1\u2229 \u207f12-6317-3621.exe"
+        ],
+        "windows_hidden": [
+            "C:\\Windows\\SysWOW64\\WerFault.exe"
+        ],
+        "tags": [
+            "RUNTIME_MODULES",
+            "DIRECT_CPU_CLOCK_ACCESS"
+        ],
+        "mitre_attack_techniques": [
+            {
+                "id": "T1129"
+            },
+            {
+                "id": "T1059"
+            },
+            {
+                "id": "T1124"
+            },
+            {
+                "id": "T1070.006"
+            }
+        ],
+        "calls_highlighted": [
+            "GetTickCount"
+        ],
+        "files_deleted": [
+            "C:\\Users\\Admin\\AppData\\Local\\Temp\\__tmp_rar_sfx_access_check_151859",
+            "__tmp_rar_sfx_access_check_227390",
+            "__tmp_rar_sfx_access_check_226656"
+        ],
+        "attack_techniques": {
+            "T1129": [
+                {
+                    "severity": "UNKNOWN"
+                }
+            ],
+            "T1059": [
+                {
+                    "severity": "UNKNOWN"
+                }
+            ],
+            "T1124": [
+                {
+                    "severity": "UNKNOWN"
+                }
+            ],
+            "T1070.006": [
+                {
+                    "severity": "UNKNOWN"
+                }
+            ]
+        }
+    }
+}

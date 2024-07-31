@@ -1,0 +1,2379 @@
+{
+    "data": {
+        "mitre_attack_techniques": [
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Spawns processes"
+            },
+            {
+                "id": "T1036",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Drops PE files to the windows directory (C:\\\\Windows)"
+            },
+            {
+                "id": "T1036",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Creates files inside the system directory"
+            },
+            {
+                "id": "T1497",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Checks if the current process is being debugged"
+            },
+            {
+                "id": "T1027.002",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Sample is packed with UPX"
+            },
+            {
+                "id": "T1027",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Sample is packed with UPX"
+            },
+            {
+                "id": "T1070.004",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Deletes files inside the Windows folder"
+            },
+            {
+                "id": "T1518.001",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Checks if the current process is being debugged"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Queries the volume information (name, serial number etc) of a device"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Queries the cryptographic machine GUID"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Reads software policies"
+            },
+            {
+                "id": "T1018",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Reads the hosts file"
+            }
+        ],
+        "ip_traffic": [
+            {
+                "destination_ip": "a83f:8110:0:0:1400:1400:2800:3800",
+                "destination_port": 53,
+                "transport_layer_protocol": "UDP"
+            },
+            {
+                "destination_ip": "23.216.147.64",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "20.99.132.105",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "a83f:8110:6c00:7500:6d00:6500:3100:5c00",
+                "destination_port": 53,
+                "transport_layer_protocol": "UDP"
+            },
+            {
+                "destination_ip": "20.99.184.37",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "23.216.147.76",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            }
+        ],
+        "files_deleted": [
+            "C:\\Windows\\SysWOW64\\checkon.bmp",
+            "C:\\Windows\\Temp\\1025\\host.inf",
+            "C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER337E.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3449.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3479.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER408F.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4090.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER40A1.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF05B.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF126.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF165.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERFA20.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERFA6F.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERFA80.tmp.txt",
+            "C:\\Windows\\system32\\checkon.bmp",
+            "C:\\Windows\\temp\\1025\\host.inf",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9B47.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9B47.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9E08.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9E08.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9F60.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9F60.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERE623.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERE644.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER7CDA.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER7CDA.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8036.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8036.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER818F.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER818F.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCE36.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCE47.tmp.txt"
+        ],
+        "registry_keys_set": [
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows Media Player NSS\\3.0\\Servers\\A70D59A1-8EAD-4F40-AAAB-FBFC460800A4\\FriendlyName",
+                "value": "WORK: admin:"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile\\PermissionsCheckTestKey"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile\\software.exe|19928a84c9c48649"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\Windows Error Reporting\\Debug"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\IdentityCRL\\ClockData"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\AmiHivePermissionsCorrect",
+                "value": "1"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\AmiHiveOwnerCorrect",
+                "value": "1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile\\software.exe|19928a84c9c48649\\ProgramId",
+                "value": "000699331c8c651795d41a3f2519fb63237100001204"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile\\software.exe|19928a84c9c48649\\FileId",
+                "value": "0000650ce90839aab2f2ce17fab4aae17c5dd15a264a"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile\\software.exe|19928a84c9c48649\\LowerCaseLongPath",
+                "value": "c:\\users\\user\\desktop\\software.exe"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile\\software.exe|19928a84c9c48649\\LongPathHash",
+                "value": "software.exe|19928a84c9c48649"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile\\software.exe|19928a84c9c48649\\Name",
+                "value": "software.exe"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile\\software.exe|19928a84c9c48649\\Publisher",
+                "value": "microsoft corporation"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile\\software.exe|19928a84c9c48649\\Version",
+                "value": "5, 1, 2600, 5512"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile\\software.exe|19928a84c9c48649\\BinFileVersion",
+                "value": "5.1.2600.5512"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile\\software.exe|19928a84c9c48649\\BinaryType",
+                "value": "pe32_i386"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile\\software.exe|19928a84c9c48649\\ProductName",
+                "value": "microsoft. windows. operating system"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile\\software.exe|19928a84c9c48649\\ProductVersion",
+                "value": "5, 1, 2600, 5512"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile\\software.exe|19928a84c9c48649\\LinkDate",
+                "value": "07/13/2009 23:43:01"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile\\software.exe|19928a84c9c48649\\BinProductVersion",
+                "value": "5.1.2600.5512"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile\\software.exe|19928a84c9c48649\\Size",
+                "value": "00 70 02 00 00 00 00 00 "
+            },
+            {
+                "key": "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile\\software.exe|19928a84c9c48649\\Language",
+                "value": "1042"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile\\software.exe|19928a84c9c48649\\IsPeFile",
+                "value": "1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile\\software.exe|19928a84c9c48649\\IsOsComponent",
+                "value": "0"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile\\software.exe|19928a84c9c48649\\Usn",
+                "value": "38 1F D2 5F 00 00 00 00 "
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\Windows Error Reporting\\Debug\\ExceptionRecord",
+                "value": "05 00 00 C0 00 00 00 00 00 00 00 00 74 71 00 00 02 00 00 00 00 00 00 00 74 71 00 00 00 00 00 00 00 0"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\IdentityCRL\\ClockData\\ClockTimeSeconds",
+                "value": "EA D6 E7 62 00 00 00 00 "
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\IdentityCRL\\ClockData\\TickCount",
+                "value": "C6 A0 5F 00 00 00 00 00 "
+            },
+            {
+                "key": "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile\\PermissionsCheckTestKey"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile\\file.exe|67c23fee9a19d268"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile\\file.exe|67c23fee9a19d268\\ProgramId",
+                "value": "000699331c8c651795d41a3f2519fb63237100001204"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile\\file.exe|67c23fee9a19d268\\FileId",
+                "value": "0000650ce90839aab2f2ce17fab4aae17c5dd15a264a"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile\\file.exe|67c23fee9a19d268\\LowerCaseLongPath",
+                "value": "c:\\users\\user\\desktop\\file.exe"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile\\file.exe|67c23fee9a19d268\\LongPathHash",
+                "value": "file.exe|67c23fee9a19d268"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile\\file.exe|67c23fee9a19d268\\Name",
+                "value": "file.exe"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile\\file.exe|67c23fee9a19d268\\Publisher",
+                "value": "microsoft corporation"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile\\file.exe|67c23fee9a19d268\\Version",
+                "value": "5, 1, 2600, 5512"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile\\file.exe|67c23fee9a19d268\\BinFileVersion",
+                "value": "5.1.2600.5512"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile\\file.exe|67c23fee9a19d268\\BinaryType",
+                "value": "pe32_i386"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile\\file.exe|67c23fee9a19d268\\ProductName",
+                "value": "microsoft. windows. operating system"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile\\file.exe|67c23fee9a19d268\\ProductVersion",
+                "value": "5, 1, 2600, 5512"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile\\file.exe|67c23fee9a19d268\\LinkDate",
+                "value": "07/13/2009 23:43:01"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile\\file.exe|67c23fee9a19d268\\BinProductVersion",
+                "value": "5.1.2600.5512"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile\\file.exe|67c23fee9a19d268\\Size",
+                "value": "00 70 02 00 00 00 00 00 "
+            },
+            {
+                "key": "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile\\file.exe|67c23fee9a19d268\\Language",
+                "value": "1042"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile\\file.exe|67c23fee9a19d268\\IsPeFile",
+                "value": "1"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile\\file.exe|67c23fee9a19d268\\IsOsComponent",
+                "value": "0"
+            },
+            {
+                "key": "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile\\file.exe|67c23fee9a19d268\\Usn",
+                "value": "80 92 C2 28 00 00 00 00 "
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\IdentityCRL\\ClockData\\ClockTimeSeconds",
+                "value": "41 A9 4B 63 00 00 00 00 "
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\IdentityCRL\\ClockData\\TickCount",
+                "value": "F4 82 4D 00 00 00 00 00 "
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\IdentityCRL\\Immersive\\production\\Property\\0018C00655EE9237",
+                "value": "01 00 00 00 01 00 00 00 D0 8C 9D DF 01 15 D1 11 8C 7A 00 C0 4F C2 97 EB 01 00 00 00 94 F8 F8 04 93 2"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\IdentityCRL\\Immersive\\production\\Token\\{67082621-8D18-4333-9C64-10DE93676363}\\DeviceTicket",
+                "value": "01 00 00 00 01 00 00 00 D0 8C 9D DF 01 15 D1 11 8C 7A 00 C0 4F C2 97 EB 01 00 00 00 94 F8 F8 04 93 2"
+            },
+            {
+                "key": "HKEY_CURRENT_USER\\Software\\Microsoft\\IdentityCRL\\Immersive\\production\\Token\\{67082621-8D18-4333-9C64-10DE93676363}\\DeviceId",
+                "value": "0018C00655EE9237"
+            }
+        ],
+        "verdict_confidence": 5,
+        "verdicts": [
+            "CLEAN"
+        ],
+        "files_dropped": [
+            {
+                "path": "C:\\Windows\\SysWOW64\\checkon.bmp"
+            },
+            {
+                "path": "C:\\Windows\\SysWOW64\\ipv6s.dll"
+            },
+            {
+                "path": "C:\\Windows\\SysWOW64\\rtutils.dll.mui"
+            },
+            {
+                "path": "C:\\Windows\\Temp\\1025"
+            },
+            {
+                "path": "C:\\Windows\\Temp\\1025\\host.inf"
+            },
+            {
+                "path": "C:\\Windows\\Temp\\1025\\host.tmp"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Protect\\%SID%\\fb3d34f9-74f8-4cfc-a33e-605e9b8a2c36"
+            },
+            {
+                "path": "C:\\Windows\\Temp\\1025\\index.dat"
+            },
+            {
+                "path": "C:\\Windows\\Temp\\1025\\fsc.tmp~"
+            },
+            {
+                "path": "C:\\Windows\\System32\\spp\\store\\2.0\\data.dat.tmp"
+            },
+            {
+                "path": "C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER337E.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER337E.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3449.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3449.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3479.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER3479.tmp.txt"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER408F.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER408F.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4090.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER4090.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER40A1.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER40A1.tmp.txt"
+            },
+            {
+                "path": "%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Protect\\%SID%\\d91badf8-27fd-4a92-b96e-1c6cb305267c"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF05B.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF05B.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF126.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF126.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF165.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF165.tmp.txt"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERFA20.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERFA20.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERFA6F.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERFA6F.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERFA80.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERFA80.tmp.txt"
+            },
+            {
+                "path": "C:\\Windows\\temp\\1025\\host.tmp",
+                "sha256": "a412a35d4f3857c640b0e4836d71ab01d8f0c651bb58c4575be53459930c5584"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9E08.tmp.WERInternalMetadata.xml",
+                "sha256": "49652d2070fb68bcfb4e54666c1508b102e0fce8db0a2ddefcab6201396a73dc",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9F60.tmp.xml",
+                "sha256": "a5df0ae1fdacb60720fb685841264fac44f3b5852d01acc39b0589a2f108569f",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\Windows\\SysWOW64\\checkon.bmp",
+                "sha256": "b6a4e6a6ad8d8ff3ad748af1e7fb8fa8a457c1d247960d8bd718ce3d838eac4d",
+                "type": "BMP"
+            },
+            {
+                "path": "C:\\Windows\\SysWOW64\\ipv6s.dll",
+                "sha256": "c9ae601807aec7aa04986e5121522b9ccd95f0a666d6071842bdf6f72267e98b",
+                "type": "PE_EXE"
+            },
+            {
+                "path": "C:\\Windows\\Temp\\1025\\host.inf",
+                "sha256": "bf4bf1f7e956df9206425ee21ea727f470eaa9b71e31fa5edf24a81ce70e5762",
+                "type": "TEXT"
+            },
+            {
+                "path": "C:\\Windows\\Temp\\1025\\host.tmp",
+                "sha256": "0c592af998e22c2b2382eb47b7c7d105c0b7aa7299bc2ec43604482c0994ef11",
+                "type": "ZIP"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8036.tmp.WERInternalMetadata.xml",
+                "sha256": "7d6d4597e04af912c927e806ae42afc2f37ff384764acf4b48f3c2de7e42a789",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER818F.tmp.xml",
+                "sha256": "2a5f7f6cc3545c789941e2f806344660c80c789a29338993ff82683239bfc78f",
+                "type": "XML"
+            },
+            {
+                "path": "C:\\Windows\\Temp\\1025\\host.inf",
+                "sha256": "64744fe776e6b1d24ce1ca1a9eb93bece7589336d63b43576813f6ddcf2130d2",
+                "type": "TEXT"
+            },
+            {
+                "path": "C:\\Windows\\Temp\\1025\\host.tmp",
+                "sha256": "533bcfeac504fbcd2121f666d93cd68fd3027c1aefe89af2895452a338da6798",
+                "type": "ZIP"
+            }
+        ],
+        "mutexes_created": [
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\WERReportingForProcess8148",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\AmiProviderMutex_InventoryApplicationFile",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\7ddfa678-d73f-43f1-8dd2-bc7a03528c8d",
+            "\\Sessions\\1\\BaseNamedObjects\\Local\\WERReportingForProcess4236",
+            "\\Sessions\\1\\BaseNamedObjects\\Global\\34eff525-b32e-4734-a704-c38cf30a17bf"
+        ],
+        "files_copied": [
+            {
+                "source": "C:\\Windows\\system32\\rtutils.dll",
+                "destination": "C:\\Windows\\system32\\rtutils.dll.mui"
+            }
+        ],
+        "processes_tree": [
+            {
+                "process_id": "4004",
+                "name": "%WINDIR%\\explorer.exe",
+                "children": [
+                    {
+                        "process_id": "3900",
+                        "name": "%SAMPLEPATH%\\xpsp2.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "8148",
+                "name": "\"C:\\Users\\user\\Desktop\\software.exe\" ",
+                "children": [
+                    {
+                        "process_id": "7988",
+                        "name": "C:\\Windows\\SysWOW64\\WerFault.exe -u -p 8148 -s 628"
+                    }
+                ]
+            }
+        ],
+        "registry_keys_opened": [
+            "HKLM\\SOFTWARE\\Microsoft\\Active Setup\\Installed Components\\{42A7EF8C-A269-11D1-B5BF-0000F8051525}",
+            "HKEY_CURRENT_USER\\Software\\Classes\\Local Settings",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+            "HKEY_CURRENT_USER_Classes\\Local Settings\\Software\\Microsoft",
+            "HKEY_CURRENT_USER_Classes\\Local Settings\\Software\\Microsoft\\Ole",
+            "HKEY_CURRENT_USER_Classes\\Local Settings\\Software\\Microsoft\\Ole\\FeatureDevelopmentProperties",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\AppModel\\Lookaside\\Packages",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DllNXOptions",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\software.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\ProfileList\\S-1-5-21-1015118539-3749460369-599379286-1001\\Preference",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Active Setup\\Installed Components\\{42A7EF8C-A269-11D1-B5BF-0000F8051525}",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Cryptography\\Defaults\\Provider\\Microsoft Base Cryptographic Provider v1.0",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\OLE",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Policies\\Microsoft\\WindowsStore",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages\\en-US",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Nls\\CustomLocale",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Segment Heap",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Policies\\Microsoft\\Cryptography\\Configuration",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Cryptography",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole\\FeatureDevelopmentProperties",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Disable8And16BitMitigation",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Wow64\\x86",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Cryptography",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Cryptography\\DESHashSessionKeyBackward",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Cryptography\\Offload",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\LanguageOverlay\\OverlayPackages\\en-US",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\OLE\\Tracing",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Rpc",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\ProfileList\\S-1-5-21-1015118539-3749460369-599379286-1001",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\MUI\\Settings",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows NT\\Rpc",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows\\Display",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\ComputerName\\ActiveComputerName",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\FileSystem\\",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Hvsi",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FipsAlgorithmPolicy",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\Settings\\LanguageConfiguration",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\UILanguages",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\UILanguages\\PendingDelete",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\NLS\\Language",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\CustomLocale",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\ExtendedLocale",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Sorting\\Ids",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Sorting\\Versions",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\ProfileList",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Srp\\GP\\DLL",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Terminal Server",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters",
+            "HKEY_LOCAL_MACHINE\\System\\Setup",
+            "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root",
+            "\\REGISTRY\\A\\{218033eb-4b45-5542-398c-63bc6f68a1fe}\\Root\\InventoryApplicationFile",
+            "\\REGISTRY\\USER",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\IdentityCRL\\Immersive\\production\\Property",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\IdentityCRL\\Immersive\\production\\Token\\{67082621-8D18-4333-9C64-10DE93676363}",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\file.exe",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\EnterpriseCertificates\\CA",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\EnterpriseCertificates\\Root",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\IdentityCRL\\ClockData",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\SystemCertificates\\AuthRoot",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\SystemCertificates\\CA",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\SystemCertificates\\Root",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\SystemCertificates\\SmartCardRoot",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\SystemCertificates\\CA",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\SystemCertificates\\Root",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\SecurityProviders\\Schannel",
+            "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root",
+            "\\REGISTRY\\A\\{6ba1d121-43aa-37fe-6058-eee0d6aab29a}\\Root\\InventoryApplicationFile"
+        ],
+        "calls_highlighted": [
+            "SetFileTime",
+            "GetDiskFreeSpaceA",
+            "GetTickCount",
+            "Sleep"
+        ],
+        "modules_loaded": [
+            "%SAMPLEPATH%\\xpsp2.exe",
+            "SspiCli.dll",
+            "CRYPTSP.dll",
+            "ADVAPI32.dll",
+            "USERENV.dll",
+            "CRYPTBASE.dll",
+            "crypt32.dll",
+            "RPCRT4.dll"
+        ],
+        "processes_created": [
+            "%SAMPLEPATH%\\xpsp2.exe",
+            "C:\\Windows\\System32\\wuapihost.exe"
+        ],
+        "sigma_analysis_results": [
+            {
+                "match_context": [
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "12345",
+                            "User": "work\\admin",
+                            "Protocol": "udp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:43:38.788",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "DestinationIp": "255.255.255.255",
+                            "SourcePortName": "-",
+                            "Initiated": "true",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "51331",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:43:54.457",
+                            "SourceIsIpv6": "false",
+                            "SourceHostname": "-",
+                            "Initiated": "true",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49168",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:43:54.684",
+                            "SourceIsIpv6": "false",
+                            "SourceHostname": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "SourcePortName": "-",
+                            "Initiated": "true",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49169",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:00.308",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "Initiated": "true",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49170",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:00.658",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "SourcePortName": "-",
+                            "Initiated": "true",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49171",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:05.912",
+                            "SourceIsIpv6": "false",
+                            "SourceHostname": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "SourcePortName": "-",
+                            "Initiated": "true",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49172",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:11.482",
+                            "SourceIsIpv6": "false",
+                            "SourceHostname": "-",
+                            "Initiated": "true",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49175",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:11.984",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "Initiated": "true",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49176",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:17.143",
+                            "SourceIsIpv6": "false",
+                            "SourceHostname": "-",
+                            "Initiated": "true",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49177",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:22.863",
+                            "SourceIsIpv6": "false",
+                            "SourceHostname": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "SourcePortName": "-",
+                            "Initiated": "true",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49178",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:23.617",
+                            "SourceIsIpv6": "false",
+                            "SourceHostname": "-",
+                            "Initiated": "true",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49179",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:28.842",
+                            "SourceIsIpv6": "false",
+                            "SourceHostname": "-",
+                            "Initiated": "true",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49180",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:34.767",
+                            "SourceIsIpv6": "false",
+                            "SourceHostname": "-",
+                            "Initiated": "true",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49183",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:35.678",
+                            "SourceIsIpv6": "false",
+                            "SourceHostname": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "SourcePortName": "-",
+                            "Initiated": "true",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49184",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:40.936",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "Initiated": "true",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49185",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:47.133",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "Initiated": "true",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49186",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:48.264",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "Initiated": "true",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49187",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:53.446",
+                            "SourceIsIpv6": "false",
+                            "SourceHostname": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "SourcePortName": "-",
+                            "Initiated": "true",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49188",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:45:00.604",
+                            "SourceIsIpv6": "false",
+                            "SourceHostname": "-",
+                            "Initiated": "true",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49189",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:45:02.175",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "SourcePortName": "-",
+                            "Initiated": "true",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49190",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:45:02.779",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "SourcePortName": "-",
+                            "Initiated": "true",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49191",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:45:08.033",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "SourcePortName": "-",
+                            "Initiated": "true",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49192",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "12345",
+                            "User": "work\\admin",
+                            "Protocol": "udp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:43:38.788",
+                            "SourceIsIpv6": "false",
+                            "Initiated": "true",
+                            "SourceHostname": "-",
+                            "SourcePortName": "-",
+                            "DestinationIp": "255.255.255.255",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "51331",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:43:54.457",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "Initiated": "true",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49168",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:43:54.684",
+                            "SourceIsIpv6": "false",
+                            "Initiated": "true",
+                            "SourceHostname": "-",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49169",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:00.308",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "DestinationHostname": "-",
+                            "SourcePortName": "-",
+                            "Initiated": "true",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49170",
+                            "DestinationIp": "172.217.9.212"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:00.658",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "DestinationHostname": "-",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49171",
+                            "Initiated": "true"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:05.912",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "DestinationHostname": "-",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49172",
+                            "Initiated": "true"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:11.482",
+                            "SourceIsIpv6": "false",
+                            "Initiated": "true",
+                            "SourceHostname": "-",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49175",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:11.984",
+                            "SourceIsIpv6": "false",
+                            "SourceHostname": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "SourcePortName": "-",
+                            "Initiated": "true",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49176",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:17.143",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "DestinationHostname": "-",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49177",
+                            "Initiated": "true"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:22.863",
+                            "SourceIsIpv6": "false",
+                            "SourceHostname": "-",
+                            "Initiated": "true",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49178",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:23.617",
+                            "SourceIsIpv6": "false",
+                            "Initiated": "true",
+                            "SourceHostname": "-",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49179",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:28.842",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "DestinationHostname": "-",
+                            "SourcePortName": "-",
+                            "Initiated": "true",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49180",
+                            "DestinationIp": "172.217.9.212"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:34.767",
+                            "SourceIsIpv6": "false",
+                            "SourceHostname": "-",
+                            "Initiated": "true",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49183",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:35.678",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "SourcePortName": "-",
+                            "Initiated": "true",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49184",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:40.936",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "DestinationHostname": "-",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49185",
+                            "Initiated": "true"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:47.133",
+                            "SourceIsIpv6": "false",
+                            "Initiated": "true",
+                            "SourceHostname": "-",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49186",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:48.264",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "Initiated": "true",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49187",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:44:53.446",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "Initiated": "true",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49188",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:45:00.604",
+                            "SourceIsIpv6": "false",
+                            "SourceHostname": "-",
+                            "Initiated": "true",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49189",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:45:02.175",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "DestinationHostname": "-",
+                            "SourcePortName": "-",
+                            "Initiated": "true",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49190",
+                            "DestinationIp": "172.217.9.212"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "Usermode",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:45:02.779",
+                            "SourceIsIpv6": "false",
+                            "SourceHostname": "-",
+                            "Initiated": "true",
+                            "SourcePortName": "-",
+                            "DestinationIp": "172.217.9.212",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49191",
+                            "DestinationHostname": "-"
+                        }
+                    },
+                    {
+                        "values": {
+                            "SourceIsIpv6": "false",
+                            "DestinationPort": "443",
+                            "User": "work\\admin",
+                            "Protocol": "tcp",
+                            "SourceIp": "192.168.122.84",
+                            "DestinationIsIpv6": "false",
+                            "DestinationPortName": "-",
+                            "UtcTime": "2022-07-29 19:45:08.033",
+                            "RuleName": "Usermode",
+                            "SourceHostname": "-",
+                            "DestinationHostname": "-",
+                            "SourcePortName": "-",
+                            "Initiated": "true",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "EventID": "3",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "SourcePort": "49192",
+                            "DestinationIp": "172.217.9.212"
+                        }
+                    }
+                ],
+                "rule_level": "high",
+                "rule_id": "e4d5f1be0673fa786cc8379c15338af08cdd11eed433bead9e801d6204d42a2d",
+                "rule_source": "Sigma Integrated Rule Set (GitHub)",
+                "rule_title": "Python Initiated Connection",
+                "rule_description": "Adversaries may attempt to get a listing of services running on remote hosts, including those that may be vulnerable to remote software exploitation",
+                "rule_author": "frack113"
+            },
+            {
+                "match_context": [
+                    {
+                        "values": {
+                            "RuleName": "EXE",
+                            "CreationUtcTime": "2022-07-29 19:43:45.171",
+                            "UtcTime": "2022-07-29 19:43:45.171",
+                            "EventID": "11",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "TargetFilename": "C:\\Users\\admin\\AppData\\Local\\Temp\\frida-1295070079f0ac49eea252ad5313dd94\\frida-winjector-helper-32.exe"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "EXE",
+                            "CreationUtcTime": "2022-07-29 19:43:46.468",
+                            "UtcTime": "2022-07-29 19:43:46.468",
+                            "EventID": "11",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "TargetFilename": "C:\\Users\\admin\\AppData\\Local\\Temp\\frida-1295070079f0ac49eea252ad5313dd94\\frida-winjector-helper-64.exe"
+                        }
+                    },
+                    {
+                        "values": {
+                            "RuleName": "EXE",
+                            "CreationUtcTime": "2022-07-29 19:43:45.171",
+                            "UtcTime": "2022-07-29 19:43:45.171",
+                            "EventID": "11",
+                            "ProcessGuid": "5240FBE6-3862-62E4-3B00-000000002400",
+                            "ProcessId": "1412",
+                            "Image": "C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python37\\pythonw.exe",
+                            "TargetFilename": "C:\\Users\\admin\\AppData\\Local\\Temp\\frida-1295070079f0ac49eea252ad5313dd94\\frida-winjector-helper-32.exe"
+                        }
+                    }
+                ],
+                "rule_level": "low",
+                "rule_id": "b5386a23355681c43cfbd2f2ccfe4b16ed45324d0d7b5583487a9f302ee1e427",
+                "rule_source": "Sigma Integrated Rule Set (GitHub)",
+                "rule_title": "Creation of an Executable by an Executable",
+                "rule_description": "Detects the creation of an executable by another executable",
+                "rule_author": "frack113"
+            },
+            {
+                "match_context": [
+                    {
+                        "values": {
+                            "ScriptBlockText": "2a9050b8b5565911bbd3de0f9fdb41c96563509fc86f87745820109398fd58d8",
+                            "MessageTotal": "\u0001",
+                            "ScriptBlockId": "435fd078-c886-40fe-8800-7eedefdb4d41",
+                            "Path": "",
+                            "MessageNumber": "\u0001",
+                            "EventID": "4104"
+                        }
+                    },
+                    {
+                        "values": {
+                            "ScriptBlockText": "2a9050b8b5565911bbd3de0f9fdb41c96563509fc86f87745820109398fd58d8",
+                            "Path": "",
+                            "ScriptBlockId": "9346da43-a1a2-4c76-851a-5fc843ab1082",
+                            "MessageTotal": "\u0001",
+                            "MessageNumber": "\u0001",
+                            "EventID": "4104"
+                        }
+                    },
+                    {
+                        "values": {
+                            "ScriptBlockText": "6336977262b7e48d301fce3e18bda07fe7cc8aa8f8eb0948c10c773f8deba032",
+                            "Path": "",
+                            "ScriptBlockId": "07f3d91b-5924-4086-ad29-36cabfd9d98d",
+                            "MessageTotal": "\f",
+                            "MessageNumber": "\u0002",
+                            "EventID": "4104"
+                        }
+                    },
+                    {
+                        "values": {
+                            "ScriptBlockText": "1553fe0eeb8a8e34598c3ff6a42f78d2377eef20bff85201ac52eadbc1b0a204",
+                            "MessageTotal": "\f",
+                            "ScriptBlockId": "07f3d91b-5924-4086-ad29-36cabfd9d98d",
+                            "Path": "",
+                            "MessageNumber": "\u0003",
+                            "EventID": "4104"
+                        }
+                    },
+                    {
+                        "values": {
+                            "ScriptBlockText": "e59313de3b73e587a231dfc20ed7652afb1b68bbdb8dcfc15cf451dfa96ba693",
+                            "MessageTotal": "\f",
+                            "ScriptBlockId": "07f3d91b-5924-4086-ad29-36cabfd9d98d",
+                            "Path": "",
+                            "MessageNumber": "\u0004",
+                            "EventID": "4104"
+                        }
+                    },
+                    {
+                        "values": {
+                            "ScriptBlockText": "f8decbb1958002ad83e68cd67c6d9f47b49e72bc044e21bc0525764aff80c929",
+                            "MessageTotal": "\f",
+                            "ScriptBlockId": "07f3d91b-5924-4086-ad29-36cabfd9d98d",
+                            "Path": "",
+                            "MessageNumber": "\u0006",
+                            "EventID": "4104"
+                        }
+                    },
+                    {
+                        "values": {
+                            "ScriptBlockText": "9dac239eae519bea8fd0d7b021259d09932d4c83d4afeea5d10e983708b4aa51",
+                            "Path": "",
+                            "ScriptBlockId": "07f3d91b-5924-4086-ad29-36cabfd9d98d",
+                            "MessageTotal": "\f",
+                            "MessageNumber": "\b",
+                            "EventID": "4104"
+                        }
+                    },
+                    {
+                        "values": {
+                            "ScriptBlockText": "341212b3ca7da1094e7995478d67aadd93446bb19ef8ad5161f893f6ecce3961",
+                            "MessageTotal": "\f",
+                            "ScriptBlockId": "07f3d91b-5924-4086-ad29-36cabfd9d98d",
+                            "Path": "",
+                            "MessageNumber": "\n",
+                            "EventID": "4104"
+                        }
+                    },
+                    {
+                        "values": {
+                            "ScriptBlockText": "6336977262b7e48d301fce3e18bda07fe7cc8aa8f8eb0948c10c773f8deba032",
+                            "Path": "",
+                            "ScriptBlockId": "ba69ebb4-43c2-4763-93a4-9e2905af908e",
+                            "MessageTotal": "\f",
+                            "MessageNumber": "\u0002",
+                            "EventID": "4104"
+                        }
+                    },
+                    {
+                        "values": {
+                            "ScriptBlockText": "1553fe0eeb8a8e34598c3ff6a42f78d2377eef20bff85201ac52eadbc1b0a204",
+                            "MessageTotal": "\f",
+                            "ScriptBlockId": "ba69ebb4-43c2-4763-93a4-9e2905af908e",
+                            "Path": "",
+                            "MessageNumber": "\u0003",
+                            "EventID": "4104"
+                        }
+                    },
+                    {
+                        "values": {
+                            "ScriptBlockText": "e59313de3b73e587a231dfc20ed7652afb1b68bbdb8dcfc15cf451dfa96ba693",
+                            "MessageTotal": "\f",
+                            "ScriptBlockId": "ba69ebb4-43c2-4763-93a4-9e2905af908e",
+                            "Path": "",
+                            "MessageNumber": "\u0004",
+                            "EventID": "4104"
+                        }
+                    },
+                    {
+                        "values": {
+                            "ScriptBlockText": "f8decbb1958002ad83e68cd67c6d9f47b49e72bc044e21bc0525764aff80c929",
+                            "MessageTotal": "\f",
+                            "ScriptBlockId": "ba69ebb4-43c2-4763-93a4-9e2905af908e",
+                            "Path": "",
+                            "MessageNumber": "\u0006",
+                            "EventID": "4104"
+                        }
+                    },
+                    {
+                        "values": {
+                            "ScriptBlockText": "9dac239eae519bea8fd0d7b021259d09932d4c83d4afeea5d10e983708b4aa51",
+                            "MessageTotal": "\f",
+                            "ScriptBlockId": "ba69ebb4-43c2-4763-93a4-9e2905af908e",
+                            "Path": "",
+                            "MessageNumber": "\b",
+                            "EventID": "4104"
+                        }
+                    },
+                    {
+                        "values": {
+                            "ScriptBlockText": "341212b3ca7da1094e7995478d67aadd93446bb19ef8ad5161f893f6ecce3961",
+                            "Path": "",
+                            "ScriptBlockId": "ba69ebb4-43c2-4763-93a4-9e2905af908e",
+                            "MessageTotal": "\f",
+                            "MessageNumber": "\n",
+                            "EventID": "4104"
+                        }
+                    }
+                ],
+                "rule_level": "medium",
+                "rule_id": "60d527fe5a592cbe8e98428d1412743b909d5625ec8bc91d20e8b6ee8b36db20",
+                "rule_source": "Sigma Integrated Rule Set (GitHub)",
+                "rule_title": "Powershell Create Scheduled Task",
+                "rule_description": "Adversaries may abuse the Windows Task Scheduler to perform task scheduling for initial or recurring execution of malicious code",
+                "rule_author": "frack113"
+            },
+            {
+                "match_context": [
+                    {
+                        "values": {
+                            "param1": "\\Device\\HarddiskVolume4\\Program Files (x86)\\sandbox\\driver\\sandbox-driver.sys",
+                            "EventID": "5038"
+                        }
+                    }
+                ],
+                "rule_level": "low",
+                "rule_id": "134564d292d785dff102940b8a1ee06dba2d462c5fb852124b3771a49d7885f1",
+                "rule_source": "Sigma Integrated Rule Set (GitHub)",
+                "rule_title": "Failed Code Integrity Checks",
+                "rule_description": "Code integrity failures may indicate tampered executables.",
+                "rule_author": "Thomas Patzke"
+            }
+        ],
+        "processes_terminated": [
+            "C:\\Windows\\System32\\wuapihost.exe"
+        ],
+        "files_attribute_changed": [
+            "C:\\Windows\\SysWOW64\\ipv6s.dll"
+        ],
+        "tags": [
+            "DIRECT_CPU_CLOCK_ACCESS",
+            "LONG_SLEEPS",
+            "CHECKS_DISK_SPACE",
+            "RUNTIME_MODULES",
+            "DETECT_DEBUG_ENVIRONMENT"
+        ],
+        "command_executions": [
+            "\"%SAMPLEPATH%\\xpsp2.exe\" ",
+            "C:\\Windows\\System32\\wuapihost.exe -Embedding"
+        ],
+        "files_opened": [
+            "C:\\Windows\\system32\\checkon.bmp",
+            "C:\\Windows\\system32\\ipv6s.dll",
+            "C:\\Windows\\system32\\kernel32.dll",
+            "C:\\Windows\\system32\\rtutils.dll",
+            "C:\\Windows\\system32\\rtutils.dll.mui",
+            "C:\\Windows\\temp\\1025",
+            "C:\\Windows\\temp\\1025\\host.inf",
+            "C:\\Windows\\temp\\1025\\host.tmp",
+            "C:\\Windows\\system32\\CRYPTSP.dll",
+            "C:\\Windows\\system32\\rsaenh.dll",
+            "C:\\Users\\<USER>\\AppData\\Roaming\\Microsoft",
+            "C:\\Users\\<USER>\\AppData\\Roaming\\Microsoft\\Crypto",
+            "C:\\Users\\<USER>\\AppData\\Roaming\\Microsoft\\Crypto\\RSA",
+            "C:\\Users\\<USER>\\AppData\\Roaming\\Microsoft\\Crypto\\RSA\\S-1-5-21-3711686801-687107597-1149503783-1001",
+            "C:\\Users\\<USER>\\AppData\\Roaming\\Microsoft\\Crypto\\RSA\\S-1-5-21-3711686801-687107597-1149503783-1001\\0f5007522459c86e95ffcc62f32308f1_5240fbe6-8494-40ad-8186-54254c0a5d6f",
+            "C:\\Windows\\temp\\1025\\index.dat",
+            "C:\\Windows\\temp\\1025\\fsc.tmp~",
+            "c:\\$Recycle.Bin\\",
+            "c:\\$Recycle.Bin\\S-1-5-21-3711686801-687107597-1149503783-1001\\",
+            "c:\\cygwin64\\",
+            "c:\\cygwin64\\bin\\",
+            "c:\\cygwin64\\dev\\",
+            "c:\\cygwin64\\dev\\mqueue\\",
+            "c:\\cygwin64\\dev\\shm\\",
+            "c:\\cygwin64\\etc\\",
+            "c:\\cygwin64\\etc\\alternatives\\",
+            "c:\\cygwin64\\etc\\crypto-policies\\",
+            "c:\\cygwin64\\etc\\crypto-policies\\back-ends\\",
+            "c:\\cygwin64\\etc\\crypto-policies\\state\\",
+            "c:\\cygwin64\\etc\\defaults\\",
+            "c:\\cygwin64\\etc\\defaults\\etc\\",
+            "c:\\cygwin64\\etc\\defaults\\etc\\crypto-policies\\",
+            "c:\\cygwin64\\etc\\defaults\\etc\\pkcs11\\",
+            "c:\\cygwin64\\etc\\defaults\\etc\\pki\\",
+            "c:\\cygwin64\\etc\\defaults\\etc\\pki\\ca-trust\\",
+            "c:\\cygwin64\\etc\\defaults\\etc\\pki\\tls\\",
+            "c:\\cygwin64\\etc\\defaults\\etc\\profile.d\\",
+            "c:\\cygwin64\\etc\\defaults\\etc\\skel\\",
+            "c:\\cygwin64\\etc\\fstab.d\\",
+            "c:\\cygwin64\\etc\\pkcs11\\",
+            "c:\\cygwin64\\etc\\pki\\",
+            "c:\\cygwin64\\etc\\pki\\ca-trust\\",
+            "c:\\cygwin64\\etc\\pki\\ca-trust\\extracted\\",
+            "c:\\cygwin64\\etc\\pki\\ca-trust\\extracted\\edk2\\",
+            "c:\\cygwin64\\etc\\pki\\ca-trust\\extracted\\java\\",
+            "c:\\cygwin64\\etc\\pki\\ca-trust\\extracted\\openssl\\",
+            "c:\\cygwin64\\etc\\pki\\ca-trust\\extracted\\pem\\",
+            "c:\\cygwin64\\etc\\pki\\ca-trust\\source\\",
+            "c:\\cygwin64\\etc\\pki\\ca-trust\\source\\anchors\\",
+            "c:\\cygwin64\\etc\\pki\\ca-trust\\source\\blacklist\\",
+            "c:\\cygwin64\\etc\\pki\\tls\\",
+            "c:\\cygwin64\\etc\\pki\\tls\\certs\\",
+            "c:\\cygwin64\\etc\\pki\\tls\\misc\\",
+            "c:\\cygwin64\\etc\\pki\\tls\\private\\",
+            "c:\\cygwin64\\etc\\postinstall\\",
+            "c:\\cygwin64\\etc\\preremove\\",
+            "c:\\cygwin64\\etc\\profile.d\\",
+            "c:\\cygwin64\\etc\\setup\\",
+            "c:\\cygwin64\\etc\\skel\\",
+            "c:\\cygwin64\\etc\\ssl\\",
+            "c:\\cygwin64\\home\\",
+            "c:\\cygwin64\\lib\\",
+            "c:\\cygwin64\\lib\\engines-1.1\\",
+            "c:\\cygwin64\\lib\\gawk\\",
+            "c:\\cygwin64\\lib\\groff\\",
+            "c:\\cygwin64\\lib\\pkcs11\\",
+            "c:\\cygwin64\\lib\\security\\",
+            "c:\\cygwin64\\sbin\\",
+            "c:\\cygwin64\\tmp\\",
+            "c:\\cygwin64\\usr\\",
+            "c:\\cygwin64\\usr\\include\\",
+            "c:\\cygwin64\\usr\\include\\bash\\",
+            "c:\\cygwin64\\usr\\libexec\\",
+            "c:\\cygwin64\\usr\\libexec\\awk\\",
+            "c:\\cygwin64\\usr\\libexec\\coreutils\\",
+            "c:\\cygwin64\\usr\\libexec\\man-db\\",
+            "c:\\cygwin64\\usr\\libexec\\p11-kit\\",
+            "c:\\cygwin64\\usr\\local\\",
+            "c:\\cygwin64\\usr\\local\\bin\\",
+            "c:\\cygwin64\\usr\\local\\etc\\",
+            "c:\\cygwin64\\usr\\local\\lib\\",
+            "c:\\cygwin64\\usr\\sbin\\",
+            "c:\\cygwin64\\usr\\share\\",
+            "c:\\cygwin64\\usr\\share\\applications\\",
+            "c:\\cygwin64\\usr\\share\\awk\\",
+            "c:\\cygwin64\\usr\\share\\bash-completion\\",
+            "c:\\cygwin64\\usr\\share\\bash-completion\\completions\\",
+            "c:\\cygwin64\\usr\\share\\crypto-policies\\",
+            "c:\\cygwin64\\usr\\share\\crypto-policies\\DEFAULT\\",
+            "c:\\cygwin64\\usr\\share\\crypto-policies\\EMPTY\\",
+            "c:\\cygwin64\\usr\\share\\crypto-policies\\FIPS\\",
+            "c:\\cygwin64\\usr\\share\\crypto-policies\\FUTURE\\",
+            "c:\\cygwin64\\usr\\share\\crypto-policies\\LEGACY\\",
+            "c:\\cygwin64\\usr\\share\\crypto-policies\\NEXT\\",
+            "c:\\cygwin64\\usr\\share\\cygwin\\",
+            "c:\\cygwin64\\usr\\share\\doc\\",
+            "c:\\cygwin64\\usr\\share\\doc\\alternatives\\",
+            "c:\\cygwin64\\usr\\share\\doc\\base-files\\",
+            "c:\\cygwin64\\usr\\share\\doc\\bash\\",
+            "c:\\cygwin64\\usr\\share\\doc\\bash\\html\\",
+            "c:\\cygwin64\\usr\\share\\doc\\bzip2\\",
+            "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath",
+            "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath\\",
+            "C:\\ProgramData\\Microsoft\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0167b10a\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_02eea1aa\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_03846afb\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_04a0557f\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_06b96ea6\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_083997d2\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_09c8a12e\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0d2ab2dd\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0d755352\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0da46adc\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0e5cd3f3\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0e896645\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0ebe1d98\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0ecc34b8\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0f74391d\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_0fac631b\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_105b7bf9\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_10cc5c64\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1240be1d\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1265f538\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1310af76\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_133a0179\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_13a411bb\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_14e658b1\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_164425eb\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_16928446\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_169c9557\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_17084850\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_170c5ddb\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_17886657\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_17a76142\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_17e7f771\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1884ee06\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_191e2e8c\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1ac4a5b7\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1ae1faeb\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1b058065\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1bf77989\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1c574b4d\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1db2ca49\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_Microsoft.Window_dc7c09b5b22497c66105fec8cf4793ba24a83ae_676f2386_1e62d7f1\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_software.exe_2831be87f965195511d4b86e66cde81e72e18ca_3b919692_1f6bb160\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_428143de0835352ca0387c8ac5b230cb50517e_00000000_1d8e5d10\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_cfe1cecb3fc4fa47e4cfd13f073f8f5286f2352_00000000_06ca88da\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_d0f89118b8f38e6d8948ba1b85de33a87f3cf_00000000_0fd55fbe\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.1304_d0f89118b8f38e6d8948ba1b85de33a87f3cf_00000000_1380c7a7\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.556_b8eb1e54943b78873f4d8fc9e530a75a38b8ad5_00000000_26f00b2c\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.556_b8eb1e54943b78873f4d8fc9e530a75a38b8ad5_00000000_92aed632\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_10.0.17134.556_b8eb1e54943b78873f4d8fc9e530a75a38b8ad5_00000000_c8537061\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_Update;_befb8eec60bd843fc1643beae2e16262f9b62027_00000000_1fce4988\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\NonCritical_setup.exe_c65736d431fda8aba8a61f35d41838c047e8f0f8_00000000_02305ef5\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9B47.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9B47.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9E08.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9E08.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9F60.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9F60.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERE623.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERE644.tmp.txt",
+            "C:\\ProgramData\\chocolatey\\bin",
+            "C:\\ProgramData\\chocolatey\\bin\\",
+            "C:\\Users\\user\\AppData\\Local\\DBG\\config.xml",
+            "C:\\Users\\user\\AppData\\Local\\Dbg\\EngineExtensions32",
+            "C:\\Users\\user\\AppData\\Local\\Dbg\\Visualizers\\",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\WindowsApps",
+            "C:\\Users\\user\\AppData\\Local\\Microsoft\\WindowsApps\\",
+            "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39",
+            "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\",
+            "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\Scripts",
+            "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\Scripts\\",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Crypto\\RSA\\S-1-5-21-1015118539-3749460369-599379286-1001\\57484cf5fceb89c249434f0c3c4045ff_c784477d-3fc3-4206-9876-55a4df3943da",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\AppContainerUserCertRead",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\CRLs\\",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\CTLs\\",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\SystemCertificates\\My\\Certificates\\",
+            "C:\\Users\\user\\Desktop\\software.exe",
+            "C:\\Windows\\AppPatch\\sysmain.sdb",
+            "C:\\Windows\\Globalization\\Sorting\\sortdefault.nls",
+            "C:\\Windows\\SysWOW64",
+            "C:\\Windows\\SysWOW64\\",
+            "C:\\Windows\\SysWOW64\\ADVAPI32.dll",
+            "C:\\Windows\\SysWOW64\\CRYPT32.dll",
+            "C:\\Windows\\SysWOW64\\CRYPTBASE.dll",
+            "C:\\Windows\\SysWOW64\\CRYPTSP.dll",
+            "C:\\Windows\\SysWOW64\\DNSAPI.dll",
+            "C:\\Windows\\SysWOW64\\DPAPI.DLL",
+            "C:\\Windows\\SysWOW64\\DPAPI.dll",
+            "C:\\Windows\\SysWOW64\\DSREG.DLL",
+            "C:\\Windows\\SysWOW64\\GDI32.dll",
+            "C:\\Windows\\SysWOW64\\IMM32.DLL",
+            "C:\\Windows\\SysWOW64\\IPHLPAPI.DLL",
+            "C:\\Windows\\SysWOW64\\KERNEL32.DLL",
+            "C:\\Windows\\SysWOW64\\KERNELBASE.dll",
+            "C:\\Windows\\SysWOW64\\MSASN1.dll",
+            "C:\\Windows\\SysWOW64\\NETAPI32.dll",
+            "C:\\Windows\\SysWOW64\\OnDemandConnRouteHelper.dll",
+            "C:\\Windows\\SysWOW64\\OneCoreUAPCommonProxyStub.dll",
+            "C:\\Windows\\SysWOW64\\OpenSSH",
+            "C:\\Windows\\SysWOW64\\RMCLIENT.dll",
+            "C:\\Windows\\SysWOW64\\RPCRT4.dll",
+            "C:\\Windows\\SysWOW64\\SHLWAPI.dll",
+            "C:\\Windows\\SysWOW64\\Secur32.dll",
+            "C:\\Windows\\SysWOW64\\SspiCli.dll",
+            "C:\\Windows\\SysWOW64\\USER32.dll",
+            "C:\\Windows\\SysWOW64\\USERENV.dll",
+            "C:\\Windows\\SysWOW64\\Visualizers\\",
+            "C:\\Windows\\SysWOW64\\WINHTTP.dll",
+            "C:\\Windows\\SysWOW64\\WININET.dll",
+            "C:\\Windows\\SysWOW64\\WINNSI.DLL",
+            "C:\\Windows\\SysWOW64\\WINXP",
+            "C:\\Windows\\SysWOW64\\Wbem",
+            "C:\\Windows\\SysWOW64\\Wbem\\",
+            "C:\\Windows\\SysWOW64\\Windows.Security.Authentication.OnlineId.dll",
+            "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0",
+            "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\",
+            "C:\\Windows\\SysWOW64\\XmlLite.dll",
+            "C:\\Windows\\SysWOW64\\aepic.dll",
+            "C:\\Windows\\SysWOW64\\apphelp.dll",
+            "C:\\Windows\\SysWOW64\\bcrypt.dll",
+            "C:\\Windows\\SysWOW64\\bcryptPrimitives.dll",
+            "C:\\Windows\\SysWOW64\\checkon.bmp",
+            "C:\\Windows\\SysWOW64\\combase.dll",
+            "C:\\Windows\\SysWOW64\\crypt32.dll",
+            "C:\\Windows\\SysWOW64\\dbgcore.DLL",
+            "C:\\Windows\\SysWOW64\\dbgeng.dll",
+            "C:\\Windows\\SysWOW64\\dbghelp.dll",
+            "C:\\Windows\\SysWOW64\\dbgmodel.dll",
+            "C:\\Windows\\SysWOW64\\dhcpcsvc.DLL",
+            "C:\\Windows\\SysWOW64\\dhcpcsvc6.DLL",
+            "C:\\Windows\\SysWOW64\\drivers\\",
+            "C:\\Windows\\SysWOW64\\en-US\\CRYPT32.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\KERNEL32.DLL.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\KERNELBASE.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\RPCRT4.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\USER32.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\USERENV.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\WININET.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\WerFault.exe.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\advapi32.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\apphelp.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\bcrypt.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\combase.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\crypt32.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\faultrep.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\mswsock.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\ntdll.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\rsaenh.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\sechost.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\shlwapi.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\tzres.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\wer.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\winnlsres.dll.mui",
+            "C:\\Windows\\SysWOW64\\en-US\\wshqos.dll.mui",
+            "C:\\Windows\\SysWOW64\\faultrep.dll",
+            "C:\\Windows\\SysWOW64\\fwpuclnt.dll",
+            "C:\\Windows\\SysWOW64\\gdi32full.dll",
+            "C:\\Windows\\SysWOW64\\ipv6s.dll",
+            "C:\\Windows\\SysWOW64\\kernel32.dll",
+            "C:\\Windows\\SysWOW64\\msvcp110_win.dll",
+            "C:\\Windows\\SysWOW64\\msvcp_win.dll",
+            "C:\\Windows\\SysWOW64\\msvcrt.dll",
+            "C:\\Windows\\SysWOW64\\mswsock.dll",
+            "C:\\Windows\\SysWOW64\\netprofm.dll",
+            "C:\\Windows\\SysWOW64\\npmproxy.dll",
+            "C:\\Windows\\SysWOW64\\ntdll.dll",
+            "C:\\Windows\\SysWOW64\\ntmarta.dll",
+            "C:\\Windows\\SysWOW64\\ole32.dll",
+            "C:\\Windows\\SysWOW64\\policymanager.dll",
+            "C:\\Windows\\SysWOW64\\pri",
+            "C:\\Windows\\SysWOW64\\profapi.dll",
+            "C:\\Windows\\SysWOW64\\rasadhlp.dll",
+            "C:\\Windows\\SysWOW64\\rsaenh.dll",
+            "C:\\Windows\\SysWOW64\\rtutils.dll",
+            "C:\\Windows\\SysWOW64\\sechost.dll",
+            "C:\\Windows\\SysWOW64\\sfc.dll",
+            "C:\\Windows\\SysWOW64\\sfc_os.DLL",
+            "C:\\Windows\\SysWOW64\\twinapi.appcore.dll",
+            "C:\\Windows\\SysWOW64\\tzres.dll",
+            "C:\\Windows\\SysWOW64\\ucrtbase.dll",
+            "C:\\Windows\\SysWOW64\\uxtheme.dll",
+            "C:\\Windows\\SysWOW64\\verifier.dll",
+            "C:\\Windows\\SysWOW64\\version.dll",
+            "C:\\Windows\\SysWOW64\\webio.dll",
+            "C:\\Windows\\SysWOW64\\wer.dll",
+            "C:\\Windows\\SysWOW64\\wer.dll.3.Manifest",
+            "C:\\Windows\\SysWOW64\\win32u.dll",
+            "C:\\Windows\\SysWOW64\\winext",
+            "C:\\Windows\\SysWOW64\\winext\\arcade",
+            "C:\\Windows\\SysWOW64\\winnlsres.dll",
+            "C:\\Windows\\SysWOW64\\winxp\\triage.ini",
+            "C:\\Windows\\SysWOW64\\wshqos.dll",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_Microsoft.Window_ca5066b3972f8d510ee6b1357351f351ee9b8_3509a1b5_0903585a\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_file.exe_5934327220e22234a2ea32646a90178d892d3b59_ce7368be_1c718546\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\NonCritical_10.0.17134.1304_64c7b1ba69ec9b26126caf16f394e3f9b1e91e4_00000000_04de0c82\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\NonCritical_1_6c1f9c3d3d9d3fde2e0f666f6f146c8e29f676_00000000_0d9ea76e\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\NonCritical_Microsoft Window_d5bde7c27aaa213ebe00ab0316518b54deba0_00000000_115e189b\\",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER7CDA.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER7CDA.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8036.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8036.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER818F.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER818F.tmp.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCE36.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERCE47.tmp.txt",
+            "C:\\Users\\user\\Desktop\\file.exe",
+            "C:\\Windows\\SysWOW64\\NTASN1.dll",
+            "C:\\Windows\\SysWOW64\\cryptnet.dll",
+            "C:\\Windows\\SysWOW64\\mskeyprotect.dll",
+            "C:\\Windows\\SysWOW64\\ncrypt.dll",
+            "C:\\Windows\\SysWOW64\\ncryptsslp.dll",
+            "C:\\Windows\\SysWOW64\\schannel.dll",
+            "C:\\Windows\\System32\\drivers\\etc\\hosts",
+            "C:\\Windows\\Temp\\1025\\host.inf",
+            "C:\\Windows\\WinSxS\\FileMaps\\users_user_desktop_98ca7c1fc6e208b1.cdf-ms",
+            "C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.1304_none_1ba91cf2911002f6",
+            "C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.1304_none_1ba91cf2911002f6\\Comctl32.dll",
+            "C:\\Windows\\system32\\drivers\\etc\\hosts",
+            "MountPointManager",
+            "Nsi",
+            "PhysicalDrive0",
+            "\\DEVICE\\NETBT_TCPIP_{3882A85B-858A-11EB-B9E1-806E6F6E6963}",
+            "\\DEVICE\\NETBT_TCPIP_{92904508-F335-4574-A127-534547B20089}",
+            "\\Device\\Afd\\Endpoint",
+            "\\Device\\IPT",
+            "\\Device\\KsecDD",
+            "\\Device\\RasAcd",
+            "c:\\",
+            "c:\\$Recycle.Bin\\S-1-5-18\\",
+            "c:\\$Recycle.Bin\\S-1-5-21-1015118539-3749460369-599379286-1001\\",
+            "c:\\$SysReset\\",
+            "c:\\$SysReset\\AppxLogs\\",
+            "c:\\$SysReset\\CloudImage\\",
+            "c:\\$SysReset\\Logs\\",
+            "c:\\$SysReset\\MDM\\",
+            "c:\\$SysReset\\Scratch\\",
+            "c:\\Config.Msi\\",
+            "c:\\Documents and Settings\\",
+            "c:\\Documents and Settings\\All Users\\",
+            "c:\\Documents and Settings\\All Users\\Adobe\\",
+            "c:\\Documents and Settings\\All Users\\Adobe\\ARM\\",
+            "c:\\Documents and Settings\\All Users\\Adobe\\ARM\\{291AA914-A987-4CE9-BD63-AC0A92D435E5}\\",
+            "c:\\Documents and Settings\\All Users\\Adobe\\Setup\\",
+            "c:\\Documents and Settings\\All Users\\Adobe\\Setup\\{AC76BA86-7AD7-FFFF-7B44-AC0F074E4100}\\",
+            "c:\\Documents and Settings\\All Users\\Adobe\\Setup\\{AC76BA86-7AD7-FFFF-7B44-AC0F074E4100}\\Transforms\\",
+            "c:\\Documents and Settings\\All Users\\Application Data\\",
+            "c:\\Documents and Settings\\All Users\\Application Data\\Adobe\\",
+            "c:\\Documents and Settings\\All Users\\Application Data\\Adobe\\ARM\\",
+            "c:\\Documents and Settings\\All Users\\Application Data\\Adobe\\ARM\\{291AA914-A987-4CE9-BD63-AC0A92D435E5}\\",
+            "c:\\Documents and Settings\\All Users\\Application Data\\Adobe\\Setup\\",
+            "c:\\Documents and Settings\\All Users\\Application Data\\Adobe\\Setup\\{AC76BA86-7AD7-FFFF-7B44-AC0F074E4100}\\"
+        ],
+        "text_highlighted": [
+            "C:\\Windows\\system32\\cmd.exe"
+        ],
+        "files_written": [
+            "C:\\Windows\\system32\\checkon.bmp",
+            "C:\\Windows\\system32\\ipv6s.dll",
+            "C:\\Windows\\temp\\1025\\host.inf",
+            "C:\\Windows\\temp\\1025\\host.tmp",
+            "C:\\Windows\\temp\\1025\\index.dat",
+            "C:\\Windows\\temp\\1025\\fsc.tmp~",
+            "C:\\Windows\\ServiceProfiles\\LocalService\\AppData\\Roaming\\Microsoft\\UPnP Device Host\\upnphost\\udhisapi.dll",
+            "C:\\Windows\\SysWOW64\\ipv6s.dll",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_software.exe_2831be87f965195511d4b86e66cde81e72e18ca_3b919692_1f6bb160",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue\\AppCrash_software.exe_2831be87f965195511d4b86e66cde81e72e18ca_3b919692_1f6bb160\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9B47.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9B47.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9E08.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9E08.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9F60.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER9F60.tmp.xml",
+            "C:\\Users\\user\\AppData\\Local\\DBG",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Crypto",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Crypto\\RSA",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Crypto\\RSA\\S-1-5-21-1015118539-3749460369-599379286-1001",
+            "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\Crypto\\RSA\\S-1-5-21-1015118539-3749460369-599379286-1001\\57484cf5fceb89c249434f0c3c4045ff_c784477d-3fc3-4206-9876-55a4df3943da",
+            "C:\\Windows\\SysWOW64\\checkon.bmp",
+            "C:\\Windows\\Temp\\1025\\fsc.tmp~",
+            "C:\\Windows\\Temp\\1025\\host.inf",
+            "C:\\Windows\\Temp\\1025\\host.tmp",
+            "C:\\Windows\\temp\\1025",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_file.exe_5934327220e22234a2ea32646a90178d892d3b59_ce7368be_1c718546",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive\\AppCrash_file.exe_5934327220e22234a2ea32646a90178d892d3b59_ce7368be_1c718546\\Report.wer",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER7CDA.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER7CDA.tmp.dmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8036.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER8036.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER818F.tmp",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER818F.tmp.xml"
+        ],
+        "crypto_plain_text": [
+            "\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\u077b\ufffd;\ufffd\u067b\ufffd;\ufffd\ufffd\u027a;\ufffd\u01f8\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\u0731\ufffd",
+            "\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd;\u0139\ufffd\ufffd;\ufffd\ufffd\u00a7;\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd;\u0168\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd",
+            "\ufffd\u067b\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\u0672\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\u0575\ufffd;\ufffd\ufffd\ufffd\ufffd;\u01f0\ufffd\ufffd\ufffd\ufffd;\ufffd\u03f5\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\u073c\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\u05bc\ufffd;\ufffd\u0372\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd;\ufffd",
+            "\ufffd\ufffd\u02bb\ufffd",
+            "D5J;\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+            "\ufffd\ufffd\ufffd\ufffd;\u01bb\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd",
+            "6138.;4717.;!6138;!4717;6138/;4717/;STPJ;VGM;GUY",
+            "2\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd;2\ufffd\ufffd\ufffd\ufffd\ufffd\u02bb\ufffd;2\ufffd\ufffd\ufffd\ufffd;4\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd;4\ufffd\ufffd\ufffd\ufffd\ufffd\u02bb\ufffd;4\ufffd\ufffd\ufffd\ufffd;3\ufffd\u073c\ufffd;3\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u02bb\ufffd;\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd;6\ufffd\ufffd\ufffd\ufffd;7\ufffd\ufffd\ufffd\ufffd;8\ufffd\ufffd\ufffd\ufffd;2\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd;3\ufffd\ufffd\ufffd\ufffd;9\ufffd\ufffd\ufffd\ufffd",
+            "\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd;\ufffd\u3ef9\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd-\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd\u026e"
+        ],
+        "attack_techniques": {
+            "T1055": [
+                {
+                    "severity": "INFO",
+                    "description": "Spawns processes"
+                }
+            ],
+            "T1036": [
+                {
+                    "severity": "INFO",
+                    "description": "Drops PE files to the windows directory (C:\\\\Windows)"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Creates files inside the system directory"
+                }
+            ],
+            "T1497": [
+                {
+                    "severity": "INFO",
+                    "description": "Checks if the current process is being debugged"
+                }
+            ],
+            "T1027.002": [
+                {
+                    "severity": "INFO",
+                    "description": "Sample is packed with UPX"
+                }
+            ],
+            "T1027": [
+                {
+                    "severity": "INFO",
+                    "description": "Sample is packed with UPX"
+                }
+            ],
+            "T1070.004": [
+                {
+                    "severity": "INFO",
+                    "description": "Deletes files inside the Windows folder"
+                }
+            ],
+            "T1518.001": [
+                {
+                    "severity": "INFO",
+                    "description": "Checks if the current process is being debugged"
+                }
+            ],
+            "T1082": [
+                {
+                    "severity": "INFO",
+                    "description": "Queries the volume information (name, serial number etc) of a device"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Queries the cryptographic machine GUID"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Reads software policies"
+                }
+            ],
+            "T1018": [
+                {
+                    "severity": "INFO",
+                    "description": "Reads the hosts file"
+                }
+            ]
+        }
+    }
+}

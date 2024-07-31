@@ -1,0 +1,611 @@
+{
+    "data": {
+        "files_copied": [
+            {
+                "source": "C:\\PROGRA~3\\Mozilla\\ixxiuyl.exe",
+                "destination": "C:\\PROGRA~3\\Mozilla\\ixxiuyl.exefzbjaaa.tmp"
+            }
+        ],
+        "tags": [
+            "PERSISTENCE",
+            "DIRECT_CPU_CLOCK_ACCESS",
+            "RUNTIME_MODULES"
+        ],
+        "ip_traffic": [
+            {
+                "destination_ip": "192.168.0.81",
+                "destination_port": 137,
+                "transport_layer_protocol": "UDP"
+            },
+            {
+                "destination_ip": "192.168.0.1",
+                "destination_port": 137,
+                "transport_layer_protocol": "UDP"
+            }
+        ],
+        "mutexes_created": [
+            "\\BaseNamedObjects\\Local\\SM0:3800:168:WilStaging_02"
+        ],
+        "registry_keys_set": [
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Schedule\\TaskCache\\Tasks\\{87C612A1-A4DC-4B21-A862-D6C6B5842F65}\\DynamicInfo"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Schedule\\TaskCache\\Tasks\\{87C612A1-A4DC-4B21-A862-D6C6B5842F65}\\Path"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Schedule\\TaskCache\\Tasks\\{87C612A1-A4DC-4B21-A862-D6C6B5842F65}\\Hash"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Schedule\\TaskCache\\Tasks\\{87C612A1-A4DC-4B21-A862-D6C6B5842F65}\\Triggers"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Schedule\\TaskCache\\Tree\\scdpkth\\Index"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Schedule\\TaskCache\\Tree\\scdpkth\\Id"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows\\AppInit_DLLs",
+                "value": "C:\\PROGRA~3\\Mozilla\\iswlzia.dll"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Wow6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows\\LoadAppInit_DLLs",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows\\LoadAppInit_DLLs",
+                "value": "DWORD (0x00000001)"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows\\AppInit_DLLs",
+                "value": "C:\\PROGRA~3\\Mozilla\\nggwatl.dll"
+            },
+            {
+                "key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows\\LoadAppInit_DLLs",
+                "value": "1"
+            }
+        ],
+        "processes_injected": [
+            "\\\\?\\C:\\Windows\\system32\\wbem\\WMIADAP.EXE"
+        ],
+        "processes_created": [
+            "%SAMPLEPATH%\\C__PROGRA~3_Mozilla_ixxiuyl.exe",
+            "C:\\Windows\\System32\\wuapihost.exe",
+            "C:\\PROGRA~3\\Mozilla\\mpavlvn.exe"
+        ],
+        "dns_lookups": [
+            {
+                "hostname": "www.msftconnecttest.com",
+                "resolved_ips": [
+                    "13.107.4.52"
+                ]
+            },
+            {
+                "hostname": "arc.msn.com",
+                "resolved_ips": [
+                    "20.82.210.154"
+                ]
+            }
+        ],
+        "modules_loaded": [
+            "c:\\windows\\system32\\apphelp.dll",
+            "c:\\windows\\system32\\oleaut32.dll",
+            "c:\\windows\\system32\\advapi32.dll",
+            "c:\\windows\\system32\\msvcrt.dll",
+            "c:\\windows\\system32\\sechost.dll",
+            "c:\\windows\\system32\\kernel32.dll",
+            "c:\\windows\\system32\\sspicli.dll",
+            "c:\\windows\\system32\\rpcrt4.dll",
+            "c:\\windows\\system32\\cmd.exe",
+            "c:\\windows\\system32\\dwmapi.dll",
+            "c:\\windows\\system32\\shlwapi.dll",
+            "c:\\users\\admini~1\\appdata\\local\\temp\\1dced0b61303b07b289586106ed9dbf74ff93b1f.exe",
+            "c:\\windows\\system32\\xmllite.dll",
+            "c:\\windows\\system32\\gdi32.dll",
+            "c:\\windows\\system32\\winbrand.dll",
+            "c:\\windows\\system32\\cryptbase.dll",
+            "c:\\windows\\system32\\user32.dll",
+            "c:\\windows\\system32\\shell32.dll",
+            "c:\\windows\\system32\\ntdll.dll",
+            "c:\\progra~2\\mozilla\\nzjobka.exe",
+            "c:\\windows\\system32\\usp10.dll",
+            "c:\\windows\\system32\\clbcatq.dll",
+            "c:\\windows\\system32\\imm32.dll",
+            "c:\\windows\\system32\\lpk.dll",
+            "c:\\windows\\system32\\msctf.dll",
+            "c:\\windows\\system32\\ole32.dll",
+            "c:\\windows\\system32\\taskschd.dll",
+            "c:\\windows\\system32\\kernelbase.dll",
+            "c:\\windows\\system32\\uxtheme.dll",
+            "kernel32.dll",
+            "USER32.dll",
+            "ADVAPI32.dll",
+            "SHELL32.dll",
+            "ole32.dll",
+            "OLEAUT32.dll",
+            "API-MS-Win-Security-LSALookup-L1-1-0.dll"
+        ],
+        "mitre_attack_techniques": [
+            {
+                "id": "T1053",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Creates COM task schedule object (often to register a task for autostart)"
+            },
+            {
+                "id": "T1547.001",
+                "severity": "IMPACT_SEVERITY_LOW",
+                "signature_description": "Creates an undocumented autostart registry key"
+            },
+            {
+                "id": "T1055",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Spawns processes"
+            },
+            {
+                "id": "T1036",
+                "severity": "IMPACT_SEVERITY_LOW",
+                "signature_description": "Drops executable to common a third party application directory"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Queries the cryptographic machine GUID"
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Reads software policies"
+            }
+        ],
+        "calls_highlighted": [
+            "GetTickCount"
+        ],
+        "command_executions": [
+            "%SAMPLEPATH%",
+            "\"%SAMPLEPATH%\\C__PROGRA~3_Mozilla_ixxiuyl.exe\" ",
+            "C:\\Windows\\System32\\wuapihost.exe -Embedding",
+            "C:\\PROGRA~3\\Mozilla\\mpavlvn.exe -zavmktg",
+            "\"c:\\windows\\System32\\cmd.exe\" /c C:\\PROGRA~2\\Mozilla\\nzjobka.exe -nrpzhvd",
+            "C:\\PROGRA~2\\Mozilla\\nzjobka.exe  -nrpzhvd"
+        ],
+        "files_dropped": [
+            {
+                "path": "C:\\PROGRA~3\\Mozilla\\cvfwqdm.exe",
+                "sha256": "7f94ad3a7d08ab1713c2deced0b799d970b20d0bbda816e17aacf038b15d0d94"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF08A.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF08A.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF145.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF145.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF175.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF175.tmp.txt"
+            },
+            {
+                "path": "C:\\Windows\\System32\\spp\\store\\2.0\\data.dat.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Mozilla"
+            },
+            {
+                "path": "C:\\PROGRA~3\\Mozilla\\mpavlvn.exe"
+            },
+            {
+                "path": "C:\\Windows\\System32\\Tasks\\dkemncd"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER867.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER867.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER879.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER879.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER889.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER889.tmp.txt"
+            },
+            {
+                "path": "C:\\PROGRA~3\\Mozilla\\citxdrf.dll"
+            },
+            {
+                "path": "C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat"
+            },
+            {
+                "path": "c:\\programdata\\mozilla\\nzjobka.exe",
+                "sha256": "97d04f88e75c5f7244144a4c6723e040bc0591e9e2774dd953426f02328c4d96",
+                "type": "PE_EXE"
+            },
+            {
+                "path": "c:\\programdata\\mozilla\\daciqrg.dll",
+                "sha256": "6ab97d0b0db00f129468528b4cadc1fe70733444cf6d6acd388f54c80474f0a7",
+                "type": "PE_DLL"
+            },
+            {
+                "path": "C:\\PROGRA~3\\Mozilla\\ixxiuyl.exe",
+                "sha256": "6ec334d49f3248c4ab4a3a3cdeb2ea766869a54390f2546c0ad164f960fb7414"
+            },
+            {
+                "path": "C:\\ProgramData\\Mozilla\\dqmqszg.exe",
+                "sha256": "eb46ce82e707cb4fc0523d8b9dc999d2a0fc4f84226fd7bf52447eeaf5a5cd5c",
+                "type": "PE_EXE"
+            },
+            {
+                "path": "C:\\ProgramData\\Mozilla\\nggwatl.dll",
+                "sha256": "6ab97d0b0db00f129468528b4cadc1fe70733444cf6d6acd388f54c80474f0a7",
+                "type": "PE_EXE"
+            }
+        ],
+        "registry_keys_opened": [
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{0f87369f-a4e5-4cfc-bd3e-73e6154572dd}\\InprocServer32",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\MUI\\Settings",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Cryptography",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\SideBySide",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{0f87369f-a4e5-4cfc-bd3e-73e6154572dd}\\InprocHandler",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Diagnostics",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\ComputerName",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "HKEY_CURRENT_USER\\CLSID\\{0f87369f-a4e5-4cfc-bd3e-73e6154572dd}\\TreatAs",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Sorting\\Versions",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\System",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\OLE\\Tracing",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\COM3",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\AppCompatibility",
+            "HKEY_CURRENT_USER\\CLSID\\{0f87369f-a4e5-4cfc-bd3e-73e6154572dd}",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Error Message Instrument\\",
+            "HKEY_CURRENT_USER\\Control Panel\\Desktop",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Rpc",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\AppID\\1dced0b61303b07b289586106ed9dbf74ff93b1f.exe",
+            "HKEY_CURRENT_USER\\Control Panel\\Desktop\\LanguageConfiguration",
+            "HKEY_CURRENT_USER\\CLSID\\{0f87369f-a4e5-4cfc-bd3e-73e6154572dd}\\InprocHandler32",
+            "HKEY_CURRENT_USER\\CLSID\\{0f87369f-a4e5-4cfc-bd3e-73e6154572dd}\\ProgID",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontLink\\SystemLink",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\OLE",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Session Manager\\AppCertDlls",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Srp\\GP\\DLL",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Segoe UI",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{0f87369f-a4e5-4cfc-bd3e-73e6154572dd}\\TreatAs",
+            "HKEY_CURRENT_USER\\AppID\\1dced0b61303b07b289586106ed9dbf74ff93b1f.exe",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers",
+            "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Control Panel\\Desktop",
+            "HKEY_CURRENT_USER\\CLSID\\{0f87369f-a4e5-4cfc-bd3e-73e6154572dd}\\Progid",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\ExtendedLocale",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\Windows Error Reporting\\WMR",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\ComputerName\\ActiveComputerName",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Command Processor",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{0f87369f-a4e5-4cfc-bd3e-73e6154572dd}\\Progid",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Rpc",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\software\\classes\\Interface\\{00000617-0000-0010-8000-00aa006d2ea4}\\proxystubclsid",
+            "HKEY_CURRENT_USER\\CLSID\\{0F87369F-A4E5-4CFC-BD3E-73E6154572DD}",
+            "HKEY_LOCAL_MACHINE",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLEAUT",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\DataStore_V1.0",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Terminal Server",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\AppCompat",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\SQMClient\\Windows",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\CLSID\\{0f87369f-a4e5-4cfc-bd3e-73e6154572dd}\\InprocHandler32",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\CustomLocale",
+            "HKEY_LOCAL_MACHINE\\System\\Setup",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+            "HKEY_CURRENT_USER",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\OLE",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Language Groups",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Locale\\Alternate Sorts",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Locale",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\ComputerName\\ActiveComputerName",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\CMF\\Config",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Command Processor",
+            "HKEY_CURRENT_USER\\Control Panel\\Desktop\\MuiCached\\MachineLanguageConfiguration",
+            "HKEY_CURRENT_USER\\Control Panel\\Desktop\\MuiCached",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes\\CLSID\\{0F87369F-A4E5-4CFC-BD3E-73E6154572DD}",
+            "HKEY_CURRENT_USER\\CLSID\\{0f87369f-a4e5-4cfc-bd3e-73e6154572dd}\\InprocHandler",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SQMClient\\Windows",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Custom\\nzjobka.exe",
+            "HKEY_CURRENT_USER\\CLSID\\{0f87369f-a4e5-4cfc-bd3e-73e6154572dd}\\InprocServer32",
+            "HKLM\\software\\classes\\Interface\\{00000617-0000-0010-8000-00aa006d2ea4}\\proxystubclsid",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+            "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Common AppData",
+            "HKLM\\SOFTWARE\\Microsoft\\Cryptography",
+            "HKLM\\SOFTWARE\\Microsoft\\Cryptography\\MachineGuid",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\AppID\\ixxiuyl.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{0F87369F-A4E5-4CFC-BD3E-73E6154572DD}",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{0f87369f-a4e5-4cfc-bd3e-73e6154572dd}\\Elevation",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{0f87369f-a4e5-4cfc-bd3e-73e6154572dd}\\InprocHandler",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{0f87369f-a4e5-4cfc-bd3e-73e6154572dd}\\InprocHandler32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{0f87369f-a4e5-4cfc-bd3e-73e6154572dd}\\InprocServer32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{0f87369f-a4e5-4cfc-bd3e-73e6154572dd}\\LocalServer",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{0f87369f-a4e5-4cfc-bd3e-73e6154572dd}\\LocalServer32",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\WOW6432Node\\CLSID\\{0f87369f-a4e5-4cfc-bd3e-73e6154572dd}\\TreatAs",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\AppModel\\Lookaside\\Packages",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DllNXOptions",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\dqmqszg.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\ixxiuyl.exe",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\AppModelUnlock",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Appx",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\OLE",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\OLEAUT",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages\\en-US",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Nls\\CustomLocale",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Segment Heap",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Policies\\Microsoft\\Cryptography\\Configuration",
+            "HKEY_LOCAL_MACHINE\\Software\\Classes",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Ole\\FeatureDevelopmentProperties",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Disable8And16BitMitigation",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Wow64\\x86",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\OLE",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\OLE\\Tracing",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Rpc",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\MUI\\Settings",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows NT\\Rpc",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows\\Display",
+            "HKEY_LOCAL_MACHINE\\Software\\WOW6432Node\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\FileSystem\\",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Hvsi",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Lsa\\FipsAlgorithmPolicy",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\Settings\\LanguageConfiguration",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\UILanguages",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\MUI\\UILanguages\\PendingDelete",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\NLS\\Language",
+            "HKEY_LOCAL_MACHINE\\software\\classes\\WOW6432Node\\Interface\\{00000617-0000-0010-8000-00aa006d2ea4}\\proxystubclsid",
+            "HKEY_USERS.DEFAULT\\Control Panel\\Desktop",
+            "HKEY_USERS.DEFAULT\\Control Panel\\Desktop\\LanguageConfiguration",
+            "HKEY_USERS.DEFAULT\\Control Panel\\Desktop\\MuiCached",
+            "HKEY_USERS.DEFAULT\\Control Panel\\Desktop\\MuiCached\\MachineLanguageConfiguration",
+            "HKEY_USERS.DEFAULT\\Control Panel\\International",
+            "HKEY_USERS.DEFAULT\\Control Panel\\International\\??????",
+            "HKEY_USERS.DEFAULT\\Control Panel\\International\\??????\\Gregorian",
+            "HKEY_USERS.DEFAULT\\Software\\Classes\\Local Settings",
+            "HKEY_USERS.DEFAULT\\Software\\Classes\\Local Settings\\Software\\Microsoft",
+            "HKEY_USERS.DEFAULT\\Software\\Classes\\Local Settings\\Software\\Microsoft\\Ole",
+            "HKEY_USERS.DEFAULT\\Software\\Classes\\Local Settings\\Software\\Microsoft\\Ole\\FeatureDevelopmentProperties",
+            "HKEY_USERS.DEFAULT\\Software\\Policies\\Microsoft\\Control Panel\\Desktop",
+            "HKEY_USERSS-1-5-18",
+            "HKEY_USERSS-1-5-18\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+            "HKEY_USERSS-1-5-18\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers"
+        ],
+        "verdict_confidence": 50,
+        "verdicts": [
+            "STEALER"
+        ],
+        "processes_terminated": [
+            "C:\\PROGRA~3\\Mozilla\\cvfwqdm.exe -ryuitec",
+            "wmiadap.exe /F /T /R",
+            "taskeng.exe {FFA911B5-75D8-45DB-911A-45E387AB9C3B}",
+            "%SAMPLEPATH%",
+            "%SAMPLEPATH%\\C__PROGRA~3_Mozilla_ixxiuyl.exe",
+            "C:\\Windows\\System32\\wuapihost.exe",
+            "C:\\PROGRA~3\\Mozilla\\mpavlvn.exe"
+        ],
+        "processes_tree": [
+            {
+                "process_id": "2788",
+                "name": "C:\\PROGRA~3\\Mozilla\\cvfwqdm.exe -ryuitec"
+            },
+            {
+                "process_id": "2884",
+                "name": "wmiadap.exe /F /T /R"
+            },
+            {
+                "process_id": "2664",
+                "name": "taskeng.exe {FFA911B5-75D8-45DB-911A-45E387AB9C3B}",
+                "children": [
+                    {
+                        "process_id": "2696",
+                        "name": "C:\\PROGRA~3\\Mozilla\\cvfwqdm.exe -ryuitec"
+                    }
+                ]
+            },
+            {
+                "process_id": "2576",
+                "name": "%SAMPLEPATH%"
+            },
+            {
+                "process_id": "2932",
+                "name": "%windir%\\system32\\wbem\\wmiprvse.exe"
+            },
+            {
+                "process_id": "2572",
+                "name": "%WINDIR%\\explorer.exe",
+                "children": [
+                    {
+                        "process_id": "3416",
+                        "name": "%SAMPLEPATH%\\C__PROGRA~3_Mozilla_ixxiuyl.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "616",
+                "name": "-",
+                "children": [
+                    {
+                        "process_id": "3536",
+                        "name": "C:\\Windows\\System32\\wuapihost.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "908",
+                "name": "-",
+                "children": [
+                    {
+                        "process_id": "2740",
+                        "name": "C:\\PROGRA~3\\Mozilla\\mpavlvn.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "2152",
+                "name": "1dced0b61303b07b289586106ed9dbf74ff93b1f.exe"
+            },
+            {
+                "process_id": "2316",
+                "name": "cmd.exe",
+                "children": [
+                    {
+                        "process_id": "2340",
+                        "name": "nzjobka.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "7016",
+                "name": "'C:\\Users\\user\\Desktop\\ixxiuyl.exe' "
+            },
+            {
+                "process_id": "3800",
+                "name": "C:\\ProgramData\\Mozilla\\dqmqszg.exe C:\\PROGRA~3\\Mozilla\\dqmqszg.exe -seaexkc"
+            }
+        ],
+        "files_written": [
+            "C:\\PROGRA~2\\Mozilla\\daciqrg.dll",
+            "C:\\PROGRA~2\\Mozilla\\nzjobka.exe",
+            "C:\\PROGRA~3\\Mozilla\\ixxiuyl.exe",
+            "C:\\PROGRA~3\\Mozilla\\dqmqszg.exe",
+            "C:\\PROGRA~3\\Mozilla\\nggwatl.dll",
+            "C:\\ProgramData\\Mozilla\\",
+            "C:\\ProgramData\\Mozilla\\dqmqszg.exe",
+            "C:\\ProgramData\\Mozilla\\nggwatl.dll"
+        ],
+        "files_deleted": [
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF08A.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF145.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WERF175.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER867.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER879.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER889.tmp.txt",
+            "C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat",
+            "C:\\PROGRA~3\\Mozilla\\ixxiuyl.exefzbjaaa.tmp"
+        ],
+        "files_opened": [
+            "c:\\windows\\System32\\en-US\\cmd.exe.mui",
+            "C:\\Windows\\AppPatch\\sysmain.sdb",
+            "c:\\users\\admini~1\\appdata\\local\\temp\\1dced0b61303b07b289586106ed9dbf74ff93b1f.exe",
+            "C:\\Windows\\Fonts\\staticcache.dat",
+            "C:\\PROGRA~2\\Mozilla\\nzjobka.exe",
+            "C:\\Windows\\Globalization\\Sorting\\sortdefault.nls",
+            "555555555555555555555555555555",
+            "C:\\ProgramData\\Mozilla\\",
+            "C:\\PROGRA~3\\Mozilla\\ixxiuyl.exe",
+            "C:\\PROGRA~3\\Mozilla\\ixxiuyl.exefzbjaaa.tmp",
+            "C:\\PROGRA~3\\",
+            "C:\\PROGRA~3\\Mozilla\\",
+            "C:\\PROGRA~3\\Mozilla\\dqmqszg.exe",
+            "C:\\Users\\user\\Desktop\\555555555555555555555555555555",
+            "C:\\Users\\user\\Desktop\\ixxiuyl.exe",
+            "C:\\Windows\\SysWOW64\\",
+            "C:\\Windows\\SysWOW64\\555555555555555555555555555555",
+            "C:\\Windows\\SysWOW64\\ADVAPI32.dll",
+            "C:\\Windows\\SysWOW64\\CRYPTBASE.dll",
+            "C:\\Windows\\SysWOW64\\FLTLIB.DLL",
+            "C:\\Windows\\SysWOW64\\GDI32.dll",
+            "C:\\Windows\\SysWOW64\\IMM32.DLL",
+            "C:\\Windows\\SysWOW64\\KERNEL32.DLL",
+            "C:\\Windows\\SysWOW64\\KERNELBASE.dll",
+            "C:\\Windows\\SysWOW64\\MSCTF.dll",
+            "C:\\Windows\\SysWOW64\\OLEAUT32.dll",
+            "C:\\Windows\\SysWOW64\\RPCRT4.dll",
+            "C:\\Windows\\SysWOW64\\SHELL32.dll",
+            "C:\\Windows\\SysWOW64\\SspiCli.dll",
+            "C:\\Windows\\SysWOW64\\USER32.dll",
+            "C:\\Windows\\SysWOW64\\XmlLite.dll",
+            "C:\\Windows\\SysWOW64\\apphelp.dll",
+            "C:\\Windows\\SysWOW64\\bcryptPrimitives.dll",
+            "C:\\Windows\\SysWOW64\\cfgmgr32.dll",
+            "C:\\Windows\\SysWOW64\\clbcatq.dll",
+            "C:\\Windows\\SysWOW64\\combase.dll",
+            "C:\\Windows\\SysWOW64\\dwmapi.dll",
+            "C:\\Windows\\SysWOW64\\gdi32full.dll",
+            "C:\\Windows\\SysWOW64\\kernel.appcore.dll",
+            "C:\\Windows\\SysWOW64\\msvcp_win.dll",
+            "C:\\Windows\\SysWOW64\\msvcrt.dll",
+            "C:\\Windows\\SysWOW64\\ntdll.dll",
+            "C:\\Windows\\SysWOW64\\ole32.dll",
+            "C:\\Windows\\SysWOW64\\oleaut32.dll",
+            "C:\\Windows\\SysWOW64\\powrprof.dll",
+            "C:\\Windows\\SysWOW64\\profapi.dll",
+            "C:\\Windows\\SysWOW64\\sechost.dll",
+            "C:\\Windows\\SysWOW64\\shcore.dll",
+            "C:\\Windows\\SysWOW64\\shlwapi.dll",
+            "C:\\Windows\\SysWOW64\\taskschd.dll",
+            "C:\\Windows\\SysWOW64\\ucrtbase.dll",
+            "C:\\Windows\\SysWOW64\\uxtheme.dll",
+            "C:\\Windows\\SysWOW64\\win32u.dll",
+            "C:\\Windows\\SysWOW64\\windows.storage.dll"
+        ],
+        "verdict_labels": [
+            "Lethic"
+        ],
+        "attack_techniques": {
+            "T1053": [
+                {
+                    "severity": "INFO",
+                    "description": "Creates COM task schedule object (often to register a task for autostart)"
+                }
+            ],
+            "T1547.001": [
+                {
+                    "severity": "LOW",
+                    "description": "Creates an undocumented autostart registry key"
+                }
+            ],
+            "T1055": [
+                {
+                    "severity": "INFO",
+                    "description": "Spawns processes"
+                }
+            ],
+            "T1036": [
+                {
+                    "severity": "LOW",
+                    "description": "Drops executable to common a third party application directory"
+                }
+            ],
+            "T1082": [
+                {
+                    "severity": "INFO",
+                    "description": "Queries the cryptographic machine GUID"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "Reads software policies"
+                }
+            ]
+        }
+    }
+}

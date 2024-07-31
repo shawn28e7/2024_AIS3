@@ -1,0 +1,1501 @@
+{
+    "data": {
+        "modules_loaded": [
+            "%SAMPLEPATH%\\860b5e5ae1a2e1ce8ec3d977f43bfe8a2dac9b9cbb6c55820eb12c6ac15acd4b.exe"
+        ],
+        "verdicts": [
+            "UNKNOWN_VERDICT",
+            "CLEAN"
+        ],
+        "registry_keys_opened": [
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\LanguageOverlay\\OverlayPackages\\en-US",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\00000007",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries64\\000000000004",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Winsock2\\Parameters",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\SafeBoot\\Option",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries64\\000000000011",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Segment Heap",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\WinSock2\\Parameters",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\AppId_Catalog",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries64\\000000000010",
+            "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries64\\000000000002",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries64\\000000000001",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries64\\000000000003",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries64\\000000000002",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries64\\000000000001",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries64\\000000000012",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries64\\000000000013",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries64\\000000000004",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries64\\000000000008",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\WindowsStore",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries64",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries64\\000000000003",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries64\\000000000009",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries64\\000000000005",
+            "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags",
+            "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\MUI\\Settings",
+            "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\AppModel\\Lookaside\\Packages",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Srp\\GP\\DLL",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries64\\000000000006",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Sorting\\Versions",
+            "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\FileSystem\\",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\AppId_Catalog\\355238D9",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\00000014",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries64\\000000000007",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries64",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\Protocol_Catalog9\\Catalog_Entries64\\000000000005",
+            "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Services\\WinSock2\\Parameters\\NameSpace_Catalog5\\Catalog_Entries64\\000000000006"
+        ],
+        "memory_pattern_urls": [
+            "http://www.winimage.com/zLibDll",
+            "http://www.winimage.com/zLibDll1.2.7-"
+        ],
+        "command_executions": [
+            "%SAMPLEPATH%",
+            "\"%SAMPLEPATH%\\860b5e5ae1a2e1ce8ec3d977f43bfe8a2dac9b9cbb6c55820eb12c6ac15acd4b.exe\" ",
+            "C:\\Windows\\System32\\wuapihost.exe -Embedding"
+        ],
+        "mbc": [
+            {
+                "id": "C0058",
+                "objective": "Data",
+                "behavior": "Modulo",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "calculate modulo 256 via x86 assembly"
+                    }
+                ]
+            },
+            {
+                "id": "E1027.m02",
+                "objective": "Defense Evasion",
+                "behavior": "Obfuscated Files or Information",
+                "method": "Encoding-Standard Algorithm",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "encode data using XOR"
+                    }
+                ]
+            },
+            {
+                "id": "C0026.002",
+                "objective": "Data",
+                "behavior": "Encode Data",
+                "method": "XOR",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "encode data using XOR"
+                    }
+                ]
+            },
+            {
+                "id": "B0001.019",
+                "objective": "Anti-Behavioral Analysis",
+                "behavior": "Debugger Detection",
+                "method": "Process Environment Block",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "PEB access"
+                    }
+                ]
+            },
+            {
+                "id": "C0049",
+                "objective": "File System",
+                "behavior": "Get File Attributes",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "get file attributes"
+                    }
+                ]
+            },
+            {
+                "id": "C0016",
+                "objective": "File System",
+                "behavior": "Create File",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "create or open file"
+                    }
+                ]
+            },
+            {
+                "id": "C0021",
+                "objective": "Cryptography",
+                "behavior": "Generate Pseudo-random Sequence",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "generate random numbers using the Delphi LCG"
+                    }
+                ]
+            },
+            {
+                "id": "B0032.020",
+                "objective": "Anti-Static Analysis",
+                "behavior": "Executable Code Obfuscation",
+                "method": "Argument Obfuscation",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "contain obfuscated stackstrings"
+                    }
+                ]
+            },
+            {
+                "id": "B0032.017",
+                "objective": "Anti-Static Analysis",
+                "behavior": "Executable Code Obfuscation",
+                "method": "Stack Strings",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "contain obfuscated stackstrings"
+                    }
+                ]
+            },
+            {
+                "id": "B0003.003",
+                "objective": "Anti-Behavioral Analysis",
+                "behavior": "Dynamic Analysis Evasion",
+                "method": "Delayed Execution",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "delay execution"
+                    }
+                ]
+            },
+            {
+                "id": "C0027.009",
+                "objective": "Cryptography",
+                "behavior": "Encrypt Data",
+                "method": "RC4",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "encrypt data using RC4 KSA"
+                    }
+                ]
+            },
+            {
+                "id": "C0028.002",
+                "objective": "Cryptography",
+                "behavior": "Encryption Key",
+                "method": "RC4 KSA",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "encrypt data using RC4 KSA"
+                    }
+                ]
+            },
+            {
+                "id": "C0027.009",
+                "objective": "Cryptography",
+                "behavior": "Encrypt Data",
+                "method": "RC4",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "encrypt data using RC4 PRGA"
+                    }
+                ]
+            },
+            {
+                "id": "C0021.004",
+                "objective": "Cryptography",
+                "behavior": "Generate Pseudo-random Sequence",
+                "method": "RC4 PRGA",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "encrypt data using RC4 PRGA"
+                    }
+                ]
+            },
+            {
+                "id": "E1083",
+                "objective": "Discovery",
+                "behavior": "File and Directory Discovery",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "check if file exists"
+                    }
+                ]
+            },
+            {
+                "id": "C0051",
+                "objective": "File System",
+                "behavior": "Read File",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "read file on Windows"
+                    }
+                ]
+            },
+            {
+                "id": "E1083",
+                "objective": "Discovery",
+                "behavior": "File and Directory Discovery",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "enumerate files on Windows"
+                    }
+                ]
+            },
+            {
+                "id": "E1083",
+                "objective": "Discovery",
+                "behavior": "File and Directory Discovery",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "enumerate files recursively"
+                    }
+                ]
+            },
+            {
+                "id": "C0052",
+                "objective": "File System",
+                "behavior": "Writes File",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "write file on Windows"
+                    }
+                ]
+            },
+            {
+                "id": "B0001.032",
+                "objective": "Anti-Behavioral Analysis",
+                "behavior": "Debugger Detection",
+                "method": "Timing/Delay Check GetTickCount",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "check for time delay via GetTickCount"
+                    }
+                ]
+            },
+            {
+                "id": "C0018",
+                "objective": "Process",
+                "behavior": "Terminate Process",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "terminate process"
+                    }
+                ]
+            },
+            {
+                "id": "C0032.001",
+                "objective": "Data",
+                "behavior": "Checksum",
+                "method": "CRC32",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "hash data with CRC32"
+                    }
+                ]
+            },
+            {
+                "id": "C0032.005",
+                "objective": "Data",
+                "behavior": "Checksum",
+                "method": "Adler",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "compute adler32 checksum"
+                    }
+                ]
+            },
+            {
+                "id": "C0060",
+                "objective": "Data",
+                "behavior": "Compression Library",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "linked against ZLIB"
+                    }
+                ]
+            }
+        ],
+        "files_opened": [
+            "C:\\Users\\user\\Desktop\\program.exe",
+            "C:\\Windows\\AppPatch\\sysmain.sdb",
+            "C:\\Windows\\SYSTEM32\\apphelp.dll",
+            "C:\\Windows\\SYSTEM32\\en-US\\tzres.dll.mui",
+            "C:\\Windows\\SYSTEM32\\ntdll.dll",
+            "C:\\Windows\\SYSTEM32\\tzres.dll",
+            "C:\\Windows\\System32\\KERNEL32.DLL",
+            "C:\\Windows\\System32\\KERNELBASE.dll"
+        ],
+        "registry_keys_set": [
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\drivers\\ndis.sys[MofResourceName]",
+                "value": "LowDateTime:-331231481,HighDateTime:30676316***Binary mof failed, see WMIPROV.LOG"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\System32\\Drivers\\portcls.SYS[PortclsMof]",
+                "value": "LowDateTime:418629328,HighDateTime:30487037***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\drivers\\en-US\\ACPI.sys.mui[ACPIMOFResource]",
+                "value": "LowDateTime:1237199616,HighDateTime:30016579***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\DRIVERS\\HDAudBus.sys[HDAudioMofName]",
+                "value": "LowDateTime:-227274444,HighDateTime:30116024***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\System32\\Drivers\\en-US\\portcls.SYS.mui[PortclsMof]",
+                "value": "LowDateTime:1137199616,HighDateTime:30016579***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\advapi32.dll[MofResourceName]",
+                "value": "LowDateTime:302488720,HighDateTime:30778805***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\en-US\\advapi32.dll.mui[MofResourceName]",
+                "value": "LowDateTime:369951187,HighDateTime:30778805***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\drivers\\en-US\\mssmbios.sys.mui[MofResource]",
+                "value": "LowDateTime:1497199616,HighDateTime:30016579***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\DRIVERS\\en-US\\HDAudBus.sys.mui[HDAudioMofName]",
+                "value": "LowDateTime:-377767680,HighDateTime:30016579***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\drivers\\en-US\\ndis.sys.mui[MofResourceName]",
+                "value": "LowDateTime:382232320,HighDateTime:30016580***Binary mof failed, see WMIPROV.LOG"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\DRIVERS\\en-US\\intelppm.sys.mui[PROCESSORWMI]",
+                "value": "LowDateTime:-577767680,HighDateTime:30016579***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\IDE\\DiskAMDX_HARDDISK___________________________2.5+____\\5&2770a7af&0&0.0.0_0-{05901221-D566-11d1-B2F0-00A0C9062910}",
+                "value": "LowDateTime:803713417,HighDateTime:0***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\DRIVERS\\intelppm.sys[PROCESSORWMI]",
+                "value": "LowDateTime:-445445610,HighDateTime:30778799***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\drivers\\ACPI.sys[ACPIMOFResource]",
+                "value": "LowDateTime:398767260,HighDateTime:30646967***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\DRIVERS\\monitor.sys[MonitorWMI]",
+                "value": "LowDateTime:-1637837527,HighDateTime:30762899***Binary mof failed, see WMIPROV.LOG"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\%windir%\\system32\\drivers\\mssmbios.sys[MofResource]",
+                "value": "LowDateTime:-649833737,HighDateTime:30733938***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\Network\\{4D36E972-E325-11CE-BFC1-08002BE10318}\\{B5DA8633-954C-4495-AE46-0BB5B5FB1CDC}\\Connection\\PnpInstanceID",
+                "value": "PCI\\VEN_8086&DEV_100E&SUBSYS_11001AF4&REV_03\\3&13C0B0C5&0&90"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Services\\BITS\\Performance\\PerfMMFileName",
+                "value": "Global\\MMF_BITS_s"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\DeviceClasses\\{ad498944-762f-11d0-8dcb-00c04fc3358c}\\##?#SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{ad498944-762f-11d0-8dcb-00c04fc3358c}\\#{78032B7E-4968-42D3-9F37-287EA86C0AAA}\\Control\\Linked",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\DeviceClasses\\{ad498944-762f-11d0-8dcb-00c04fc3358c}\\##?#SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{ad498944-762f-11d0-8dcb-00c04fc3358c}\\#{78032B7E-4968-42D3-9F37-287EA86C0AAA}\\SymbolicLink",
+                "value": "\\\\?\\SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{ad498944-762f-11d0-8dcb-00c04fc3358c}\\{78032B7E-4968-42D3-9F37-287EA86C0AAA}"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\CIMOM\\ConfigValueEssNeedsLoading",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\CIMOM\\List of event-active namespaces",
+                "value": "00 00 54 00 45 00 76 00 65 00 6E 00 74 00 4C 00 6F 00 67 00 45 00 76 00 65 00 6E 00 74 00 43 00 6F 00 6E 00 73 00 75 00 6D 00 65 00 72 00"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\BackupRestore\\FilesNotToBackup\\BITS_LOG",
+                "value": "%windir%\\System32\\Bits.log\n"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\BackupRestore\\FilesNotToBackup\\BITS_BAK",
+                "value": "%windir%\\System32\\Bits.bak\n"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\Last Counter",
+                "value": "12642"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\Object List",
+                "value": "12476 12482 12492 12502 12522 12566 12576 12614 12620 12636"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\Last Help",
+                "value": "12643"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\First Counter",
+                "value": "12476"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\First Help",
+                "value": "12477"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\PerfIniFile",
+                "value": "WmiApRpl.ini\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\DeviceClasses\\{cac88484-7515-4c03-82e6-71a87abac361}\\##?#SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{cac88484-7515-4c03-82e6-71a87abac361}\\DeviceInstance",
+                "value": "SW\\{eeab7790-c514-11d1-b42b-00805fc1270e}\\asyncmac"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\DeviceClasses\\{ad498944-762f-11d0-8dcb-00c04fc3358c}\\##?#SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{ad498944-762f-11d0-8dcb-00c04fc3358c}\\Control\\ReferenceCount",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\DeviceClasses\\{cac88484-7515-4c03-82e6-71a87abac361}\\##?#SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{cac88484-7515-4c03-82e6-71a87abac361}\\#\\Control\\Linked",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\DeviceClasses\\{cac88484-7515-4c03-82e6-71a87abac361}\\##?#SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{cac88484-7515-4c03-82e6-71a87abac361}\\#\\SymbolicLink",
+                "value": "\\\\?\\SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{cac88484-7515-4c03-82e6-71a87abac361}"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\WBEM\\PROVIDERS\\Performance\\Performance Refresh",
+                "value": "0"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\WBEM\\PROVIDERS\\Performance\\Performance Refreshed",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\WBEM\\PROVIDERS\\Performance\\Performance Data",
+                "value": "28 1B 00 00 01 00 00 00 00 00 00 00 10 00 00 00 18 1B 00 00 09 00 00 00 9A 00 00 00 01 00 00 00 01 00 00 00 40 00 00 00 1A 00 00 00 5C 00 5C 00 2E 00 5C 00 72 00 6F 00 6F 00 74 00 5C 00 77 00 6D 00 69 00 00 00 00 00 00 00 00 00 00 00 00 00 C0 01 00 00 04 00 00 00 08 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 64 00 00 00 68 00 00 00 3A 00 00 00 4D 00 53 00 69 00 53 00 43 00 53 00 49 00 5F 00 43 00 6F 00 6E 00 6E 00 65 00 63 00 74 00 69 00 6F 00 6E 00 53 00 74 00 61 00 74 00 69 00 73 00 74 00 69 00 63 00 73 00 00 00 00 00 00 00 00 00 00 00 00 00 30 00 00 00 1A 00 00 00 49 00 6E 00 73 00 74 00 61 00 6E 00 63 00 65 00 4E 00 61 00 6D 00 65 00 00 00 2F 20 4D 6F 64 75 6C 65 20 4E 61 6D 65 3A 48 00 00 00 00 00 00 00 02 00 00 00 15 00 00 00 00 00 00 00 64 00 00 00 00 05 41 10 48 00 00 00 1C 00 00 00 42 00 79 00 74 00 65 00 73 00 52 00 65 00 63 00 65 00 69 00 76 00 65 00 64 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 04 00 00 00 15 00 00 00 00 00 00 00 64 00 00 00 00 05 41 10 40 00 00 00 14 00 00 00 42 0"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\System32\\Drivers\\portcls.SYS[PortclsMof]",
+                "value": "LowDateTime:418629328,HighDateTime:30487037***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\DRIVERS\\HDAudBus.sys[HDAudioMofName]",
+                "value": "LowDateTime:-227274444,HighDateTime:30116024***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\System32\\Drivers\\en-US\\portcls.SYS.mui[PortclsMof]",
+                "value": "LowDateTime:1137199616,HighDateTime:30016579***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\DRIVERS\\en-US\\mssmbios.sys.mui[MofResource]",
+                "value": "LowDateTime:1497199616,HighDateTime:30016579***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\advapi32.dll[MofResourceName]",
+                "value": "LowDateTime:302488720,HighDateTime:30778805***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\en-US\\advapi32.dll.mui[MofResourceName]",
+                "value": "LowDateTime:369951187,HighDateTime:30778805***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\DRIVERS\\en-US\\ACPI.sys.mui[ACPIMOFResource]",
+                "value": "LowDateTime:1237199616,HighDateTime:30016579***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\DRIVERS\\en-US\\HDAudBus.sys.mui[HDAudioMofName]",
+                "value": "LowDateTime:-377767680,HighDateTime:30016579***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\drivers\\en-US\\ndis.sys.mui[MofResourceName]",
+                "value": "LowDateTime:382232320,HighDateTime:30016580***Binary mof failed, see WMIPROV.LOG"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\DRIVERS\\en-US\\intelppm.sys.mui[PROCESSORWMI]",
+                "value": "LowDateTime:-577767680,HighDateTime:30016579***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\IDE\\DiskAMDX_HARDDISK___________________________2.5+____\\5&2770a7af&0&0.0.0_0-{05901221-D566-11d1-B2F0-00A0C9062910}",
+                "value": "LowDateTime:803713417,HighDateTime:0***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\DRIVERS\\intelppm.sys[PROCESSORWMI]",
+                "value": "LowDateTime:-445445610,HighDateTime:30778799***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\DRIVERS\\ACPI.sys[ACPIMOFResource]",
+                "value": "LowDateTime:398767260,HighDateTime:30646967***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\DRIVERS\\monitor.sys[MonitorWMI]",
+                "value": "LowDateTime:-1637837527,HighDateTime:30762899***Binary mof failed, see WMIPROV.LOG"
+            },
+            {
+                "key": "HKLM\\Software\\Microsoft\\WBEM\\WDM\\DREDGE\\%windir%\\system32\\DRIVERS\\mssmbios.sys[MofResource]",
+                "value": "LowDateTime:-649833737,HighDateTime:30733938***Binary mof compiled successfully"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\Nsi\\{eb004a03-9b1a-11d4-9123-0050047759bc}\\24\\ffffffffffffffffffffffffffffff00",
+                "value": "00 00 00 00 00 00 00 00 00 00 00 00 FF FF FF FF FF FF FF FF FF FF FF FF"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\Nsi\\{eb004a03-9b1a-11d4-9123-0050047759bc}\\24\\ffffffffffffffffffffffffffffff01",
+                "value": "00 00 00 00 6D 00 00 00 19 00 00 00 FF FF FF FF FF FF FF FF FF FF FF FF"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\Nsi\\{eb004a03-9b1a-11d4-9123-0050047759bc}\\24\\ffffffffffffffffffffffffffffff02",
+                "value": "01 00 00 00 5A 00 00 00 D6 17 00 00 FF FF FF FF FF FF FF FF FF FF FF FF"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\Nsi\\{eb004a03-9b1a-11d4-9123-0050047759bc}\\24\\ffffffffffffffffffffffffffffff03",
+                "value": "00 00 00 00 00 00 00 00 00 00 00 00 FF FF FF FF FF FF FF FF FF FF FF FF"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\BITS\\StateIndex",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Perflib\\Last Counter",
+                "value": "12642"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Perflib\\Last Help",
+                "value": "12643"
+            },
+            {
+                "key": "HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Perflib\\Updating"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\DeviceClasses\\{ad498944-762f-11d0-8dcb-00c04fc3358c}\\##?#SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{ad498944-762f-11d0-8dcb-00c04fc3358c}\\DeviceInstance",
+                "value": "SW\\{eeab7790-c514-11d1-b42b-00805fc1270e}\\asyncmac"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\DeviceClasses\\{cac88484-7515-4c03-82e6-71a87abac361}\\##?#SW#{eeab7790-c514-11d1-b42b-00805fc1270e}#asyncmac#{cac88484-7515-4c03-82e6-71a87abac361}\\Control\\ReferenceCount",
+                "value": "1"
+            },
+            {
+                "key": "HKLM\\SYSTEM\\ControlSet001\\Control\\Nsi\\{eb004a03-9b1a-11d4-9123-0050047759bc}\\22\\(Default)"
+            },
+            {
+                "key": "HKU\\S-1-5-21-575823232-3065301323-1442773979-1000_CLASSES\\Local Settings\\MuiCache\\17b\\52C64B7E\\LanguageList",
+                "value": "en-US\nen\n"
+            }
+        ],
+        "registry_keys_deleted": [
+            "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\First Counter",
+            "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\Last Counter",
+            "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\First Help",
+            "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\Last Help",
+            "HKLM\\SYSTEM\\ControlSet001\\Services\\WmiApRpl\\Performance\\Object List"
+        ],
+        "processes_created": [
+            "%SAMPLEPATH%\\860b5e5ae1a2e1ce8ec3d977f43bfe8a2dac9b9cbb6c55820eb12c6ac15acd4b.exe",
+            "C:\\Windows\\System32\\wuapihost.exe",
+            "C:\\Users\\user\\Desktop\\program.exe"
+        ],
+        "signature_matches": [
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "calculate modulo 256 via x86 assembly",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: calculate modulo 256 via x86 assembly\n    authors:\n      - moritz.raabe@mandiant.com\n    lib: true\n    scopes:\n      static: instruction\n      dynamic: unsupported  # requires mnemonic features\n    mbc:\n      - Data::Modulo [C0058]\n    examples:\n      - 9324D1A8AE37A36AE560C37448C9705A:0x4049A9\n  features:\n    #  and ecx, 800000FFh\n    #  and ecx, 0FFh\n    - and:\n      - mnemonic: and\n      - or:\n        - number: 0x800000FF\n        - number: 0xFF\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "encode data using XOR",
+                "description": "data-manipulation/encoding/xor",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: encode data using XOR\n    namespace: data-manipulation/encoding/xor\n    authors:\n      - moritz.raabe@mandiant.com\n    scopes:\n      static: basic block\n      dynamic: unsupported  # requires characteristic, Not features\n    att&ck:\n      - Defense Evasion::Obfuscated Files or Information [T1027]\n    mbc:\n      - Defense Evasion::Obfuscated Files or Information::Encoding-Standard Algorithm [E1027.m02]\n      - Data::Encode Data::XOR [C0026.002]\n    examples:\n      - 2D3EDC218A90F03089CC01715A9F047F:0x403D7E\n  features:\n    - and:\n      - characteristic: tight loop\n      - characteristic: nzxor\n      - not:\n        - description: filter for potential false positives\n        - or:\n          - or:\n            - description: unsigned bitwise negation operation (~i)\n            - number: 0xFFFFFFFF = bitwise negation for unsigned 32 bits\n            - number: 0xFFFFFFFFFFFFFFFF = bitwise negation for unsigned 64 bits\n          - or:\n            - description: signed bitwise negation operation (~i)\n            - number: 0x0FFFFFFF = bitwise negation for signed 32 bits\n            - number: 0x0FFFFFFFFFFFFFFF = bitwise negation for signed 64 bits\n          - or:\n            - description: Magic constants used in the implementation of strings functions.\n            # such as `strlen` and `strcat` in the Windows standard library:\n            # (((i - 0x81010101) ^ ~i) & 0x81010100)\n            ## 32 bits\n            - number: 0x7EFEFEFF = optimized string constant for 32 bits\n            - number: 0x81010101 = -0x81010101 = 0x7EFEFEFF\n            - number: 0x81010100 = 0x81010100 = ~0x7EFEFEFF\n            ## 64 bits\n            - number: 0x7EFEFEFEFEFEFEFF = optimized string constant for 64 bits\n            - number: 0x8101010101010101 = -0x8101010101010101 = 0x7EFEFEFEFEFEFEFF\n            - number: 0x8101010101010100 = 0x8101010101010100 = ~0x7EFEFEFEFEFEFEFF\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "PEB access",
+                "authors": [
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: PEB access\n    authors:\n      - michael.hunhoff@mandiant.com\n    lib: true\n    scopes:\n      static: basic block\n      dynamic: unsupported  # requires characteristic, offset, mnemonic features\n    mbc:\n      - Anti-Behavioral Analysis::Debugger Detection::Process Environment Block [B0001.019]\n    references:\n      - https://github.com/LordNoteworthy/al-khaser/blob/master/al-khaser/AntiDebug/NtGlobalFlag.cpp\n    examples:\n      - al-khaser_x86.exe_:0x420D20\n  features:\n    - or:\n      - characteristic: peb access\n      - and:\n        # https://github.com/LordNoteworthy/al-khaser/blob/master/al-khaser/AntiDebug/NtGlobalFlag.cpp#L41\n        - arch: i386\n        - characteristic: fs access\n        - or:\n          # in 0f5d5d07c6533bc6d991836ce79daaa1\n          # then we have:\n          #\n          #     xor edx, edx\n          #     mov edx, fs:[edx+30h]\n          - offset: 0x30\n          - instruction:\n            # in the case of CallObfuscator, gs:[rax]\n            - mnemonic: add\n            - number: 0x30\n      - and:\n        - arch: amd64\n        - characteristic: gs access\n        - or:\n          - offset: 0x60\n          - instruction:\n            - mnemonic: add\n            - number: 0x60\n      - and:\n        # WoW64 PEB address is fetched via the WoW64 Thread Environment Block (TEB) at FS:[0x18]-0x2000\n        # https://github.com/LordNoteworthy/al-khaser/blob/master/al-khaser/AntiDebug/NtGlobalFlag.cpp#L45\n        - characteristic: fs access\n        - instruction:\n          - mnemonic: sub\n          - number: 0x2000\n",
+                "refs": [
+                    {
+                        "ref": "https://github.com/LordNoteworthy/al-khaser/blob/master/al-khaser/AntiDebug/NtGlobalFlag.cpp"
+                    }
+                ]
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "access PEB ldr_data",
+                "description": "linking/runtime-linking",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: access PEB ldr_data\n    namespace: linking/runtime-linking\n    authors:\n      - moritz.raabe@mandiant.com\n    scopes:\n      static: basic block\n      dynamic: unsupported  # requires offset features\n    att&ck:\n      - Execution::Shared Modules [T1129]\n    references:\n      - https://www.geoffchappell.com/studies/windows/win32/ntdll/structs/peb_ldr_data.htm\n      - https://github.com/d35ha/CallObfuscator/blob/5834aff9ff4511f1408ae4ce80b79737af4ae77b/ShellCode/shell_x64.asm#L8\n    examples:\n      - 3FDFB2D522E7DEECAAAF2F87420F7E75:0x4117B7\n  features:\n    - or:\n      - and:\n        - arch: i386\n        - description: x32\n\n        - match: PEB access\n\n        # x86 Windows uses fs:0 to access the TIB which contains SEH information at offset 0\n        # checking for fs:0 and a (possibly unrelated) number or offset often results in false positives\n\n        - offset: 0x0C = PEB.LDR_DATA\n\n        - or:\n          - description: resolve a module list\n          - offset: 0x0C = PEB.LDR_DATA.InLoadOrderModuleList\n          - offset: 0x14 = PEB.LDR_DATA.InMemoryOrderModuleList\n          - offset: 0x1C = PEB.LDR_DATA.InInitializationOrderModuleList\n\n      - and:\n        - arch: amd64\n        - description: x64\n\n        - match: PEB access\n\n        - offset: 0x18 = PEB.LDR_DATA\n\n        - or:\n          - description: resolve a module list\n          - offset: 0x10 = PEB.LDR_DATA.InLoadOrderModuleList\n          - offset: 0x20 = PEB.LDR_DATA.InMemoryOrderModuleList\n          - offset: 0x30 = PEB.LDR_DATA.InInitializationOrderModuleList\n",
+                "refs": [
+                    {
+                        "ref": "https://www.geoffchappell.com/studies/windows/win32/ntdll/structs/peb_ldr_data.htm"
+                    },
+                    {
+                        "ref": "https://github.com/d35ha/CallObfuscator/blob/5834aff9ff4511f1408ae4ce80b79737af4ae77b/ShellCode/shell_x64.asm#L8"
+                    }
+                ]
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "get file attributes",
+                "description": "host-interaction/file-system/meta",
+                "authors": [
+                    "michael.hunhoff@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: get file attributes\n    namespace: host-interaction/file-system/meta\n    authors:\n      - michael.hunhoff@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scopes:\n      static: basic block\n      dynamic: call\n    mbc:\n      - File System::Get File Attributes [C0049]\n    examples:\n      - 03B236B23B1EC37C663527C1F53AF3FE:0x180019824\n      - B5F85C26D7AA5A1FB4AF5821B6B5AB9B:0x4028B6\n      - B5F85C26D7AA5A1FB4AF5821B6B5AB9B:0x4029E0\n  features:\n    - or:\n      - api: kernel32.GetFileAttributes\n      - api: ZwQueryDirectoryFile\n      - api: ZwQueryInformationFile\n      - api: NtQueryDirectoryFile\n      - api: NtQueryInformationFile\n      - api: System.IO.File::GetAttributes\n      - api: System.IO.File::GetCreationTime\n      - api: System.IO.File::GetCreationTimeUtc\n      - api: System.IO.File::GetLastAccessTime\n      - api: System.IO.File::GetLastAccessTimeUtc\n      - api: System.IO.File::GetLastWriteTime\n      - api: System.IO.File::GetLastWriteTimeUtc\n      - property/read: System.IO.FileSystemInfo::Attributes\n      - api: stat\n      - api: fstat\n      - api: lstat\n      - api: fstatat\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "create or open file",
+                "authors": [
+                    "michael.hunhoff@mandiant.com",
+                    "joakim@intezer.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: create or open file\n    authors:\n      - michael.hunhoff@mandiant.com\n      - joakim@intezer.com\n    lib: true\n    scopes:\n      static: basic block\n      dynamic: call\n    mbc:\n      - File System::Create File [C0016]\n    examples:\n      - B5F85C26D7AA5A1FB4AF5821B6B5AB9B:0x401D7E\n  features:\n    - or:\n      - api: CreateFile\n      - api: CreateFileEx\n      - api: IoCreateFile\n      - api: IoCreateFileEx\n      - api: ZwOpenFile\n      - api: ZwCreateFile\n      - api: NtOpenFile\n      - api: NtCreateFile\n      - api: LZCreateFile\n      - api: LZOpenFile\n      - api: fopen\n      - api: fopen64\n      - api: fdopen\n      - api: freopen\n      - api: open\n      - api: openat\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "generate random numbers using the Delphi LCG",
+                "description": "data-manipulation/prng/lcg",
+                "authors": [
+                    "william.ballenthin@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: generate random numbers using the Delphi LCG\n    namespace: data-manipulation/prng/lcg\n    authors:\n      - william.ballenthin@mandiant.com\n    scopes:\n      static: basic block\n      dynamic: unsupported  # requires mnemonic features\n    mbc:\n      - Cryptography::Generate Pseudo-random Sequence [C0021]\n    references:\n      - https://en.wikipedia.org/wiki/Linear_congruential_generator\n      - https://community.osr.com/discussion/130410/generating-random-numbers\n  features:\n    - and:\n      - instruction:\n        - mnemonic: imul\n        - number: 0x8088405 = multiplier a\n      - mnemonic: inc = increment c\n",
+                "refs": [
+                    {
+                        "ref": "https://en.wikipedia.org/wiki/Linear_congruential_generator"
+                    },
+                    {
+                        "ref": "https://community.osr.com/discussion/130410/generating-random-numbers"
+                    }
+                ]
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "contain obfuscated stackstrings",
+                "description": "anti-analysis/obfuscation/string/stackstring",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: contain obfuscated stackstrings\n    namespace: anti-analysis/obfuscation/string/stackstring\n    authors:\n      - moritz.raabe@mandiant.com\n    scopes:\n      static: basic block\n      dynamic: unsupported\n    att&ck:\n      - Defense Evasion::Obfuscated Files or Information::Indicator Removal from Tools [T1027.005]\n    mbc:\n      - Anti-Static Analysis::Executable Code Obfuscation::Argument Obfuscation [B0032.020]\n      - Anti-Static Analysis::Executable Code Obfuscation::Stack Strings [B0032.017]\n    examples:\n      - Practical Malware Analysis Lab 16-03.exe_:0x4013D0\n  features:\n    - characteristic: stack string\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "acquire debug privileges",
+                "description": "host-interaction/process/modify",
+                "authors": [
+                    "william.ballenthin@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: acquire debug privileges\n    namespace: host-interaction/process/modify\n    authors:\n      - william.ballenthin@mandiant.com\n    scopes:\n      static: basic block\n      dynamic: thread\n    att&ck:\n      - Privilege Escalation::Access Token Manipulation [T1134]\n    examples:\n      - Practical Malware Analysis Lab 01-04.exe_:0x401174\n  features:\n    - and:\n      - string: \"SeDebugPrivilege\"\n      - optional:\n        - match: modify access privileges\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "delay execution",
+                "authors": [
+                    "michael.hunhoff@mandiant.com",
+                    "@ramen0x3f"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: delay execution\n    authors:\n      - michael.hunhoff@mandiant.com\n      - \"@ramen0x3f\"\n    lib: true\n    scopes:\n      static: basic block\n      dynamic: call\n    mbc:\n      - Anti-Behavioral Analysis::Dynamic Analysis Evasion::Delayed Execution [B0003.003]\n    references:\n      - https://docs.microsoft.com/en-us/windows/win32/sync/wait-functions\n      - https://github.com/LordNoteworthy/al-khaser/blob/master/al-khaser/TimingAttacks/timing.cpp\n    examples:\n      - al-khaser_x86.exe_:0x449770\n      - B5F85C26D7AA5A1FB4AF5821B6B5AB9B:0x402FA6\n  features:\n    - or:\n      - and:\n        - os: windows\n        - or:\n          - api: kernel32.Sleep\n          - api: kernel32.SleepEx\n          - api: kernel32.WaitForSingleObject\n          - api: kernel32.SignalObjectAndWait\n          - api: kernel32.WaitForSingleObjectEx\n          - api: kernel32.WaitForMultipleObjects\n          - api: kernel32.WaitForMultipleObjectsEx\n          - api: kernel32.RegisterWaitForSingleObject\n          - api: WaitOnAddress\n          - api: user32.MsgWaitForMultipleObjects\n          - api: user32.MsgWaitForMultipleObjectsEx\n          - api: NtDelayExecution\n          - api: KeWaitForSingleObject\n          - api: KeDelayExecutionThread\n      - and:\n        - os: linux\n        - or:\n          - api: sleep\n          - api: usleep\n",
+                "refs": [
+                    {
+                        "ref": "https://docs.microsoft.com/en-us/windows/win32/sync/wait-functions"
+                    },
+                    {
+                        "ref": "https://github.com/LordNoteworthy/al-khaser/blob/master/al-khaser/TimingAttacks/timing.cpp"
+                    }
+                ]
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "contain loop",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: contain loop\n    authors:\n      - moritz.raabe@mandiant.com\n    lib: true\n    scopes:\n      static: function\n      dynamic: unsupported  # requires characteristic features\n    examples:\n      - 08AC667C65D36D6542917655571E61C8:0x406EAA\n  features:\n    - or:\n      - characteristic: loop\n      - characteristic: tight loop\n      - characteristic: recursive call\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "encrypt data using RC4 KSA",
+                "description": "data-manipulation/encryption/rc4",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: encrypt data using RC4 KSA\n    namespace: data-manipulation/encryption/rc4\n    authors:\n      - moritz.raabe@mandiant.com\n    scopes:\n      static: function\n      dynamic: unsupported  # requires characteristic, mnemonic, Not features\n    att&ck:\n      - Defense Evasion::Obfuscated Files or Information [T1027]\n    mbc:\n      - Cryptography::Encrypt Data::RC4 [C0027.009]\n      - Cryptography::Encryption Key::RC4 KSA [C0028.002]\n    examples:\n      - 34404A3FB9804977C6AB86CB991FB130:0x403D40\n      - 9324D1A8AE37A36AE560C37448C9705A:0x404950\n      - 2B8BEC5BCB1777EAA155D832F7AFC797:0x405C42\n      - 73CE04892E5F39EC82B00C02FC04C70F:0x40646E\n  features:\n    - or:\n      - and:\n        - basic block:\n          - and:\n            - description: initialize S\n            # misses if regular loop is used,\n            # however we cannot model that a loop contains a certain number\n            - characteristic: tight loop\n            - or:\n              - number: 0xFF\n              - number: 0x100\n        - or:\n          - description: modulo 256\n          - match: calculate modulo 256 via x86 assembly\n          - basic block:\n            - and:\n              - description: modulo via zero-extended mov from 8-bit register\n              - count(mnemonic(movzx)): 2 or more\n              # avoid false positives; filter out unexpected instructions\n              - not:\n                - or:\n                  - mnemonic: shl\n                  - mnemonic: rol\n                  - characteristic: nzxor\n        - or:\n          - description: modulo key length\n          - mnemonic: div\n          - mnemonic: idiv\n      - and:\n        - description: write DWORDs instead of bytes\n        - or:\n          - number: 0x03020100\n          - number: 0xFFFEFDFC\n        - instruction:\n          - or:\n            - mnemonic: add\n            - mnemonic: sub\n          - number: 0x04040404\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "encrypt data using RC4 PRGA",
+                "description": "data-manipulation/encryption/rc4",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: encrypt data using RC4 PRGA\n    namespace: data-manipulation/encryption/rc4\n    authors:\n      - moritz.raabe@mandiant.com\n    scopes:\n      static: function\n      dynamic: unsupported  # requires characteristic, mnemonic, basicblock features\n    att&ck:\n      - Defense Evasion::Obfuscated Files or Information [T1027]\n    mbc:\n      - Cryptography::Encrypt Data::RC4 [C0027.009]\n      - Cryptography::Generate Pseudo-random Sequence::RC4 PRGA [C0021.004]\n    examples:\n      - 34404A3FB9804977C6AB86CB991FB130:0x403DB0\n      - 34404A3FB9804977C6AB86CB991FB130:0x403E50\n      - 9324D1A8AE37A36AE560C37448C9705A:0x4049F0\n      - 73CE04892E5F39EC82B00C02FC04C70F:0x4064C6\n  features:\n    - and:\n      # TODO: maybe add characteristic for nzxor reg size\n      - count(characteristic(nzxor)): 1\n      - or:\n        - match: calculate modulo 256 via x86 assembly\n        # compiler may do this via zero-extended mov from 8-bit register\n        - count(mnemonic(movzx)): 4 or more\n      # should not call (many) functions\n      - count(characteristic(calls from)): (0, 4)\n      # should not be too simple or too complex (50 is picked by intuition)\n      - count(basic blocks): (4, 50)\n      - match: contain loop\n      - optional:\n        - or:\n          - number: 0xFF\n          - number: 0x100\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "resolve function by parsing PE exports",
+                "description": "load-code/pe",
+                "authors": [
+                    "sara-rn"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: resolve function by parsing PE exports\n    namespace: load-code/pe\n    authors:\n      - sara-rn\n    scopes:\n      static: function\n      dynamic: unsupported  # requires characteristic, offset, mnemonic features\n    examples:\n      - 73CE04892E5F39EC82B00C02FC04C70F:0x406BA1\n  features:\n    - and:\n      - os: windows\n      - or:\n        - characteristic: loop\n        - mnemonic: movzx\n      - and:\n        - offset: 0x3C = IMAGE_DOS_HEADER.PE.e_lfanew\n        - or:\n          - and:\n            - arch: i386\n            - offset: 0x78 = offset to IMAGE_DATA_DIRECTORY[IMAGE_DIRECTORY_ENTRY_EXPORT]\n          - and:\n            - arch: amd64\n            - offset: 0x88 = offset to IMAGE_DATA_DIRECTORY[IMAGE_DIRECTORY_ENTRY_EXPORT]\n        - 3 or more:\n          - offset: 0x14 = IMAGE_EXPORT_DIRECTORY.NumberOfFunctions\n          - offset: 0x24 = IMAGE_EXPORT_DIRECTORY.AddressOfNameOrdinals\n          - offset: 0x20 = IMAGE_EXPORT_DIRECTORY.AddressOfNames\n          - offset: 0x18 = IMAGE_EXPORT_DIRECTORY.NumberOfNames\n          - offset: 0x1C = IMAGE_EXPORT_DIRECTORY.AddressOfFunctions\n      - optional:\n        - or:\n          - api: LoadLibrary\n          - api: strcmp\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "check if file exists",
+                "description": "host-interaction/file-system/exists",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: check if file exists\n    namespace: host-interaction/file-system/exists\n    authors:\n      - moritz.raabe@mandiant.com\n      - michael.hunhoff@mandiant.com\n    scopes:\n      static: function\n      dynamic: call\n    att&ck:\n      - Discovery::File and Directory Discovery [T1083]\n    mbc:\n      - Discovery::File and Directory Discovery [E1083]\n    examples:\n      - 31600AD0D1A7EA615690DF111AE36C73:0x401284\n  features:\n    - or:\n      - basic block:\n        - and:\n          - api: kernel32.GetFileAttributes\n          - instruction:\n            - mnemonic: cmp\n            - number: 0xFFFFFFFF = INVALID_FILE_ATTRIBUTES\n      - basic block:\n        - and:\n          - api: kernel32.GetLastError\n          - instruction:\n            - mnemonic: cmp\n            - number: 2 = ERROR_FILE_NOT_FOUND\n      - api: shlwapi.PathFileExists\n      - api: System.IO.File::Exists\n      - property/read: System.IO.FileSystemInfo::Exists\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "read file on Windows",
+                "description": "host-interaction/file-system/read",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: read file on Windows\n    namespace: host-interaction/file-system/read\n    authors:\n      - moritz.raabe@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scopes:\n      static: function\n      dynamic: thread\n    mbc:\n      - File System::Read File [C0051]\n    examples:\n      - BFB9B5391A13D0AFD787E87AB90F14F5:0x1314567B\n  features:\n    - or:\n      - and:\n        - os: windows\n        - optional:\n          - and:\n            - number: 0x80000000 = GENERIC_READ\n            - match: create or open file\n        - or:\n          - api: kernel32.ReadFile\n          - api: ReadFileEx\n          - api: NtReadFile\n          - api: ZwReadFile\n          - api: LZRead\n          - api: _read\n          - api: fread\n      - api: System.IO.File::ReadAllBytes\n      - api: System.IO.File::ReadAllBytesAsync\n      - api: System.IO.File::ReadAllLines\n      - api: System.IO.File::ReadAllLinesAsync\n      - api: System.IO.File::ReadAllText\n      - api: System.IO.File::ReadAllTextAsync\n      - api: System.IO.File::ReadLines\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "enumerate files on Windows",
+                "description": "host-interaction/file-system/files/list",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: enumerate files on Windows\n    namespace: host-interaction/file-system/files/list\n    authors:\n      - moritz.raabe@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scopes:\n      static: function\n      dynamic: thread\n    att&ck:\n      - Discovery::File and Directory Discovery [T1083]\n    mbc:\n      - Discovery::File and Directory Discovery [E1083]\n    references:\n      - https://github.com/hfiref0x/TDL/blob/cc4b46ae1c939b14a22a734a727b163f873a41b5/Source/Furutaka/sup.c#L315\n    examples:\n      - Practical Malware Analysis Lab 01-01.exe_:0x4011E0\n      - Practical Malware Analysis Lab 20-02.exe_:0x401000\n      - 563653399B82CD443F120ECEFF836EA3678D4CF11D9B351BB737573C2D856299:0x14000203C\n  features:\n    - or:\n      - and:\n        - or:\n          - api: kernel32.FindFirstFile\n          - api: kernel32.FindFirstFileEx\n          - api: kernel32.FindFirstFileTransacted\n          - api: kernel32.FindFirstFileName\n          - api: kernel32.FindFirstFileNameTransacted\n        - or:\n          - api: kernel32.FindNextFile\n          - api: kernel32.FindNextFileName\n        - optional:\n          - api: kernel32.FindClose\n          - match: contain loop\n      - and:\n        - or:\n          - basic block:\n            - and:\n              - number: 1 = DIRECTORY_QUERY\n              - api: ntdll.NtOpenDirectoryObject\n          - call:\n            - and:\n              - number: 1 = DIRECTORY_QUERY\n              - api: ntdll.NtOpenDirectoryObject\n        - api: ntdll.NtQueryDirectoryObject\n        - optional:\n          - api: RtlAllocateHeap\n          - match: contain loop\n          - characteristic: indirect call\n",
+                "refs": [
+                    {
+                        "ref": "https://github.com/hfiref0x/TDL/blob/cc4b46ae1c939b14a22a734a727b163f873a41b5/Source/Furutaka/sup.c#L315"
+                    }
+                ]
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "enumerate files recursively",
+                "description": "host-interaction/file-system/files/list",
+                "authors": [
+                    "@_re_fox",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: enumerate files recursively\n    namespace: host-interaction/file-system/files/list\n    authors:\n      - \"@_re_fox\"\n      - anushka.virgaonkar@mandiant.com\n    scopes:\n      static: function\n      dynamic: unsupported\n    att&ck:\n      - Discovery::File and Directory Discovery [T1083]\n    mbc:\n      - Discovery::File and Directory Discovery [E1083]\n    examples:\n      - 5f66b82558ca92e54e77f216ef4c066c:0x40640E\n  features:\n    - and:\n      - or:\n        - match: enumerate files on Windows\n      - characteristic: recursive call\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "write file on Windows",
+                "description": "host-interaction/file-system/write",
+                "authors": [
+                    "william.ballenthin@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: write file on Windows\n    namespace: host-interaction/file-system/write\n    authors:\n      - william.ballenthin@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scopes:\n      static: function\n      dynamic: thread\n    mbc:\n      - File System::Writes File [C0052]\n    examples:\n      - Practical Malware Analysis Lab 01-04.exe_:0x4011FC\n      # ntdll\n      - 563653399B82CD443F120ECEFF836EA3678D4CF11D9B351BB737573C2D856299:0x1400025C4\n  features:\n    - or:\n      - and:\n        - os: windows\n        - optional:\n          - basic block:\n            - or:\n              - number: 0x40000000 = GENERIC_WRITE\n              - number: 0x2 = FILE_WRITE_DATA\n              - match: create or open file\n          - call:\n            - or:\n              - number: 0x40000000 = GENERIC_WRITE\n              - number: 0x2 = FILE_WRITE_DATA\n              - match: create or open file\n        - or:\n          - api: kernel32.WriteFile\n          - api: kernel32.WriteFileEx\n          - api: NtWriteFile\n          - api: ZwWriteFile\n          - api: _fwrite\n          - api: fwrite\n      - api: System.IO.File::WriteAllBytes\n      - api: System.IO.File::WriteAllBytesAsync\n      - api: System.IO.File::WriteAllLines\n      - api: System.IO.File::WriteAllLinesAsync\n      - api: System.IO.File::WriteAllText\n      - api: System.IO.File::WriteAllTextAsync\n      - api: System.IO.File::AppendAllLines\n      - api: System.IO.File::AppendAllLinesAsync\n      - api: System.IO.File::AppendAllText\n      - api: System.IO.File::AppendAllTextAsync\n      - api: System.IO.File::AppendText\n      - api: System.IO.FileInfo::AppendText\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "check for time delay via GetTickCount",
+                "description": "anti-analysis/anti-debugging/debugger-detection",
+                "authors": [
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: check for time delay via GetTickCount\n    namespace: anti-analysis/anti-debugging/debugger-detection\n    authors:\n      - michael.hunhoff@mandiant.com\n    scopes:\n      static: function\n      dynamic: unsupported  # requires mnemonic features\n    mbc:\n      - Anti-Behavioral Analysis::Debugger Detection::Timing/Delay Check GetTickCount [B0001.032]\n    examples:\n      - Practical Malware Analysis Lab 16-03.exe_:0x4013d0\n  features:\n    - and:\n      - count(api(kernel32.GetTickCount)): 2 or more\n      - basic block:\n        - and:\n          - mnemonic: sub\n          - mnemonic: cmp\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "terminate process",
+                "description": "host-interaction/process/terminate",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "michael.hunhoff@mandiant.com",
+                    "anushka.virgaonkar@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: terminate process\n    namespace: host-interaction/process/terminate\n    authors:\n      - moritz.raabe@mandiant.com\n      - michael.hunhoff@mandiant.com\n      - anushka.virgaonkar@mandiant.com\n    scopes:\n      static: function\n      dynamic: thread\n    mbc:\n      - Process::Terminate Process [C0018]\n    examples:\n      - C91887D861D9BD4A5872249B641BC9F9:0x401A77\n      - 9B7CCAA2AE6A5B96E3110EBCBC4311F6:0x10010307\n  features:\n    - or:\n      - api: System.Diagnostics.Process::Kill\n      - api: System.Diagnostics.Process::WaitForExit\n      - api: System.Diagnostics.Process::WaitForExitAsync\n      - api: System.Environment::Exit\n      - api: System.Windows.Forms.Application::Exit\n      - api: exit\n      - api: Exit\n      - and:\n        - optional:\n          - match: open process\n        - or:\n          - api: kernel32.TerminateProcess\n          - api: ntdll.NtTerminateProcess\n          - api: kernel32.ExitProcess\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "link function at runtime on Windows",
+                "description": "linking/runtime-linking",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "michael.hunhoff@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: link function at runtime on Windows\n    namespace: linking/runtime-linking\n    authors:\n      - moritz.raabe@mandiant.com\n      - michael.hunhoff@mandiant.com\n    scopes:\n      static: function\n      dynamic: unsupported  # requires characteristic features\n    att&ck:\n      - Execution::Shared Modules [T1129]\n    examples:\n      - 9324D1A8AE37A36AE560C37448C9705A:0x404130\n      - Practical Malware Analysis Lab 01-04.exe_:0x401350\n  features:\n    - and:\n      - os: windows\n      - or:\n        - api: kernel32.GetProcAddress\n        - api: ntdll.LdrGetProcedureAddress\n      - optional:\n        - characteristic: indirect call\n        - api: kernel32.LoadLibrary\n        - api: kernel32.GetModuleHandle\n        - api: kernel32.GetModuleHandleEx\n        - api: ntdll.LdrLoadDll\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "link many functions at runtime",
+                "description": "linking/runtime-linking",
+                "authors": [
+                    "moritz.raabe@mandiant.com",
+                    "joakim@intezer.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: link many functions at runtime\n    namespace: linking/runtime-linking\n    authors:\n      - moritz.raabe@mandiant.com\n      - joakim@intezer.com\n    scopes:\n      static: function\n      dynamic: thread\n    att&ck:\n      - Execution::Shared Modules [T1129]\n    examples:\n      - b7b5e1253710d8927cbe07d52d2d2e10:0x401000\n  features:\n    - or:\n      - and:\n        - os: windows\n        - match: link function at runtime on Windows\n        - or:\n          - count(api(kernel32.GetProcAddress)): 5 or more\n          - count(api(ntdll.LdrGetProcedureAddress)): 5 or more\n      - and:\n        - os: linux\n        - match: link function at runtime on Linux\n        - or:\n          - count(api(dlsym)): 5 or more\n          - count(api(dlvsym)): 5 or more\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "hash data with CRC32",
+                "description": "data-manipulation/checksum/crc32",
+                "authors": [
+                    "moritz.raabe@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: hash data with CRC32\n    namespace: data-manipulation/checksum/crc32\n    authors:\n      - moritz.raabe@mandiant.com\n    scopes:\n      static: function\n      dynamic: unsupported  # requires operand[1].number, characteristic, bytes, mnemonic features\n    mbc:\n      - Data::Checksum::CRC32 [C0032.001]\n    examples:\n      - 2D3EDC218A90F03089CC01715A9F047F:0x403CBD\n      - 7D28CB106CB54876B2A5C111724A07CD:0x402350  # RtlComputeCrc32\n      - 7EFF498DE13CC734262F87E6B3EF38AB:0x100084A6\n  features:\n    - or:\n      - and:\n        - number: 1 = bits in a byte\n        - instruction:\n          - description: is bit set?\n          - or:\n            - mnemonic: and\n            - mnemonic: test\n          - operand[1].number: 1\n        - instruction:\n          - mnemonic: shr\n          - number: 1\n        - characteristic: nzxor\n        - operand[1].number: 0xEDB88320\n      - and:\n        - number: 0x8320\n        - number: 0xEDB8\n        - characteristic: nzxor\n      - api: RtlComputeCrc32\n      - bytes: 00 00 00 00 96 30 07 77 2C 61 0E EE BA 51 09 99 19 C4 6D 07 8F F4 6A 70 35 A5 63 E9 A3 95 64 9E = crc32_tab\n"
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "compute adler32 checksum",
+                "description": "data-manipulation/checksum/adler32",
+                "authors": [
+                    "matthew.williams@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: compute adler32 checksum\n    namespace: data-manipulation/checksum/adler32\n    authors:\n      - matthew.williams@mandiant.com\n    scopes:\n      static: function\n      dynamic: unsupported  # requires operand[1].number, characteristic, mnemonic features\n    mbc:\n      - Data::Checksum::Adler [C0032.005]\n    references:\n      - https://en.wikipedia.org/wiki/Adler-32\n    examples:\n      - 42E81CC1145BA3C1936A6CF9B8DA0CCD:0x10001000\n  features:\n    - and:\n      - basic block:\n        - and:\n          - instruction:\n            - mnemonic: shr\n            - operand[1].number: 0xF\n\n          - number: 0x80078071\n          - mnemonic: mul\n\n          - instruction:\n            - mnemonic: imul\n            - or:\n              - number: 0xFFFF000F = -65521\n              - number: 0xFFF1 = 65521\n          - or:\n            - mnemonic: add\n            - mnemonic: sub\n        # Examples:\n        # The sequence below performs mod 65521 using the example 262089 % 65521 = 5:\n        # mov     eax, 80078071h  ; ecx = 262089 (0x3FFC9)\n        # mul     ecx             ; 0x3FFC9 * 0x80078071 = 0x20002802767B9\n        #                         ; edx = 0x20002\n        # shr     edx, 0Fh        ; edx = 0x2002 >> 0xF = 4\n        # imul    edx, 0FFFF000Fh ; edx = 4 * -65521 (0xFFFF000F) = -262084 = 0xFFFC003C (-0x3FFC4)\n        # add     ecx, edx        ; ecx = 0x3FFC9 + -0x3FFC4 = 5\n\n        # A variation of the above was observed in a deobfuscated MAZE sample (hash not available):           \n        # mov     eax, ebx          ; eax = ebx = 262089 (0x3FFC9)\n        # mov     esi, 80078071h\n        # mul     esi               ; 0x3FFC9 * 0x80078071 = 0x20002802767B9\n        #                           ; edx = 0x20002\n        # shr     edx, 0Fh          ; edx = 0x2002 >> 0xF = 4\n        # imul    eax, edx, 0FFF1h  ; eax = 4 * 65521 (0xFFF1) = 262084 (3FFC4)\n        # sub     ebx, eax          ; ebx = 0x3FFC9 - 0x3FFC4 = 5\n      - instruction:\n        - mnemonic: shl\n        - number: 0x10\n      - count(characteristic(tight loop)): 2 or more\n",
+                "refs": [
+                    {
+                        "ref": "https://en.wikipedia.org/wiki/Adler-32"
+                    }
+                ]
+            },
+            {
+                "format": "SIG_FORMAT_CAPA",
+                "name": "linked against ZLIB",
+                "description": "linking/static/zlib",
+                "authors": [
+                    "william.ballenthin@mandiant.com"
+                ],
+                "rule_src": "rule:\n  meta:\n    name: linked against ZLIB\n    namespace: linking/static/zlib\n    authors:\n      - william.ballenthin@mandiant.com\n    scopes:\n      static: file\n      dynamic: file\n    mbc:\n      - Data::Compression Library [C0060]\n    examples:\n      - 6cc148363200798a12091b97a17181a1\n  features:\n    - or:\n      - string: /deflate .* Copyright/\n      - string: /inflate .* Copyright/\n"
+            },
+            {
+                "id": "263",
+                "description": "May try to detect the virtual machine to hinder analysis (VM artifact strings found in memory)",
+                "match_data": [
+                    "Hyper-V RAW%SystemRoot%\\system32\\mswsock.dll"
+                ],
+                "severity": "IMPACT_SEVERITY_INFO",
+                "refs": [
+                    {
+                        "ref": "#memory_dumps",
+                        "value": "program.exe, 00000000.00000002.999278024.0000000000668000.00000004.00000020.00020000.00000000.sdmp"
+                    }
+                ]
+            },
+            {
+                "id": "415",
+                "description": "PE file has an executable .text section and no other executable section",
+                "match_data": [
+                    "Section: .text IMAGE_SCN_CNT_CODE, IMAGE_SCN_MEM_EXECUTE, IMAGE_SCN_MEM_READ"
+                ],
+                "severity": "IMPACT_SEVERITY_INFO"
+            },
+            {
+                "id": "509",
+                "description": "Reads software policies",
+                "match_data": [
+                    "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers"
+                ],
+                "severity": "IMPACT_SEVERITY_INFO",
+                "refs": [
+                    {
+                        "ref": "#registry_keys_opened",
+                        "value": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers"
+                    }
+                ]
+            },
+            {
+                "id": "149",
+                "description": "Program does not show much activity (idle)",
+                "match_data": [
+                    "no activity detected"
+                ],
+                "severity": "IMPACT_SEVERITY_INFO"
+            },
+            {
+                "id": "1348",
+                "description": "Potential time zone aware malware",
+                "match_data": [
+                    "CurrentTimeZoneInformation"
+                ],
+                "severity": "IMPACT_SEVERITY_INFO"
+            },
+            {
+                "id": "653",
+                "description": "Sample file is different than original file name gathered from version info",
+                "match_data": [
+                    "OriginalFilename  vs program.exe"
+                ],
+                "severity": "IMPACT_SEVERITY_INFO",
+                "refs": [
+                    {
+                        "ref": "#memory_dumps",
+                        "value": "program.exe, 00000000.00000002.999367848.00007FF651DEC000.00000002.00000001.01000000.00000003.sdmp"
+                    }
+                ]
+            },
+            {
+                "id": "715",
+                "description": "Classification label",
+                "match_data": [
+                    "clean1.winEXE@1/0@0/0"
+                ],
+                "severity": "IMPACT_SEVERITY_INFO"
+            },
+            {
+                "id": "419",
+                "description": "PE file has a high image base, often used for DLLs",
+                "match_data": [
+                    "Image base 0x140000000 > 0x60000000"
+                ],
+                "severity": "IMPACT_SEVERITY_INFO"
+            },
+            {
+                "id": "238",
+                "description": "URLs found in memory or binary data",
+                "match_data": [
+                    "http://www.winimage.com/zLibDll",
+                    "http://www.winimage.com/zLibDll1.2.7-"
+                ],
+                "severity": "IMPACT_SEVERITY_INFO"
+            },
+            {
+                "id": "406",
+                "description": "Contains modern PE file flags such as dynamic base (ASLR) or NX",
+                "match_data": [
+                    "DYNAMIC_BASE, NX_COMPAT, TERMINAL_SERVER_AWARE"
+                ],
+                "severity": "IMPACT_SEVERITY_INFO"
+            }
+        ],
+        "processes_tree": [
+            {
+                "process_id": "2940",
+                "name": "wmiadap.exe /F /T /R"
+            },
+            {
+                "process_id": "2304",
+                "name": "%windir%\\System32\\svchost.exe -k WerSvcGroup"
+            },
+            {
+                "process_id": "2676",
+                "name": "%SAMPLEPATH%"
+            },
+            {
+                "process_id": "2980",
+                "name": "%windir%\\system32\\wbem\\wmiprvse.exe"
+            },
+            {
+                "process_id": "2924",
+                "name": "%WINDIR%\\explorer.exe",
+                "children": [
+                    {
+                        "process_id": "4064",
+                        "name": "%SAMPLEPATH%\\860b5e5ae1a2e1ce8ec3d977f43bfe8a2dac9b9cbb6c55820eb12c6ac15acd4b.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "616",
+                "name": "C:\\Windows\\System32\\svchost.exe",
+                "children": [
+                    {
+                        "process_id": "3704",
+                        "name": "C:\\Windows\\System32\\wuapihost.exe"
+                    }
+                ]
+            },
+            {
+                "process_id": "7508",
+                "name": "C:\\Users\\user\\Desktop\\program.exe"
+            }
+        ],
+        "verdict_confidence": 99,
+        "files_deleted": [
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2A66.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2B31.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2B71.tmp.txt",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2D26.tmp.WERInternalMetadata.xml",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2D27.tmp.csv",
+            "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2D38.tmp.txt",
+            "C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat"
+        ],
+        "files_dropped": [
+            {
+                "path": "C:\\Windows\\System32\\spp\\store\\2.0\\data.dat.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2A66.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2A66.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2B31.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2B31.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2B71.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2B71.tmp.txt"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2D26.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2D26.tmp.WERInternalMetadata.xml"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2D27.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2D27.tmp.csv"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2D38.tmp"
+            },
+            {
+                "path": "C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER2D38.tmp.txt"
+            },
+            {
+                "path": "C:\\Windows\\System32\\spp\\store\\2.0\\cache\\cache.dat"
+            }
+        ],
+        "ip_traffic": [
+            {
+                "destination_ip": "20.99.133.109",
+                "destination_port": 443,
+                "transport_layer_protocol": "TCP"
+            },
+            {
+                "destination_ip": "192.229.211.108",
+                "destination_port": 80,
+                "transport_layer_protocol": "TCP"
+            }
+        ],
+        "processes_terminated": [
+            "wmiadap.exe /F /T /R",
+            "%windir%\\System32\\svchost.exe -k WerSvcGroup",
+            "%SAMPLEPATH%",
+            "%SAMPLEPATH%\\860b5e5ae1a2e1ce8ec3d977f43bfe8a2dac9b9cbb6c55820eb12c6ac15acd4b.exe",
+            "C:\\Windows\\System32\\wuapihost.exe",
+            "C:\\Users\\user\\Desktop\\program.exe"
+        ],
+        "memory_dumps": [
+            {
+                "file_name": "00000000.00000002.999233459.0000000000280000.00000004.00000020.00040000.00000000.sdmp",
+                "process": "C:\\Users\\user\\Desktop\\program.exe",
+                "size": "4096",
+                "base_address": "2621440",
+                "stage": "MEM_STAGE_EXIT"
+            },
+            {
+                "file_name": "00000000.00000002.999278024.0000000000660000.00000004.00000020.00020000.00000000.sdmp",
+                "process": "C:\\Users\\user\\Desktop\\program.exe",
+                "size": "28672",
+                "base_address": "6684672",
+                "stage": "MEM_STAGE_EXIT"
+            },
+            {
+                "file_name": "00000000.00000002.999343340.00007FF651DD8000.00000002.00000001.01000000.00000003.sdmp",
+                "process": "C:\\Users\\user\\Desktop\\program.exe",
+                "size": "53248",
+                "base_address": "140695912153088",
+                "stage": "MEM_STAGE_EXIT"
+            },
+            {
+                "file_name": "00000000.00000000.998958544.00007FF651DB0000.00000002.00000001.01000000.00000003.sdmp",
+                "process": "C:\\Users\\user\\Desktop\\program.exe",
+                "size": "4096",
+                "base_address": "140695911989248",
+                "stage": "MEM_STAGE_NEW"
+            },
+            {
+                "file_name": "00000000.00000002.999314971.00000000009AE000.00000004.00000010.00020000.00000000.sdmp",
+                "process": "C:\\Users\\user\\Desktop\\program.exe",
+                "size": "8192",
+                "base_address": "10149888",
+                "stage": "MEM_STAGE_EXIT"
+            },
+            {
+                "file_name": "00000000.00000000.998978155.00007FF651DD8000.00000002.00000001.01000000.00000003.sdmp",
+                "process": "C:\\Users\\user\\Desktop\\program.exe",
+                "size": "53248",
+                "base_address": "140695912153088",
+                "stage": "MEM_STAGE_NEW"
+            },
+            {
+                "file_name": "00000000.00000002.999258711.00000000003BD000.00000004.00000010.00020000.00000000.sdmp",
+                "process": "C:\\Users\\user\\Desktop\\program.exe",
+                "size": "12288",
+                "base_address": "3919872",
+                "stage": "MEM_STAGE_EXIT"
+            },
+            {
+                "file_name": "00000000.00000002.999332536.00007FF651DB1000.00000020.00000001.01000000.00000003.sdmp",
+                "process": "C:\\Users\\user\\Desktop\\program.exe",
+                "size": "159744",
+                "base_address": "140695911993344",
+                "stage": "MEM_STAGE_EXIT"
+            },
+            {
+                "file_name": "00000000.00000002.999278024.0000000000668000.00000004.00000020.00020000.00000000.sdmp",
+                "process": "C:\\Users\\user\\Desktop\\program.exe",
+                "size": "45056",
+                "base_address": "6717440",
+                "stage": "MEM_STAGE_EXIT",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "263"
+                    }
+                ]
+            },
+            {
+                "file_name": "00000000.00000002.999367848.00007FF651DEC000.00000002.00000001.01000000.00000003.sdmp",
+                "process": "C:\\Users\\user\\Desktop\\program.exe",
+                "size": "20480",
+                "base_address": "140695912235008",
+                "stage": "MEM_STAGE_EXIT",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "653"
+                    }
+                ]
+            },
+            {
+                "file_name": "00000000.00000002.999267100.00000000003E0000.00000004.00000020.00020000.00000000.sdmp",
+                "process": "C:\\Users\\user\\Desktop\\program.exe",
+                "size": "4096",
+                "base_address": "4063232",
+                "stage": "MEM_STAGE_EXIT"
+            },
+            {
+                "file_name": "00000000.00000002.999325774.00007FF651DB0000.00000002.00000001.01000000.00000003.sdmp",
+                "process": "C:\\Users\\user\\Desktop\\program.exe",
+                "size": "4096",
+                "base_address": "140695911989248",
+                "stage": "MEM_STAGE_EXIT"
+            },
+            {
+                "file_name": "00000000.00000000.998966391.00007FF651DB1000.00000020.00000001.01000000.00000003.sdmp",
+                "process": "C:\\Users\\user\\Desktop\\program.exe",
+                "size": "159744",
+                "base_address": "140695911993344",
+                "stage": "MEM_STAGE_NEW"
+            },
+            {
+                "file_name": "00000000.00000002.999306104.00000000008A0000.00000004.00000020.00020000.00000000.sdmp",
+                "process": "C:\\Users\\user\\Desktop\\program.exe",
+                "size": "12288",
+                "base_address": "9043968",
+                "stage": "MEM_STAGE_EXIT"
+            },
+            {
+                "file_name": "00000000.00000000.998987454.00007FF651DE5000.00000008.00000001.01000000.00000003.sdmp",
+                "process": "C:\\Users\\user\\Desktop\\program.exe",
+                "size": "16384",
+                "base_address": "140695912206336",
+                "stage": "MEM_STAGE_NEW"
+            },
+            {
+                "file_name": "00000000.00000002.999278024.0000000000676000.00000004.00000020.00020000.00000000.sdmp",
+                "process": "C:\\Users\\user\\Desktop\\program.exe",
+                "size": "12288",
+                "base_address": "6774784",
+                "stage": "MEM_STAGE_EXIT"
+            },
+            {
+                "file_name": "00000000.00000000.998996983.00007FF651DEC000.00000002.00000001.01000000.00000003.sdmp",
+                "process": "C:\\Users\\user\\Desktop\\program.exe",
+                "size": "20480",
+                "base_address": "140695912235008",
+                "stage": "MEM_STAGE_NEW"
+            },
+            {
+                "file_name": "00000000.00000002.999359035.00007FF651DE7000.00000004.00000001.01000000.00000003.sdmp",
+                "process": "C:\\Users\\user\\Desktop\\program.exe",
+                "size": "16384",
+                "base_address": "140695912214528",
+                "stage": "MEM_STAGE_EXIT"
+            },
+            {
+                "file_name": "00000000.00000002.999351402.00007FF651DE5000.00000008.00000001.01000000.00000003.sdmp",
+                "process": "C:\\Users\\user\\Desktop\\program.exe",
+                "size": "8192",
+                "base_address": "140695912206336",
+                "stage": "MEM_STAGE_EXIT"
+            }
+        ],
+        "mitre_attack_techniques": [
+            {
+                "id": "T1027",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "encode data using XOR",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "encode data using XOR"
+                    }
+                ]
+            },
+            {
+                "id": "T1129",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "access PEB ldr_data",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "access PEB ldr_data"
+                    }
+                ]
+            },
+            {
+                "id": "T1027.005",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "contain obfuscated stackstrings",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "contain obfuscated stackstrings"
+                    }
+                ]
+            },
+            {
+                "id": "T1134",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "acquire debug privileges",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "acquire debug privileges"
+                    }
+                ]
+            },
+            {
+                "id": "T1027",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "encrypt data using RC4 KSA",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "encrypt data using RC4 KSA"
+                    }
+                ]
+            },
+            {
+                "id": "T1027",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "encrypt data using RC4 PRGA",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "encrypt data using RC4 PRGA"
+                    }
+                ]
+            },
+            {
+                "id": "T1083",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "check if file exists",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "check if file exists"
+                    }
+                ]
+            },
+            {
+                "id": "T1083",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "enumerate files on Windows",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "enumerate files on Windows"
+                    }
+                ]
+            },
+            {
+                "id": "T1083",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "enumerate files recursively",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "enumerate files recursively"
+                    }
+                ]
+            },
+            {
+                "id": "T1129",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "link function at runtime on Windows",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "link function at runtime on Windows"
+                    }
+                ]
+            },
+            {
+                "id": "T1129",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "link many functions at runtime",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "link many functions at runtime"
+                    }
+                ]
+            },
+            {
+                "id": "T1124",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Potential time zone aware malware",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "1348"
+                    }
+                ]
+            },
+            {
+                "id": "T1518.001",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "May try to detect the virtual machine to hinder analysis (VM artifact strings found in memory)",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "263"
+                    }
+                ]
+            },
+            {
+                "id": "T1082",
+                "severity": "IMPACT_SEVERITY_INFO",
+                "signature_description": "Reads software policies",
+                "refs": [
+                    {
+                        "ref": "#signature_matches",
+                        "value": "509"
+                    }
+                ]
+            }
+        ],
+        "memory_pattern_domains": [
+            "www.winimage.com"
+        ],
+        "tags": [
+            "IDLE"
+        ],
+        "attack_techniques": {
+            "T1027": [
+                {
+                    "severity": "INFO",
+                    "description": "encode data using XOR"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "encrypt data using RC4 KSA"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "encrypt data using RC4 PRGA"
+                }
+            ],
+            "T1129": [
+                {
+                    "severity": "INFO",
+                    "description": "access PEB ldr_data"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "link function at runtime on Windows"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "link many functions at runtime"
+                }
+            ],
+            "T1027.005": [
+                {
+                    "severity": "INFO",
+                    "description": "contain obfuscated stackstrings"
+                }
+            ],
+            "T1134": [
+                {
+                    "severity": "INFO",
+                    "description": "acquire debug privileges"
+                }
+            ],
+            "T1083": [
+                {
+                    "severity": "INFO",
+                    "description": "check if file exists"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "enumerate files on Windows"
+                },
+                {
+                    "severity": "INFO",
+                    "description": "enumerate files recursively"
+                }
+            ],
+            "T1124": [
+                {
+                    "severity": "INFO",
+                    "description": "Potential time zone aware malware"
+                }
+            ],
+            "T1518.001": [
+                {
+                    "severity": "INFO",
+                    "description": "May try to detect the virtual machine to hinder analysis (VM artifact strings found in memory)"
+                }
+            ],
+            "T1082": [
+                {
+                    "severity": "INFO",
+                    "description": "Reads software policies"
+                }
+            ]
+        }
+    }
+}
